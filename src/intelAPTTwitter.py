@@ -61,7 +61,7 @@ def extract_twitter_TI(apt):
         if removeSpaces(alias) not in APTS[apt]:
             APTS[apt].append(removeSpaces(alias))
 
-    print(APTS[apt])
+    print(f"[+] Aliases of {apt}", APTS[apt])
 
     # Search for aliases
     for alias in APTS[apt]:

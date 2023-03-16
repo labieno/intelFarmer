@@ -37,8 +37,10 @@ It will update the .json files (new stored reports in red) and highlights (blue)
 * You can update feed list at 'src/rss_feed.py'
 
 ### APT group aliases tweet search (-g/--group APT_group)
-Search for 
-
+Search tweets containing aliases of an APT group. E.g.:
+```
+python .\intelFarmer.py -g "APT29"
+```
 
 
 ## To-Do
