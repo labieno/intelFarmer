@@ -8,7 +8,7 @@ def main():
     parser = argparse.ArgumentParser(#prog = 'intelFarmer',
                                     #usage = '%(prog)s [options] APT_group',
                                     description = 'Get threat intel from known feeds (and store it). Get threat intel info about APT groups from tweets (add API keys in intelAPTTwitter.py)',
-                                    epilog="More info at https://github.com/labieno/intelFarmer")
+                                    epilog="intelFarmer 0.0 || More info at https://github.com/labieno/intelFarmer")
 
     parser.version = 'intelFarmer 0.0'
     parser.add_argument('-v',
