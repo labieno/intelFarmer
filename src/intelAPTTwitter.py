@@ -1,8 +1,10 @@
 # intelAPTTwitter.py
 import tweepy
-import json
 import re
 from unshortenit import UnshortenIt
+import configparser
+import os
+
 
 
 def removeSpaces(string):
@@ -37,7 +39,7 @@ def retrieve_groups():
 
 
 # Main function: extract tweets that contains an alias of the APT
-def extract_twitter_TI(apt):
+def extract_twitter_TI(apt, days):
     
     if apt not in APTS.keys():
         print("     [-] APT group not in database. If you want to list all the APT groups stored: \"python intelFarmer.py -l\"")
@@ -48,10 +50,13 @@ def extract_twitter_TI(apt):
     print(f"[+] Database read. Group found as {apt}.")
     print("[+] Connecting to Twitter API...")
 
-    consumer_key = ""
-    consumer_secret = ""
-    access_token = ""
-    access_token_secret = ""
+    config = configparser.ConfigParser()
+    ini_path = os.path.join(os.getcwd(),'config.ini')
+    config.read(ini_path)
+    consumer_key = config.get("Twitter", "consumer_key", raw=True)
+    consumer_secret = config.get("Twitter", "consumer_secret", raw=True)
+    access_token = config.get("Twitter", "access_token", raw=True)
+    access_token_secret = config.get("Twitter", "access_token_secret", raw=True)
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
@@ -66,7 +71,7 @@ def extract_twitter_TI(apt):
     # Search for aliases
     for alias in APTS[apt]:
         query = f'\"{alias}\"'
-        search = api.search_tweets(query, result_type="recent", count=3)
+        search = api.search_tweets(query, result_type="recent", count=days)
         print(f"\033[1;32m ======================================================== {alias}")
         for t in search:
             print(f"\033[1;31m{t.created_at}") # print date

@@ -21,11 +21,11 @@ def main():
     # Arguments
     group.add_argument('-g',
                         '--group',
-                        metavar="APT_group",
+                        metavar=("APT_group", "number_of_tweets"),
                         type=str,
                         help="Search for info of an APT group in recent tweets (case sensitive). DO NOT FORGET TO ADD API KEYS",
                         action='store',
-                        nargs=1)
+                        nargs=2)
     
     group.add_argument('-l',
                         '--list',
@@ -45,7 +45,7 @@ def main():
         rss_feed.update_database_json()
     elif args.group != None:
         import src.intelAPTTwitter as intelAPTTwitter
-        intelAPTTwitter.extract_twitter_TI(args.group[0])
+        intelAPTTwitter.extract_twitter_TI(args.group[0],int(args.group[1]))
     elif args.list:
         import src.intelAPTTwitter as intelAPTTwitter
         intelAPTTwitter.retrieve_groups()

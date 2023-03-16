@@ -4,6 +4,8 @@ import json
 from json.decoder import JSONDecodeError
 from time import gmtime
 
+
+
 """from mitreattack.stix20 import MitreAttackData
 
 mitre_attack_data = MitreAttackData("enterprise-attack.json")
@@ -20,7 +22,7 @@ for group in groups:
 print(APTS)
 """
 
-private_rss_feed_list = [
+rss_feed_list = [
     ['https://grahamcluley.com/feed/', 'Graham Cluley'],
     ['https://lab52.io/blog/feed/', 'lab52'],
     ['https://threatpost.com/feed/', 'Threatpost'],
@@ -47,7 +49,14 @@ private_rss_feed_list = [
     ['https://www.recordedfuture.com/feed', 'Recorded Future'],
     ['https://www.sentinelone.com/feed/', 'SentinelOne'],
     ['https://redcanary.com/feed/', 'RedCanary'],
+    ['https://securityintelligence.com/category/x-force/feed/','IBM X-Force'],
+    ['https://www.netskope.com/blog/category/netskope-threat-labs/feed','Netskope Cloud Security'],
+    #['https://www.mcafee.com/blogs/tag/advanced-threat-research/feed','McAfee'], #not updated
+    #['https://www.paloaltonetworks.com/blog/category/threat-research/feed/','Palo Alto Networks'], #not updated
     #['https://cybersecurity.att.com/site/blog-all-rss', 'ATT'] #ocurre un problema con este feed: no tiene 'published' ni 'published_parsed'
+    ["https://www.cisa.gov/uscert/ncas/alerts.xml", "US-CERT CISA"],
+    ["https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "NCSC"],
+    ["https://www.cisecurity.org/feed/advisories", "Center of Internet Security"]
 ]
 
 def update_database_json():
@@ -55,7 +64,7 @@ def update_database_json():
         os.mkdir("logs")
     except OSError:
         pass # Most likely simply means the folder already exists
-    for source in private_rss_feed_list:
+    for source in rss_feed_list:
         filename = f"logs/{source[1]}.json"
         try:
             if (not os.path.exists(filename)) or (os.path.getsize(filename) <= 2):
@@ -113,3 +122,7 @@ def update_database_json():
         except Exception as e:
             print(e)
             raise
+
+
+def get_last_7days_feed():
+    pass
