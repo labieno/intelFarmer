@@ -31,7 +31,7 @@ It will create a 'logs' folder an a .json for each feed and keep up to date with
 
 #### Later runs
 It will update the .json files (new stored reports in red) and highlights (blue) the reports released at current day.
-![updating logs](https://user-images.githubusercontent.com/62944884/225639448-53a98374-2e9b-47f2-93fc-6c1784897792.png)
+![updating logs](https://user-images.githubusercontent.com/62944884/225642926-4a48524c-b76c-4af6-8aca-f516b9fa092b.png)
 
 
 * You can update feed list at 'src/rss_feed.py'
@@ -41,6 +41,7 @@ Search tweets containing aliases of an APT group. E.g.:
 ```
 python .\intelFarmer.py -g "APT29" 4
 ```
+![apt29-g](https://user-images.githubusercontent.com/62944884/225642964-164a1a9d-3dc6-453d-b8ab-990be5304e59.png)
 
 
 ## To-Do
