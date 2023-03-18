@@ -6,18 +6,20 @@ Aditionally, it allows to add Twitter API keys to search for tweets about certai
 
 ## Usage
 ```
-python .\intelFarmer.py -h        
-usage: intelFarmer.py [-h] [-v] (-g APT_group number_of_tweets | -l | -i)
+python .\intelFarmer.py -h
+usage: intelFarmer.py [-h] [-v] (-g APT_group number_of_tweets | -l | -i | -d days | -c source)
 
 Get threat intel from known feeds (and store it). Get threat intel info about APT groups from tweets (add API keys in intelAPTTwitter.py)
 
 options:
   -h, --help            show this help message and exit
   -v, --version         display current version
-  -g APT_group number_of_tweets, --group APT_group number_of_tweets
+  -g APT_group number_of_tweets
                         Search for info of an APT group in recent tweets (case sensitive). DO NOT FORGET TO ADD API KEYS
   -l, --list            List all APT groups in database
   -i                    Search for new threat intel reports and update database (first run is very verbose)
+  -d days               Search for last 10 threat intel reports of last specified number of days
+  -c source             Check a source - last week reports
 
 intelFarmer 0.0 || More info at https://github.com/labieno/intelFarmer
 ```

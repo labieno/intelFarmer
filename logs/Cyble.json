@@ -1,0 +1,1721 @@
+{
+    "articles": [
+        {
+            "title": "Microsoft Outlook Zero Day Vulnerability CVE-2023-23397 Actively Exploited In The Wild",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Microsoft Outlook Zero Day Vulnerability CVE-2023-23397 Actively Exploited In The Wild"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/",
+            "comments": "https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Thu, 16 Mar 2023 14:07:16 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                14,
+                7,
+                16,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "All",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2023-23397",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2023-24880",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Elevation Of Privilege",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Exploit",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Message Application Program Interface",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft Outlook",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "New Technology LAN Manager",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Server Message Block",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SQL",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Universal Naming Convention",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerability",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "XSS",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16301",
+            "guidislink": false,
+            "summary": "<p>Cyble Research &#038; Intelligence Labs analyzes a Microsoft Outlook Zero-day vulnerability being actively exploited in the wild.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/\" rel=\"nofollow\">Microsoft Outlook Zero Day Vulnerability CVE-2023-23397 Actively Exploited In The Wild</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble Research &#038; Intelligence Labs analyzes a Microsoft Outlook Zero-day vulnerability being actively exploited in the wild.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/\" rel=\"nofollow\">Microsoft Outlook Zero Day Vulnerability CVE-2023-23397 Actively Exploited In The Wild</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/16/microsoft-outlook-zero-day-vulnerability-cve-2023-23397-actively-exploited-in-the-wild/feed/",
+            "slash_comments": "1",
+            "post-id": "16301"
+        },
+        {
+            "title": "Unmasking MedusaLocker Ransomware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Unmasking MedusaLocker Ransomware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/",
+            "comments": "https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Wed, 15 Mar 2023 06:34:28 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                6,
+                34,
+                28,
+                2,
+                74,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Business Continuity Planning",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Education",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Encryption",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Healthcare",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hospitals",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MedusaLocker",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MedusaLocker Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ransom",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Remote Desktop Protocol",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "UK",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "United States",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16240",
+            "guidislink": false,
+            "summary": "<p>Cyble Research &#038; Intelligence Labs analyzes MedusaLocker ransomware in the wake of an alarming increase in its victim count.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/\" rel=\"nofollow\">Unmasking MedusaLocker Ransomware</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble Research &#038; Intelligence Labs analyzes MedusaLocker ransomware in the wake of an alarming increase in its victim count.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/\" rel=\"nofollow\">Unmasking MedusaLocker Ransomware</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware/feed/",
+            "slash_comments": "1",
+            "post-id": "16240"
+        },
+        {
+            "title": "SVB Collapse Triggers Heightened Cybersecurity Concerns",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "SVB Collapse Triggers Heightened Cybersecurity Concerns"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/",
+            "comments": "https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Tue, 14 Mar 2023 11:44:50 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                14,
+                11,
+                44,
+                50,
+                1,
+                73,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "All",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cryptocurrency",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BFSI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Circle",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Crypto Fraud",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Crypto Phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Department of the Treasury",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Exodus",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "FDIC",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Federal Reserve",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MetaMask",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Silicon Valley Bank",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SVB",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SVB Collapse",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "USDC",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "USDC Airdrop Token",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16223",
+            "guidislink": false,
+            "summary": "<p>Read CRIL's analysis of how Threat Actors are attempting to exploit the recent Silicon Valley Bank collapse to launch cyberattacks.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/\" rel=\"nofollow\">SVB Collapse Triggers Heightened Cybersecurity Concerns</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Read CRIL's analysis of how Threat Actors are attempting to exploit the recent Silicon Valley Bank collapse to launch cyberattacks.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/\" rel=\"nofollow\">SVB Collapse Triggers Heightened Cybersecurity Concerns</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/feed/",
+            "slash_comments": "54",
+            "post-id": "16223"
+        },
+        {
+            "title": "GoatRAT: Android Banking Trojan Variant Targeting Brazilian Banks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "GoatRAT: Android Banking Trojan Variant Targeting Brazilian Banks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/",
+            "comments": "https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Tue, 14 Mar 2023 06:18:08 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                14,
+                6,
+                18,
+                8,
+                1,
+                73,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Banking Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "6583a9b6b83738e0bf2a261fc04483e18772da3241e467fdef37a8e27b1869a7",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Accessibility Service",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Android Banking trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "App store",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Application Overlay",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ATS Framework",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Automated Transfer System",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Banco Inter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Brazil",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Brazilian Bank",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fake app",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "GoatRAT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Google Play Store",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "M\u00f3dulo de Seguran\u00e7a",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "NUBank",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Overlay",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "PagBank",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "PIX",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "PIX key",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Remote Administration Tool",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16198",
+            "guidislink": false,
+            "summary": "<p>Read Cyble Research &#038; Intelligence Labs' Analysis of GoatRat, a Banking Trojan targeting Brazilian banks via the ATS framework.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/\" rel=\"nofollow\">GoatRAT: Android Banking Trojan Variant Targeting Brazilian Banks</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Read Cyble Research &#038; Intelligence Labs' Analysis of GoatRat, a Banking Trojan targeting Brazilian banks via the ATS framework.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/\" rel=\"nofollow\">GoatRAT: Android Banking Trojan Variant Targeting Brazilian Banks</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/feed/",
+            "slash_comments": "11",
+            "post-id": "16198"
+        },
+        {
+            "title": "Emotet Strikes Again, Resuming Spamming Operations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Emotet Strikes Again, Resuming Spamming Operations"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/",
+            "comments": "https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Fri, 10 Mar 2023 11:53:44 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                10,
+                11,
+                53,
+                44,
+                4,
+                69,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Banking Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "COBALT STRIKE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cryptolaemus",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data leak",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Emotet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Epoch4",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft Office",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Spam Emails",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Spamming",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16177",
+            "guidislink": false,
+            "summary": "<p>Cyble Research &#038; Intelligence Labs analyzes the return of Emotet Banking Trojan as it uses zip-bombing techniques to evade detection.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/\" rel=\"nofollow\">Emotet Strikes Again, Resuming Spamming Operations</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble Research &#038; Intelligence Labs analyzes the return of Emotet Banking Trojan as it uses zip-bombing techniques to evade detection.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/\" rel=\"nofollow\">Emotet Strikes Again, Resuming Spamming Operations</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/10/emotet-strikes-again-resuming-spamming-operations/feed/",
+            "slash_comments": "2",
+            "post-id": "16177"
+        },
+        {
+            "title": "Nexus: The Latest Android Banking Trojan with SOVA Connections",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Nexus: The Latest Android Banking Trojan with SOVA Connections"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/09/nexus-the-latest-android-banking-trojan-with-sova-connections/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/09/nexus-the-latest-android-banking-trojan-with-sova-connections/",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Thu, 09 Mar 2023 17:20:48 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                9,
+                17,
+                20,
+                48,
+                3,
+                68,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Banking Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Android Banking trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Banking Application",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercriminals",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malicious App",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Nexus",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OSINT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SOVA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Actors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "YouTube Vanced",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16139",
+            "guidislink": false,
+            "summary": "<p>Cyble analyzes Nexus Android banking Trojan linked to the infamous SOVA group, posing a significant threat to mobile banking users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/09/nexus-the-latest-android-banking-trojan-with-sova-connections/\" rel=\"nofollow\">Nexus: The Latest Android Banking Trojan with SOVA Connections</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble analyzes Nexus Android banking Trojan linked to the infamous SOVA group, posing a significant threat to mobile banking users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/09/nexus-the-latest-android-banking-trojan-with-sova-connections/\" rel=\"nofollow\">Nexus: The Latest Android Banking Trojan with SOVA Connections</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "post-id": "16139"
+        },
+        {
+            "title": "BlackSnake Ransomware Emerges from Chaos Ransomware\u2019s Shadow",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "BlackSnake Ransomware Emerges from Chaos Ransomware\u2019s Shadow"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/",
+            "comments": "https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Thu, 09 Mar 2023 09:50:20 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                9,
+                9,
+                50,
+                20,
+                3,
+                68,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Azerbaijan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Bitcoin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Bitcoin wallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BlackSnake Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Chaos Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cryptocurrecy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cryptowallets",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Discord Tokens",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ethereum",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Monero",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OSINT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ransom",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Actors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Turkey",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16118",
+            "guidislink": false,
+            "summary": "<p>Cyble analyzes a new malware strain, BlackSnake Ransomware that is capable of performing clipper operation aimed at cryptocurrency users. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/\" rel=\"nofollow\">BlackSnake Ransomware Emerges from Chaos Ransomware&#8217;s Shadow</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble analyzes a new malware strain, BlackSnake Ransomware that is capable of performing clipper operation aimed at cryptocurrency users. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/\" rel=\"nofollow\">BlackSnake Ransomware Emerges from Chaos Ransomware&#8217;s Shadow</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/09/blacksnake-ransomware-emerges-from-chaos-ransomwares-shadow/feed/",
+            "slash_comments": "1",
+            "post-id": "16118"
+        },
+        {
+            "title": "Critical Vulnerabilities in Wago Web-Based Management System",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Critical Vulnerabilities in Wago Web-Based Management System"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/",
+            "comments": "https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Wed, 08 Mar 2023 11:47:06 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                8,
+                11,
+                47,
+                6,
+                2,
+                67,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "ICS/SCADA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Industrial Control Systems",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Critical infrastructure",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2022-45137",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2022-45138",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2022-45139",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CVE-2022-45140",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data leak",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Exploits",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fake app",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacktivism",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacktivists",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Programmable Logic Controllers",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Wago",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Wago Web-Based Management System",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "WBM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "WBMS",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16101",
+            "guidislink": false,
+            "summary": "<p> Cyble analyzes how Critical infrastructure is at a high risk of cyber attacks basis the high exposure of Wago web-based Management Systems. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/\" rel=\"nofollow\">Critical Vulnerabilities in Wago Web-Based Management System</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p> Cyble analyzes how Critical infrastructure is at a high risk of cyber attacks basis the high exposure of Wago web-based Management Systems. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/\" rel=\"nofollow\">Critical Vulnerabilities in Wago Web-Based Management System</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/08/critical-vulnerabilities-in-wago-web-based-management-system/feed/",
+            "slash_comments": "1",
+            "post-id": "16101"
+        },
+        {
+            "title": "ImBetter: New Information Stealer Spotted Targeting Cryptocurrency Users",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "ImBetter: New Information Stealer Spotted Targeting Cryptocurrency Users"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/",
+            "comments": "https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Mon, 06 Mar 2023 08:02:04 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                6,
+                8,
+                2,
+                4,
+                0,
+                65,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Infostealer",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Auro",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Bashkir",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Belarusian",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Bitcoin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Brave Wallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CLW",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Coin98",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Crypto wallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cryptocurrency",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ethereum",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Extension",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ImBetter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "infostealer",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "iWallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "KardiaChain",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Kazakh",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Leaf Wallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Maiar DeFi Wallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MetaMask",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MetaWallet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Moldova",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Online File Converter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Phantom",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Tatar",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Terra Station",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trust Wallet",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16075",
+            "guidislink": false,
+            "summary": "<p>Cyble Research &#038; Intelligence Labs analyzes ImBetter, an info stealer using phishing sites to target cryptocurrency users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/\" rel=\"nofollow\">ImBetter: New Information Stealer Spotted Targeting Cryptocurrency Users</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble Research &#038; Intelligence Labs analyzes ImBetter, an info stealer using phishing sites to target cryptocurrency users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/\" rel=\"nofollow\">ImBetter: New Information Stealer Spotted Targeting Cryptocurrency Users</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/06/imbetter-new-information-stealer-spotted-targeting-cryptocurrency-users/feed/",
+            "slash_comments": "26",
+            "post-id": "16075"
+        },
+        {
+            "title": "Over 2 Million Cards Leaked By BidenCash",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Over 2 Million Cards Leaked By BidenCash"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/",
+            "comments": "https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/#comments",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Wed, 01 Mar 2023 10:52:14 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                1,
+                10,
+                52,
+                14,
+                2,
+                60,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Leak",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Australia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BANK OF AMERICA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BBVA Bancomer",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BidenCash",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Brazil",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Canada",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CAPITAL ONE BANK",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cash Card",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Charge Cards",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CHASE BANK",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "China",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Citibank",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Credit card",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data leak",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "India",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Italy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Leaked Credit Cards",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mexico",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "United Kingdom",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "United States",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Wells Fargo",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16049",
+            "guidislink": false,
+            "summary": "<p>Underground carding marketplace BidenCash leaks over 2 million payment card records, enabling financial fraud at scale. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/\" rel=\"nofollow\">Over 2 Million Cards Leaked By BidenCash</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Underground carding marketplace BidenCash leaks over 2 million payment card records, enabling financial fraud at scale. </p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/\" rel=\"nofollow\">Over 2 Million Cards Leaked By BidenCash</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "wfw_commentrss": "https://blog.cyble.com/2023/03/01/over-2-million-cards-leaked-by-bidencash/feed/",
+            "slash_comments": "67",
+            "post-id": "16049"
+        },
+        {
+            "title": "Recent Emotet Spam Campaign Utilizing New Tactics",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "Recent Emotet Spam Campaign Utilizing New Tactics"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.cyble.com/2023/03/17/recent-emotet-spam-campaign-utilizing-new-tactics/"
+                }
+            ],
+            "link": "https://blog.cyble.com/2023/03/17/recent-emotet-spam-campaign-utilizing-new-tactics/",
+            "authors": [
+                {
+                    "name": "cybleinc"
+                }
+            ],
+            "author": "cybleinc",
+            "author_detail": {
+                "name": "cybleinc"
+            },
+            "published": "Fri, 17 Mar 2023 13:23:54 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                13,
+                23,
+                54,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "antivirus",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Command & Control",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "darkweb",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Emotet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OneNote",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OSINT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Payload",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Qakbot",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Actors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Intelligence",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://blog.cyble.com/?p=16322",
+            "guidislink": false,
+            "summary": "<p>Cyble analyzes the recent Emotet campaign, which utilizes OneNote attachments as a novel approach to infect users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/17/recent-emotet-spam-campaign-utilizing-new-tactics/\" rel=\"nofollow\">Recent Emotet Spam Campaign Utilizing New Tactics</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://blog.cyble.com/feed/",
+                "value": "<p>Cyble analyzes the recent Emotet campaign, which utilizes OneNote attachments as a novel approach to infect users.</p>\n<p>The post <a href=\"https://blog.cyble.com/2023/03/17/recent-emotet-spam-campaign-utilizing-new-tactics/\" rel=\"nofollow\">Recent Emotet Spam Campaign Utilizing New Tactics</a> appeared first on <a href=\"https://blog.cyble.com\" rel=\"nofollow\">Cyble</a>.</p>"
+            },
+            "post-id": "16322"
+        }
+    ]
+}

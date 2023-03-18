@@ -1,1 +1,1049 @@
-{"articles": [{"title": "Student Loan Breach Exposes 2.5M Records", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Student Loan Breach Exposes 2.5M Records"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/"}], "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Wed, 31 Aug 2022 12:57:48 +0000", "published_parsed": [2022, 8, 31, 12, 57, 48, 2, 243, 0], "tags": [{"term": "Breach", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180492", "guidislink": false, "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "2.5 million people were affected, in a breach that could spell more trouble down the line."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data.jpg", "width": "1600", "height": "1063"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-1024x680.jpg", "width": "1024", "height": "680"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-300x199.jpg", "width": "300", "height": "199"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Watering Hole Attacks Push ScanBox Keylogger", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Watering Hole Attacks Push ScanBox Keylogger"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/"}], "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Tue, 30 Aug 2022 16:00:43 +0000", "published_parsed": [2022, 8, 30, 16, 0, 43, 1, 242, 0], "tags": [{"term": "Malware", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180490", "guidislink": false, "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg", "width": "800", "height": "600"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg", "width": "800", "height": "600"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-300x225.jpg", "width": "300", "height": "225"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/0ktapus-victimize-130-firms/180487/"}], "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Mon, 29 Aug 2022 14:56:19 +0000", "published_parsed": [2022, 8, 29, 14, 56, 19, 0, 241, 0], "tags": [{"term": "Hacks", "scheme": null, "label": null}, {"term": "Privacy", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180487", "guidislink": false, "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-e1591110643368.jpg", "width": "800", "height": "533"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-1024x683.jpg", "width": "1024", "height": "683"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-300x200.jpg", "width": "300", "height": "200"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Ransomware Attacks are on the Rise", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Ransomware Attacks are on the Rise"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/"}], "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Fri, 26 Aug 2022 16:44:27 +0000", "published_parsed": [2022, 8, 26, 16, 44, 27, 4, 238, 0], "tags": [{"term": "Malware", "scheme": null, "label": null}, {"term": "Vulnerabilities", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180481", "guidislink": false, "summary": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png", "width": "700", "height": "420"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png", "width": "700", "height": "420"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-300x180.png", "width": "300", "height": "180"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-150x150.png", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/"}], "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Thu, 25 Aug 2022 18:47:15 +0000", "published_parsed": [2022, 8, 25, 18, 47, 15, 3, 237, 0], "tags": [{"term": "IoT", "scheme": null, "label": null}, {"term": "Privacy", "scheme": null, "label": null}, {"term": "Vulnerabilities", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180478", "guidislink": false, "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg", "width": "640", "height": "395"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg", "width": "640", "height": "395"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-300x185.jpg", "width": "300", "height": "185"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Twitter Whistleblower Complaint: The TL;DR Version", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Twitter Whistleblower Complaint: The TL;DR Version"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/"}], "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/", "authors": [{"name": "Threatpost"}], "author": "Threatpost", "author_detail": {"name": "Threatpost"}, "published": "Wed, 24 Aug 2022 14:17:04 +0000", "published_parsed": [2022, 8, 24, 14, 17, 4, 2, 236, 0], "tags": [{"term": "Government", "scheme": null, "label": null}, {"term": "Privacy", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180472", "guidislink": false, "summary": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg", "width": "700", "height": "400"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg", "width": "700", "height": "400"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-300x171.jpg", "width": "300", "height": "171"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Firewall Bug Under Active Attack Triggers CISA Warning", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Firewall Bug Under Active Attack Triggers CISA Warning"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/"}], "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/", "authors": [{"name": "Threatpost"}], "author": "Threatpost", "author_detail": {"name": "Threatpost"}, "published": "Tue, 23 Aug 2022 13:19:58 +0000", "published_parsed": [2022, 8, 23, 13, 19, 58, 1, 235, 0], "tags": [{"term": "Vulnerabilities", "scheme": null, "label": null}, {"term": "Web Security", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180467", "guidislink": false, "summary": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-e1653560961632.jpg", "width": "800", "height": "450"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-1024x576.jpg", "width": "1024", "height": "576"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-300x169.jpg", "width": "300", "height": "169"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Fake Reservation Links Prey on Weary Travelers", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Fake Reservation Links Prey on Weary Travelers"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/reservation-links-prey-on-travelers/180462/"}], "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/", "authors": [{"name": "Nate Nelson"}], "author": "Nate Nelson", "author_detail": {"name": "Nate Nelson"}, "published": "Mon, 22 Aug 2022 13:59:06 +0000", "published_parsed": [2022, 8, 22, 13, 59, 6, 0, 234, 0], "tags": [{"term": "Malware", "scheme": null, "label": null}, {"term": "Web Security", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180462", "guidislink": false, "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg", "width": "600", "height": "268"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg", "width": "600", "height": "268"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-300x134.jpg", "width": "300", "height": "134"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "iPhone Users Urged to Update to Patch 2 Zero-Days", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "iPhone Users Urged to Update to Patch 2 Zero-Days"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/"}], "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/", "authors": [{"name": "Elizabeth Montalbano"}], "author": "Elizabeth Montalbano", "author_detail": {"name": "Elizabeth Montalbano"}, "published": "Fri, 19 Aug 2022 15:25:56 +0000", "published_parsed": [2022, 8, 19, 15, 25, 56, 4, 231, 0], "tags": [{"term": "Hacks", "scheme": null, "label": null}, {"term": "Mobile Security", "scheme": null, "label": null}, {"term": "News", "scheme": null, "label": null}, {"term": "Vulnerabilities", "scheme": null, "label": null}, {"term": "Apple iPhone", "scheme": null, "label": null}, {"term": "Apple vulnerabilities", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180448", "guidislink": false, "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg", "width": "775", "height": "436"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg", "width": "775", "height": "436"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-300x169.jpeg", "width": "300", "height": "169"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-150x150.jpeg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}, {"title": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year", "title_detail": {"type": "text/plain", "language": null, "base": "https://threatpost.com/feed/", "value": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"}], "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/", "authors": [{"name": "Elizabeth Montalbano"}], "author": "Elizabeth Montalbano", "author_detail": {"name": "Elizabeth Montalbano"}, "published": "Thu, 18 Aug 2022 14:31:38 +0000", "published_parsed": [2022, 8, 18, 14, 31, 38, 3, 230, 0], "tags": [{"term": "Vulnerabilities", "scheme": null, "label": null}, {"term": "Web Security", "scheme": null, "label": null}, {"term": "Google Chrome", "scheme": null, "label": null}, {"term": "zero-day vulnerabilities", "scheme": null, "label": null}, {"term": "full", "scheme": null, "label": null}, {"term": "large", "scheme": null, "label": null}, {"term": "medium", "scheme": null, "label": null}, {"term": "thumbnail", "scheme": null, "label": null}], "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432", "guidislink": false, "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.", "summary_detail": {"type": "text/html", "language": null, "base": "https://threatpost.com/feed/", "value": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack."}, "media_content": [{"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg", "width": "700", "height": "412"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg", "width": "700", "height": "412"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-300x177.jpg", "width": "300", "height": "177"}, {"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-150x150.jpg", "width": "150", "height": "150"}], "media_keywords": "thumbnail"}]}
+{
+    "articles": [
+        {
+            "title": "Student Loan Breach Exposes 2.5M Records",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Student Loan Breach Exposes 2.5M Records"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/"
+                }
+            ],
+            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Wed, 31 Aug 2022 12:57:48 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                31,
+                12,
+                57,
+                48,
+                2,
+                243,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180492",
+            "guidislink": false,
+            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "2.5 million people were affected, in a breach that could spell more trouble down the line."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data.jpg",
+                    "width": "1600",
+                    "height": "1063"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-1024x680.jpg",
+                    "width": "1024",
+                    "height": "680"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-300x199.jpg",
+                    "width": "300",
+                    "height": "199"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Watering Hole Attacks Push ScanBox Keylogger",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Watering Hole Attacks Push ScanBox Keylogger"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/"
+                }
+            ],
+            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Tue, 30 Aug 2022 16:00:43 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                30,
+                16,
+                0,
+                43,
+                1,
+                242,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180490",
+            "guidislink": false,
+            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg",
+                    "width": "800",
+                    "height": "600"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg",
+                    "width": "800",
+                    "height": "600"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-300x225.jpg",
+                    "width": "300",
+                    "height": "225"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/0ktapus-victimize-130-firms/180487/"
+                }
+            ],
+            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Mon, 29 Aug 2022 14:56:19 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                29,
+                14,
+                56,
+                19,
+                0,
+                241,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Privacy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180487",
+            "guidislink": false,
+            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-e1591110643368.jpg",
+                    "width": "800",
+                    "height": "533"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-1024x683.jpg",
+                    "width": "1024",
+                    "height": "683"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-300x200.jpg",
+                    "width": "300",
+                    "height": "200"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Ransomware Attacks are on the Rise",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Ransomware Attacks are on the Rise"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/"
+                }
+            ],
+            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Fri, 26 Aug 2022 16:44:27 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                26,
+                16,
+                44,
+                27,
+                4,
+                238,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180481",
+            "guidislink": false,
+            "summary": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png",
+                    "width": "700",
+                    "height": "420"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png",
+                    "width": "700",
+                    "height": "420"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-300x180.png",
+                    "width": "300",
+                    "height": "180"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-150x150.png",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/"
+                }
+            ],
+            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Thu, 25 Aug 2022 18:47:15 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                25,
+                18,
+                47,
+                15,
+                3,
+                237,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "IoT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Privacy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180478",
+            "guidislink": false,
+            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg",
+                    "width": "640",
+                    "height": "395"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg",
+                    "width": "640",
+                    "height": "395"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-300x185.jpg",
+                    "width": "300",
+                    "height": "185"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Twitter Whistleblower Complaint: The TL;DR Version"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/"
+                }
+            ],
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "authors": [
+                {
+                    "name": "Threatpost"
+                }
+            ],
+            "author": "Threatpost",
+            "author_detail": {
+                "name": "Threatpost"
+            },
+            "published": "Wed, 24 Aug 2022 14:17:04 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                24,
+                14,
+                17,
+                4,
+                2,
+                236,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Government",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Privacy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180472",
+            "guidislink": false,
+            "summary": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg",
+                    "width": "700",
+                    "height": "400"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg",
+                    "width": "700",
+                    "height": "400"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-300x171.jpg",
+                    "width": "300",
+                    "height": "171"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Firewall Bug Under Active Attack Triggers CISA Warning"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/"
+                }
+            ],
+            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+            "authors": [
+                {
+                    "name": "Threatpost"
+                }
+            ],
+            "author": "Threatpost",
+            "author_detail": {
+                "name": "Threatpost"
+            },
+            "published": "Tue, 23 Aug 2022 13:19:58 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                23,
+                13,
+                19,
+                58,
+                1,
+                235,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Web Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180467",
+            "guidislink": false,
+            "summary": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-e1653560961632.jpg",
+                    "width": "800",
+                    "height": "450"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-1024x576.jpg",
+                    "width": "1024",
+                    "height": "576"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-300x169.jpg",
+                    "width": "300",
+                    "height": "169"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Fake Reservation Links Prey on Weary Travelers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Fake Reservation Links Prey on Weary Travelers"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/reservation-links-prey-on-travelers/180462/"
+                }
+            ],
+            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+            "authors": [
+                {
+                    "name": "Nate Nelson"
+                }
+            ],
+            "author": "Nate Nelson",
+            "author_detail": {
+                "name": "Nate Nelson"
+            },
+            "published": "Mon, 22 Aug 2022 13:59:06 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                22,
+                13,
+                59,
+                6,
+                0,
+                234,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Web Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180462",
+            "guidislink": false,
+            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg",
+                    "width": "600",
+                    "height": "268"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg",
+                    "width": "600",
+                    "height": "268"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-300x134.jpg",
+                    "width": "300",
+                    "height": "134"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "iPhone Users Urged to Update to Patch 2 Zero-Days"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/"
+                }
+            ],
+            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+            "authors": [
+                {
+                    "name": "Elizabeth Montalbano"
+                }
+            ],
+            "author": "Elizabeth Montalbano",
+            "author_detail": {
+                "name": "Elizabeth Montalbano"
+            },
+            "published": "Fri, 19 Aug 2022 15:25:56 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                19,
+                15,
+                25,
+                56,
+                4,
+                231,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Hacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mobile Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Apple iPhone",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Apple vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180448",
+            "guidislink": false,
+            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg",
+                    "width": "775",
+                    "height": "436"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg",
+                    "width": "775",
+                    "height": "436"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-300x169.jpeg",
+                    "width": "300",
+                    "height": "169"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-150x150.jpeg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"
+                }
+            ],
+            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+            "authors": [
+                {
+                    "name": "Elizabeth Montalbano"
+                }
+            ],
+            "author": "Elizabeth Montalbano",
+            "author_detail": {
+                "name": "Elizabeth Montalbano"
+            },
+            "published": "Thu, 18 Aug 2022 14:31:38 +0000",
+            "published_parsed": [
+                2022,
+                8,
+                18,
+                14,
+                31,
+                38,
+                3,
+                230,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Web Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Google Chrome",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "zero-day vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
+            "guidislink": false,
+            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://threatpost.com/feed/",
+                "value": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack."
+            },
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg",
+                    "width": "700",
+                    "height": "412"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg",
+                    "width": "700",
+                    "height": "412"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-300x177.jpg",
+                    "width": "300",
+                    "height": "177"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        }
+    ]
+}

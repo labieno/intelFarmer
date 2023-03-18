@@ -1,1 +1,3004 @@
-{"articles": [{"title": "Threat Report 10th March 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 10th March 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023"}], "link": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 10 Mar 2023 00:00:00 GMT", "published_parsed": [2023, 3, 10, 0, 0, 0, 4, 69, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023", "guidislink": false, "updated": "2023-03-10T00:00:00Z", "updated_parsed": [2023, 3, 10, 0, 0, 0, 4, 69, 0]}, {"title": "Threat Report 24th February 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 24th February 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023"}], "link": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 24 Feb 2023 00:00:00 GMT", "published_parsed": [2023, 2, 24, 0, 0, 0, 4, 55, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023", "guidislink": false, "updated": "2023-02-24T00:00:00Z", "updated_parsed": [2023, 2, 24, 0, 0, 0, 4, 55, 0]}, {"title": "Threat Report 10th February 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 10th February 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023"}], "link": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 10 Feb 2023 00:00:00 GMT", "published_parsed": [2023, 2, 10, 0, 0, 0, 4, 41, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023", "guidislink": false, "updated": "2023-02-10T00:00:00Z", "updated_parsed": [2023, 2, 10, 0, 0, 0, 4, 41, 0]}, {"title": "Threat Report 27th January 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 27th January 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023"}], "link": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Mon, 30 Jan 2023 00:00:00 GMT", "published_parsed": [2023, 1, 30, 0, 0, 0, 0, 30, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023", "guidislink": false, "updated": "2023-01-30T00:00:00Z", "updated_parsed": [2023, 1, 30, 0, 0, 0, 0, 30, 0]}, {"title": "Threat Report 13th January 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 13th January 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023"}], "link": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 13 Jan 2023 00:00:00 GMT", "published_parsed": [2023, 1, 13, 0, 0, 0, 4, 13, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023", "guidislink": false, "updated": "2023-01-13T00:00:00Z", "updated_parsed": [2023, 1, 13, 0, 0, 0, 4, 13, 0]}, {"title": "Threat Report 22nd December 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 22nd December 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 22 Dec 2022 00:00:00 GMT", "published_parsed": [2022, 12, 22, 0, 0, 0, 3, 356, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022", "guidislink": false, "updated": "2022-12-22T00:00:00Z", "updated_parsed": [2022, 12, 22, 0, 0, 0, 3, 356, 0]}, {"title": "Threat Report 9th December 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 9th December 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 09 Dec 2022 00:00:00 GMT", "published_parsed": [2022, 12, 9, 0, 0, 0, 4, 343, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022", "guidislink": false, "updated": "2022-12-09T00:00:00Z", "updated_parsed": [2022, 12, 9, 0, 0, 0, 4, 343, 0]}, {"title": "Threat Report 25th November 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 25th November 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 25 Nov 2022 00:00:00 GMT", "published_parsed": [2022, 11, 25, 0, 0, 0, 4, 329, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022", "guidislink": false, "updated": "2022-11-25T00:00:00Z", "updated_parsed": [2022, 11, 25, 0, 0, 0, 4, 329, 0]}, {"title": "Threat Report 11th November 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 11th November 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Fri, 11 Nov 2022 00:00:00 GMT", "published_parsed": [2022, 11, 11, 0, 0, 0, 4, 315, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022", "guidislink": false, "updated": "2022-11-11T00:00:00Z", "updated_parsed": [2022, 11, 11, 0, 0, 0, 4, 315, 0]}, {"title": "Threat Report 28th October 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 28th October 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 27 Oct 2022 23:00:00 GMT", "published_parsed": [2022, 10, 27, 23, 0, 0, 3, 300, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022", "guidislink": false, "updated": "2022-10-27T23:00:00Z", "updated_parsed": [2022, 10, 27, 23, 0, 0, 3, 300, 0]}, {"title": "Threat Report 14th October 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 14th October 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 13 Oct 2022 23:00:00 GMT", "published_parsed": [2022, 10, 13, 23, 0, 0, 3, 286, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022", "guidislink": false, "updated": "2022-10-13T23:00:00Z", "updated_parsed": [2022, 10, 13, 23, 0, 0, 3, 286, 0]}, {"title": "Threat Report 30th September 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 30th September 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 29 Sep 2022 23:00:00 GMT", "published_parsed": [2022, 9, 29, 23, 0, 0, 3, 272, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022", "guidislink": false, "updated": "2022-09-29T23:00:00Z", "updated_parsed": [2022, 9, 29, 23, 0, 0, 3, 272, 0]}, {"title": "Threat Report 2nd September 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 2nd September 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 01 Sep 2022 23:00:00 GMT", "published_parsed": [2022, 9, 1, 23, 0, 0, 3, 244, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022", "guidislink": false, "updated": "2022-09-01T23:00:00Z", "updated_parsed": [2022, 9, 1, 23, 0, 0, 3, 244, 0]}, {"title": "Threat Report 19th August 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 19th August 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 18 Aug 2022 23:00:00 GMT", "published_parsed": [2022, 8, 18, 23, 0, 0, 3, 230, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022", "guidislink": false, "updated": "2022-08-18T23:00:00Z", "updated_parsed": [2022, 8, 18, 23, 0, 0, 3, 230, 0]}, {"title": "Threat Report 5th August 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 5th August 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 04 Aug 2022 23:00:00 GMT", "published_parsed": [2022, 8, 4, 23, 0, 0, 3, 216, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022", "guidislink": false, "updated": "2022-08-04T23:00:00Z", "updated_parsed": [2022, 8, 4, 23, 0, 0, 3, 216, 0]}, {"title": "Threat Report 22nd July 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 22nd July 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 21 Jul 2022 23:00:00 GMT", "published_parsed": [2022, 7, 21, 23, 0, 0, 3, 202, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022", "guidislink": false, "updated": "2022-07-21T23:00:00Z", "updated_parsed": [2022, 7, 21, 23, 0, 0, 3, 202, 0]}, {"title": "Threat Report 8th July 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 8th July 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 07 Jul 2022 23:00:00 GMT", "published_parsed": [2022, 7, 7, 23, 0, 0, 3, 188, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022", "guidislink": false, "updated": "2022-07-07T23:00:00Z", "updated_parsed": [2022, 7, 7, 23, 0, 0, 3, 188, 0]}, {"title": "Threat Report 24th June 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 24th June 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 23 Jun 2022 23:00:00 GMT", "published_parsed": [2022, 6, 23, 23, 0, 0, 3, 174, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022", "guidislink": false, "updated": "2022-06-23T23:00:00Z", "updated_parsed": [2022, 6, 23, 23, 0, 0, 3, 174, 0]}, {"title": "Threat Report 10th June 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat Report 10th June 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022"}], "link": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022", "summary": "The NCSC's threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's threat report is drawn from recent open source reporting."}, "published": "Thu, 09 Jun 2022 23:00:00 GMT", "published_parsed": [2022, 6, 9, 23, 0, 0, 3, 160, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022", "guidislink": false, "updated": "2022-06-09T23:00:00Z", "updated_parsed": [2022, 6, 9, 23, 0, 0, 3, 160, 0]}, {"title": "Weekly Threat Report 27th May 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 27th May 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022", "summary": "The NCSC's Weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's Weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 26 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 26, 23, 0, 0, 3, 146, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022", "guidislink": false, "updated": "2022-05-26T23:00:00Z", "updated_parsed": [2022, 5, 26, 23, 0, 0, 3, 146, 0]}, {"title": "Weekly Threat Report 20th May 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 20th May 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 19 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 19, 23, 0, 0, 3, 139, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022", "guidislink": false, "updated": "2022-05-19T23:00:00Z", "updated_parsed": [2022, 5, 19, 23, 0, 0, 3, 139, 0]}, {"title": "Organisational use of Enterprise Connected Devices", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Organisational use of Enterprise Connected Devices"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices"}], "link": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices", "summary": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices."}, "published": "Mon, 09 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 9, 23, 0, 0, 0, 129, 0], "id": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices", "guidislink": false, "updated": "2022-05-09T23:00:00Z", "updated_parsed": [2022, 5, 9, 23, 0, 0, 0, 129, 0]}, {"title": "ACD - The Fifth Year", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "ACD - The Fifth Year"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/acd-the-fifth-year"}], "link": "https://www.ncsc.gov.uk/report/acd-the-fifth-year", "summary": "Key findings from the 5th year of the Active Cyber Defence (ACD) programme.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Key findings from the 5th year of the Active Cyber Defence (ACD) programme."}, "published": "Mon, 09 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 9, 23, 0, 0, 0, 129, 0], "id": "https://www.ncsc.gov.uk/report/acd-the-fifth-year", "guidislink": false, "updated": "2022-05-09T23:00:00Z", "updated_parsed": [2022, 5, 9, 23, 0, 0, 0, 129, 0]}, {"title": "Weekly Threat Report 6th May 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 6th May 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 05 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 5, 23, 0, 0, 3, 125, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022", "guidislink": false, "updated": "2022-05-05T23:00:00Z", "updated_parsed": [2022, 5, 5, 23, 0, 0, 3, 125, 0]}, {"title": "Threat report on application stores", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Threat report on application stores"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores"}], "link": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores", "summary": "This report outlines the risks associated with the use of official and third party app stores.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "This report outlines the risks associated with the use of official and third party app stores."}, "published": "Tue, 03 May 2022 23:00:00 GMT", "published_parsed": [2022, 5, 3, 23, 0, 0, 1, 123, 0], "id": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores", "guidislink": false, "updated": "2022-05-03T23:00:00Z", "updated_parsed": [2022, 5, 3, 23, 0, 0, 1, 123, 0]}, {"title": "Weekly Threat Report 29th April 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 29th April 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 28 Apr 2022 23:00:00 GMT", "published_parsed": [2022, 4, 28, 23, 0, 0, 3, 118, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022", "guidislink": false, "updated": "2022-04-28T23:00:00Z", "updated_parsed": [2022, 4, 28, 23, 0, 0, 3, 118, 0]}, {"title": "Malware analysis report on SparrowDoor malware", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Malware analysis report on SparrowDoor malware"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/mar-sparrowdoor"}], "link": "https://www.ncsc.gov.uk/report/mar-sparrowdoor", "summary": "A technical analysis of a new variant of the SparrowDoor malware.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "A technical analysis of a new variant of the SparrowDoor malware."}, "published": "Sun, 24 Apr 2022 23:00:00 GMT", "published_parsed": [2022, 4, 24, 23, 0, 0, 6, 114, 0], "id": "https://www.ncsc.gov.uk/report/mar-sparrowdoor", "guidislink": false, "updated": "2022-04-24T23:00:00Z", "updated_parsed": [2022, 4, 24, 23, 0, 0, 6, 114, 0]}, {"title": "Weekly Threat Report 22nd April 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 22nd April 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 21 Apr 2022 23:00:00 GMT", "published_parsed": [2022, 4, 21, 23, 0, 0, 3, 111, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022", "guidislink": false, "updated": "2022-04-21T23:00:00Z", "updated_parsed": [2022, 4, 21, 23, 0, 0, 3, 111, 0]}, {"title": "Weekly Threat Report 8th April 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 8th April 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 07 Apr 2022 23:00:00 GMT", "published_parsed": [2022, 4, 7, 23, 0, 0, 3, 97, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022", "guidislink": false, "updated": "2022-04-07T23:00:00Z", "updated_parsed": [2022, 4, 7, 23, 0, 0, 3, 97, 0]}, {"title": "Weekly Threat Report 1st April 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 1st April 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Thu, 31 Mar 2022 23:00:00 GMT", "published_parsed": [2022, 3, 31, 23, 0, 0, 3, 90, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022", "guidislink": false, "updated": "2022-03-31T23:00:00Z", "updated_parsed": [2022, 3, 31, 23, 0, 0, 3, 90, 0]}, {"title": "Weekly Threat Report 25th March 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 25th March 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 25 Mar 2022 00:00:00 GMT", "published_parsed": [2022, 3, 25, 0, 0, 0, 4, 84, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022", "guidislink": false, "updated": "2022-03-25T00:00:00Z", "updated_parsed": [2022, 3, 25, 0, 0, 0, 4, 84, 0]}, {"title": "Vendor Security Assessment", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Vendor Security Assessment"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/vendor-security-assessment"}], "link": "https://www.ncsc.gov.uk/report/vendor-security-assessment", "summary": "Assessing the security of network equipment.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Assessing the security of network equipment."}, "published": "Tue, 22 Mar 2022 00:00:00 GMT", "published_parsed": [2022, 3, 22, 0, 0, 0, 1, 81, 0], "id": "https://www.ncsc.gov.uk/report/vendor-security-assessment", "guidislink": false, "updated": "2022-03-22T00:00:00Z", "updated_parsed": [2022, 3, 22, 0, 0, 0, 1, 81, 0]}, {"title": "Weekly Threat Report 18th March 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 18th March 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 18 Mar 2022 00:00:00 GMT", "published_parsed": [2022, 3, 18, 0, 0, 0, 4, 77, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022", "guidislink": false, "updated": "2022-03-18T00:00:00Z", "updated_parsed": [2022, 3, 18, 0, 0, 0, 4, 77, 0]}, {"title": "Weekly Threat Report 11th March 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 11th March 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 11 Mar 2022 00:00:00 GMT", "published_parsed": [2022, 3, 11, 0, 0, 0, 4, 70, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022", "guidislink": false, "updated": "2022-03-11T00:00:00Z", "updated_parsed": [2022, 3, 11, 0, 0, 0, 4, 70, 0]}, {"title": "Weekly Threat Report 4th March 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 4th March 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 04 Mar 2022 00:00:00 GMT", "published_parsed": [2022, 3, 4, 0, 0, 0, 4, 63, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022", "guidislink": false, "updated": "2022-03-04T00:00:00Z", "updated_parsed": [2022, 3, 4, 0, 0, 0, 4, 63, 0]}, {"title": "Weekly Threat Report 25th February 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 25th February 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 25 Feb 2022 00:00:00 GMT", "published_parsed": [2022, 2, 25, 0, 0, 0, 4, 56, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022", "guidislink": false, "updated": "2022-02-25T00:00:00Z", "updated_parsed": [2022, 2, 25, 0, 0, 0, 4, 56, 0]}, {"title": "Weekly Threat Report 18th February 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 18th February 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 18 Feb 2022 00:00:00 GMT", "published_parsed": [2022, 2, 18, 0, 0, 0, 4, 49, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022", "guidislink": false, "updated": "2022-02-18T00:00:00Z", "updated_parsed": [2022, 2, 18, 0, 0, 0, 4, 49, 0]}, {"title": "Weekly Threat Report 11th February 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 11th February 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 11 Feb 2022 00:00:00 GMT", "published_parsed": [2022, 2, 11, 0, 0, 0, 4, 42, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022", "guidislink": false, "updated": "2022-02-11T00:00:00Z", "updated_parsed": [2022, 2, 11, 0, 0, 0, 4, 42, 0]}, {"title": "Weekly Threat Report 4th February 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 4th February 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 04 Feb 2022 00:00:00 GMT", "published_parsed": [2022, 2, 4, 0, 0, 0, 4, 35, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022", "guidislink": false, "updated": "2022-02-04T00:00:00Z", "updated_parsed": [2022, 2, 4, 0, 0, 0, 4, 35, 0]}, {"title": "Weekly Threat Report 28th January 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 28th January 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022", "summary": "Read about the Mirai-based malware exploiting poor security, CISA updates and New Scanning Made Easy trial service from the NCSC", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Read about the Mirai-based malware exploiting poor security, CISA updates and New Scanning Made Easy trial service from the NCSC"}, "published": "Fri, 28 Jan 2022 00:00:00 GMT", "published_parsed": [2022, 1, 28, 0, 0, 0, 4, 28, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022", "guidislink": false, "updated": "2022-01-28T00:00:00Z", "updated_parsed": [2022, 1, 28, 0, 0, 0, 4, 28, 0]}, {"title": "Weekly Threat Report 21st January 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 21st January 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 21 Jan 2022 00:00:00 GMT", "published_parsed": [2022, 1, 21, 0, 0, 0, 4, 21, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022", "guidislink": false, "updated": "2022-01-21T00:00:00Z", "updated_parsed": [2022, 1, 21, 0, 0, 0, 4, 21, 0]}, {"title": "Weekly Threat Report 14th January 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 14th January 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 14 Jan 2022 00:00:00 GMT", "published_parsed": [2022, 1, 14, 0, 0, 0, 4, 14, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022", "guidislink": false, "updated": "2022-01-14T00:00:00Z", "updated_parsed": [2022, 1, 14, 0, 0, 0, 4, 14, 0]}, {"title": "Weekly Threat Report 7th January 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 7th January 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 07 Jan 2022 00:00:00 GMT", "published_parsed": [2022, 1, 7, 0, 0, 0, 4, 7, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022", "guidislink": false, "updated": "2022-01-07T00:00:00Z", "updated_parsed": [2022, 1, 7, 0, 0, 0, 4, 7, 0]}, {"title": "Weekly Threat Report 17th December 2021", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Weekly Threat Report 17th December 2021"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021"}], "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021", "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC's weekly threat report is drawn from recent open source reporting."}, "published": "Fri, 17 Dec 2021 00:00:00 GMT", "published_parsed": [2021, 12, 17, 0, 0, 0, 4, 351, 0], "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021", "guidislink": false, "updated": "2021-12-17T00:00:00Z", "updated_parsed": [2021, 12, 17, 0, 0, 0, 4, 351, 0]}, {"title": "Decrypting diversity: Diversity and inclusion in cyber security report 2021", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Decrypting diversity: Diversity and inclusion in cyber security report 2021"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security"}], "link": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security", "summary": "The 2nd joint report between the NCSC and KPMG UK benchmarks against the 2020 findings to gauge what progress has been made.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The 2nd joint report between the NCSC and KPMG UK benchmarks against the 2020 findings to gauge what progress has been made."}, "published": "Tue, 23 Nov 2021 00:00:00 GMT", "published_parsed": [2021, 11, 23, 0, 0, 0, 1, 327, 0], "id": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security", "guidislink": false, "updated": "2021-11-23T00:00:00Z", "updated_parsed": [2021, 11, 23, 0, 0, 0, 1, 327, 0]}, {"title": "Active Cyber Defence (ACD) - the fourth year", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Active Cyber Defence (ACD) - the fourth year"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/acd-report-year-four"}], "link": "https://www.ncsc.gov.uk/report/acd-report-year-four", "summary": "The year four report covers 2020 and aims to highlight the achievements and efforts made by the Active Cyber Defence programme.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The year four report covers 2020 and aims to highlight the achievements and efforts made by the Active Cyber Defence programme."}, "published": "Sun, 09 May 2021 23:00:00 GMT", "published_parsed": [2021, 5, 9, 23, 0, 0, 6, 129, 0], "id": "https://www.ncsc.gov.uk/report/acd-report-year-four", "guidislink": false, "updated": "2021-05-09T23:00:00Z", "updated_parsed": [2021, 5, 9, 23, 0, 0, 6, 129, 0]}, {"title": "Active Cyber Defence (ACD) - The Third Year", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Active Cyber Defence (ACD) - The Third Year"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/acd-report-year-three"}], "link": "https://www.ncsc.gov.uk/report/acd-report-year-three", "summary": "The year three report covers 2019 and aims to highlight the achievements and efforts made by the Active Cyber Defence programe.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The year three report covers 2019 and aims to highlight the achievements and efforts made by the Active Cyber Defence programe."}, "published": "Fri, 19 Feb 2021 00:00:00 GMT", "published_parsed": [2021, 2, 19, 0, 0, 0, 4, 50, 0], "id": "https://www.ncsc.gov.uk/report/acd-report-year-three", "guidislink": false, "updated": "2021-02-19T00:00:00Z", "updated_parsed": [2021, 2, 19, 0, 0, 0, 4, 50, 0]}, {"title": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking"}], "link": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking", "summary": "Technical report on best practice use of this fundamental data routing protocol.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Technical report on best practice use of this fundamental data routing protocol."}, "published": "Wed, 20 Jan 2021 00:00:00 GMT", "published_parsed": [2021, 1, 20, 0, 0, 0, 2, 20, 0], "id": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking", "guidislink": false, "updated": "2021-01-20T00:00:00Z", "updated_parsed": [2021, 1, 20, 0, 0, 0, 2, 20, 0]}, {"title": "Decrypting diversity: Diversity and inclusion in cyber security report 2020", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Decrypting diversity: Diversity and inclusion in cyber security report 2020"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report"}], "link": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report", "summary": "Joint report between the NCSC and KPMG UK is the first in a series to benchmark and track levels of diversity and inclusion in the cyber security industry.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Joint report between the NCSC and KPMG UK is the first in a series to benchmark and track levels of diversity and inclusion in the cyber security industry."}, "published": "Mon, 27 Jul 2020 23:00:00 GMT", "published_parsed": [2020, 7, 27, 23, 0, 0, 0, 209, 0], "id": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report", "guidislink": false, "updated": "2020-07-27T23:00:00Z", "updated_parsed": [2020, 7, 27, 23, 0, 0, 0, 209, 0]}, {"title": "The cyber threat to sports organisations", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The cyber threat to sports organisations"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations"}], "link": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations", "summary": "The NCSC report highlights the cyber threats faced by the sports sector and suggests how to stop or lessen their impact on organisations.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The NCSC report highlights the cyber threats faced by the sports sector and suggests how to stop or lessen their impact on organisations."}, "published": "Wed, 22 Jul 2020 23:00:00 GMT", "published_parsed": [2020, 7, 22, 23, 0, 0, 2, 204, 0], "id": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations", "guidislink": false, "updated": "2020-07-22T23:00:00Z", "updated_parsed": [2020, 7, 22, 23, 0, 0, 2, 204, 0]}, {"title": "Summary of the NCSC analysis of May 2020 US sanction", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Summary of the NCSC analysis of May 2020 US sanction"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction"}], "link": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction", "summary": "A summary of the NCSC\u2019s analysis of the May 2020 US sanction which caused the NCSC to modify the scope of its security mitigation strategy for Huawei.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "A summary of the NCSC\u2019s analysis of the May 2020 US sanction which caused the NCSC to modify the scope of its security mitigation strategy for Huawei."}, "published": "Mon, 13 Jul 2020 23:00:00 GMT", "published_parsed": [2020, 7, 13, 23, 0, 0, 0, 195, 0], "id": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction", "guidislink": false, "updated": "2020-07-13T23:00:00Z", "updated_parsed": [2020, 7, 13, 23, 0, 0, 0, 195, 0]}, {"title": "High level privacy and security design for NHS COVID-19 contact tracing app", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "High level privacy and security design for NHS COVID-19 contact tracing app"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report"}], "link": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report", "summary": "NCSC technical paper about the privacy and security design of the NHS contact tracing app developed to help slow the spread of coronavirus.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "NCSC technical paper about the privacy and security design of the NHS contact tracing app developed to help slow the spread of coronavirus."}, "published": "Sun, 03 May 2020 23:00:00 GMT", "published_parsed": [2020, 5, 3, 23, 0, 0, 6, 124, 0], "id": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report", "guidislink": false, "updated": "2020-05-03T23:00:00Z", "updated_parsed": [2020, 5, 3, 23, 0, 0, 6, 124, 0]}, {"title": "Summary of NCSC\u2019s security analysis for the UK telecoms sector", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Summary of NCSC\u2019s security analysis for the UK telecoms sector"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector"}], "link": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector", "summary": "A summary of the NCSC\u2019s security analysis for the UK telecoms sector", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "A summary of the NCSC\u2019s security analysis for the UK telecoms sector"}, "published": "Tue, 28 Jan 2020 00:00:00 GMT", "published_parsed": [2020, 1, 28, 0, 0, 0, 1, 28, 0], "id": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector", "guidislink": false, "updated": "2020-01-28T00:00:00Z", "updated_parsed": [2020, 1, 28, 0, 0, 0, 1, 28, 0]}, {"title": "The cyber threat to Universities", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The cyber threat to Universities"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities"}], "link": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities", "summary": "Assessing the cyber security threat to UK Universities", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Assessing the cyber security threat to UK Universities"}, "published": "Tue, 17 Sep 2019 23:00:00 GMT", "published_parsed": [2019, 9, 17, 23, 0, 0, 1, 260, 0], "id": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities", "guidislink": false, "updated": "2019-09-17T23:00:00Z", "updated_parsed": [2019, 9, 17, 23, 0, 0, 1, 260, 0]}, {"title": "Incident trends report (October 2018 - April 2019)", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Incident trends report (October 2018 - April 2019)"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/incident-trends-report"}], "link": "https://www.ncsc.gov.uk/report/incident-trends-report", "summary": "Cyber incident trends in the UK with guidance on how to defend against, and recover from them.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Cyber incident trends in the UK with guidance on how to defend against, and recover from them."}, "published": "Thu, 29 Aug 2019 23:00:00 GMT", "published_parsed": [2019, 8, 29, 23, 0, 0, 3, 241, 0], "id": "https://www.ncsc.gov.uk/report/incident-trends-report", "guidislink": false, "updated": "2019-08-29T23:00:00Z", "updated_parsed": [2019, 8, 29, 23, 0, 0, 3, 241, 0]}, {"title": "Active Cyber Defence (ACD) - The Second Year", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Active Cyber Defence (ACD) - The Second Year"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019"}], "link": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019", "summary": "The second report examining how the NCSC's ACD programme is improving the security of the UK public sector and the wider UK cyber ecosystem.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The second report examining how the NCSC's ACD programme is improving the security of the UK public sector and the wider UK cyber ecosystem."}, "published": "Mon, 15 Jul 2019 23:00:00 GMT", "published_parsed": [2019, 7, 15, 23, 0, 0, 0, 196, 0], "id": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019", "guidislink": false, "updated": "2019-07-15T23:00:00Z", "updated_parsed": [2019, 7, 15, 23, 0, 0, 0, 196, 0]}, {"title": "Joint report on publicly available hacking tools", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "Joint report on publicly available hacking tools"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools"}], "link": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools", "summary": "How to limit the effectiveness of tools commonly used by malicious actors.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "How to limit the effectiveness of tools commonly used by malicious actors."}, "published": "Wed, 10 Oct 2018 23:00:00 GMT", "published_parsed": [2018, 10, 10, 23, 0, 0, 2, 283, 0], "id": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools", "guidislink": false, "updated": "2018-10-10T23:00:00Z", "updated_parsed": [2018, 10, 10, 23, 0, 0, 2, 283, 0]}, {"title": "'The cyber threat to UK legal sector' 2018 report", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "'The cyber threat to UK legal sector' 2018 report"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report"}], "link": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report", "summary": "A new report from the NCSC explaining how UK law firms - of all sizes - can protect themselves from common cyber threats.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "A new report from the NCSC explaining how UK law firms - of all sizes - can protect themselves from common cyber threats."}, "published": "Wed, 18 Jul 2018 23:00:00 GMT", "published_parsed": [2018, 7, 18, 23, 0, 0, 2, 199, 0], "id": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report", "guidislink": false, "updated": "2018-07-18T23:00:00Z", "updated_parsed": [2018, 7, 18, 23, 0, 0, 2, 199, 0]}, {"title": "The Cyber Threat to UK Business", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "The Cyber Threat to UK Business"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business"}], "link": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business", "summary": "First joint National Cyber Security Centre (NCSC) and National Crime Agency (NCA) report published today.", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "First joint National Cyber Security Centre (NCSC) and National Crime Agency (NCA) report published today."}, "published": "Wed, 15 Mar 2017 00:00:00 GMT", "published_parsed": [2017, 3, 15, 0, 0, 0, 2, 74, 0], "id": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business", "guidislink": false, "updated": "2017-03-15T00:00:00Z", "updated_parsed": [2017, 3, 15, 0, 0, 0, 2, 74, 0]}, {"title": "CERT-UK Annual Report 2015/16", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": "CERT-UK Annual Report 2015/16"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516"}], "link": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516", "summary": "", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", "value": ""}, "published": "Tue, 10 May 2016 23:00:00 GMT", "published_parsed": [2016, 5, 10, 23, 0, 0, 1, 131, 0], "id": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516", "guidislink": false, "updated": "2016-05-10T23:00:00Z", "updated_parsed": [2016, 5, 10, 23, 0, 0, 1, 131, 0]}]}
+{
+    "articles": [
+        {
+            "title": "Threat Report 10th March 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 10th March 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 10 Mar 2023 00:00:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                10,
+                0,
+                0,
+                0,
+                4,
+                69,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-10th-march-2023",
+            "guidislink": false,
+            "updated": "2023-03-10T00:00:00Z",
+            "updated_parsed": [
+                2023,
+                3,
+                10,
+                0,
+                0,
+                0,
+                4,
+                69,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 24th February 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 24th February 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 24 Feb 2023 00:00:00 GMT",
+            "published_parsed": [
+                2023,
+                2,
+                24,
+                0,
+                0,
+                0,
+                4,
+                55,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-24th-february-2023",
+            "guidislink": false,
+            "updated": "2023-02-24T00:00:00Z",
+            "updated_parsed": [
+                2023,
+                2,
+                24,
+                0,
+                0,
+                0,
+                4,
+                55,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 10th February 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 10th February 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 10 Feb 2023 00:00:00 GMT",
+            "published_parsed": [
+                2023,
+                2,
+                10,
+                0,
+                0,
+                0,
+                4,
+                41,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-10th-february-2023",
+            "guidislink": false,
+            "updated": "2023-02-10T00:00:00Z",
+            "updated_parsed": [
+                2023,
+                2,
+                10,
+                0,
+                0,
+                0,
+                4,
+                41,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 27th January 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 27th January 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Mon, 30 Jan 2023 00:00:00 GMT",
+            "published_parsed": [
+                2023,
+                1,
+                30,
+                0,
+                0,
+                0,
+                0,
+                30,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-27-january-2023",
+            "guidislink": false,
+            "updated": "2023-01-30T00:00:00Z",
+            "updated_parsed": [
+                2023,
+                1,
+                30,
+                0,
+                0,
+                0,
+                0,
+                30,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 13th January 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 13th January 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 13 Jan 2023 00:00:00 GMT",
+            "published_parsed": [
+                2023,
+                1,
+                13,
+                0,
+                0,
+                0,
+                4,
+                13,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-13th-january-2023",
+            "guidislink": false,
+            "updated": "2023-01-13T00:00:00Z",
+            "updated_parsed": [
+                2023,
+                1,
+                13,
+                0,
+                0,
+                0,
+                4,
+                13,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 22nd December 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 22nd December 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 22 Dec 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                12,
+                22,
+                0,
+                0,
+                0,
+                3,
+                356,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-22nd-december-2022",
+            "guidislink": false,
+            "updated": "2022-12-22T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                12,
+                22,
+                0,
+                0,
+                0,
+                3,
+                356,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 9th December 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 9th December 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 09 Dec 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                12,
+                9,
+                0,
+                0,
+                0,
+                4,
+                343,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-9th-december-2022",
+            "guidislink": false,
+            "updated": "2022-12-09T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                12,
+                9,
+                0,
+                0,
+                0,
+                4,
+                343,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 25th November 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 25th November 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 25 Nov 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                11,
+                25,
+                0,
+                0,
+                0,
+                4,
+                329,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-25th-november-2022",
+            "guidislink": false,
+            "updated": "2022-11-25T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                11,
+                25,
+                0,
+                0,
+                0,
+                4,
+                329,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 11th November 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 11th November 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 11 Nov 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                11,
+                11,
+                0,
+                0,
+                0,
+                4,
+                315,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-11th-november-2022",
+            "guidislink": false,
+            "updated": "2022-11-11T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                11,
+                11,
+                0,
+                0,
+                0,
+                4,
+                315,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 28th October 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 28th October 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 27 Oct 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                10,
+                27,
+                23,
+                0,
+                0,
+                3,
+                300,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-28-october-2022",
+            "guidislink": false,
+            "updated": "2022-10-27T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                10,
+                27,
+                23,
+                0,
+                0,
+                3,
+                300,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 14th October 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 14th October 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 13 Oct 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                10,
+                13,
+                23,
+                0,
+                0,
+                3,
+                286,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-14th-october-2022",
+            "guidislink": false,
+            "updated": "2022-10-13T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                10,
+                13,
+                23,
+                0,
+                0,
+                3,
+                286,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 30th September 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 30th September 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 29 Sep 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                9,
+                29,
+                23,
+                0,
+                0,
+                3,
+                272,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-30th-september-2022",
+            "guidislink": false,
+            "updated": "2022-09-29T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                9,
+                29,
+                23,
+                0,
+                0,
+                3,
+                272,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 2nd September 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 2nd September 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 01 Sep 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                9,
+                1,
+                23,
+                0,
+                0,
+                3,
+                244,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-2nd-september-2022",
+            "guidislink": false,
+            "updated": "2022-09-01T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                9,
+                1,
+                23,
+                0,
+                0,
+                3,
+                244,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 19th August 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 19th August 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 18 Aug 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                8,
+                18,
+                23,
+                0,
+                0,
+                3,
+                230,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-19th-august-2022",
+            "guidislink": false,
+            "updated": "2022-08-18T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                8,
+                18,
+                23,
+                0,
+                0,
+                3,
+                230,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 5th August 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 5th August 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 04 Aug 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                8,
+                4,
+                23,
+                0,
+                0,
+                3,
+                216,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-5th-august-2022",
+            "guidislink": false,
+            "updated": "2022-08-04T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                8,
+                4,
+                23,
+                0,
+                0,
+                3,
+                216,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 22nd July 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 22nd July 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 21 Jul 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                7,
+                21,
+                23,
+                0,
+                0,
+                3,
+                202,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-22nd-july-2022",
+            "guidislink": false,
+            "updated": "2022-07-21T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                7,
+                21,
+                23,
+                0,
+                0,
+                3,
+                202,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 8th July 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 8th July 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 07 Jul 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                7,
+                7,
+                23,
+                0,
+                0,
+                3,
+                188,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-8th-july-2022",
+            "guidislink": false,
+            "updated": "2022-07-07T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                7,
+                7,
+                23,
+                0,
+                0,
+                3,
+                188,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 24th June 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 24th June 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 23 Jun 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                6,
+                23,
+                23,
+                0,
+                0,
+                3,
+                174,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-24th-june-2022",
+            "guidislink": false,
+            "updated": "2022-06-23T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                6,
+                23,
+                23,
+                0,
+                0,
+                3,
+                174,
+                0
+            ]
+        },
+        {
+            "title": "Threat Report 10th June 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat Report 10th June 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022",
+            "summary": "The NCSC's threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 09 Jun 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                6,
+                9,
+                23,
+                0,
+                0,
+                3,
+                160,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-10th-june-2022",
+            "guidislink": false,
+            "updated": "2022-06-09T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                6,
+                9,
+                23,
+                0,
+                0,
+                3,
+                160,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 27th May 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 27th May 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022",
+            "summary": "The NCSC's Weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's Weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 26 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                26,
+                23,
+                0,
+                0,
+                3,
+                146,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-27th-may-2022",
+            "guidislink": false,
+            "updated": "2022-05-26T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                26,
+                23,
+                0,
+                0,
+                3,
+                146,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 20th May 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 20th May 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 19 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                19,
+                23,
+                0,
+                0,
+                3,
+                139,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-20th-may-2022",
+            "guidislink": false,
+            "updated": "2022-05-19T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                19,
+                23,
+                0,
+                0,
+                3,
+                139,
+                0
+            ]
+        },
+        {
+            "title": "Organisational use of Enterprise Connected Devices",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Organisational use of Enterprise Connected Devices"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices",
+            "summary": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices."
+            },
+            "published": "Mon, 09 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                9,
+                23,
+                0,
+                0,
+                0,
+                129,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices",
+            "guidislink": false,
+            "updated": "2022-05-09T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                9,
+                23,
+                0,
+                0,
+                0,
+                129,
+                0
+            ]
+        },
+        {
+            "title": "ACD - The Fifth Year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "ACD - The Fifth Year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/acd-the-fifth-year"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/acd-the-fifth-year",
+            "summary": "Key findings from the 5th year of the Active Cyber Defence (ACD) programme.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Key findings from the 5th year of the Active Cyber Defence (ACD) programme."
+            },
+            "published": "Mon, 09 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                9,
+                23,
+                0,
+                0,
+                0,
+                129,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/acd-the-fifth-year",
+            "guidislink": false,
+            "updated": "2022-05-09T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                9,
+                23,
+                0,
+                0,
+                0,
+                129,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 6th May 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 6th May 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 05 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                5,
+                23,
+                0,
+                0,
+                3,
+                125,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-6th-may-2022",
+            "guidislink": false,
+            "updated": "2022-05-05T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                5,
+                23,
+                0,
+                0,
+                3,
+                125,
+                0
+            ]
+        },
+        {
+            "title": "Threat report on application stores",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Threat report on application stores"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores",
+            "summary": "This report outlines the risks associated with the use of official and third party app stores.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "This report outlines the risks associated with the use of official and third party app stores."
+            },
+            "published": "Tue, 03 May 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                5,
+                3,
+                23,
+                0,
+                0,
+                1,
+                123,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/threat-report-on-application-stores",
+            "guidislink": false,
+            "updated": "2022-05-03T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                5,
+                3,
+                23,
+                0,
+                0,
+                1,
+                123,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 29th April 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 29th April 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 28 Apr 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                4,
+                28,
+                23,
+                0,
+                0,
+                3,
+                118,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-29th-april-2022",
+            "guidislink": false,
+            "updated": "2022-04-28T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                4,
+                28,
+                23,
+                0,
+                0,
+                3,
+                118,
+                0
+            ]
+        },
+        {
+            "title": "Malware analysis report on SparrowDoor malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Malware analysis report on SparrowDoor malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/mar-sparrowdoor"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/mar-sparrowdoor",
+            "summary": "A technical analysis of a new variant of the SparrowDoor malware.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "A technical analysis of a new variant of the SparrowDoor malware."
+            },
+            "published": "Sun, 24 Apr 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                4,
+                24,
+                23,
+                0,
+                0,
+                6,
+                114,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/mar-sparrowdoor",
+            "guidislink": false,
+            "updated": "2022-04-24T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                4,
+                24,
+                23,
+                0,
+                0,
+                6,
+                114,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 22nd April 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 22nd April 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 21 Apr 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                4,
+                21,
+                23,
+                0,
+                0,
+                3,
+                111,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-22nd-april-2022",
+            "guidislink": false,
+            "updated": "2022-04-21T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                4,
+                21,
+                23,
+                0,
+                0,
+                3,
+                111,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 8th April 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 8th April 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 07 Apr 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                4,
+                7,
+                23,
+                0,
+                0,
+                3,
+                97,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-8th-april-2022",
+            "guidislink": false,
+            "updated": "2022-04-07T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                4,
+                7,
+                23,
+                0,
+                0,
+                3,
+                97,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 1st April 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 1st April 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Thu, 31 Mar 2022 23:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                31,
+                23,
+                0,
+                0,
+                3,
+                90,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-1st-april-2022",
+            "guidislink": false,
+            "updated": "2022-03-31T23:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                31,
+                23,
+                0,
+                0,
+                3,
+                90,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 25th March 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 25th March 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 25 Mar 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                25,
+                0,
+                0,
+                0,
+                4,
+                84,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-march-2022",
+            "guidislink": false,
+            "updated": "2022-03-25T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                25,
+                0,
+                0,
+                0,
+                4,
+                84,
+                0
+            ]
+        },
+        {
+            "title": "Vendor Security Assessment",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Vendor Security Assessment"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/vendor-security-assessment"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/vendor-security-assessment",
+            "summary": "Assessing the security of network equipment.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Assessing the security of network equipment."
+            },
+            "published": "Tue, 22 Mar 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                22,
+                0,
+                0,
+                0,
+                1,
+                81,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/vendor-security-assessment",
+            "guidislink": false,
+            "updated": "2022-03-22T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                22,
+                0,
+                0,
+                0,
+                1,
+                81,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 18th March 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 18th March 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 18 Mar 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                18,
+                0,
+                0,
+                0,
+                4,
+                77,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-march-2022",
+            "guidislink": false,
+            "updated": "2022-03-18T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                18,
+                0,
+                0,
+                0,
+                4,
+                77,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 11th March 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 11th March 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 11 Mar 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                11,
+                0,
+                0,
+                0,
+                4,
+                70,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-march-2022",
+            "guidislink": false,
+            "updated": "2022-03-11T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                11,
+                0,
+                0,
+                0,
+                4,
+                70,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 4th March 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 4th March 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 04 Mar 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                3,
+                4,
+                0,
+                0,
+                0,
+                4,
+                63,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-march-2022",
+            "guidislink": false,
+            "updated": "2022-03-04T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                3,
+                4,
+                0,
+                0,
+                0,
+                4,
+                63,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 25th February 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 25th February 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 25 Feb 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                25,
+                0,
+                0,
+                0,
+                4,
+                56,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-25th-february-2022",
+            "guidislink": false,
+            "updated": "2022-02-25T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                2,
+                25,
+                0,
+                0,
+                0,
+                4,
+                56,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 18th February 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 18th February 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 18 Feb 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                18,
+                0,
+                0,
+                0,
+                4,
+                49,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-18th-february-2022",
+            "guidislink": false,
+            "updated": "2022-02-18T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                2,
+                18,
+                0,
+                0,
+                0,
+                4,
+                49,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 11th February 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 11th February 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 11 Feb 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                11,
+                0,
+                0,
+                0,
+                4,
+                42,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-11th-february-2022",
+            "guidislink": false,
+            "updated": "2022-02-11T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                2,
+                11,
+                0,
+                0,
+                0,
+                4,
+                42,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 4th February 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 4th February 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 04 Feb 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                4,
+                0,
+                0,
+                0,
+                4,
+                35,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-4th-february-2022",
+            "guidislink": false,
+            "updated": "2022-02-04T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                2,
+                4,
+                0,
+                0,
+                0,
+                4,
+                35,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 28th January 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 28th January 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022",
+            "summary": "Read about the Mirai-based malware exploiting poor security, CISA updates and New Scanning Made Easy trial service from the NCSC",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Read about the Mirai-based malware exploiting poor security, CISA updates and New Scanning Made Easy trial service from the NCSC"
+            },
+            "published": "Fri, 28 Jan 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                28,
+                0,
+                0,
+                0,
+                4,
+                28,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-28th-january-2022",
+            "guidislink": false,
+            "updated": "2022-01-28T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                1,
+                28,
+                0,
+                0,
+                0,
+                4,
+                28,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 21st January 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 21st January 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 21 Jan 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                21,
+                0,
+                0,
+                0,
+                4,
+                21,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-21st-january-2022",
+            "guidislink": false,
+            "updated": "2022-01-21T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                1,
+                21,
+                0,
+                0,
+                0,
+                4,
+                21,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 14th January 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 14th January 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 14 Jan 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                14,
+                0,
+                0,
+                0,
+                4,
+                14,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-14th-january-2022",
+            "guidislink": false,
+            "updated": "2022-01-14T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                1,
+                14,
+                0,
+                0,
+                0,
+                4,
+                14,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 7th January 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 7th January 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 07 Jan 2022 00:00:00 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                7,
+                0,
+                0,
+                0,
+                4,
+                7,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-7th-january-2022",
+            "guidislink": false,
+            "updated": "2022-01-07T00:00:00Z",
+            "updated_parsed": [
+                2022,
+                1,
+                7,
+                0,
+                0,
+                0,
+                4,
+                7,
+                0
+            ]
+        },
+        {
+            "title": "Weekly Threat Report 17th December 2021",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Weekly Threat Report 17th December 2021"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021",
+            "summary": "The NCSC's weekly threat report is drawn from recent open source reporting.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC's weekly threat report is drawn from recent open source reporting."
+            },
+            "published": "Fri, 17 Dec 2021 00:00:00 GMT",
+            "published_parsed": [
+                2021,
+                12,
+                17,
+                0,
+                0,
+                0,
+                4,
+                351,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/weekly-threat-report-17th-december-2021",
+            "guidislink": false,
+            "updated": "2021-12-17T00:00:00Z",
+            "updated_parsed": [
+                2021,
+                12,
+                17,
+                0,
+                0,
+                0,
+                4,
+                351,
+                0
+            ]
+        },
+        {
+            "title": "Decrypting diversity: Diversity and inclusion in cyber security report 2021",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Decrypting diversity: Diversity and inclusion in cyber security report 2021"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security",
+            "summary": "The 2nd joint report between the NCSC and KPMG UK benchmarks against the 2020 findings to gauge what progress has been made.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The 2nd joint report between the NCSC and KPMG UK benchmarks against the 2020 findings to gauge what progress has been made."
+            },
+            "published": "Tue, 23 Nov 2021 00:00:00 GMT",
+            "published_parsed": [
+                2021,
+                11,
+                23,
+                0,
+                0,
+                0,
+                1,
+                327,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/decrypting-diversity-2021-diversity-and-inclusion-in-cyber-security",
+            "guidislink": false,
+            "updated": "2021-11-23T00:00:00Z",
+            "updated_parsed": [
+                2021,
+                11,
+                23,
+                0,
+                0,
+                0,
+                1,
+                327,
+                0
+            ]
+        },
+        {
+            "title": "Active Cyber Defence (ACD) - the fourth year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Active Cyber Defence (ACD) - the fourth year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/acd-report-year-four"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/acd-report-year-four",
+            "summary": "The year four report covers 2020 and aims to highlight the achievements and efforts made by the Active Cyber Defence programme.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The year four report covers 2020 and aims to highlight the achievements and efforts made by the Active Cyber Defence programme."
+            },
+            "published": "Sun, 09 May 2021 23:00:00 GMT",
+            "published_parsed": [
+                2021,
+                5,
+                9,
+                23,
+                0,
+                0,
+                6,
+                129,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/acd-report-year-four",
+            "guidislink": false,
+            "updated": "2021-05-09T23:00:00Z",
+            "updated_parsed": [
+                2021,
+                5,
+                9,
+                23,
+                0,
+                0,
+                6,
+                129,
+                0
+            ]
+        },
+        {
+            "title": "Active Cyber Defence (ACD) - The Third Year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Active Cyber Defence (ACD) - The Third Year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/acd-report-year-three"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/acd-report-year-three",
+            "summary": "The year three report covers 2019 and aims to highlight the achievements and efforts made by the Active Cyber Defence programe.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The year three report covers 2019 and aims to highlight the achievements and efforts made by the Active Cyber Defence programe."
+            },
+            "published": "Fri, 19 Feb 2021 00:00:00 GMT",
+            "published_parsed": [
+                2021,
+                2,
+                19,
+                0,
+                0,
+                0,
+                4,
+                50,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/acd-report-year-three",
+            "guidislink": false,
+            "updated": "2021-02-19T00:00:00Z",
+            "updated_parsed": [
+                2021,
+                2,
+                19,
+                0,
+                0,
+                0,
+                4,
+                50,
+                0
+            ]
+        },
+        {
+            "title": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking",
+            "summary": "Technical report on best practice use of this fundamental data routing protocol.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Technical report on best practice use of this fundamental data routing protocol."
+            },
+            "published": "Wed, 20 Jan 2021 00:00:00 GMT",
+            "published_parsed": [
+                2021,
+                1,
+                20,
+                0,
+                0,
+                0,
+                2,
+                20,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking",
+            "guidislink": false,
+            "updated": "2021-01-20T00:00:00Z",
+            "updated_parsed": [
+                2021,
+                1,
+                20,
+                0,
+                0,
+                0,
+                2,
+                20,
+                0
+            ]
+        },
+        {
+            "title": "Decrypting diversity: Diversity and inclusion in cyber security report 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Decrypting diversity: Diversity and inclusion in cyber security report 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report",
+            "summary": "Joint report between the NCSC and KPMG UK is the first in a series to benchmark and track levels of diversity and inclusion in the cyber security industry.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Joint report between the NCSC and KPMG UK is the first in a series to benchmark and track levels of diversity and inclusion in the cyber security industry."
+            },
+            "published": "Mon, 27 Jul 2020 23:00:00 GMT",
+            "published_parsed": [
+                2020,
+                7,
+                27,
+                23,
+                0,
+                0,
+                0,
+                209,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/diversity-and-inclusion-in-cyber-security-report",
+            "guidislink": false,
+            "updated": "2020-07-27T23:00:00Z",
+            "updated_parsed": [
+                2020,
+                7,
+                27,
+                23,
+                0,
+                0,
+                0,
+                209,
+                0
+            ]
+        },
+        {
+            "title": "The cyber threat to sports organisations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The cyber threat to sports organisations"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations",
+            "summary": "The NCSC report highlights the cyber threats faced by the sports sector and suggests how to stop or lessen their impact on organisations.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The NCSC report highlights the cyber threats faced by the sports sector and suggests how to stop or lessen their impact on organisations."
+            },
+            "published": "Wed, 22 Jul 2020 23:00:00 GMT",
+            "published_parsed": [
+                2020,
+                7,
+                22,
+                23,
+                0,
+                0,
+                2,
+                204,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations",
+            "guidislink": false,
+            "updated": "2020-07-22T23:00:00Z",
+            "updated_parsed": [
+                2020,
+                7,
+                22,
+                23,
+                0,
+                0,
+                2,
+                204,
+                0
+            ]
+        },
+        {
+            "title": "Summary of the NCSC analysis of May 2020 US sanction",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Summary of the NCSC analysis of May 2020 US sanction"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction",
+            "summary": "A summary of the NCSC\u2019s analysis of the May 2020 US sanction which caused the NCSC to modify the scope of its security mitigation strategy for Huawei.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "A summary of the NCSC\u2019s analysis of the May 2020 US sanction which caused the NCSC to modify the scope of its security mitigation strategy for Huawei."
+            },
+            "published": "Mon, 13 Jul 2020 23:00:00 GMT",
+            "published_parsed": [
+                2020,
+                7,
+                13,
+                23,
+                0,
+                0,
+                0,
+                195,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction",
+            "guidislink": false,
+            "updated": "2020-07-13T23:00:00Z",
+            "updated_parsed": [
+                2020,
+                7,
+                13,
+                23,
+                0,
+                0,
+                0,
+                195,
+                0
+            ]
+        },
+        {
+            "title": "High level privacy and security design for NHS COVID-19 contact tracing app",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "High level privacy and security design for NHS COVID-19 contact tracing app"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report",
+            "summary": "NCSC technical paper about the privacy and security design of the NHS contact tracing app developed to help slow the spread of coronavirus.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "NCSC technical paper about the privacy and security design of the NHS contact tracing app developed to help slow the spread of coronavirus."
+            },
+            "published": "Sun, 03 May 2020 23:00:00 GMT",
+            "published_parsed": [
+                2020,
+                5,
+                3,
+                23,
+                0,
+                0,
+                6,
+                124,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report",
+            "guidislink": false,
+            "updated": "2020-05-03T23:00:00Z",
+            "updated_parsed": [
+                2020,
+                5,
+                3,
+                23,
+                0,
+                0,
+                6,
+                124,
+                0
+            ]
+        },
+        {
+            "title": "Summary of NCSC\u2019s security analysis for the UK telecoms sector",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Summary of NCSC\u2019s security analysis for the UK telecoms sector"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector",
+            "summary": "A summary of the NCSC\u2019s security analysis for the UK telecoms sector",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "A summary of the NCSC\u2019s security analysis for the UK telecoms sector"
+            },
+            "published": "Tue, 28 Jan 2020 00:00:00 GMT",
+            "published_parsed": [
+                2020,
+                1,
+                28,
+                0,
+                0,
+                0,
+                1,
+                28,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector",
+            "guidislink": false,
+            "updated": "2020-01-28T00:00:00Z",
+            "updated_parsed": [
+                2020,
+                1,
+                28,
+                0,
+                0,
+                0,
+                1,
+                28,
+                0
+            ]
+        },
+        {
+            "title": "The cyber threat to Universities",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The cyber threat to Universities"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities",
+            "summary": "Assessing the cyber security threat to UK Universities",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Assessing the cyber security threat to UK Universities"
+            },
+            "published": "Tue, 17 Sep 2019 23:00:00 GMT",
+            "published_parsed": [
+                2019,
+                9,
+                17,
+                23,
+                0,
+                0,
+                1,
+                260,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities",
+            "guidislink": false,
+            "updated": "2019-09-17T23:00:00Z",
+            "updated_parsed": [
+                2019,
+                9,
+                17,
+                23,
+                0,
+                0,
+                1,
+                260,
+                0
+            ]
+        },
+        {
+            "title": "Incident trends report (October 2018 - April 2019)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Incident trends report (October 2018 - April 2019)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/incident-trends-report"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/incident-trends-report",
+            "summary": "Cyber incident trends in the UK with guidance on how to defend against, and recover from them.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Cyber incident trends in the UK with guidance on how to defend against, and recover from them."
+            },
+            "published": "Thu, 29 Aug 2019 23:00:00 GMT",
+            "published_parsed": [
+                2019,
+                8,
+                29,
+                23,
+                0,
+                0,
+                3,
+                241,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/incident-trends-report",
+            "guidislink": false,
+            "updated": "2019-08-29T23:00:00Z",
+            "updated_parsed": [
+                2019,
+                8,
+                29,
+                23,
+                0,
+                0,
+                3,
+                241,
+                0
+            ]
+        },
+        {
+            "title": "Active Cyber Defence (ACD) - The Second Year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Active Cyber Defence (ACD) - The Second Year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019",
+            "summary": "The second report examining how the NCSC's ACD programme is improving the security of the UK public sector and the wider UK cyber ecosystem.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The second report examining how the NCSC's ACD programme is improving the security of the UK public sector and the wider UK cyber ecosystem."
+            },
+            "published": "Mon, 15 Jul 2019 23:00:00 GMT",
+            "published_parsed": [
+                2019,
+                7,
+                15,
+                23,
+                0,
+                0,
+                0,
+                196,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/active-cyber-defence-report-2019",
+            "guidislink": false,
+            "updated": "2019-07-15T23:00:00Z",
+            "updated_parsed": [
+                2019,
+                7,
+                15,
+                23,
+                0,
+                0,
+                0,
+                196,
+                0
+            ]
+        },
+        {
+            "title": "Joint report on publicly available hacking tools",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Joint report on publicly available hacking tools"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools",
+            "summary": "How to limit the effectiveness of tools commonly used by malicious actors.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "How to limit the effectiveness of tools commonly used by malicious actors."
+            },
+            "published": "Wed, 10 Oct 2018 23:00:00 GMT",
+            "published_parsed": [
+                2018,
+                10,
+                10,
+                23,
+                0,
+                0,
+                2,
+                283,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools",
+            "guidislink": false,
+            "updated": "2018-10-10T23:00:00Z",
+            "updated_parsed": [
+                2018,
+                10,
+                10,
+                23,
+                0,
+                0,
+                2,
+                283,
+                0
+            ]
+        },
+        {
+            "title": "'The cyber threat to UK legal sector' 2018 report",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "'The cyber threat to UK legal sector' 2018 report"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report",
+            "summary": "A new report from the NCSC explaining how UK law firms - of all sizes - can protect themselves from common cyber threats.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "A new report from the NCSC explaining how UK law firms - of all sizes - can protect themselves from common cyber threats."
+            },
+            "published": "Wed, 18 Jul 2018 23:00:00 GMT",
+            "published_parsed": [
+                2018,
+                7,
+                18,
+                23,
+                0,
+                0,
+                2,
+                199,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/-the-cyber-threat-to-uk-legal-sector--2018-report",
+            "guidislink": false,
+            "updated": "2018-07-18T23:00:00Z",
+            "updated_parsed": [
+                2018,
+                7,
+                18,
+                23,
+                0,
+                0,
+                2,
+                199,
+                0
+            ]
+        },
+        {
+            "title": "The Cyber Threat to UK Business",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The Cyber Threat to UK Business"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business",
+            "summary": "First joint National Cyber Security Centre (NCSC) and National Crime Agency (NCA) report published today.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "First joint National Cyber Security Centre (NCSC) and National Crime Agency (NCA) report published today."
+            },
+            "published": "Wed, 15 Mar 2017 00:00:00 GMT",
+            "published_parsed": [
+                2017,
+                3,
+                15,
+                0,
+                0,
+                0,
+                2,
+                74,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/cyber-threat-uk-business",
+            "guidislink": false,
+            "updated": "2017-03-15T00:00:00Z",
+            "updated_parsed": [
+                2017,
+                3,
+                15,
+                0,
+                0,
+                0,
+                2,
+                74,
+                0
+            ]
+        },
+        {
+            "title": "CERT-UK Annual Report 2015/16",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "CERT-UK Annual Report 2015/16"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516",
+            "summary": "",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": ""
+            },
+            "published": "Tue, 10 May 2016 23:00:00 GMT",
+            "published_parsed": [
+                2016,
+                5,
+                10,
+                23,
+                0,
+                0,
+                1,
+                131,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/cert-uk-annual-report-201516",
+            "guidislink": false,
+            "updated": "2016-05-10T23:00:00Z",
+            "updated_parsed": [
+                2016,
+                5,
+                10,
+                23,
+                0,
+                0,
+                1,
+                131,
+                0
+            ]
+        }
+    ]
+}

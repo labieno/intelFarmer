@@ -1,0 +1,1578 @@
+{
+    "articles": [
+        {
+            "title": "China-linked APT likely linked to Fortinet zero-day attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "China-linked APT likely linked to Fortinet zero-day attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 17 Mar 2023 12:35:03 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                12,
+                35,
+                3,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "APT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Fortinet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143594",
+            "guidislink": false,
+            "summary": "<p>An alleged Chinese threat actor group is behind attacks on government organizations exploiting a Fortinet zero-day flaw (CVE-2022-41328). A suspected China-linked group is exploiting a Fortinet zero-day vulnerability, tracked as CVE-2022-41328, in attacks aimed at government organizations. A few days ago, Fortinet researchers warned of an advanced threat actor that is targeting governmental or government-related [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html\" rel=\"nofollow\">China-linked APT likely linked to Fortinet zero-day attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>An alleged Chinese threat actor group is behind attacks on government organizations exploiting a Fortinet zero-day flaw (CVE-2022-41328). A suspected China-linked group is exploiting a Fortinet zero-day vulnerability, tracked as CVE-2022-41328, in attacks aimed at government organizations. A few days ago, Fortinet researchers warned of an advanced threat actor that is targeting governmental or government-related [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html\" rel=\"nofollow\">China-linked APT likely linked to Fortinet zero-day attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>An alleged Chinese threat actor group is behind attacks on government organizations exploiting a Fortinet zero-day flaw (CVE-2022-41328).</h2>\n\n\n\n<p>A suspected China-linked group is exploiting a Fortinet zero-day vulnerability, tracked as <a href=\"https://securityaffairs.com/143458/hacking/attacks-fortinet-fortios.html\">CVE-2022-41328</a>, in attacks aimed at government organizations.</p>\n\n\n\n<p>A few days ago, Fortinet researchers warned of an advanced threat actor that is targeting governmental or government-related entities.</p>\n\n\n\n<p>The unknown threat actor is exploiting a vulnerability in Fortinet FortiOS software, tracked as&nbsp;<a href=\"https://www.fortiguard.com/psirt/FG-IR-22-369\"><strong>CVE-2022-41328</strong></a>, that may allow a privileged attacker to read and write arbitrary files via crafted CLI commands.</p>\n\n\n\n<p>The&nbsp;<a href=\"https://www.fortiguard.com/psirt/FG-IR-22-369\"><strong>CVE-2022-41328</strong></a>&nbsp;vulnerability (CVSS score: 6.5) is a path traversal issue in FortiOS can can result in arbitrary code execution.</p>\n\n\n\n<p><em>\u201cA improper limitation of a pathname to a restricted directory vulnerability (\u2018path traversal\u2019) [CWE-22] in FortiOS may allow a privileged attacker to read and write arbitrary files via crafted CLI commands.\u201d reads the&nbsp;<a href=\"https://www.fortinet.com/blog/psirt-blogs/fg-ir-22-369-psirt-analysis\"><strong>advisory</strong></a>&nbsp;published by Fortinet.</em></p>\n\n\n\n<p>The vulnerability impacts FortiOS versions 6.0, 6.2, 6.4.0 through 6.4.11, 7.0.0 through 7.0.9, and 7.2.0 through 7.2.3. The company addressed the vulnerability with the release of versions 6.4.12, 7.0.10, and 7.2.4 respectively.</p>\n\n\n\n<p>Fortinet launched an investigation into the attacks after the FortiGate devices of one customer suddenly halted and failed to reboot. The devices halted displaying the following error message:</p>\n\n\n\n<p><em>\u201cSystem enters error-mode due to FIPS error: Firmware Integrity self-test failed\u201d</em></p>\n\n\n\n<p>The failure of the integrity test blocks the reboot of the device to protect the integrity of the network.</p>\n\n\n\n<p>Mandiant researchers linked a series of attacks that took place in mid-2022 to a China-linked threat actor tracked as <a href=\"https://securityaffairs.com/136408/hacking/vmware-esxi-hypervisors-malware.html\">UNC3886</a> by the security firm.</p>\n\n\n\n<p><em>&#8220;a suspected China-nexus threat actor likely already had access to victim environments, and then deployed backdoors onto Fortinet and VMware solutions as a means of maintaining persistent access to the environments.&#8221; <em>reads the <a href=\"https://www.mandiant.com/resources/blog/fortinet-malware-ecosystem\"><strong>report</strong></a> published by Mandiant.</em> &#8220;This involved the use of a local zero-day vulnerability in FortiOS (CVE-2022-41328) and deployment of multiple custom malware families on Fortinet and VMware systems.&#8221; </em></p>\n\n\n\n<p>The attackers exploted the CVE-2022-41328 zero-day to write files to FortiGate firewall disks outside of the normal bounds allowed with shell access., then they maintained persistent access with Super Administrator privileges within FortiGate Firewalls through ICMP port knocking.</p>\n\n\n\n<p>Threat actors also bypassed the firewall rules active on FortiManager devices with a passive traffic redirection utility. The attackers also used a custom API endpoint created within the device to maintain persistence \u00f9on FortiManager and FortiAnalyzer, then disabled OpenSSL 1.1.0 digital signature verification of system files through targeted corruption of boot files.</p>\n\n\n\n<p>Once compromised the Fortinet devices, the threat actors established backdoor access using two previously undocumented malware, a Python-based Thincrust backdoor disguised as legitimate API calls and the ICMP port-knocking Castletap passive backdoor.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-31.png?ssl=1\"><img alt=\"Fortinet\" class=\"wp-image-143604\" height=\"814\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-31.png?resize=574%2C814&#038;ssl=1\" width=\"574\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure></div>\n\n\n<p>Once obtained access to the Fortinet devices, the attackers targeted ESXi servers to deploy malicious vSphere Installation Bundles which contained VIRTUALPITA and VIRTUALPIE backdoors. This allowed the attackers to maintain persistent access to the hypervisors and execute commands on guest virtual machines.</p>\n\n\n\n<p>When FortiManager was not exposed to the Internet, the threat actors deployed a traffic redirector (Tableflip) and a passive backdoor (Reptile) to circumvent the new ACLs.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-32.png?ssl=1\"><img alt=\"Fortinet\" class=\"wp-image-143605\" height=\"644\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-32.png?resize=642%2C644&#038;ssl=1\" width=\"642\" /></a></figure></div>\n\n\n<p><em>&#8220;many network appliances lack solutions to detect runtime modifications made to the underlying operating system and require direct involvement of the manufacturer to collect forensic images. Cross organizational communication and collaboration is key to providing both manufacturers with early notice of new attack methods in the wild before they are made public and investigators with expertise to better shed light on these new attacks.&#8221; concludes Mandiant.</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Fortinet)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html\" rel=\"nofollow\">China-linked APT likely linked to Fortinet zero-day attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143594"
+        },
+        {
+            "title": "Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Thu, 16 Mar 2023 23:16:17 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                23,
+                16,
+                17,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mobile",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "RCE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Samsung",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Samsung Exynos",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143582",
+            "guidislink": false,
+            "summary": "<p>Google\u2019s Project Zero hackers found multiple flaws in Samsung \u2019s Exynos chipsets that expose devices to remote hack with no user interaction. White hat hackers at Google&#8217;s Project Zero unit discovered multiple vulnerabilities Samsung \u2019s Exynos chipsets that can be exploited by remote attackers to compromise phones without user interaction. The researchers discovered a total [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html\" rel=\"nofollow\">Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Google\u2019s Project Zero hackers found multiple flaws in Samsung \u2019s Exynos chipsets that expose devices to remote hack with no user interaction. White hat hackers at Google&#8217;s Project Zero unit discovered multiple vulnerabilities Samsung \u2019s Exynos chipsets that can be exploited by remote attackers to compromise phones without user interaction. The researchers discovered a total [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html\" rel=\"nofollow\">Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Google\u2019s Project Zero hackers found multiple flaws in Samsung \u2019s Exynos chipsets that expose devices to remote hack with no user interaction.</h2>\n\n\n\n<p>White hat hackers at Google&#8217;s Project Zero unit discovered multiple vulnerabilities Samsung \u2019s Exynos chipsets that can be exploited by remote attackers to compromise phones without user interaction.</p>\n\n\n\n<p>The researchers discovered a total of eighteen vulnerabilities, the four most severe of these flaws (CVE-2023-24033 and three other vulnerabilities that have yet to be assigned CVE-IDs) allowed for Internet-to-baseband remote code execution. </p>\n\n\n\n<p>An attacker only needs to know the victim&#8217;s phone number to exploit these vulnerabilities.</p>\n\n\n\n<p><em>&#8220;Tests conducted by Project Zero confirm that those four vulnerabilities allow an attacker to remotely compromise a phone at the baseband level with no user interaction, and require only that the attacker know the victim&#8217;s phone number.&#8221; reads the <a href=\"https://googleprojectzero.blogspot.com/2023/03/multiple-internet-to-baseband-remote-rce.html\"><strong>advisory</strong></a> published by Google. &#8220;With limited additional research and development, we believe that skilled attackers would be able to quickly create an operational exploit to compromise affected devices silently and remotely.&#8221;</em></p>\n\n\n\n<p>Experts warn that skilled threat actors would be able to create an exploit to compromise impacted devices in a stealthy way.</p>\n\n\n\n<p>The experts recommend turning off Wi-Fi calling and Voice-over-LTE (VoLTE) in settings of vulnerable devices to prevent baseband remote code execution attacks.</p>\n\n\n\n<p><em>&#8220;Until security updates are available, users who wish to protect themselves from the baseband remote code execution vulnerabilities in Samsung\u2019s Exynos chipsets can turn off Wi-Fi calling and Voice-over-LTE (VoLTE) in their device settings. Turning off these settings will remove the exploitation risk of these vulnerabilities.&#8221; states the report.</em></p>\n\n\n\n<p><a href=\"https://semiconductor.samsung.com/support/quality-support/product-security-updates/\">Samsung Semiconductor&#8217;s advisories</a>\u00a0provide the list of Exynos chipsets impacted by these vulnerabilities. Below is a list of devices allegedly affected by these flaws:</p>\n\n\n\n<ul>\n<li>Mobile devices from Samsung, including those in the S22, M33, M13, M12, A71, A53, A33, A21, A13, A12 and A04 series;</li>\n\n\n\n<li>Mobile devices from Vivo, including those in the S16, S15, S6, X70, X60 and X30 series;</li>\n\n\n\n<li>The Pixel 6 and Pixel 7 series of devices from Google;</li>\n\n\n\n<li>any wearables that use the Exynos W920 chipset; and</li>\n\n\n\n<li>any vehicles that use the Exynos Auto T5123 chipset.</li>\n</ul>\n\n\n\n<p>Google did not disclose technical details of these flaws to avoid threat actors could develop their own exploits.</p>\n\n\n\n<p><em>\u201cDue to a very rare combination of level of access these vulnerabilities provide and the speed with which we believe a reliable operational exploit could be crafted, we have decided to make a policy exception to delay disclosure for the four vulnerabilities that allow for Internet-to-baseband remote code execution,\u201d said Project Zero leam lead Tim Willis</em>.</p>\n\n\n\n<p>The experts are disclosing details only for five vulnerabilities (CVE-2023-26072, CVE-2023-26073, CVE-2023-26074, CVE-2023-26075 and CVE-2023-26076) that have exceeded Project Zero&#8217;s standard 90-day deadline. </p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Samsung\u2019s <a href=\"https://securityaffairs.com/138302/hacking/surveillance-vendor-exploited-samsung-phone-zero-days.html\">Exynos</a>)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html\" rel=\"nofollow\">Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143582"
+        },
+        {
+            "title": "Microsoft sheds light on a year of Russian hybrid warfare in Ukraine",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Microsoft sheds light on a year of Russian hybrid warfare in Ukraine"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Thu, 16 Mar 2023 18:58:53 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                18,
+                58,
+                53,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber warfare",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ukraine",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Wiper",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143570",
+            "guidislink": false,
+            "summary": "<p>Russia-linked threat actors targeted at least 17 European nations in 2023, and 74 countries since the start of the invasion of Ukraine. Microsoft revealed that Russia-linked threat actors targeted at least 17 European nations between January and mid-February 2023. According to a report published by the IT giant, the state-sponsored hackers have targeted 74 countries [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html\" rel=\"nofollow\">Microsoft sheds light on a year of Russian hybrid warfare in Ukraine</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Russia-linked threat actors targeted at least 17 European nations in 2023, and 74 countries since the start of the invasion of Ukraine. Microsoft revealed that Russia-linked threat actors targeted at least 17 European nations between January and mid-February 2023. According to a report published by the IT giant, the state-sponsored hackers have targeted 74 countries [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html\" rel=\"nofollow\">Microsoft sheds light on a year of Russian hybrid warfare in Ukraine</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Russia-linked threat actors targeted at least 17 European nations in 2023, and 74 countries since the start of the invasion of Ukraine.</h2>\n\n\n\n<p>Microsoft revealed that Russia-linked threat actors targeted at least 17 European nations between January and mid-February 2023. According to a report published by the IT giant, the state-sponsored hackers have targeted 74 countries since the start of the invasion of Ukraine. The cyber espionage operations aimed at government and defense-related organizations in Central and Eastern Europe and the Americas.</p>\n\n\n\n<p><em>&#8220;Between January and mid-February 2023, Microsoft threat intelligence analysts have found indications of Russian threat activity against organizations in at least 17 European nations, with the government sector the most targeted.&#8221; reads the <a href=\"https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/03/A-year-of-Russian-hybrid-warfare-in-Ukraine_MS-Threat-Intelligence-1.pdf\"><strong>report</strong></a> published by Microsoft. &#8220;While these actions are most likely intended to boost intelligence collection against organizations providing political and material support to Ukraine, they could also, if directed, inform destructive operations.&#8221;</em></p>\n\n\n\n<p>The report also states that the Russia-linked APT group <a href=\"https://securityaffairs.com/138362/apt/prestige-ransomware-linked-iridium.html\">IRIDIUM</a> appears to be preparing for a renewed destructive campaign. The group could target Ukraine with destructive malware such as <a href=\"https://securityaffairs.com/128538/cyber-warfare-2/foxblade-malware-used-hours-before-invasion.html\">Foxblade</a> and <a href=\"https://securityaffairs.com/129069/cyber-warfare-2/caddywiper-wiper-hits-ukraine.html\">Caddywiper</a>. The experts also reported that as of late 2022, the state actor may also have been testing additional malware with similar capabilities in destructive attacks on organizations outside Ukraine that serve key functions in Ukraine\u2019s supply lines. </p>\n\n\n\n<p>Sandworm&nbsp;(aka&nbsp;<a href=\"https://securityaffairs.co/wordpress/77132/cyber-warfare-2/blackenergy-hit-ukraine.html\">BlackEnergy</a>&nbsp;and&nbsp;<a href=\"https://securityaffairs.co/wordpress/54415/cyber-warfare-2/telebots.html\">TeleBots</a>)&nbsp;has been active since 2000, it operates under the control of&nbsp;<a href=\"https://securityaffairs.co/wordpress/76869/intelligence/7-russian-gru-indictment.html\">Unit 74455</a>&nbsp;of&nbsp;the Russian GRU\u2019s Main Center for Special Technologies (GTsST).</p>\n\n\n\n<p>The group is also the author of the&nbsp;<a href=\"https://securityaffairs.co/wordpress/62085/malware/maersk-notpetya-losses.html\">NotPetya ransomware</a>&nbsp;that hit hundreds of companies worldwide in June 2017, causing billions worth of damage.</p>\n\n\n\n<p>In April,&nbsp;<a href=\"https://securityaffairs.co/wordpress/114606/apt/anssi-sandworm-hosting-providers-attacks.html\">Sandworm</a>&nbsp;targeted energy facilities in Ukraine with a new strain of the&nbsp;<a href=\"https://securityaffairs.co/wordpress/77051/malware/exaramel-malware.html\">Industroyer</a>&nbsp;ICS malware (INDUSTROYER2) and a new version of the&nbsp;<a href=\"https://securityaffairs.co/wordpress/129069/cyber-warfare-2/caddywiper-wiper-hits-ukraine.html\">CaddyWiper</a>&nbsp;wiper.</p>\n\n\n\n<p>The APT hacking group is believed to have been behind numerous attacks this year, including an attack on\u00a0<a href=\"https://www.bleepingcomputer.com/news/security/sandworm-hackers-fail-to-take-down-ukrainian-energy-provider/\" rel=\"noreferrer noopener\" target=\"_blank\">Ukrainian energy infrastructure</a>\u00a0and the deployment of a persistent botnet called \u201c<a href=\"https://www.bleepingcomputer.com/news/security/us-uk-link-new-cyclops-blink-malware-to-russian-state-hackers/\" rel=\"noreferrer noopener\" target=\"_blank\">Cyclops Blink</a>\u201d dismantled by the US government in April.</p>\n\n\n\n<p>The most targeted countries since February 2022 are the United States (21%), followed by Poland (10%) and the UK (9%).\u00a0 The most targeted sectors outside Ukraine since Feb 2022 are government, IT/communications, and Think Tank/NGO. </p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-30.png?ssl=1\"><img alt=\"Russia-linked APT groups attack Ukraine war\" class=\"wp-image-143576\" height=\"422\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-30.png?resize=1024%2C422&#038;ssl=1\" width=\"1024\" /></a></figure></div>\n\n\n<p><em>&#8220;Within the 74 countries targeted by Russian threat actors between February 23, 2022 and February 7 of this year, Russian threat actors were most interested in government and IT sector organizations, just as they were in Ukraine. Several actors compromise IT firms to exploit trusted technical relationships and gain access to those firms\u2019 clients in government, policy, and other sensitive organizations.&#8221; continues the report.</em></p>\n\n\n\n<p>Microsoft reported that common tactics and techniques adopted by Russia-linked actors to breach the target networks have included the exploitation of internet-facing applications, backdoored pirated software, and ubiquitous spearphishing. </p>\n\n\n\n<p><em>&#8220;Should Russia suffer more setbacks on the battlefield, Russian actors may seek to expand their targeting of military and humanitarian supply chains by pursuing destructive attacks beyond Ukraine and Poland. These possible cyberattacks, should the last year\u2019s pattern continue, may incorporate newer destructive malware variants as well.Should Russia suffer more setbacks on the battlefield, Russian actors may seek to expand their targeting of military and humanitarian supply chains by pursuing destructive attacks beyond Ukraine and Poland.&#8221; concludes the report. &#8220;These possible cyberattacks, should the last year\u2019s pattern continue, may incorporate newer destructive malware variants as well.&#8221;</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Ukraine)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html\" rel=\"nofollow\">Microsoft sheds light on a year of Russian hybrid warfare in Ukraine</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143570"
+        },
+        {
+            "title": "Polish intelligence dismantled a network of Russian spies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Polish intelligence dismantled a network of Russian spies"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Thu, 16 Mar 2023 15:50:47 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                15,
+                50,
+                47,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber warfare",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Polish intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ukraine",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143564",
+            "guidislink": false,
+            "summary": "<p>Polish intelligence dismantled a cell of Russian spies that gathered info on military equipment deliveries to Ukraine via the EU member. Polish counter-intelligence has dismantled a cell of Russian spies that gathered information on the provisioning of military equipment to Ukraine via the EU member. \u201cThe ABW counter-intelligence agency has arrested nine people suspected of [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html\" rel=\"nofollow\">Polish intelligence dismantled a network of Russian spies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Polish intelligence dismantled a cell of Russian spies that gathered info on military equipment deliveries to Ukraine via the EU member. Polish counter-intelligence has dismantled a cell of Russian spies that gathered information on the provisioning of military equipment to Ukraine via the EU member. \u201cThe ABW counter-intelligence agency has arrested nine people suspected of [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html\" rel=\"nofollow\">Polish intelligence dismantled a network of Russian spies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Polish intelligence dismantled a cell of Russian spies that gathered info on military equipment deliveries to Ukraine via the EU member.</h2>\n\n\n\n<p>Polish counter-intelligence has dismantled a cell of Russian spies that gathered information on the provisioning of military equipment to Ukraine via the EU member. </p>\n\n\n\n<p><em>\u201cThe ABW counter-intelligence agency has arrested nine people suspected of working for the Russian secret service,\u201d Poland\u2019s Interior Minister Mariusz Kaminski <a href=\"https://www.securityweek.com/poland-breaks-up-russian-spy-ring/\"><strong>told reporters</strong></a>. \u201cThe suspects had been conducting espionage activities against Poland and preparing acts of sabotage on behalf of Russian intelligence services.\u201d </em></p>\n\n\n\n<p>The suspects are \u201cforeigners from across Poland\u2019s eastern border,\u201d Kaminski added. </p>\n\n\n\n<p>Polish Defense Minister Mariusz Blaszczak also confirmed that the network has been dismantled by the country&#8217;s counter-intelligence.</p>\n\n\n\n<p>Polish authorities charged six suspects with espionage and participation in an organized criminal group. The other three individuals arrested by the authorities were still being questioned. The member of the spy network received regular payment from the Russian secret services.</p>\n\n\n\n<p>Kaminski also added that the cell was planning acts of sabotage to interfere with the delivery of military equipment and aid to Ukraine. The group was also involved in carrying out propaganda activity to destabilize Polish-Ukrainian relations as well as\u00a0fomenting anti-NATO sentiment in Poland.</p>\n\n\n\n<p><em>\u201cThe suspects had also been preparing acts of sabotage meant to paralyze the delivery of military equipment, arms, and Ukraine aid,\u201d Kaminski declared.</em></p>\n\n\n\n<p>The agents of the Polish Internal Security Agency ABW seized electronic equipment and GPS transmitters that once installed on trains carrying aid to Ukraine allowed Russian intelligence to track the shipments.</p>\n\n\n\n<p>Local media, such as the Polish radio station RMF, reported that the spies installed hidden cameras on important railway routes and junctions, recording and transmitting data on traffic.</p>\n\n\n\n<p>The Polish intelligence fears sabotage operations against railroads and critical infrastructure involved in the provisioning of military equipment to Ukraine.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Polish intelligence)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html\" rel=\"nofollow\">Polish intelligence dismantled a network of Russian spies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143564"
+        },
+        {
+            "title": "Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Thu, 16 Mar 2023 10:58:38 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                10,
+                58,
+                38,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143557",
+            "guidislink": false,
+            "summary": "<p>Multiple threat actors exploited a critical flaw in Progress Telerik to breach an unnamed US federal agency, said the US government. A\u00a0joint advisory\u00a0issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) revealed that multiple threat actors, including a nation-state actor, exploited a [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html\" rel=\"nofollow\">Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Multiple threat actors exploited a critical flaw in Progress Telerik to breach an unnamed US federal agency, said the US government. A\u00a0joint advisory\u00a0issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) revealed that multiple threat actors, including a nation-state actor, exploited a [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html\" rel=\"nofollow\">Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Multiple threat actors exploited a critical flaw in Progress Telerik to breach an unnamed US federal agency, said the US government.</h2>\n\n\n\n<p>A\u00a0<a href=\"https://www.cisa.gov/news-events/analysis-reports/ar23-074a\" rel=\"noreferrer noopener\" target=\"_blank\">joint advisory</a>\u00a0issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) revealed that multiple threat actors, including a nation-state actor, exploited a critical vulnerability in Progress Telerik to breach an unnamed US federal agency.</p>\n\n\n\n<p>The three-year-old vulnerability, tracked as\u00a0<a href=\"https://securityaffairs.com/109796/hacking/nsa-flaws-china-linked-hackers.html\">CVE-2019-18935</a>\u00a0(CVSS score: 9.8), is a .NET deserialization issue that resides in the Progress Telerik UI for ASP.NET AJAX. Exploitation can result in remote code execution.</p>\n\n\n\n<p><em>&#8220;CISA analysts determined that multiple cyber threat actors, including an Advanced Persistent Threat (APT) actor, exploited a .NET deserialization vulnerability in Progress Telerik user interface for ASP.NET AJAX. Exploitation of this vulnerability allowed malicious actors to successfully execute remote code on a federal civilian executive branch (FCEB) agency\u2019s Microsoft Internet Information Services (IIS) web server.&#8221; reads the <a href=\"https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-074a\">advisory</a>. &#8220;Actors were then able to upload malicious dynamic-link library (DLL) files (some masqueraded as portable network graphics [PNG] files) to the C:\\Windows\\Temp\\ directory.&#8221;\u00a0</em></p>\n\n\n\n<p>Threat actors exploited the vulnerability to execute arbitrary code on a Microsoft Internet Information Services (IIS) web server used by a federal civilian executive branch (FCEB) agency.</p>\n\n\n\n<p>In 2020 and 2021, this flaw was included by the US National Security Agency (NSA) in the list of the <a href=\"https://securityaffairs.com/109796/hacking/nsa-flaws-china-linked-hackers.html\">top 25 vulnerabilities</a> exploited by Chinese state-sponsored hacking groups in attacks in the wild.</p>\n\n\n\n<p>The flaw was also <a href=\"https://securityaffairs.com/106737/cyber-crime/netwalker-ransomware-25m.html\"><strong>used</strong></a> in the past by the <a href=\"https://securityaffairs.co/wordpress/104042/cyber-crime/michigan-state-university-ransomware.html\">NetWalker ransomware gang</a>\u00a0in its operations.</p>\n\n\n\n<p>The joint alert recommends network defenders review the Malware Analysis Report,\u00a0<a href=\"https://www.cisa.gov/news-events/analysis-reports/ar23-074a\">MAR-10413062-1.v1 Telerik Vulnerability in U.S. Government IIS Server</a>, to reference CISA&#8217;s analysis for the identified malicious files.</p>\n\n\n\n<p>According to the MAR, CISA received 18 files for analysis from a forensic analysis engagement conducted at a Federal Civilian Executive Branch (FCEB) agency. Experts reported that 11 of the dynamic link library (DLL) files employed in the attack allows threat actors to read, create, and delete files on the target systems. </p>\n\n\n\n<p><em>&#8220;If the DLL contains a hardcoded Internet Protocol (IP) address, status messages will be sent to the IP. One DLL file will attempt to collect the target system&#8217;s Transmission Control Protocol (TCP) connection table, and exfiltrate it to a remote Command and Control server (C2).&#8221; <a href=\"https://www.cisa.gov/sites/default/files/2023-03/mar-10413062-1.v1_telerik_vulnerability_in_u.s._government_iis_server_1.pdf\">reads the MAR</a>. &#8220;Five of the files drop and decode a reverse shell utility that can send and receive data and commands. In addition, the files drop and decode an Active Server Pages (ASPX) webshell. Two DLL files are capable of loading and executing payloads.&#8221;</em></p>\n\n\n\n<p>US CISA has also provided Indicators of Compromise (IOCs) and YARA rules for detection in the Malware Analysis Report (MAR).</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p>(SecurityAffairs\u00a0\u2013 hacking, Progress Telerik<strong>)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html\" rel=\"nofollow\">Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143557"
+        },
+        {
+            "title": "CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Thu, 16 Mar 2023 08:47:40 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                8,
+                47,
+                40,
+                3,
+                75,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Adobe ColdFusion",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Known Exploited Vulnerabilities Catalog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143553",
+            "guidislink": false,
+            "summary": "<p>US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog. U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as\u00a0CVE-2023-26360\u00a0(CVSS score: 8.6), to its\u00a0Known Exploited Vulnerabilities Catalog. This week Adobe released security updates for ColdFusion versions\u202f2021 and\u202f2018 to resolve the critical flaw [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html\" rel=\"nofollow\">CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog. U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as\u00a0CVE-2023-26360\u00a0(CVSS score: 8.6), to its\u00a0Known Exploited Vulnerabilities Catalog. This week Adobe released security updates for ColdFusion versions\u202f2021 and\u202f2018 to resolve the critical flaw [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html\" rel=\"nofollow\">CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog.</h2>\n\n\n\n<p>U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as\u00a0<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-26360\" rel=\"noreferrer noopener\" target=\"_blank\">CVE-2023-26360</a>\u00a0(CVSS score: 8.6), to its\u00a0<a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" rel=\"noreferrer noopener\" target=\"_blank\">Known Exploited Vulnerabilities Catalog</a>.</p>\n\n\n\n<p>This week Adobe <a href=\"https://securityaffairs.com/143479/security/adobe-cold-fusion-exploited-bug.html\"><strong>released security updates</strong></a> for ColdFusion versions\u202f2021 and\u202f2018 to resolve the critical flaw CVE-2023-26360 that was exploited in very limited attacks.</p>\n\n\n\n<p><em>\u201cAdobe is aware that CVE-2023-26360\u00a0has been exploited in the wild in very limited attacks targeting Adobe ColdFusion.\u201d reads the\u00a0<a href=\"https://helpx.adobe.com/security/products/coldfusion/apsb23-25.html\"><strong>advisory</strong></a>\u00a0published by the company.</em></p>\n\n\n\n<p>The vulnerability is an Improper Access Control that can allow a remote attacker to execute arbitrary code. The vulnerability could also lead to\u202farbitrary file system read and memory leak.</p>\n\n\n\n<p>According to\u00a0<a href=\"https://cyber.dhs.gov/bod/22-01/\" rel=\"noreferrer noopener\" target=\"_blank\">Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities</a>, FCEB agencies have to address the identified vulnerabilities by the due date to protect their networks against attacks exploiting the flaws in the catalog.</p>\n\n\n\n<p>Experts recommend also private organizations review the&nbsp;<a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" rel=\"noreferrer noopener\" target=\"_blank\">Catalog</a>&nbsp;and address the vulnerabilities in their infrastructure.</p>\n\n\n\n<p>CISA orders federal agencies to fix this flaw by\u00a0April 5, 2023.</p>\n\n\n\n<p>The US Agency also added the following vulnerabilities to the catalog that must be addressed by April 4, 2023.</p>\n\n\n\n<ul>\n<li><a href=\"https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html\">CVE-2023-23397</a> &#8211; Microsoft Office Outlook Privilege Escalation Vulnerability.</li>\n\n\n\n<li><a href=\"https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html\">CVE-2023-24880</a> &#8211; Microsoft Windows SmartScreen Security Feature Bypass Vulnerability.</li>\n\n\n\n<li><a href=\"https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html\">CVE-2022-41328</a> &#8211; Fortinet FortiOS Path Traversal Vulnerability.</li>\n</ul>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, CISA)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html\" rel=\"nofollow\">CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143553"
+        },
+        {
+            "title": "Russia-linked APT29 abuses EU information exchange systems in recent attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Russia-linked APT29 abuses EU information exchange systems in recent attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Wed, 15 Mar 2023 23:28:31 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                23,
+                28,
+                31,
+                2,
+                74,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "APT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber warfare",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "APT29",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyberespionage",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143545",
+            "guidislink": false,
+            "summary": "<p>Russia-linked APT29 group abused the legitimate information exchange systems used by European countries to target government entities. Russia-linked APT29 (aka\u00a0SVR group,\u00a0Cozy Bear,\u00a0Nobelium, and\u00a0The Dukes) was spotted abusing the legitimate information exchange systems used by European countries in attacks aimed at governments. In early March, BlackBerry researchers uncovered a new cyber espionage campaign aimed at EU [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html\" rel=\"nofollow\">Russia-linked APT29 abuses EU information exchange systems in recent attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Russia-linked APT29 group abused the legitimate information exchange systems used by European countries to target government entities. Russia-linked APT29 (aka\u00a0SVR group,\u00a0Cozy Bear,\u00a0Nobelium, and\u00a0The Dukes) was spotted abusing the legitimate information exchange systems used by European countries in attacks aimed at governments. In early March, BlackBerry researchers uncovered a new cyber espionage campaign aimed at EU [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html\" rel=\"nofollow\">Russia-linked APT29 abuses EU information exchange systems in recent attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Russia-linked APT29 group abused the legitimate information exchange systems used by European countries to target government entities.</h2>\n\n\n\n<p>Russia-linked <a href=\"https://securityaffairs.com/138322/apt/apt29-windows-credential-roaming.html\">APT29</a> (aka\u00a0<a href=\"https://securityaffairs.co/wordpress/116891/cyber-warfare-2/russia-svr-actively-targets-5-flaws.html\">SVR group</a>,\u00a0<a href=\"https://securityaffairs.co/wordpress/53318/intelligence/cozy-bear-post-election.html\">Cozy Bear</a>,\u00a0<a href=\"https://securityaffairs.co/wordpress/134838/apt/nobelium-magicweb-tool.html\">Nobelium</a>, and\u00a0<a href=\"https://securityaffairs.co/wordpress/40214/cyber-crime/the-dukes-apt.html\">The Dukes</a>) was spotted abusing the legitimate information exchange systems used by European countries in attacks aimed at governments.</p>\n\n\n\n<p>In early March, BlackBerry researchers uncovered a new cyber espionage campaign aimed at EU countries. The hackers targeted diplomatic entities and systems transmitting sensitive information about the region&#8217;s politics, aiding Ukrainian citizens fleeing the country, and providing help to the government of Ukraine.</p>\n\n\n\n<p>The attack chain commences with a spear-phishing email containing a weaponized document, which contains a link leading to the download of an HTML file.</p>\n\n\n\n<p>The HTLM files are hosted on a legitimate online library website that was likely compromised by the threat actors sometime between the end of January 2023 and the beginning of February 2023.</p>\n\n\n\n<p><em>&#8220;One of the lures appeals to those who want to find out the Poland Ambassador\u2019s schedule for 2023. It overlaps with Ambassador\u00a0<a href=\"https://www.gov.pl/web/usa-en/the-ambassador2\" rel=\"noreferrer noopener\" target=\"_blank\">Marek Magierowski&#8217;s</a>\u00a0recent visit to the United Statesp; specifically, his\u00a0<a href=\"https://www.law.edu/news-and-events/2023/02/2023-0202-PolandAmbassadorTalk.html\" rel=\"noreferrer noopener\" target=\"_blank\">talk on February 2</a>, where he discussed the war in Ukraine at the Catholic University of America Columbus School of Law, also known as the Catholic Law, which is based in Washington, DC.&#8221; reads the <a href=\"https://blogs.blackberry.com/en/2023/03/nobelium-targets-eu-governments-assisting-ukraine\"><strong>analysis</strong></a> published by BlackBerry.</em></p>\n\n\n\n<p>The APT29 group also abused multiple legitimate systems, including LegisWrite and\u00a0eTrustEx, which are used by EU nations for exchanging info and data in a secure way.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-29.png?ssl=1\"><img alt=\"APT29\" class=\"wp-image-143550\" height=\"455\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-29.png?resize=640%2C455&#038;ssl=1\" width=\"640\" /></a></figure></div>\n\n\n<p>LegisWrite is an editing program used by governments within the European Union, this means that threat actors used it in the malicious lure to target state organizations within the EU specifically.</p>\n\n\n\n<p>The malicious HTML file employed in the attack is a version of NOBELIUM\u2019s dropper tracked as <a href=\"https://securityaffairs.com/130787/apt/apt29-targets-diplomats.html\">ROOTSAW</a> (aka\u00a0<a href=\"https://attack.mitre.org/software/S0634/\" rel=\"noreferrer noopener\" target=\"_blank\">EnvyScout</a>). <a href=\"https://securityaffairs.com/133409/apt/apt29-google-drive-dropbox.html\">EnvyScout</a> uses the <a href=\"https://securityaffairs.com/139658/cyber-crime/qbot-html-smuggling-svg.html\">HTML smuggling</a> technique to deliver an IMG or ISO file to the victim\u2019s system.</p>\n\n\n\n<p>To maintain persistence, a new registry key is created under \u201cHKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\DsDiBacks\u201d. </p>\n\n\n\n<p>The BugSplatRc64.dll file allows cyber spies to collect and exfiltrate information about the infected system. </p>\n\n\n\n<p>The nation-state actor abuses the API the note-taking application Notion for C2 communication, a choice that allows avoiding detection. </p>\n\n\n\n<p><em>&#8220;NOBELIUM actively collects intelligence information about the countries supporting Ukraine in the Russian-Ukraine war. The overlap between Poland&#8217;s Ambassador\u2019s visit to the United States with the lure used in the attacks, provides evidence that the threat actors carefully follow geopolitical events and use them to increase their possibility of a successful infection.&#8221; concludes the report. &#8220;Furthermore, our initial analysis of weaponized LNK files shows that the threat actor behind this campaign used anti-forensic techniques to wipe out personal metadata to remove information connected to its operations systems.&#8221;</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Russia)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html\" rel=\"nofollow\">Russia-linked APT29 abuses EU information exchange systems in recent attacks</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143545"
+        },
+        {
+            "title": "YoroTrooper APT group targets\u00a0CIS countries and embassies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "YoroTrooper APT group targets\u00a0CIS countries and embassies"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Wed, 15 Mar 2023 20:44:50 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                20,
+                44,
+                50,
+                2,
+                74,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "APT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyberespionage",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "YoroTrooper",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143529",
+            "guidislink": false,
+            "summary": "<p>A new APT group, dubbed\u00a0YoroTrooper, has been targeting government and energy organizations across Europe, experts warn. Cisco Talos researchers uncovered a new cyber espionage group targeting CIS countries, embassies and EU health care agency since at least June 2022. The APT group focuses on government or energy organizations in Azerbaijan, Tajikistan, Kyrgyzstan and other Commonwealth [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html\" rel=\"nofollow\">YoroTrooper APT group targets\u00a0CIS countries and embassies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>A new APT group, dubbed\u00a0YoroTrooper, has been targeting government and energy organizations across Europe, experts warn. Cisco Talos researchers uncovered a new cyber espionage group targeting CIS countries, embassies and EU health care agency since at least June 2022. The APT group focuses on government or energy organizations in Azerbaijan, Tajikistan, Kyrgyzstan and other Commonwealth [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html\" rel=\"nofollow\">YoroTrooper APT group targets\u00a0CIS countries and embassies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>A new APT group, dubbed\u00a0YoroTrooper, has been targeting government and energy organizations across Europe, experts warn.</h2>\n\n\n\n<p>Cisco Talos researchers uncovered a new cyber espionage group targeting CIS countries, embassies and EU health care agency since at least June 2022.</p>\n\n\n\n<p>The APT group focuses on government or energy organizations in Azerbaijan, Tajikistan, Kyrgyzstan and other Commonwealth of Independent States (CIS). The experts reported that the group hacked accounts from at least two international organizations, a critical EU health care agency and the World Intellectual Property Organization (WIPO). Talos reported that the threat actor also likely targets other organizations across Europe and Turkish (T\u00fcrkiye) government agencies.</p>\n\n\n\n<p>Data stolen by the threat actors includes credentials from multiple applications, browser histories and cookies, system information and screenshots.</p>\n\n\n\n<p>YoroTrooper\u2019s arsenal includes Python-based, custom-built and open-source information stealers, such as the\u00a0<a href=\"https://github.com/FallenAstaroth/stink?ref=cisco-talos-blog\">Stink stealer</a>\u00a0wrapped into executables via the\u00a0<a href=\"https://github.com/Nuitka/Nuitka?ref=cisco-talos-blog\">Nuitka framework</a>\u00a0and\u00a0<a href=\"https://pyinstaller.org/en/stable/?ref=cisco-talos-blog\">PyInstaller</a>. The group also employed commodity malware in its campaign, such as AveMaria/Warzone RAT, <a href=\"https://securityaffairs.com/138723/malware/lodarat-malware.html\">LodaRAT</a> and Meterpreter.</p>\n\n\n\n<p>The attack vectors are phishing emails with an attached archive containing two files, a shortcut file and a decoy PDF file.  </p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-27.png?ssl=1\"><img alt=\"YoroTrooper\" class=\"wp-image-143536\" height=\"151\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-27.png?resize=482%2C151&#038;ssl=1\" width=\"482\" /></a></figure></div>\n\n\n<p>The malicious LNK files acts as downloaders that uses mshta.exe to download and execute a remote HTA file on the infected endpoint.</p>\n\n\n\n<p><em>&#8220;The malicious HTA files employed in this campaign have seen a steady evolution with the latest variant downloading the next-stage payload: a malicious EXE-based dropper and a decoy document. All these tasks are accomplished by running PowerShell-based commands.&#8221; continues Talos.</em></p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-28.png?ssl=1\"><img alt=\"YoroTrooper\" class=\"wp-image-143538\" height=\"388\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-28.png?resize=656%2C388&#038;ssl=1\" width=\"656\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure></div>\n\n\n<p>Talos states that there are some similarities in their TTPs and victimology between <a href=\"https://securityaffairs.com/101837/hacking/poetrat-trojan-coronavirus.html\">PoetRAT</a> and YoroTrooper\u00a0groups.</p>\n\n\n\n<p>Some evidence collected by the experts suggests the threat actor is Russian-speaking, such as the presence of telegram messages in Russian\u00a0and Cyrillic snippets in the source code of the malware used by the actor.</p>\n\n\n\n<p><em>&#8220;YoroTrooper has been consistently introducing new malware into their infection chains in this campaign, including both custom-built and commodity malware. It is worth noting that while this campaign began with the distribution of commodity malware such as AveMaria and LodaRAT, it has evolved significantly to include Python-based malware.&#8221; concludes the report that also includes Indicators of Compromise (IoCs). &#8220;This highlights an increase in the efforts the threat actor is putting in, likely derived from successful breaches during the course of the campaign.&#8221;</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, YoroTrooper)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html\" rel=\"nofollow\">YoroTrooper APT group targets\u00a0CIS countries and embassies</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143529"
+        },
+        {
+            "title": "CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Wed, 15 Mar 2023 14:38:40 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                14,
+                38,
+                40,
+                2,
+                74,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Dero",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Dero cryptojacking campaign",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Kubernets",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143520",
+            "guidislink": false,
+            "summary": "<p>CrowdStrike researchers discovered the first-ever cryptocurrency mining campaign aimed at Dero mining since February 2023. CrowdStrike has discovered the first-ever\u00a0Dero\u00a0cryptojacking campaign aimed at Kubernetes infrastructure. Dero is a general-purpose, private, and decentralized application platform that allows developers to deploy powerful and unstoppable applications. It claims to offer improved privacy, anonymity and higher monetary rewards compared [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html\" rel=\"nofollow\">CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>CrowdStrike researchers discovered the first-ever cryptocurrency mining campaign aimed at Dero mining since February 2023. CrowdStrike has discovered the first-ever\u00a0Dero\u00a0cryptojacking campaign aimed at Kubernetes infrastructure. Dero is a general-purpose, private, and decentralized application platform that allows developers to deploy powerful and unstoppable applications. It claims to offer improved privacy, anonymity and higher monetary rewards compared [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html\" rel=\"nofollow\">CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>CrowdStrike researchers discovered the first-ever cryptocurrency mining campaign aimed at Dero mining since February 2023.</h2>\n\n\n\n<p>CrowdStrike has discovered the first-ever\u00a0<a href=\"https://dero.io/\">Dero</a>\u00a0cryptojacking campaign aimed at Kubernetes infrastructure. Dero is a general-purpose, private, and decentralized application platform that allows developers to deploy powerful and unstoppable applications. It claims to offer improved privacy, anonymity and higher monetary rewards compared to other cryptocurrencies.</p>\n\n\n\n<p>The cryptojacking operation uncovered by CrowdStrike focuses on Kubernetes clusters with anonymous access enabled on a Kubernetes API and listening on non-standard ports exposed on the internet. </p>\n\n\n\n<p>The campaign started in February 2023 and originated from three servers based in the U.S.</p>\n\n\n\n<p><em>&#8220;CrowdStrike has discovered the first-ever\u00a0<a href=\"https://dero.io/\">Dero</a>\u00a0cryptojacking operation targeting Kubernetes infrastructure.&#8221; reads the <a href=\"https://www.crowdstrike.com/blog/crowdstrike-discovers-first-ever-dero-cryptojacking-campaign-targeting-kubernetes/\"><strong>analysis</strong></a> published by Crowdstrike. &#8220;The novel Dero cryptojacking operation is found to be targeted by an existing Monero cryptojacking operation that was modified subsequently in February 2023. The modified Monero campaign kicks out the DaemonSets used for Dero cryptojacking in the Kubernetes cluster before taking it over.&#8221;</em></p>\n\n\n\n<p>Experts believe that the crypto-jacking operation is aimed at Dero, instead of Monero, because the former scheme offers larger rewards and provides the same or better anonymizing features, which is a perfect match for threat actors.</p>\n\n\n\n<p>The attack chain commences with the attacker finding an Internet-facing vulnerable Kubernetes cluster. Once interacted with the Kubernetes API, the attacker deploys a Kubernetes\u00a0<a href=\"https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/\">DaemonSet</a>\u00a0(\u201cproxy-api\u201d) that deploys a malicious pod on each node of the Kubernetes cluster. </p>\n\n\n\n<p><em>&#8220;This helps attackers engage resources of all of the nodes at the same time to run a cryptojacking operation. The mining efforts by the pods are contributed back to a community pool, which distributes the reward (i.e., Dero coin) equally among its contributors through their digital wallet.&#8221; continues the report.</em></p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-26.png?ssl=1\"><img alt=\"Kubernets Dero cryptojacking campaign\" class=\"wp-image-143522\" height=\"415\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-26.png?resize=605%2C415&#038;ssl=1\" width=\"605\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure></div>\n\n\n<p>The researchers noticed that once the vulnerable Kubernetes cluster was compromised, threat actors made no attempts to perform a lateral movement or scan the internet for the discovery of other clusters to targets.<br /><br />Crowdstrike also reported that attackers made no attempts to delete or disrupt the cluster operation, operators&#8217; TTPs suggest that they are financially motivated.</p>\n\n\n\n<p>The report also revealed that a rival group running aa Monero-mining campaign is targeting exposed Kubernetes clusters by attempting to delete the existing &#8220;proxy-api&#8221; DaemonSet which is associated with the Dero campaign.</p>\n\n\n\n<p><em>&#8220;At the same time, CrowdStrike observed another Monero campaign, which is modified and is aware of the Dero campaign and targeting the same attack surface but using a more sophisticated approach. Both campaigns are trying to find undiscovered Kubernetes attack surfaces and are battling it out.&#8221; concludes the report.</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Dero)</strong></p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html\" rel=\"nofollow\">CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143520"
+        },
+        {
+            "title": "Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Wed, 15 Mar 2023 10:41:17 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                10,
+                41,
+                17,
+                2,
+                74,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "clop ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "GoAnywhere MFT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143512",
+            "guidislink": false,
+            "summary": "<p>Data security firm Rubrik discloses a data breach, attackers exploited recent GoAnywhere zero-day to steal its data. Cybersecurity firm Rubrik disclosed a data breach, a ransomware group stolen compeny data by exploiting the recently disclosed zero-day vulnerability in the Fortra GoAnywhere secure file transfer platform. The company was the victim of a large-scale campaign targeting [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html\" rel=\"nofollow\">Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Data security firm Rubrik discloses a data breach, attackers exploited recent GoAnywhere zero-day to steal its data. Cybersecurity firm Rubrik disclosed a data breach, a ransomware group stolen compeny data by exploiting the recently disclosed zero-day vulnerability in the Fortra GoAnywhere secure file transfer platform. The company was the victim of a large-scale campaign targeting [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html\" rel=\"nofollow\">Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Data security firm Rubrik discloses a data breach, attackers exploited recent GoAnywhere zero-day to steal its data.</h2>\n\n\n\n<p>Cybersecurity firm Rubrik disclosed a data breach, a ransomware group stolen compeny data by exploiting the recently disclosed zero-day vulnerability in the Fortra <a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\">GoAnywhere</a> secure file transfer platform.</p>\n\n\n\n<p>The company was the victim of a large-scale campaign targeting GoAnywhere MFT devices worldwide by exploiting the zero-day vulnerability. </p>\n\n\n\n<p>Rubrik immediately launched an investigation into the incident with the help of third-party forensics experts.</p>\n\n\n\n<p>In early February, the popular investigator Brian Krebs <a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>first revealed</strong></a> details about the zero-day on Mastodon and pointed out that Fortra has yet to share a public advisory. </p>\n\n\n\n<p>According to the private advisory published by Fortra, the zero-day is a remote code injection issue that impacts GoAnywhere MFT. The vulnerability can only be exploited by attackers with access to the administrative console of the application. </p>\n\n\n\n<p>Installs with administrative consoles and management interfaces that are not exposed on the internet are safe, however, security researcher Kevin Beaumont&nbsp;<a href=\"https://beta.shodan.io/search?query=http.favicon.hash%3A1484947000\"><strong>discovered about 1000 Internet-facing consoles</strong></a>.</p>\n\n\n\n<p>Fortra recommends GoAnywhere MFT customers review all administrative users and monitor for unrecognized usernames, especially those created by &#8220;system.&#8221;</p>\n\n\n\n<p>According to a statement published by Rubrik, the breach was quickly contained and only\u00a0impacted a non-production IT testing environment. </p>\n\n\n\n<p><em>&#8220;We detected unauthorized access to a limited amount of information in one of our\u00a0non-production IT testing environments\u00a0as a result of the GoAnywhere vulnerability.\u00a0Importantly, based on our current investigation, being conducted with the assistance of third-party forensics experts, the unauthorized access did NOT include any data we secure on behalf of our customers via any Rubrik products.&#8221; <a href=\"https://www.rubrik.com/blog/company/23/3/fortra-goanywhere\">reads the statement.</a>\u00a0\u00a0</em></p>\n\n\n\n<p><em>&#8220;The current investigation has determined there was no lateral movement to other environments. Rubrik took the involved non-production environment offline and leveraged our own security systems and solutions to quickly contain the threat and help restore our test environment.&#8221;\u00a0</em></p>\n\n\n\n<p>The company states that stolen data include internal sales information, certain customer and partner company information, and a limited number of purchase orders from its distributors. The company pointed out that customer data was impacted by the security breach.</p>\n\n\n\n<p><em>&#8220;The involved data mainly consists of Rubrik internal sales information, which includes certain customer and partner company names, business contact information, and a limited number of purchase orders from Rubrik distributors. The third-party firm has also confirmed that no sensitive personal data such as social security numbers, financial account numbers, or payment card numbers were exposed.&#8221; continues the statement.</em></p>\n\n\n\n<p>The company disclosed the data breach after the <a href=\"https://securityaffairs.com/142130/cyber-crime/clop-ransomware-goanywhere-mft.html\">Clop ransomware</a> group added Rubrik to the list of victims on the Tor leak site. </p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-25.png?ssl=1\"><img alt=\"Rubrik\" class=\"wp-image-143518\" height=\"280\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-25.png?resize=666%2C280&#038;ssl=1\" width=\"666\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure></div>\n\n\n<p>The gang also published samples of stolen documents as proof of the hack.</p>\n\n\n\n<p>In February, the Clop ransomware group <a href=\"https://securityaffairs.com/142130/cyber-crime/clop-ransomware-goanywhere-mft.html\"><strong>claimed</strong></a> to have stolen sensitive data from over 130 organizations by exploiting a zero-day vulnerability (<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-0669\" rel=\"noreferrer noopener\" target=\"_blank\">CVE-2023-0669</a>) in Fortra\u2019s\u00a0<a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>GoAnywhere MFT</strong></a>\u00a0secure file transfer tool,\u00a0<a href=\"https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-it-breached-130-orgs-using-goanywhere-zero-day/\"><strong>BleepingComputer reported</strong></a>.</p>\n\n\n\n<p>Other organizations breached by exploiting the flaw in the Fortra\u2019s\u00a0<a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>GoAnywhere MFT</strong></a>\u00a0secure file transfer are the <a href=\"https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html\">Hatch Bank</a> and the <a href=\"https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html\">Community Health Systems</a>. At this time, the Clops ransomware group only added the bank to the list of victims.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Moshen Dragon)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html\" rel=\"nofollow\">Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143512"
+        },
+        {
+            "title": "Top 5 Insider Threats to Look Out For in 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Top 5 Insider Threats to Look Out For in 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 17 Mar 2023 13:31:20 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                13,
+                31,
+                20,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "insider threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143611",
+            "guidislink": false,
+            "summary": "<p>Unquestionably, &#8216;insider threats&#8217; is one of the most neglected aspects of cybersecurity and some companies fail to recognize associated dangers. Cyberattacks are growing more complex as technology advances. Many businesses concentrate their cybersecurity efforts solely on external attacks, which leaves more openings for internal risks. Some companies fail to recognise the danger of losing confidential [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html\" rel=\"nofollow\">Top 5 Insider Threats to Look Out For in 2023</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Unquestionably, &#8216;insider threats&#8217; is one of the most neglected aspects of cybersecurity and some companies fail to recognize associated dangers. Cyberattacks are growing more complex as technology advances. Many businesses concentrate their cybersecurity efforts solely on external attacks, which leaves more openings for internal risks. Some companies fail to recognise the danger of losing confidential [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html\" rel=\"nofollow\">Top 5 Insider Threats to Look Out For in 2023</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Unquestionably, &#8216;insider threats&#8217; is one of the most neglected aspects of cybersecurity and some companies fail to recognize associated dangers.</h2>\n\n\n\n<p>Cyberattacks are growing more complex as technology advances. Many businesses concentrate their cybersecurity efforts solely on external attacks, which leaves more openings for internal risks. Some companies fail to recognise the danger of losing confidential information owing to employee negligence or malice. Unquestionably, &#8216;insider threats&#8217; is one of the most neglected aspects of cybersecurity. According to statistics on insider threats, these threats may originate from employees, business contractors, or other reliable partners with simple access to your network. However, insider threat reports and recent developments have shown a sharp rise in the frequency of insider attacks. Because of these, cybersecurity professionals are now paying more attention to the detrimental effects of insider attacks.</p>\n\n\n\n<p>In general, security experts need more confidence in their ability to identify and thwart insider threats successfully. <a href=\"https://www.cybersecurity-insiders.com/2023-insider-threat-report-finds-three-quarters-of-organizations-are-vulnerable-to-insider-threats/\">74%</a> of respondents in an insider attack said their company was moderately to extremely vulnerable. 74% of respondents\u2014a 6% increase from 2021\u2014also claim that insider threat assaults have become more regular. In 2022, 60% of respondents said they had an insider attack, while 8% said more than 20. Insider assaults are more challenging to identify and thwart than external attacks, according to 48% of respondents. It can be challenging for defences to distinguish between insider threats and regular user activity since insider threats employ genuine accounts, passwords, and IT technologies. Overall, insider threats are becoming a more significant threat. These findings imply that security teams should prepare for them in 2023.</p>\n\n\n\n<p>Organisations must be able to address the risks from malicious insiders who intentionally steal sensitive data for personal reasons and users who can accidentally expose information due to negligence or simple mistakes.&nbsp;</p>\n\n\n\n<p>Here are the top 5 threats security teams should look out for in 2023:</p>\n\n\n\n<p><strong>Employee Negligence</strong></p>\n\n\n\n<p>Employee carelessness or ignorance may result in unintentional data leaks, improper handling of sensitive information, or a failure to adhere to security policies and procedures. Negligence is to blame for more than <a href=\"https://techjury.net/blog/insider-threat-statistics/#gref\">two of every three insider incidents</a>. Workers could not be cognizant of the possible hazards they bring to the company or might not prioritise security measures. They act carelessly, repeating passwords for personal and professional accounts or leaving flash drives with private data at a coffee shop without intending to cause harm. Some are unaware of their involvement and fall victim to social engineering techniques like phishing scams. Others may engage in negligent behaviour, such as evading security measures for convenience.</p>\n\n\n\n<p><strong>Malicious Insiders</strong></p>\n\n\n\n<p>Insiders who intend to cause harm to the company by stealing data, interfering with business processes, or selling confidential information are considered malicious insiders. These people might be driven by greed, retaliation, or a desire to upend the business. These people are currently employed. They might not be the most ardent supporters of your business, and they frequently vent their resentment by erasing or changing important data sets, leaking confidential information, or taking other sabotage measures. Turn cloaks are malicious insiders who consciously do something terrible to an organisation. A trustworthy business partner, contractor, or employee could be the insider. Turn cloaks may have ideological, vengeful, or pecuniary motivations. Some engage in clandestine activities like stealing private information or sensitive documents.</p>\n\n\n\n<p><strong>Insider Collusion</strong></p>\n\n\n\n<p>When two or more employees collaborate to steal information, commit fraud, or participate in other nefarious acts, this is called insider collusion. As a result of the employees&#8217; collaboration and potential ability to conceal their activities, this type of danger might be challenging to identify. Whether intentionally or unintentionally, these threats serve a foreign power. They might be forced to divulge information by outsiders through blackmail or bribery, or they might be tricked into disclosing their login information via social engineering. The most challenging insider risks to identify are moles, which are potentially the most damaging. Moles function similarly to turn cloaks, except they join a firm intending to harm the organisation. Whether they support a nation-state or an unknown cause, they are frequently motivated by an intense political motive.</p>\n\n\n\n<p><strong>Third-Party Vendors and Contractors</strong></p>\n\n\n\n<p>Companies with access to sensitive data or systems may be at risk of insider threats from third-party suppliers and contractors. These individuals might adhere to different security procedures than full-time employees and have a lower stake in the company&#8217;s success. Not every insider works for the company. Suppliers, contractors, vendors, and other outside parties with limited inside access can pose an equal threat to staff members with the same rights. Most businesses outsource some of their work to specialised companies or outside agencies. These third parties are occasionally easy targets for cyber attackers because they lack advanced security protocols. Suppose these companies are provided privileged access to part of your company network. In that case, you can bet that the bad actors will infiltrate your system after compromising the partner&#8217;s security network, resulting in a <a href=\"https://www.imprivata.com/blog/defining-different-types-insider-threats\">third-party data breach</a>.</p>\n\n\n\n<p><strong>Security Policy Evaders</strong></p>\n\n\n\n<p>The group of workers that prefer to ignore security policies and protocols is last but certainly not least. The business frequently has security policies created to safeguard its personnel and data. Some regulations could be burdensome and inconvenient, and some employees might choose the simple route. Contemporary businesses have security procedures in place to protect their critical data. These safeguards may bother some employees, who may devise workarounds that raise the risk of a data leak. These workarounds could jeopardise the security and data protection of the organisation. Policy evaders might be considered insider threats since they purposefully break security policies, procedures, and best practices.</p>\n\n\n\n<p><strong>Conclusion</strong></p>\n\n\n\n<p>Organisations can employ technological solutions like access restrictions, monitoring, data loss prevention technologies and insider threat solutions \u201c<a href=\"https://www.cyberhaven.com/insider-threats/top-software-products/\">to rein in their insider risk and prevent threats</a>.\u201d A thorough security plan should be in place and periodically reviewed and updated when new risks arise. Your company&#8217;s reputation, future growth, customers, and employees can all be protected by knowing how insider threats show themselves.</p>\n\n\n\n<p><strong>About the Author<em>:</em></strong><em> Mosopefoluwa Amao is a certified Cybersecurity Analyst and Technical writer. She has experience working as a Security Operations Center (SOC) Analyst with a history of creating relevant cybersecurity content for organizations and spreading security awareness. She volunteers as an Opportunities and Resources Writer with a Nigerian based NGO where she curated weekly opportunities for women. She is also a regular writer at </em><a href=\"https://welcometobora.com/\" rel=\"noreferrer noopener\" target=\"_blank\"><em>Bora</em></a><em>.</em></p>\n\n\n\n<p><em>Her other interests are law, volunteering and women\u2019s rights. In her free time, she enjoys spending time at the beach, watching movies or burying herself in a book.</em></p>\n\n\n\n<p><em>Connect with her on </em><a href=\"http://linkedin.com/in/mosopefoluwa-amao\" rel=\"noreferrer noopener\" target=\"_blank\"><em>LinkedIn</em></a><em>&nbsp;and </em><a href=\"https://instagram.com/securitywithsope?utm_medium=copy_link\" rel=\"noreferrer noopener\" target=\"_blank\"><em>Instagram</em></a></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>&nbsp;\u2013</strong> <strong>hacking, Insider Threats)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html\" rel=\"nofollow\">Top 5 Insider Threats to Look Out For in 2023</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143611"
+        },
+        {
+            "title": "Cl0p ransomware gang claims the hack of Shell, Bombardier, and Stanford U",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Cl0p ransomware gang claims the hack of Shell, Bombardier, and Stanford U"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143633/cyber-crime/cl0p-ransomware-shell-bombardier.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143633/cyber-crime/cl0p-ransomware-shell-bombardier.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 17 Mar 2023 15:57:51 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                57,
+                51,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "clop ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143633",
+            "guidislink": false,
+            "summary": "<p>The Cl0p ransomware gang claimed dozens of new victims in the past 24 hours, including energy giant Shell Global. The Cl0p ransomware gang has claimed dozens of new victims in the past 24 hours, including energy giant Shell Global, high-end jet manufacturer Bombardier Aviation, and several universities in the US, including Stanford, Colorado, and Miami. [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143633/cyber-crime/cl0p-ransomware-shell-bombardier.html\" rel=\"nofollow\">Cl0p ransomware gang claims the hack of Shell, Bombardier, and Stanford U</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>The Cl0p ransomware gang claimed dozens of new victims in the past 24 hours, including energy giant Shell Global. The Cl0p ransomware gang has claimed dozens of new victims in the past 24 hours, including energy giant Shell Global, high-end jet manufacturer Bombardier Aviation, and several universities in the US, including Stanford, Colorado, and Miami. [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143633/cyber-crime/cl0p-ransomware-shell-bombardier.html\" rel=\"nofollow\">Cl0p ransomware gang claims the hack of Shell, Bombardier, and Stanford U</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>The Cl0p ransomware gang claimed dozens of new victims in the past 24 hours, including energy giant Shell Global.</h2>\n\n\n\n<p><strong><em>The Cl0p ransomware gang has claimed dozens of new victims in the past 24 hours, including energy giant Shell Global, high-end jet manufacturer Bombardier Aviation, and several universities in the US, including Stanford, Colorado, and Miami.</em></strong></p>\n\n\n\n<p>Original post at <strong><a href=\"https://cybernews.com/security/clop-ransomware-shell-bombardier-stanford-multiple-victims/\">https://cybernews.com/security/clop-ransomware-shell-bombardier-stanford-multiple-victims/</a></strong></p>\n\n\n\n<p>Cybernews <a href=\"https://cybernews.com/security/clop-ransomware-shell-bombardier-stanford-multiple-victims/?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=cybernews&amp;utm_content=post\">can confirm from viewing the Cl0p official leak site</a> that there are a total of 60 victim organizations listed as part of this latest spree.</p>\n\n\n\n<p>Hundreds, if not thousands, of files are being listed as stolen from each organization on the dark web leak site.</p>\n\n\n\n<p>From banks and technology companies, to law firms, trucking and grocery stores, the victims come from what seems to be a random assortment of industries and locations across the globe.</p>\n\n\n\n<p>Cybernews has reached out to at least five of the victims, <a href=\"https://securityaffairs.com/115869/cyber-crime/shell-accellion-fta-attack.html\">including Shell Global</a>, Bombardier, and Stanford University.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"three clop victims\" src=\"https://i0.wp.com/media.cybernews.com/2023/03/ThreeClopvictims_1.jpg?ssl=1\" /><figcaption class=\"wp-element-caption\">Cl0p ransomware leak site</figcaption></figure>\n\n\n\n<p>The Cybernews team was able to view many of the alleged sample files, which were chock-full of sensitive information from university students,&nbsp;individual&nbsp;customers, and what appears to be current or past employees.</p>\n\n\n\n<p>Files include such sensitive personally identifiable information such as IRS tax documents, medical records, emails caches, and financial applications.</p>\n\n\n\n<p>Even more disturbing is many of the alleged victim files contained sensitive company data, to include purchasing orders, affiliated vendor details, and even mechanical drawings and diagrams, such as the case for Bombardier.</p>\n\n\n\n<p>In a ransomware plot twist, it appears many of today&#8217;s victims were also victims of a 2021 Cl0p ransomware&nbsp;<a href=\"https://cybernews.com/news/hatch-bank-data-breach-goanywhere-mft-hack/\" rel=\"noreferrer noopener\" target=\"_blank\">attack</a>, in which the group gained access by hacking a third-party supplier who provided file transfer sharing services to all the organizations targeted in the incident.</p>\n\n\n\n<p>The US based supplier, <a href=\"https://securityaffairs.com/113374/hacking/new-zealand-central-bank-attack-accellion.html\">Accellion</a>, was exploited by Cl0p through a zero-day vulnerability in its file transfer appliance (FTA).</p>\n\n\n\n<p>Accellion had about three hundred clients at the time, one hundred of them were breached in the 2021 attack, including Shell and Stanford University.</p>\n\n\n\n<p>The spree also comes just days after cybersecurity firm Rubrik&nbsp;<a href=\"https://cybernews.com/news/cybersecurity-firm-rubrik-confirms-breach/\">confirmed</a>&nbsp;they had been breached by the infamous gang, shown in a separate cache on the leak site.</p>\n\n\n\n<p>That attack was the result of a zero-day remote code execution (RCE) bug on one of Rubrik&#8217;s third-party vendors, the&nbsp;Fortra&nbsp;GoAnywhere&nbsp;MFT file-sharing platform.</p>\n\n\n\n<p>Rubrik is one of at least 130 victims Cl0p claimed to have exploited using the GoAnywhere MFT zero-day vulnerability.</p>\n\n\n\n<p>It&#8217;s not clear how today&#8217;s victims were breached or if they are part of the recent GoAnywhere victim list claimed by the group.</p>\n\n\n\n<p>Although Cl0p has used similar methods in the three attacks mentioned, a January analysis by the&nbsp;US government&nbsp;showed the group tends to favor phishing emails to target its victims.</p>\n\n\n\n<p>Cl0p is a known ransomware syndicate with ties to Russia and has been around since 2019.</p>\n\n\n\n<p>The bad actors typically target organizations with a revenue of $5 million or higher, according to US officials.</p>\n\n\n\n<p>Cl0p is considered one of the most used ransomware-as-a-service (RaaS) groups since hitting the cybercriminal market.</p>\n\n\n\n<p>Six of the gang members were arrested by Ukrainian authorities in 2021&nbsp;\u2013&nbsp;but bucking expectations, the takedown had little impact on the gang, as Cl0p appears to be a strong as ever.</p>\n\n\n\n<p>\u201cWe have never attacked hospitals, orphanages, nursing homes, charitable foundations, and we will not,\u201d Cl0p states on its leak site<strong>.</strong></p>\n\n\n\n<p>The group also states that commercial pharmaceutical organizations will never be included in their eligible victim list, as \u201cthey are the only ones who benefit from the current pandemic.\u201d</p>\n\n\n\n<p>\u201cIf an attack mistakenly occurs on one of the foregoing organizations, we will provide the decryptor for free, apologize and help fix the vulnerabilities,\u201d states Cl0p<strong>.</strong></p>\n\n\n\n<p>Another signature move of the gang is to rename the stolen files after encryption using the file extension&nbsp;&#8220;Cl0p.&#8221;</p>\n\n\n\n<p>The syndicate often gives its victims two weeks to pay the ransom before threatening to delete the encrypted files along with the decryption key.</p>\n\n\n\n<p>Original post at <a href=\"https://cybernews.com/security/clop-ransomware-shell-bombardier-stanford-multiple-victims/\"><strong>https://cybernews.com/security/clop-ransomware-shell-bombardier-stanford-multiple-victims/</strong></a></p>\n\n\n\n<p><strong>About the author: <a href=\"https://cybernews.com/author/sschappert/\">Stefanie Schappert</a>,\u00a0Senior journalist at Cyber News</strong></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Cl0p ransom</strong>ware<strong>)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143633/cyber-crime/cl0p-ransomware-shell-bombardier.html\" rel=\"nofollow\">Cl0p ransomware gang claims the hack of Shell, Bombardier, and Stanford U</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143633"
+        },
+        {
+            "title": "HinataBot, a new Go-Based DDoS botnet in the threat landscape",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "HinataBot, a new Go-Based DDoS botnet in the threat landscape"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 17 Mar 2023 15:41:13 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                41,
+                13,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "botnet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "HinataBot",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143618",
+            "guidislink": false,
+            "summary": "<p>A new Golang-based DDoS botnet, tracked as\u00a0HinataBot,\u00a0targets routers and servers by exploiting known vulnerabilities. Akamai researchers spotted a new DDoS Golang-based botnet, dubbed\u00a0HinataBot,\u00a0which has been observed exploiting known flaws to compromise routers and servers. The experts reported that the HinataBot bot was seen being distributed since the beginning of 2023 and its operators are actively [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html\" rel=\"nofollow\">HinataBot, a new Go-Based DDoS botnet in the threat landscape</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>A new Golang-based DDoS botnet, tracked as\u00a0HinataBot,\u00a0targets routers and servers by exploiting known vulnerabilities. Akamai researchers spotted a new DDoS Golang-based botnet, dubbed\u00a0HinataBot,\u00a0which has been observed exploiting known flaws to compromise routers and servers. The experts reported that the HinataBot bot was seen being distributed since the beginning of 2023 and its operators are actively [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html\" rel=\"nofollow\">HinataBot, a new Go-Based DDoS botnet in the threat landscape</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>A new Golang-based DDoS botnet, tracked as\u00a0HinataBot,\u00a0targets routers and servers by exploiting known vulnerabilities. </h2>\n\n\n\n<p>Akamai researchers spotted a new DDoS Golang-based botnet, dubbed\u00a0HinataBot,\u00a0which has been observed exploiting known flaws to compromise routers and servers.</p>\n\n\n\n<p>The experts reported that the HinataBot bot was seen being distributed since the beginning of 2023 and its operators are actively updating it.</p>\n\n\n\n<p>The name \u201cHinata\u201d comes after a character from the popular anime series, Naruto. </p>\n\n\n\n<p>Akamai\u2019s SIRT recently discovered the new bot within HTTP and SSH honeypots, it stood out due to its large size and the lack of specific identification around its newer hashes. </p>\n\n\n\n<p>The sample captured by the experts abuses old vulnerabilities and weak credentials, the researchers reported that it attempts to exploit flaws in the miniigd SOAP service on Realtek SDK devices (<a href=\"https://securityaffairs.com/119018/malware/cyberium-malware-hosting-mirai.html\">CVE-2014-8361</a>), Huawei HG532 routers (<a href=\"https://securityaffairs.com/67227/malware/cve-2017-17215-exploit-code.html\">CVE-2017-17215</a>), and exposed Hadoop YARN servers (CVE N/A).\u00a0</p>\n\n\n\n<p>HinataBot supports multiple methods of communication, including both dialing out and listening for incoming connections. The botnet can launch distributed denial-of-service (DDoS) flooding attacks that relies on protocols such as HTTP, UDP, TCP, and ICMP to send traffic. However, the latest version of HinataBot only supports HTTP and UDP attacks.</p>\n\n\n\n<p>Akamai said that by reverse engineering the bot and imitating the command and control (C2) server, was able to test the offensive capabilities of the botnet by running two attack methods (HTTP and UDP) in a 10-second period.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-33.png?ssl=1\"><img alt=\"HinataBot botnet\" class=\"wp-image-143630\" height=\"284\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-33.png?resize=1024%2C284&#038;ssl=1\" width=\"1024\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure>\n\n\n\n<p><em>&#8220;The\u00a0http_flood\u00a0generated 3.4 MB of packet capture data and pushed 20,430 HTTP requests. The request sizes ranged from 484 to 589 bytes per request, with sizes varying mostly due to randomization of User-Agent and Cookie header data.&#8221; reads the <a href=\"https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet\"><strong>report</strong></a> published by Akamai. &#8220;The\u00a0udp_flood\u00a0generated 6,733 packets for a total of 421 MB of packet capture data over the wire. There isn\u2019t much else that\u2019s interesting about this attack: it is volumetric in nature and seems to do a decent job of pushing volume.&#8221;</em></p>\n\n\n\n<p>Test results show that a botnet composed of just 1,000 nodes can carry out a UDP flood that would weigh in at around 336 Gbps per second. A botnet of 10,000 nodes (which is roughly 6.9% of the size of Mirai at its peak) can generate a UDP flood that would weigh in at more than 3.3 Tbps. The HTTP flood at 1,000 nodes would generate roughly 2.7 Gbps and more than 2 Mrps, while with 10,000 nodes, those numbers jump to 27 Gbps delivering 20.4 Mrps.</p>\n\n\n\n<p>HinataBot is the last bot in order of time to join the ever-growing list of emerging Go-based bots after <a href=\"https://securityaffairs.com/143435/malware/golang-based-botnet-gobruteforcer.html\">GoBruteforcer</a>\u00a0and\u00a0<a href=\"https://securityaffairs.com/138514/malware/kmsdbot-golang-malware.html\">KmsdBot</a>.</p>\n\n\n\n<p><em>&#8220;The HinataBot family relies on old vulnerabilities and brute forcing weak passwords for distribution. This is yet another example of why strong password and patching policies are more critical than ever.&#8221; concludes Akamai that also privided Indicators of Compromise and YARA rules for this threat.</em></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, HinataBot)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html\" rel=\"nofollow\">HinataBot, a new Go-Based DDoS botnet in the threat landscape</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143618"
+        }
+    ]
+}

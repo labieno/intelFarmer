@@ -1,1 +1,829 @@
-{"articles": [{"title": "Microsoft support 'cracks' Windows for customer after activation fails", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Microsoft support 'cracks' Windows for customer after activation fails"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/"}], "link": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/", "published": "Thu, 16 Mar 2023 08:14:42 -0400", "published_parsed": [2023, 3, 16, 12, 14, 42, 3, 75, 0], "authors": [{"name": "Ax Sharma"}], "author": "Ax Sharma", "author_detail": {"name": "Ax Sharma"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/", "guidislink": false, "summary": "In an unexpected twist, a Microsoft support engineer resorted to running an unofficial 'crack' on a customer's Windows PC\u00a0after a\u00a0genuine copy of the operating system failed to activate normally. It seems, this isn't the first time either that a Microsoft support professional has employed such workarounds. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "In an unexpected twist, a Microsoft support engineer resorted to running an unofficial 'crack' on a customer's Windows PC\u00a0after a\u00a0genuine copy of the operating system failed to activate normally. It seems, this isn't the first time either that a Microsoft support professional has employed such workarounds. [...]"}}, {"title": "Winter Vivern APT hackers use fake antivirus scans to install malware", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Winter Vivern APT hackers use fake antivirus scans to install malware"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/"}], "link": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/", "published": "Thu, 16 Mar 2023 06:00:00 -0400", "published_parsed": [2023, 3, 16, 10, 0, 0, 3, 75, 0], "authors": [{"name": "Bill Toulas"}], "author": "Bill Toulas", "author_detail": {"name": "Bill Toulas"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/", "guidislink": false, "summary": "An advanced hacking group named 'Winter Vivern' targets European government organizations and telecommunication service providers to conduct espionage. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "An advanced hacking group named 'Winter Vivern' targets European government organizations and telecommunication service providers to conduct espionage. [...]"}}, {"title": "CISA warns of Adobe ColdFusion bug exploited as a zero-day", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "CISA warns of Adobe ColdFusion bug exploited as a zero-day"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/"}], "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/", "published": "Wed, 15 Mar 2023 18:02:11 -0400", "published_parsed": [2023, 3, 15, 22, 2, 11, 2, 74, 0], "authors": [{"name": "Sergiu Gatlan"}], "author": "Sergiu Gatlan", "author_detail": {"name": "Sergiu Gatlan"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/", "guidislink": false, "summary": "CISA has added a critical vulnerability impacting Adobe ColdFusion versions 2021 and 2018 to its catalog of security bugs exploited in the wild. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "CISA has added a critical vulnerability impacting Adobe ColdFusion versions 2021 and 2018 to its catalog of security bugs exploited in the wild. [...]"}}, {"title": "Mozilla Firefox gets built-in Firefox Relay controls", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Mozilla Firefox gets built-in Firefox Relay controls"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-built-in-firefox-relay-controls/"}], "link": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-built-in-firefox-relay-controls/", "published": "Wed, 15 Mar 2023 17:50:38 -0400", "published_parsed": [2023, 3, 15, 21, 50, 38, 2, 74, 0], "authors": [{"name": "Bill Toulas"}], "author": "Bill Toulas", "author_detail": {"name": "Bill Toulas"}, "tags": [{"term": "Security", "scheme": null, "label": null}, {"term": "Software", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-built-in-firefox-relay-controls/", "guidislink": false, "summary": "Mozilla has announced the integration of Firefox Relay, an email protection system that helps users evade trackers and spammers, directly into the Firefox browser. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Mozilla has announced the integration of Firefox Relay, an email protection system that helps users evade trackers and spammers, directly into the Firefox browser. [...]"}}, {"title": "NordVPN open sources its Linux VPN client and libraries", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "NordVPN open sources its Linux VPN client and libraries"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/nordvpn-open-sources-its-linux-vpn-client-and-libraries/"}], "link": "https://www.bleepingcomputer.com/news/security/nordvpn-open-sources-its-linux-vpn-client-and-libraries/", "published": "Wed, 15 Mar 2023 17:34:37 -0400", "published_parsed": [2023, 3, 15, 21, 34, 37, 2, 74, 0], "authors": [{"name": "Lawrence Abrams"}], "author": "Lawrence Abrams", "author_detail": {"name": "Lawrence Abrams"}, "tags": [{"term": "Linux", "scheme": null, "label": null}, {"term": "Security", "scheme": null, "label": null}, {"term": "Software", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/nordvpn-open-sources-its-linux-vpn-client-and-libraries/", "guidislink": false, "summary": "Nord Security (Nord) has released the source code of its Linux NordVPN client and associated networking libraries in the hopes of being more transparent and easing users' security and privacy concerns. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Nord Security (Nord) has released the source code of its Linux NordVPN client and associated networking libraries in the hopes of being more transparent and easing users' security and privacy concerns. [...]"}}, {"title": "FBI: Ransomware hit 860 critical infrastructure orgs in 2022", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "FBI: Ransomware hit 860 critical infrastructure orgs in 2022"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-860-critical-infrastructure-orgs-in-2022/"}], "link": "https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-860-critical-infrastructure-orgs-in-2022/", "published": "Wed, 15 Mar 2023 16:23:47 -0400", "published_parsed": [2023, 3, 15, 20, 23, 47, 2, 74, 0], "authors": [{"name": "Sergiu Gatlan"}], "author": "Sergiu Gatlan", "author_detail": {"name": "Sergiu Gatlan"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-860-critical-infrastructure-orgs-in-2022/", "guidislink": false, "summary": "The Federal Bureau of Investigation (FBI) revealed in its\u00a02022 Internet Crime Report\u00a0that\u00a0ransomware gangs breached the networks of at least 860\u00a0critical infrastructure organizations\u00a0last year. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "The Federal Bureau of Investigation (FBI) revealed in its\u00a02022 Internet Crime Report\u00a0that\u00a0ransomware gangs breached the networks of at least 860\u00a0critical infrastructure organizations\u00a0last year. [...]"}}, {"title": "LockBit ransomware claims Essendant attack, company says  \u201cnetwork outage\u201d", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "LockBit ransomware claims Essendant attack, company says  \u201cnetwork outage\u201d"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-essendant-attack-company-says-network-outage-/"}], "link": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-essendant-attack-company-says-network-outage-/", "published": "Wed, 15 Mar 2023 14:50:26 -0400", "published_parsed": [2023, 3, 15, 18, 50, 26, 2, 74, 0], "authors": [{"name": "Ax Sharma"}], "author": "Ax Sharma", "author_detail": {"name": "Ax Sharma"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-essendant-attack-company-says-network-outage-/", "guidislink": false, "summary": "LockBit ransomware has claimed a cyber attack on Essendant, a wholesale distributer of office products after a \"significant\" and ongoing outage knocked the company's operations offline. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "LockBit ransomware has claimed a cyber attack on Essendant, a wholesale distributer of office products after a \"significant\" and ongoing outage knocked the company's operations offline. [...]"}}, {"title": "Hacker selling data allegedly stolen in US Marshals Service hack", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Hacker selling data allegedly stolen in US Marshals Service hack"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/hacker-selling-data-allegedly-stolen-in-us-marshals-service-hack/"}], "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-data-allegedly-stolen-in-us-marshals-service-hack/", "published": "Wed, 15 Mar 2023 14:06:14 -0400", "published_parsed": [2023, 3, 15, 18, 6, 14, 2, 74, 0], "authors": [{"name": "Sergiu Gatlan"}], "author": "Sergiu Gatlan", "author_detail": {"name": "Sergiu Gatlan"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/hacker-selling-data-allegedly-stolen-in-us-marshals-service-hack/", "guidislink": false, "summary": "A threat actor is selling on a Russian-speaking hacking forum what they claim to be hundreds of gigabytes of data allegedly stolen from U.S. Marshals Service (USMS) servers. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "A threat actor is selling on a Russian-speaking hacking forum what they claim to be hundreds of gigabytes of data allegedly stolen from U.S. Marshals Service (USMS) servers. [...]"}}, {"title": "Critical Microsoft Outlook bug PoC shows how easy it is to exploit", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Critical Microsoft Outlook bug PoC shows how easy it is to exploit"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/critical-microsoft-outlook-bug-poc-shows-how-easy-it-is-to-exploit/"}], "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-outlook-bug-poc-shows-how-easy-it-is-to-exploit/", "published": "Wed, 15 Mar 2023 13:00:34 -0400", "published_parsed": [2023, 3, 15, 17, 0, 34, 2, 74, 0], "authors": [{"name": "Ionut Ilascu"}], "author": "Ionut Ilascu", "author_detail": {"name": "Ionut Ilascu"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/critical-microsoft-outlook-bug-poc-shows-how-easy-it-is-to-exploit/", "guidislink": false, "summary": "Security researchers have shared technical details for exploiting a critical Microsoft Outlook vulnerability for Windows\u00a0(CVE-2023-23397) that allows hackers to remotely steal hashed passwords by simply receiving an email. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Security researchers have shared technical details for exploiting a critical Microsoft Outlook vulnerability for Windows\u00a0(CVE-2023-23397) that allows hackers to remotely steal hashed passwords by simply receiving an email. [...]"}}, {"title": "US federal agency hacked using old Telerik bug to steal data", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "US federal agency hacked using old Telerik bug to steal data"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/"}], "link": "https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/", "published": "Wed, 15 Mar 2023 12:39:10 -0400", "published_parsed": [2023, 3, 15, 16, 39, 10, 2, 74, 0], "authors": [{"name": "Sergiu Gatlan"}], "author": "Sergiu Gatlan", "author_detail": {"name": "Sergiu Gatlan"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/", "guidislink": false, "summary": "Last year, a U.S. federal agency's Microsoft Internet Information Services (IIS) web server was hacked by exploiting a critical .NET deserialization vulnerability in the Progress Telerik UI for ASP.NET AJAX component. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Last year, a U.S. federal agency's Microsoft Internet Information Services (IIS) web server was hacked by exploiting a critical .NET deserialization vulnerability in the Progress Telerik UI for ASP.NET AJAX component. [...]"}}, {"title": "Healthcare provider ILS warns 4.2 million people of data breach", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Healthcare provider ILS warns 4.2 million people of data breach"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/"}], "link": "https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/", "published": "Wed, 15 Mar 2023 11:50:03 -0400", "published_parsed": [2023, 3, 15, 15, 50, 3, 2, 74, 0], "authors": [{"name": "Bill Toulas"}], "author": "Bill Toulas", "author_detail": {"name": "Bill Toulas"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/", "guidislink": false, "summary": "Independent Living Systems (ILS), a Miami-based healthcare administration and managed care solutions provider, suffered a data breach that exposed the personal information of 4,226,508 individuals. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Independent Living Systems (ILS), a Miami-based healthcare administration and managed care solutions provider, suffered a data breach that exposed the personal information of 4,226,508 individuals. [...]"}}, {"title": "ChipMixer platform seized for laundering ransomware payments, drug sales", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "ChipMixer platform seized for laundering ransomware payments, drug sales"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-laundering-ransomware-payments-drug-sales/"}], "link": "https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-laundering-ransomware-payments-drug-sales/", "published": "Wed, 15 Mar 2023 10:53:56 -0400", "published_parsed": [2023, 3, 15, 14, 53, 56, 2, 74, 0], "authors": [{"name": "Bill Toulas"}], "author": "Bill Toulas", "author_detail": {"name": "Bill Toulas"}, "tags": [{"term": "Security", "scheme": null, "label": null}, {"term": "CryptoCurrency", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-laundering-ransomware-payments-drug-sales/", "guidislink": false, "summary": "An international law enforcement operation has seized the cryptocurrency mixing service 'ChipMixer' which is said to be used by hackers, ransomware gangs, and scammers to launder their proceeds. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "An international law enforcement operation has seized the cryptocurrency mixing service 'ChipMixer' which is said to be used by hackers, ransomware gangs, and scammers to launder their proceeds. [...]"}}, {"title": "ChatGPT may be a bigger cybersecurity risk than an actual benefit", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "ChatGPT may be a bigger cybersecurity risk than an actual benefit"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/"}], "link": "https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/", "published": "Wed, 15 Mar 2023 10:07:14 -0400", "published_parsed": [2023, 3, 15, 14, 7, 14, 2, 74, 0], "authors": [{"name": "Sponsored by Specops Software"}], "author": "Sponsored by Specops Software", "author_detail": {"name": "Sponsored by Specops Software"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/", "guidislink": false, "summary": "ChatGPT made a splash with its believable AI-generated responses. However, it can help threat actors create convincing personas to steal credentials in phishing attacks. [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "ChatGPT made a splash with its believable AI-generated responses. However, it can help threat actors create convincing personas to steal credentials in phishing attacks. [...]"}}, {"title": "Convincing Twitter 'quote tweet' phone scam targets bank customers", "title_detail": {"type": "text/plain", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "Convincing Twitter 'quote tweet' phone scam targets bank customers"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/"}], "link": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/", "published": "Thu, 16 Mar 2023 10:00:00 -0400", "published_parsed": [2023, 3, 16, 14, 0, 0, 3, 75, 0], "authors": [{"name": "Ax Sharma"}], "author": "Ax Sharma", "author_detail": {"name": "Ax Sharma"}, "tags": [{"term": "Security", "scheme": null, "label": null}], "id": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/", "guidislink": false, "summary": "A convincing Twitter scam is targeting bank customers by\u00a0abusing the quote-tweets feature, as observed\u00a0by BleepingComputer. The scam preys on customers tweeting to their banks\u2014such as to raise a complaints. But these\u00a0customers instead receive a reply from the scammer, via a quote-tweet,\u00a0urging them to call the scammer's \"helpline.\" [...]", "summary_detail": {"type": "text/html", "language": null, "base": "https://www.bleepingcomputer.com/feed/", "value": "A convincing Twitter scam is targeting bank customers by\u00a0abusing the quote-tweets feature, as observed\u00a0by BleepingComputer. The scam preys on customers tweeting to their banks\u2014such as to raise a complaints. But these\u00a0customers instead receive a reply from the scammer, via a quote-tweet,\u00a0urging them to call the scammer's \"helpline.\" [...]"}}]}
+{
+    "articles": [
+        {
+            "title": "Microsoft shares script to fix WinRE BitLocker bypass flaw",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft shares script to fix WinRE BitLocker bypass flaw"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/microsoft-shares-script-to-fix-winre-bitlocker-bypass-flaw/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-shares-script-to-fix-winre-bitlocker-bypass-flaw/",
+            "published": "Fri, 17 Mar 2023 02:03:07 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                6,
+                3,
+                7,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/microsoft-shares-script-to-fix-winre-bitlocker-bypass-flaw/",
+            "guidislink": false,
+            "summary": "Microsoft has released a script to make it easier to patch a BitLocker bypass security vulnerability in the Windows Recovery Environment (WinRE). [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft has released a script to make it easier to patch a BitLocker bypass security vulnerability in the Windows Recovery Environment (WinRE). [...]"
+            }
+        },
+        {
+            "title": "BianLian ransomware gang shifts focus to pure data extortion",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "BianLian ransomware gang shifts focus to pure data extortion"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/",
+            "published": "Thu, 16 Mar 2023 18:10:58 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                22,
+                10,
+                58,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/",
+            "guidislink": false,
+            "summary": "The BianLian ransomware group has shifted its focus from encrypting its victims' files to only exfiltrating data found on compromised networks and using them for extortion. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The BianLian ransomware group has shifted its focus from encrypting its victims' files to only exfiltrating data found on compromised networks and using them for extortion. [...]"
+            }
+        },
+        {
+            "title": "Google finds 18 zero-day vulnerabilities in Samsung Exynos chipsets",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Google finds 18 zero-day vulnerabilities in Samsung Exynos chipsets"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/google-finds-18-zero-day-vulnerabilities-in-samsung-exynos-chipsets/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/google-finds-18-zero-day-vulnerabilities-in-samsung-exynos-chipsets/",
+            "published": "Thu, 16 Mar 2023 16:33:47 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                20,
+                33,
+                47,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/google-finds-18-zero-day-vulnerabilities-in-samsung-exynos-chipsets/",
+            "guidislink": false,
+            "summary": "Project Zero, Google's zero-day bug-hunting team, discovered and reported 18 zero-day vulnerabilities in Samsung's Exynos chipsets used in mobile devices, wearables, and cars. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Project Zero, Google's zero-day bug-hunting team, discovered and reported 18 zero-day vulnerabilities in Samsung's Exynos chipsets used in mobile devices, wearables, and cars. [...]"
+            }
+        },
+        {
+            "title": "FakeCalls Android malware returns with new ways to hide on phones",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "FakeCalls Android malware returns with new ways to hide on phones"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/fakecalls-android-malware-returns-with-new-ways-to-hide-on-phones/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/fakecalls-android-malware-returns-with-new-ways-to-hide-on-phones/",
+            "published": "Thu, 16 Mar 2023 15:36:49 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                19,
+                36,
+                49,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Google",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mobile",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/fakecalls-android-malware-returns-with-new-ways-to-hide-on-phones/",
+            "guidislink": false,
+            "summary": "Android malware 'FakeCalls' is circulating again in South Korea, imitating phone calls for over 20 financial organizations and attempting to fool targets into giving away their credit card details. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Android malware 'FakeCalls' is circulating again in South Korea, imitating phone calls for over 20 financial organizations and attempting to fool targets into giving away their credit card details. [...]"
+            }
+        },
+        {
+            "title": "Fortinet zero-day attacks linked to suspected Chinese hackers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Fortinet zero-day attacks linked to suspected Chinese hackers"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/fortinet-zero-day-attacks-linked-to-suspected-chinese-hackers/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/fortinet-zero-day-attacks-linked-to-suspected-chinese-hackers/",
+            "published": "Thu, 16 Mar 2023 15:13:17 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                19,
+                13,
+                17,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/fortinet-zero-day-attacks-linked-to-suspected-chinese-hackers/",
+            "guidislink": false,
+            "summary": "A suspected Chinese hacking group has been linked to a series of attacks on government organizations exploiting a Fortinet zero-day vulnerability (CVE-2022-41328) to deploy malware. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A suspected Chinese hacking group has been linked to a series of attacks on government organizations exploiting a Fortinet zero-day vulnerability (CVE-2022-41328) to deploy malware. [...]"
+            }
+        },
+        {
+            "title": "Adobe Acrobat Sign abused to push Redline info-stealing malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Adobe Acrobat Sign abused to push Redline info-stealing malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/adobe-acrobat-sign-abused-to-push-redline-info-stealing-malware/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/adobe-acrobat-sign-abused-to-push-redline-info-stealing-malware/",
+            "published": "Thu, 16 Mar 2023 14:45:11 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                18,
+                45,
+                11,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/adobe-acrobat-sign-abused-to-push-redline-info-stealing-malware/",
+            "guidislink": false,
+            "summary": "Cybercriminals are abusing Adobe Acrobat Sign, an online document signing service, to distribute info-stealing malware to unsuspecting users. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Cybercriminals are abusing Adobe Acrobat Sign, an online document signing service, to distribute info-stealing malware to unsuspecting users. [...]"
+            }
+        },
+        {
+            "title": "Conti-based ransomware \u2018MeowCorp\u2019 gets free decryptor",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Conti-based ransomware \u2018MeowCorp\u2019 gets free decryptor"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/conti-based-ransomware-meowcorp-gets-free-decryptor/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/conti-based-ransomware-meowcorp-gets-free-decryptor/",
+            "published": "Thu, 16 Mar 2023 14:08:24 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                18,
+                8,
+                24,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Ionut Ilascu"
+                }
+            ],
+            "author": "Ionut Ilascu",
+            "author_detail": {
+                "name": "Ionut Ilascu"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/conti-based-ransomware-meowcorp-gets-free-decryptor/",
+            "guidislink": false,
+            "summary": "A decryption tool for a modified version of the Conti ransomware could help hundreds of victims recover their files for free. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A decryption tool for a modified version of the Conti ransomware could help hundreds of victims recover their files for free. [...]"
+            }
+        },
+        {
+            "title": "Latitude cyberattack leads to data theft at two service providers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Latitude cyberattack leads to data theft at two service providers"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/latitude-cyberattack-leads-to-data-theft-at-two-service-providers/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/latitude-cyberattack-leads-to-data-theft-at-two-service-providers/",
+            "published": "Thu, 16 Mar 2023 13:32:05 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                17,
+                32,
+                5,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/latitude-cyberattack-leads-to-data-theft-at-two-service-providers/",
+            "guidislink": false,
+            "summary": "Latitude Financial Services (Latitude) has published a notice on its website today informing that it has suffered a ransomware attack that resulted in the theft of some customer data. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Latitude Financial Services (Latitude) has published a notice on its website today informing that it has suffered a ransomware attack that resulted in the theft of some customer data. [...]"
+            }
+        },
+        {
+            "title": "Microsoft unveils AI-powered Microsoft 365 Copilot assistant",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft unveils AI-powered Microsoft 365 Copilot assistant"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-ai-powered-microsoft-365-copilot-assistant/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-ai-powered-microsoft-365-copilot-assistant/",
+            "published": "Thu, 16 Mar 2023 12:30:53 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                16,
+                30,
+                53,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-ai-powered-microsoft-365-copilot-assistant/",
+            "guidislink": false,
+            "summary": "Microsoft has announced a new assistant powered by artificial intelligence to help boost productivity across Microsoft 365 apps,\u00a0currently being tested by\u00a0select commercial customers. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft has announced a new assistant powered by artificial intelligence to help boost productivity across Microsoft 365 apps,\u00a0currently being tested by\u00a0select commercial customers. [...]"
+            }
+        },
+        {
+            "title": "Convincing Twitter 'quote tweet' phone scam targets bank customers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Convincing Twitter 'quote tweet' phone scam targets bank customers"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/",
+            "published": "Thu, 16 Mar 2023 10:00:00 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                14,
+                0,
+                0,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Ax Sharma"
+                }
+            ],
+            "author": "Ax Sharma",
+            "author_detail": {
+                "name": "Ax Sharma"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/",
+            "guidislink": false,
+            "summary": "A convincing Twitter scam is targeting bank customers by\u00a0abusing the quote-tweets feature, as observed\u00a0by BleepingComputer. The scam preys on customers tweeting to their banks\u2014such as to raise a complaints. But these\u00a0customers instead receive a reply from the scammer, via a quote-tweet,\u00a0urging them to call the scammer's \"helpline.\" [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A convincing Twitter scam is targeting bank customers by\u00a0abusing the quote-tweets feature, as observed\u00a0by BleepingComputer. The scam preys on customers tweeting to their banks\u2014such as to raise a complaints. But these\u00a0customers instead receive a reply from the scammer, via a quote-tweet,\u00a0urging them to call the scammer's \"helpline.\" [...]"
+            }
+        },
+        {
+            "title": "Microsoft support 'cracks' Windows for customer after activation fails",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft support 'cracks' Windows for customer after activation fails"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/",
+            "published": "Thu, 16 Mar 2023 08:14:42 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                12,
+                14,
+                42,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Ax Sharma"
+                }
+            ],
+            "author": "Ax Sharma",
+            "author_detail": {
+                "name": "Ax Sharma"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/",
+            "guidislink": false,
+            "summary": "In an unexpected twist, a Microsoft support engineer resorted to running an unofficial 'crack' on a customer's Windows PC\u00a0after a\u00a0genuine copy of the operating system failed to activate normally. It seems, this isn't the first time either that a Microsoft support professional has employed such workarounds. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "In an unexpected twist, a Microsoft support engineer resorted to running an unofficial 'crack' on a customer's Windows PC\u00a0after a\u00a0genuine copy of the operating system failed to activate normally. It seems, this isn't the first time either that a Microsoft support professional has employed such workarounds. [...]"
+            }
+        },
+        {
+            "title": "Winter Vivern APT hackers use fake antivirus scans to install malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Winter Vivern APT hackers use fake antivirus scans to install malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/",
+            "published": "Thu, 16 Mar 2023 06:00:00 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                10,
+                0,
+                0,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/",
+            "guidislink": false,
+            "summary": "An advanced hacking group named 'Winter Vivern' targets European government organizations and telecommunication service providers to conduct espionage. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "An advanced hacking group named 'Winter Vivern' targets European government organizations and telecommunication service providers to conduct espionage. [...]"
+            }
+        },
+        {
+            "title": "CISA warns of Adobe ColdFusion bug exploited as a zero-day",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "CISA warns of Adobe ColdFusion bug exploited as a zero-day"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/",
+            "published": "Wed, 15 Mar 2023 18:02:11 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                22,
+                2,
+                11,
+                2,
+                74,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/",
+            "guidislink": false,
+            "summary": "CISA has added a critical vulnerability impacting Adobe ColdFusion versions 2021 and 2018 to its catalog of security bugs exploited in the wild. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "CISA has added a critical vulnerability impacting Adobe ColdFusion versions 2021 and 2018 to its catalog of security bugs exploited in the wild. [...]"
+            }
+        },
+        {
+            "title": "RAT developer arrested for infecting 10,000 PCs with malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "RAT developer arrested for infecting 10,000 PCs with malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/rat-developer-arrested-for-infecting-10-000-pcs-with-malware/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/rat-developer-arrested-for-infecting-10-000-pcs-with-malware/",
+            "published": "Fri, 17 Mar 2023 11:36:19 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                36,
+                19,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/rat-developer-arrested-for-infecting-10-000-pcs-with-malware/",
+            "guidislink": false,
+            "summary": "Ukraine's cyberpolice has arrested the developer of a remote access trojan (RAT) malware that infected over 10,000 computers while posing as game applications. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Ukraine's cyberpolice has arrested the developer of a remote access trojan (RAT) malware that infected over 10,000 computers while posing as game applications. [...]"
+            }
+        },
+        {
+            "title": "Hitachi Energy confirms data breach after Clop GoAnywhere attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Hitachi Energy confirms data breach after Clop GoAnywhere attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/hitachi-energy-confirms-data-breach-after-clop-goanywhere-attacks/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/hitachi-energy-confirms-data-breach-after-clop-goanywhere-attacks/",
+            "published": "Fri, 17 Mar 2023 12:20:58 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                16,
+                20,
+                58,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/hitachi-energy-confirms-data-breach-after-clop-goanywhere-attacks/",
+            "guidislink": false,
+            "summary": "Hitachi Energy confirmed it suffered a data breach after the Clop ransomware gang stole data using a zero-day GoAnyway zero-day vulnerability. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Hitachi Energy confirmed it suffered a data breach after the Clop ransomware gang stole data using a zero-day GoAnyway zero-day vulnerability. [...]"
+            }
+        }
+    ]
+}

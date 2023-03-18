@@ -1,1 +1,748 @@
-{"articles": [{"title": "Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/"}], "link": "https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/", "published": "Mon, 13 Mar 2023 16:10:05 +0000", "published_parsed": [2023, 3, 13, 16, 10, 5, 0, 72, 0], "authors": [{"name": "Laura Hamel"}], "author": "Laura Hamel", "author_detail": {"name": "Laura Hamel"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33403", "guidislink": false, "summary": "Red Canary now supports SentinelOne\u2019s newest data export mechanism, Cloud Funnel 2.0, providing customers with more enriched XDR data.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Red Canary now supports SentinelOne\u2019s newest data export mechanism, Cloud Funnel 2.0, providing customers with more enriched XDR data."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/\" rel=\"nofollow\" title=\"Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/SentinelOnePU_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Gatekeeping in macOS: Keeping adversaries off our Apples", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Gatekeeping in macOS: Keeping adversaries off our Apples"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/gatekeeper/"}], "link": "https://redcanary.com/blog/gatekeeper/", "published": "Wed, 08 Mar 2023 16:31:52 +0000", "published_parsed": [2023, 3, 8, 16, 31, 52, 2, 67, 0], "authors": [{"name": "Brandon Dalton"}], "author": "Brandon Dalton", "author_detail": {"name": "Brandon Dalton"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33687", "guidislink": false, "summary": "Gatekeeper is the centerpiece of Apple\u2019s effort to protect macOS users from malicious software and other untrusted code.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Gatekeeper is the centerpiece of Apple\u2019s effort to protect macOS users from malicious software and other untrusted code."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/gatekeeper/\" rel=\"nofollow\" title=\"Gatekeeping in macOS: Keeping adversaries off our Apples\"><img alt=\"Gatekeeper macOS security checks\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/03/Gatekeeping_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Intelligence Insight: Tax-themed phishing emails delivering GuLoader", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Intelligence Insight: Tax-themed phishing emails delivering GuLoader"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/tax-season-phishing/"}], "link": "https://redcanary.com/blog/tax-season-phishing/", "published": "Tue, 28 Feb 2023 20:12:31 +0000", "published_parsed": [2023, 2, 28, 20, 12, 31, 1, 59, 0], "authors": [{"name": "The Red Canary Team"}], "author": "The Red Canary Team", "author_detail": {"name": "The Red Canary Team"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33586", "guidislink": false, "summary": "Red Canary is detecting adversaries delivering tax season-themed phishing emails to distribute GuLoader malware", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Red Canary is detecting adversaries delivering tax season-themed phishing emails to distribute GuLoader malware"}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/tax-season-phishing/\" rel=\"nofollow\" title=\"Intelligence Insight: Tax-themed phishing emails delivering GuLoader\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Intelligence Insights: February 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Intelligence Insights: February 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/intelligence-insights-february-2023/"}], "link": "https://redcanary.com/blog/intelligence-insights-february-2023/", "published": "Thu, 23 Feb 2023 21:17:53 +0000", "published_parsed": [2023, 2, 23, 21, 17, 53, 3, 54, 0], "authors": [{"name": "The Red Canary Team"}], "author": "The Red Canary Team", "author_detail": {"name": "The Red Canary Team"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33543", "guidislink": false, "summary": "New year, old foes: SocGholish surges, IcedID returns from holiday hiatus, and affiliates leverage OneNote.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "New year, old foes: SocGholish surges, IcedID returns from holiday hiatus, and affiliates leverage OneNote."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/intelligence-insights-february-2023/\" rel=\"nofollow\" title=\"Intelligence Insights: February 2023\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Respond automatically to compromised credentials in Azure Active Directory", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Respond automatically to compromised credentials in Azure Active Directory"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/compromised-credentials-azure-ad/"}], "link": "https://redcanary.com/blog/compromised-credentials-azure-ad/", "published": "Thu, 23 Feb 2023 18:38:50 +0000", "published_parsed": [2023, 2, 23, 18, 38, 50, 3, 54, 0], "authors": [{"name": "Kevin Gee"}], "author": "Kevin Gee", "author_detail": {"name": "Kevin Gee"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33532", "guidislink": false, "summary": "Use Red Canary's automated playbooks to respond to compromised credentials and prevent credential theft in your Azure AD environment.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Use Red Canary's automated playbooks to respond to compromised credentials and prevent credential theft in your Azure AD environment."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/compromised-credentials-azure-ad/\" rel=\"nofollow\" title=\"Respond automatically to compromised credentials in Azure Active Directory\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/AzureAD_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Tip of the CAP: Getting started with Conditional Access Policies", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Tip of the CAP: Getting started with Conditional Access Policies"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/conditional-access-policies/"}], "link": "https://redcanary.com/blog/conditional-access-policies/", "published": "Tue, 14 Feb 2023 16:51:09 +0000", "published_parsed": [2023, 2, 14, 16, 51, 9, 1, 45, 0], "authors": [{"name": "Zack Fink"}], "author": "Zack Fink", "author_detail": {"name": "Zack Fink"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33362", "guidislink": false, "summary": "Admins can leverage Microsoft\u2019s Conditional Access Policies to prevent unauthorized Azure logins, even in the face of stolen credentials.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Admins can leverage Microsoft\u2019s Conditional Access Policies to prevent unauthorized Azure logins, even in the face of stolen credentials."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/conditional-access-policies/\" rel=\"nofollow\" title=\"Tip of the CAP: Getting started with Conditional Access Policies\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/TipofCAP_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Atomic Habits, atomic tests", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Atomic Habits, atomic tests"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/atomic-habits/"}], "link": "https://redcanary.com/blog/atomic-habits/", "published": "Wed, 08 Feb 2023 14:44:45 +0000", "published_parsed": [2023, 2, 8, 14, 44, 45, 2, 39, 0], "authors": [{"name": "Keith McCammon"}], "author": "Keith McCammon", "author_detail": {"name": "Keith McCammon"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33327", "guidislink": false, "summary": "One of Red Canary's cofounders lays out a clear framework for setting a security testing program in motion, with help from Atomic Red Team.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "One of Red Canary's cofounders lays out a clear framework for setting a security testing program in motion, with help from Atomic Red Team."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/atomic-habits/\" rel=\"nofollow\" title=\"Atomic Habits, atomic tests\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/ATAH_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Detecting credential access without losing cred", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Detecting credential access without losing cred"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/credential-access/"}], "link": "https://redcanary.com/blog/credential-access/", "published": "Mon, 06 Feb 2023 17:13:54 +0000", "published_parsed": [2023, 2, 6, 17, 13, 54, 0, 37, 0], "authors": [{"name": "Tess Mishoe"}], "author": "Tess Mishoe", "author_detail": {"name": "Tess Mishoe"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33276", "guidislink": false, "summary": "Experts from Red Canary, MITRE, and CrowdStrike share detection and testing guidance to keep credentials out of the wrong hands.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Experts from Red Canary, MITRE, and CrowdStrike share detection and testing guidance to keep credentials out of the wrong hands."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/credential-access/\" rel=\"nofollow\" title=\"Detecting credential access without losing cred\"><img alt=\"Detecting credential access\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/01/detectionseries_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "Intelligence Insights: January 2023", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "Intelligence Insights: January 2023"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/intelligence-insights-january-2023/"}], "link": "https://redcanary.com/blog/intelligence-insights-january-2023/", "published": "Thu, 19 Jan 2023 19:30:44 +0000", "published_parsed": [2023, 1, 19, 19, 30, 44, 3, 19, 0], "authors": [{"name": "The Red Canary Team"}], "author": "The Red Canary Team", "author_detail": {"name": "The Red Canary Team"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33226", "guidislink": false, "summary": "End-of-year testing boosts Mimikatz & BloodHound, and ProxyNotShell is on the rise in this month\u2019s edition of Intelligence Insights", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "End-of-year testing boosts Mimikatz & BloodHound, and ProxyNotShell is on the rise in this month\u2019s edition of Intelligence Insights"}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/intelligence-insights-january-2023/\" rel=\"nofollow\" title=\"Intelligence Insights: January 2023\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}, {"title": "The power of threat intelligence at your fingertips", "title_detail": {"type": "text/plain", "language": null, "base": "https://redcanary.com/feed/", "value": "The power of threat intelligence at your fingertips"}, "links": [{"rel": "alternate", "type": "text/html", "href": "https://redcanary.com/blog/cyber-threat-intelligence-profiles/"}], "link": "https://redcanary.com/blog/cyber-threat-intelligence-profiles/", "published": "Mon, 16 Jan 2023 16:00:08 +0000", "published_parsed": [2023, 1, 16, 16, 0, 8, 0, 16, 0], "authors": [{"name": "Kevin Gee"}], "author": "Kevin Gee", "author_detail": {"name": "Kevin Gee"}, "tags": [{"term": "Uncategorized", "scheme": null, "label": null}], "id": "https://redcanary.com/?p=33090", "guidislink": false, "summary": "Red Canary\u2019s library of Intelligence Profiles empower you to respond to cyber threats immediately with a wealth of context.", "summary_detail": {"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "Red Canary\u2019s library of Intelligence Profiles empower you to respond to cyber threats immediately with a wealth of context."}, "content": [{"type": "text/html", "language": null, "base": "https://redcanary.com/feed/", "value": "<a href=\"https://redcanary.com/blog/cyber-threat-intelligence-profiles/\" rel=\"nofollow\" title=\"The power of threat intelligence at your fingertips\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/01/ThreatIntel_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"}]}]}
+{
+    "articles": [
+        {
+            "title": "Diary of a Detection Engineer: Exposing and shutting down an inbox heist in action",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Diary of a Detection Engineer: Exposing and shutting down an inbox heist in action"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/inbox-heist/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/inbox-heist/",
+            "published": "Thu, 16 Mar 2023 17:15:56 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                17,
+                15,
+                56,
+                3,
+                75,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Justin Schoenfeld"
+                }
+            ],
+            "author": "Justin Schoenfeld",
+            "author_detail": {
+                "name": "Justin Schoenfeld"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33788",
+            "guidislink": false,
+            "summary": "Here\u2019s what Red Canary's detection engineers discovered while responding to and investigating a compromised email account.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Here\u2019s what Red Canary's detection engineers discovered while responding to and investigating a compromised email account."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/inbox-heist/\" rel=\"nofollow\" title=\"Diary of a Detection Engineer: Exposing and shutting down an inbox heist in action\"><img alt=\"XMRig cryptominer linux\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/04/TR_Diaryof_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/",
+            "published": "Mon, 13 Mar 2023 16:10:05 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                13,
+                16,
+                10,
+                5,
+                0,
+                72,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Laura Hamel"
+                }
+            ],
+            "author": "Laura Hamel",
+            "author_detail": {
+                "name": "Laura Hamel"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33403",
+            "guidislink": false,
+            "summary": "Red Canary now supports SentinelOne\u2019s newest data export mechanism, Cloud Funnel 2.0, providing customers with more enriched XDR data.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Red Canary now supports SentinelOne\u2019s newest data export mechanism, Cloud Funnel 2.0, providing customers with more enriched XDR data."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/sentinelone-cloud-funnel-2-0/\" rel=\"nofollow\" title=\"Streamlined and secure: Red Canary upgrades to SentinelOne Cloud Funnel 2.0\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/SentinelOnePU_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Gatekeeping in macOS: Keeping adversaries off our Apples",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Gatekeeping in macOS: Keeping adversaries off our Apples"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/gatekeeper/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/gatekeeper/",
+            "published": "Wed, 08 Mar 2023 16:31:52 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                8,
+                16,
+                31,
+                52,
+                2,
+                67,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Brandon Dalton"
+                }
+            ],
+            "author": "Brandon Dalton",
+            "author_detail": {
+                "name": "Brandon Dalton"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33687",
+            "guidislink": false,
+            "summary": "Gatekeeper is the centerpiece of Apple\u2019s effort to protect macOS users from malicious software and other untrusted code.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Gatekeeper is the centerpiece of Apple\u2019s effort to protect macOS users from malicious software and other untrusted code."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/gatekeeper/\" rel=\"nofollow\" title=\"Gatekeeping in macOS: Keeping adversaries off our Apples\"><img alt=\"Gatekeeper macOS security checks\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/03/Gatekeeping_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Intelligence Insight: Tax-themed phishing emails delivering GuLoader",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Intelligence Insight: Tax-themed phishing emails delivering GuLoader"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/tax-season-phishing/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/tax-season-phishing/",
+            "published": "Tue, 28 Feb 2023 20:12:31 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                28,
+                20,
+                12,
+                31,
+                1,
+                59,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Red Canary Team"
+                }
+            ],
+            "author": "The Red Canary Team",
+            "author_detail": {
+                "name": "The Red Canary Team"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33586",
+            "guidislink": false,
+            "summary": "Red Canary is detecting adversaries delivering tax season-themed phishing emails to distribute GuLoader malware",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Red Canary is detecting adversaries delivering tax season-themed phishing emails to distribute GuLoader malware"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/tax-season-phishing/\" rel=\"nofollow\" title=\"Intelligence Insight: Tax-themed phishing emails delivering GuLoader\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Intelligence Insights: February 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Intelligence Insights: February 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/intelligence-insights-february-2023/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/intelligence-insights-february-2023/",
+            "published": "Thu, 23 Feb 2023 21:17:53 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                23,
+                21,
+                17,
+                53,
+                3,
+                54,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Red Canary Team"
+                }
+            ],
+            "author": "The Red Canary Team",
+            "author_detail": {
+                "name": "The Red Canary Team"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33543",
+            "guidislink": false,
+            "summary": "New year, old foes: SocGholish surges, IcedID returns from holiday hiatus, and affiliates leverage OneNote.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "New year, old foes: SocGholish surges, IcedID returns from holiday hiatus, and affiliates leverage OneNote."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/intelligence-insights-february-2023/\" rel=\"nofollow\" title=\"Intelligence Insights: February 2023\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Respond automatically to compromised credentials in Azure Active Directory",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Respond automatically to compromised credentials in Azure Active Directory"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/compromised-credentials-azure-ad/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/compromised-credentials-azure-ad/",
+            "published": "Thu, 23 Feb 2023 18:38:50 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                23,
+                18,
+                38,
+                50,
+                3,
+                54,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Kevin Gee"
+                }
+            ],
+            "author": "Kevin Gee",
+            "author_detail": {
+                "name": "Kevin Gee"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33532",
+            "guidislink": false,
+            "summary": "Use Red Canary's automated playbooks to respond to compromised credentials and prevent credential theft in your Azure AD environment.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Use Red Canary's automated playbooks to respond to compromised credentials and prevent credential theft in your Azure AD environment."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/compromised-credentials-azure-ad/\" rel=\"nofollow\" title=\"Respond automatically to compromised credentials in Azure Active Directory\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/AzureAD_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Tip of the CAP: Getting started with Conditional Access Policies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Tip of the CAP: Getting started with Conditional Access Policies"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/conditional-access-policies/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/conditional-access-policies/",
+            "published": "Tue, 14 Feb 2023 16:51:09 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                14,
+                16,
+                51,
+                9,
+                1,
+                45,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Zack Fink"
+                }
+            ],
+            "author": "Zack Fink",
+            "author_detail": {
+                "name": "Zack Fink"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33362",
+            "guidislink": false,
+            "summary": "Admins can leverage Microsoft\u2019s Conditional Access Policies to prevent unauthorized Azure logins, even in the face of stolen credentials.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Admins can leverage Microsoft\u2019s Conditional Access Policies to prevent unauthorized Azure logins, even in the face of stolen credentials."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/conditional-access-policies/\" rel=\"nofollow\" title=\"Tip of the CAP: Getting started with Conditional Access Policies\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/TipofCAP_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Atomic Habits, atomic tests",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Atomic Habits, atomic tests"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/atomic-habits/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/atomic-habits/",
+            "published": "Wed, 08 Feb 2023 14:44:45 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                8,
+                14,
+                44,
+                45,
+                2,
+                39,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Keith McCammon"
+                }
+            ],
+            "author": "Keith McCammon",
+            "author_detail": {
+                "name": "Keith McCammon"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33327",
+            "guidislink": false,
+            "summary": "One of Red Canary's cofounders lays out a clear framework for setting a security testing program in motion, with help from Atomic Red Team.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "One of Red Canary's cofounders lays out a clear framework for setting a security testing program in motion, with help from Atomic Red Team."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/atomic-habits/\" rel=\"nofollow\" title=\"Atomic Habits, atomic tests\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/02/ATAH_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Detecting credential access without losing cred",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Detecting credential access without losing cred"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/credential-access/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/credential-access/",
+            "published": "Mon, 06 Feb 2023 17:13:54 +0000",
+            "published_parsed": [
+                2023,
+                2,
+                6,
+                17,
+                13,
+                54,
+                0,
+                37,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Tess Mishoe"
+                }
+            ],
+            "author": "Tess Mishoe",
+            "author_detail": {
+                "name": "Tess Mishoe"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33276",
+            "guidislink": false,
+            "summary": "Experts from Red Canary, MITRE, and CrowdStrike share detection and testing guidance to keep credentials out of the wrong hands.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Experts from Red Canary, MITRE, and CrowdStrike share detection and testing guidance to keep credentials out of the wrong hands."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/credential-access/\" rel=\"nofollow\" title=\"Detecting credential access without losing cred\"><img alt=\"Detecting credential access\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/01/detectionseries_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Intelligence Insights: January 2023",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Intelligence Insights: January 2023"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/intelligence-insights-january-2023/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/intelligence-insights-january-2023/",
+            "published": "Thu, 19 Jan 2023 19:30:44 +0000",
+            "published_parsed": [
+                2023,
+                1,
+                19,
+                19,
+                30,
+                44,
+                3,
+                19,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Red Canary Team"
+                }
+            ],
+            "author": "The Red Canary Team",
+            "author_detail": {
+                "name": "The Red Canary Team"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33226",
+            "guidislink": false,
+            "summary": "End-of-year testing boosts Mimikatz & BloodHound, and ProxyNotShell is on the rise in this month\u2019s edition of Intelligence Insights",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "End-of-year testing boosts Mimikatz & BloodHound, and ProxyNotShell is on the rise in this month\u2019s edition of Intelligence Insights"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/intelligence-insights-january-2023/\" rel=\"nofollow\" title=\"Intelligence Insights: January 2023\"><img alt=\"Red Canary intelligence insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2021/09/II_9.14.21_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Improve your threat coverage with Microsoft E5",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Improve your threat coverage with Microsoft E5"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/microsoft-e5-security-features/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/microsoft-e5-security-features/",
+            "published": "Fri, 17 Mar 2023 15:47:26 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                47,
+                26,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Alex Spiliotes"
+                }
+            ],
+            "author": "Alex Spiliotes",
+            "author_detail": {
+                "name": "Alex Spiliotes"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33720",
+            "guidislink": false,
+            "summary": "Learn how all of the Microsoft E5 license security features can improve your cyber threat coverage and operational ROI.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Learn how all of the Microsoft E5 license security features can improve your cyber threat coverage and operational ROI."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/microsoft-e5-security-features/\" rel=\"nofollow\" title=\"Improve your threat coverage with Microsoft E5\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/03/MSFTE5_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Improve your cyber threat coverage with Microsoft E5",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Improve your cyber threat coverage with Microsoft E5"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/microsoft-e5-security-features/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/microsoft-e5-security-features/",
+            "published": "Fri, 17 Mar 2023 15:47:26 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                47,
+                26,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Alex Spiliotes"
+                }
+            ],
+            "author": "Alex Spiliotes",
+            "author_detail": {
+                "name": "Alex Spiliotes"
+            },
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=33720",
+            "guidislink": false,
+            "summary": "Learn how all of the Microsoft E5 license security features can improve your cyber threat coverage and operational ROI.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Learn how all of the Microsoft E5 license security features can improve your cyber threat coverage and operational ROI."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/microsoft-e5-security-features/\" rel=\"nofollow\" title=\"Improve your cyber threat coverage with Microsoft E5\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/03/MSFTE5_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        }
+    ]
+}

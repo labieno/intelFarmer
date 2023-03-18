@@ -20,7 +20,6 @@ def main():
 
     # Arguments
     group.add_argument('-g',
-                        '--group',
                         metavar=("APT_group", "number_of_tweets"),
                         type=str,
                         help="Search for info of an APT group in recent tweets (case sensitive). DO NOT FORGET TO ADD API KEYS",
@@ -35,6 +34,19 @@ def main():
     group.add_argument('-i',
                         help='Search for new threat intel reports and update database (first run is very verbose)',
                         action='store_true')
+    
+    group.add_argument('-d',
+                        metavar='days',
+                        help="Search for last 10 threat intel reports of last specified number of days",
+                        action='store',
+                        nargs=1)
+
+    group.add_argument('-c',
+                        metavar='source',
+                        type=str,
+                        help="Check a source - last week reports",
+                        action='store',
+                        nargs=1)
 
     # Execute the parse_args() method to look up the arguments an process them
     args = parser.parse_args()
@@ -43,12 +55,18 @@ def main():
     if args.i: # TO RESET DATABASE, ERASE .jsonssss
         import src.rss_feed as rss_feed
         rss_feed.update_database_json()
-    elif args.group != None:
+    elif args.g != None:
         import src.intelAPTTwitter as intelAPTTwitter
-        intelAPTTwitter.extract_twitter_TI(args.group[0],int(args.group[1]))
+        intelAPTTwitter.extract_twitter_TI(args.g[0],int(args.g[1]))
     elif args.list:
         import src.intelAPTTwitter as intelAPTTwitter
         intelAPTTwitter.retrieve_groups()
+    elif args.d:
+        import src.rss_feed as rss_feed
+        rss_feed.get_last_n_days_feed(int(args.d[0]))
+    elif args.c:
+        import src.rss_feed as rss_feed
+        rss_feed.check_source(args.c[0])
 
 
 if __name__ == "__main__":
