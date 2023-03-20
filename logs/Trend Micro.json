@@ -8217,6 +8217,181 @@
                     "label": null
                 }
             ]
+        },
+        {
+            "title": "S4x23 Review Part 3: Healthcare Cybersecurity Sessions",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "S4x23 Review Part 3: Healthcare Cybersecurity Sessions"
+            },
+            "summary": "This article focuses on the healthcare sector. Over the past two years, the healthcare sector has been in a constant state of emergency due to the COVID-19 pandemic, and as widely reported in the media, it has also been threatened by cyberattacks such as ransomware.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "This article focuses on the healthcare sector. Over the past two years, the healthcare sector has been in a constant state of emergency due to the COVID-19 pandemic, and as widely reported in the media, it has also been threatened by cyberattacks such as ransomware."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/23/c/s4x23-review-healthcare-cybersecurity-sessions.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/s4x23-review-healthcare-cybersecurity-sessions:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/23/c/s4x23-review-healthcare-cybersecurity-sessions.html",
+            "published": "Mon, 20 Mar 2023 00:00:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                0,
+                0,
+                0,
+                0,
+                79,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Kazuhisa Tagaya"
+                }
+            ],
+            "author": "Kazuhisa Tagaya",
+            "author_detail": {
+                "name": "Kazuhisa Tagaya"
+            },
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : ICS OT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Compliance & Risks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : IoT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Security Strategies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Making the digital world safer, one Tesla at a time",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Making the digital world safer, one Tesla at a time"
+            },
+            "summary": "Contestants gather at Pwn2Own Vancouver to showcase their skills and uncover vulnerabilities",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Contestants gather at Pwn2Own Vancouver to showcase their skills and uncover vulnerabilities"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/23/c/pwn2own-vancouver-2023.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/pwn2own-vancouver-2023:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/23/c/pwn2own-vancouver-2023.html",
+            "published": "Fri, 17 Mar 2023 00:00:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                0,
+                0,
+                0,
+                4,
+                76,
+                0
+            ],
+            "trendmicro_authors": "",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Cloud",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Latest News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Exploits & Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Connected Car",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : IoT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
         }
     ]
 }

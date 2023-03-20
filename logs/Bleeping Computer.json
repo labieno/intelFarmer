@@ -824,6 +824,389 @@
                 "base": "https://www.bleepingcomputer.com/feed/",
                 "value": "Hitachi Energy confirmed it suffered a data breach after the Clop ransomware gang stole data using a zero-day GoAnyway zero-day vulnerability. [...]"
             }
+        },
+        {
+            "title": "New \u2018HinataBot\u2019 botnet could launch massive 3.3 Tbps DDoS attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "New \u2018HinataBot\u2019 botnet could launch massive 3.3 Tbps DDoS attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/",
+            "published": "Sun, 19 Mar 2023 10:20:40 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                19,
+                14,
+                20,
+                40,
+                6,
+                78,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/",
+            "guidislink": false,
+            "summary": "A new malware botnet was discovered targeting Realtek SDK, Huawei routers, and Hadoop YARN servers to recruit devices into DDoS (distributed denial of service) swarm with the potential for massive attacks. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A new malware botnet was discovered targeting Realtek SDK, Huawei routers, and Hadoop YARN servers to recruit devices into DDoS (distributed denial of service) swarm with the potential for massive attacks. [...]"
+            }
+        },
+        {
+            "title": "Emotet malware now distributed in Microsoft OneNote files to evade defenses",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Emotet malware now distributed in Microsoft OneNote files to evade defenses"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/emotet-malware-now-distributed-in-microsoft-onenote-files-to-evade-defenses/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/emotet-malware-now-distributed-in-microsoft-onenote-files-to-evade-defenses/",
+            "published": "Sat, 18 Mar 2023 15:03:23 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                19,
+                3,
+                23,
+                5,
+                77,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Lawrence Abrams"
+                }
+            ],
+            "author": "Lawrence Abrams",
+            "author_detail": {
+                "name": "Lawrence Abrams"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/emotet-malware-now-distributed-in-microsoft-onenote-files-to-evade-defenses/",
+            "guidislink": false,
+            "summary": "The Emotet malware is now distributed using Microsoft OneNote email attachments, aiming to bypass Microsoft security restrictions and infect more targets. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The Emotet malware is now distributed using Microsoft OneNote email attachments, aiming to bypass Microsoft security restrictions and infect more targets. [...]"
+            }
+        },
+        {
+            "title": "Windows 11 to ask for permission before pinning applications",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Windows 11 to ask for permission before pinning applications"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-to-ask-for-permission-before-pinning-applications/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-to-ask-for-permission-before-pinning-applications/",
+            "published": "Sat, 18 Mar 2023 10:05:10 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                14,
+                5,
+                10,
+                5,
+                77,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-to-ask-for-permission-before-pinning-applications/",
+            "guidislink": false,
+            "summary": "Microsoft says it will provide developers with a new API that also asks\u00a0Windows users for permission when pinning their apps to the taskbar,\u00a0desktop, or the\u00a0Start Menu. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft says it will provide developers with a new API that also asks\u00a0Windows users for permission when pinning their apps to the taskbar,\u00a0desktop, or the\u00a0Start Menu. [...]"
+            }
+        },
+        {
+            "title": "Alleged BreachForums owner Pompompurin arrested on cybercrime charges",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Alleged BreachForums owner Pompompurin arrested on cybercrime charges"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/alleged-breachforums-owner-pompompurin-arrested-on-cybercrime-charges/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/alleged-breachforums-owner-pompompurin-arrested-on-cybercrime-charges/",
+            "published": "Fri, 17 Mar 2023 19:32:29 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                23,
+                32,
+                29,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/alleged-breachforums-owner-pompompurin-arrested-on-cybercrime-charges/",
+            "guidislink": false,
+            "summary": "U.S. law enforcement arrested on Wednesday a New York man believed to be Pompompurin, the owner of the BreachForums hacking forum. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "U.S. law enforcement arrested on Wednesday a New York man believed to be Pompompurin, the owner of the BreachForums hacking forum. [...]"
+            }
+        },
+        {
+            "title": "The Week in Ransomware - March 17th 2023 - Shifting to data extortion",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The Week in Ransomware - March 17th 2023 - Shifting to data extortion"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-17th-2023-shifting-to-data-extortion/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-17th-2023-shifting-to-data-extortion/",
+            "published": "Fri, 17 Mar 2023 19:01:27 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                23,
+                1,
+                27,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Lawrence Abrams"
+                }
+            ],
+            "author": "Lawrence Abrams",
+            "author_detail": {
+                "name": "Lawrence Abrams"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-17th-2023-shifting-to-data-extortion/",
+            "guidislink": false,
+            "summary": "The fallout from the Clop ransomware attacks on GoAnywhere platforms has become apparent this week, with the threat actors starting to extort victims on their data leak site and companies confirming breaches. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The fallout from the Clop ransomware attacks on GoAnywhere platforms has become apparent this week, with the threat actors starting to extort victims on their data leak site and companies confirming breaches. [...]"
+            }
+        },
+        {
+            "title": "NBA alerts fans of a data breach exposing personal information",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "NBA alerts fans of a data breach exposing personal information"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/nba-alerts-fans-of-a-data-breach-exposing-personal-information/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/nba-alerts-fans-of-a-data-breach-exposing-personal-information/",
+            "published": "Fri, 17 Mar 2023 16:21:13 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                20,
+                21,
+                13,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/nba-alerts-fans-of-a-data-breach-exposing-personal-information/",
+            "guidislink": false,
+            "summary": "The NBA (National Basketball Association) is notifying fans of a data breach after some of their personal information, \"held\" by a third-party newsletter service, was stolen. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The NBA (National Basketball Association) is notifying fans of a data breach after some of their personal information, \"held\" by a third-party newsletter service, was stolen. [...]"
+            }
+        },
+        {
+            "title": "Microsoft is testing a built-in crypto wallet in Microsoft Edge",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft is testing a built-in crypto wallet in Microsoft Edge"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-a-built-in-crypto-wallet-in-microsoft-edge/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-a-built-in-crypto-wallet-in-microsoft-edge/",
+            "published": "Fri, 17 Mar 2023 14:54:07 -0400",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                18,
+                54,
+                7,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CryptoCurrency",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-a-built-in-crypto-wallet-in-microsoft-edge/",
+            "guidislink": false,
+            "summary": "Microsoft is working on a non-custodial built-in Ethereum crypto wallet for Microsoft Edge to allow users to send and receive cryptocurrency and NFTs. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft is working on a non-custodial built-in Ethereum crypto wallet for Microsoft Edge to allow users to send and receive cryptocurrency and NFTs. [...]"
+            }
         }
     ]
 }

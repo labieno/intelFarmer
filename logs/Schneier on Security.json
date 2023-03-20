@@ -1030,6 +1030,100 @@
                 }
             ],
             "thr_total": "170"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "Friday Squid Blogging: New Species of Vampire Squid Lives 3,000 Feet below Sea Level",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "Friday Squid Blogging: New Species of Vampire Squid Lives 3,000 Feet below Sea Level"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-new-species-of-vampire-squid-lives-3000-feet-below-sea-level.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-new-species-of-vampire-squid-lives-3000-feet-below-sea-level.html#comments",
+                    "count": "48",
+                    "thr:count": "48"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-new-species-of-vampire-squid-lives-3000-feet-below-sea-level.html/feed/atom/",
+                    "count": "48",
+                    "thr:count": "48"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-new-species-of-vampire-squid-lives-3000-feet-below-sea-level.html",
+            "id": "https://www.schneier.com/?p=67066",
+            "guidislink": false,
+            "updated": "2023-03-15T17:21:55Z",
+            "updated_parsed": [
+                2023,
+                3,
+                15,
+                17,
+                21,
+                55,
+                2,
+                74,
+                0
+            ],
+            "published": "2023-03-17T21:19:50Z",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                21,
+                19,
+                50,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com",
+                    "label": null
+                },
+                {
+                    "term": "squid",
+                    "scheme": "https://www.schneier.com",
+                    "label": null
+                }
+            ],
+            "summary": "<p>At least, it <a href=\"https://www.newsweek.com/vampire-squid-found-3000-feet-under-sea-1785821\">seems to be</a> a new species.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven\u2019t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>At least, it <a href=\"https://www.newsweek.com/vampire-squid-found-3000-feet-under-sea-1785821\">seems to be</a> a new species.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven\u2019t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2023/03/friday-squid-blogging-new-species-of-vampire-squid-lives-3000-feet-below-sea-level.html",
+                    "value": "<p>At least, it <a href=\"https://www.newsweek.com/vampire-squid-found-3000-feet-under-sea-1785821\">seems to be</a> a new species.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven\u2019t covered.</p>\n<p>Read my blog posting guidelines <a href=\"https://www.schneier.com/blog/archives/2017/03/commenting_poli.html\">here</a>.</p>"
+                }
+            ],
+            "thr_total": "48"
         }
     ]
 }

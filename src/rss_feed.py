@@ -131,7 +131,7 @@ def update_database_json():
                         if new_articles:
                             print(f"\033[0;31m        [+] {new_articles} new articles added to", filename, "\033[0m")
                             with open(filename, "w") as outfile:  # añadir al json
-                                data['articles'][0]['time']
+                                #data['articles'][0]['time']
                                 json.dump(data, outfile, indent=4)
                         else:
                             print("        [+] No new articles added to", filename)

@@ -1,6 +1,106 @@
 {
     "articles": [
         {
+            "title": "Feds Charge NY Man as BreachForums Boss \u201cPompompurin\u201d",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "Feds Charge NY Man as BreachForums Boss \u201cPompompurin\u201d"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/"
+                }
+            ],
+            "link": "https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/",
+            "comments": "https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/#comments",
+            "authors": [
+                {
+                    "name": "BrianKrebs"
+                }
+            ],
+            "author": "BrianKrebs",
+            "author_detail": {
+                "name": "BrianKrebs"
+            },
+            "published": "Fri, 17 Mar 2023 23:39:22 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                23,
+                39,
+                22,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "A Little Sunshine",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ne'er-Do-Well News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BreachForums",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Conor Brian Fitzpatrick",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DC Health Link",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fbi",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "John Longmire",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "pompompurin",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://krebsonsecurity.com/?p=63100",
+            "guidislink": false,
+            "summary": "The U.S. Federal Bureau of Investigation (FBI) this week arrested a New York man on suspicion of running BreachForums, a popular English-language cybercrime forum where some of the world biggest hacked databases routinely first show up for sale. The forum's administrator \"Pompompurin\" has been a thorn in the side of the FBI for years, and BreachForums is widely considered a reincarnation of RaidForums, a remarkably similar crime forum that the FBI infiltrated and dismantled in 2022.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "The U.S. Federal Bureau of Investigation (FBI) this week arrested a New York man on suspicion of running BreachForums, a popular English-language cybercrime forum where some of the world biggest hacked databases routinely first show up for sale. The forum's administrator \"Pompompurin\" has been a thorn in the side of the FBI for years, and BreachForums is widely considered a reincarnation of RaidForums, a remarkably similar crime forum that the FBI infiltrated and dismantled in 2022."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://krebsonsecurity.com/feed/",
+                    "value": "<p>The <strong>U.S. Federal Bureau of Investigation</strong> (FBI) this week arrested a New York man on suspicion of running <strong>BreachForums</strong>, a popular English-language cybercrime forum where some of the world biggest hacked databases routinely show up for sale. The forum&#8217;s administrator &#8220;<strong>Pompompurin</strong>&#8221; has been a thorn in the side of the FBI for years, and BreachForums is widely considered a reincarnation of <strong>RaidForums</strong>, a remarkably similar crime forum that the FBI infiltrated and dismantled in 2022.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_63107\" style=\"width: 725px;\"><img alt=\"\" class=\"wp-image-63107 size-full\" height=\"402\" src=\"https://krebsonsecurity.com/wp-content/uploads/2023/03/pompompshome.png\" width=\"715\" /><p class=\"wp-caption-text\" id=\"caption-attachment-63107\">Federal agents carting items out of Fitzpatrick&#8217;s home on March 15. Image: News 12 Westchester.</p></div>\n<p>In an affidavit filed with the District Court for the Southern District of New York, FBI Special Agent <strong>John Longmire</strong> said that at around 4:30 p.m. on March 15, 2023, he led a team of law enforcement agents that made a probable cause arrest of a <strong>Conor Brian Fitzpatrick</strong> in Peekskill, NY.</p>\n<p>&#8220;When I arrested the defendant on March 15, 2023, he stated to me in substance and in part that: a) his name was Conor Brian Fitzpatrick; b) he used the alias &#8216;pompompurin/&#8217; and c) he was the owner and administrator of &#8216;BreachForums&#8217; the data breach website referenced in the Complaint,&#8221; Longmire wrote.</p>\n<p>Pompompurin has been something of a nemesis to the FBI for several years. In November 2021, KrebsOnSecurity broke the news that <a href=\"https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/\" rel=\"noopener\" target=\"_blank\">thousands of fake emails about a cybercrime investigation were blasted out from the FBI&#8217;s email systems and Internet addresses</a>.</p>\n<p>Pompompurin took credit for that stunt, and said he was able to send the FBI email blast by exploiting a flaw in an FBI portal designed to share information with state and local law enforcement authorities. The FBI later acknowledged that a software misconfiguration allowed someone to send the fake emails.</p>\n<p>In December, 2022, KrebsOnSecurity broke the news that <a href=\"https://krebsonsecurity.com/2022/12/fbis-vetted-info-sharing-network-infragard-hacked/\" rel=\"noopener\" target=\"_blank\">hackers active on BreachForums had infiltrated the FBI&#8217;s InfraGard program</a>, a vetted FBI program designed to build cyber and physical threat information sharing partnerships with experts in the private sector. The hackers impersonated the CEO of a major financial company, applied for InfraGard membership in the CEO&#8217;s name, and were granted admission to the community.</p>\n<p>From there, the hackers plundered the InfraGard member database, and proceeded to sell contact information on more than 80,000 InfraGard members in an auction on BreachForums. The FBI responded by disabling the portal for some time, before ultimately forcing all InfraGard members to re-apply for membership.<span id=\"more-63100\"></span></p>\n<p>More recently, BreachForums was the sales forum for <a href=\"https://cyberscoop.com/dc-health-data-posted-online/\" rel=\"noopener\" target=\"_blank\">data stolen</a> from <strong>DC Health Link</strong>, a health insurance exchange based in Washington, D.C. that suffered a data breach this month. The sales thread initially said the data included the names, Social Security numbers, dates of birth, health plan and enrollee information and more on 170,000 individuals, although the official notice about the breach says 56,415 people were affected.</p>\n<p>In April 2022, U.S. Justice Department <a href=\"https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/\" rel=\"noopener\" target=\"_blank\">seized the servers and domains for RaidForums</a>, an extremely popular English-language cybercrime forum that sold access to more than 10 billion consumer records stolen in some of the world\u2019s largest data breaches since 2015. As part of that operation, the feds also charged the alleged administrator, 21-year-old Diogo Santos Coelho of Portugal, with six criminal counts.</p>\n<p>Coelho was arrested in the United Kingdom on Jan. 31, 2022. By that time, the new BreachForums had been live for just under a week, but with a familiar look.</p>\n<p>BreachForums remains accessible online, and from reviewing the live chat stream on the site&#8217;s home page it appears the forum&#8217;s active users are only just becoming aware that their administrator &#8212; and the site&#8217;s database &#8212; is likely now in FBI hands:</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_63109\" style=\"width: 761px;\"><a href=\"https://krebsonsecurity.com/wp-content/uploads/2023/03/breachedruhroh.png\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" class=\"wp-image-63109\" height=\"281\" src=\"https://krebsonsecurity.com/wp-content/uploads/2023/03/breachedruhroh.png\" width=\"751\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-63109\">Members of BreachForums discuss the arrest of the forum&#8217;s alleged owner.</p></div>\n<p>&#8220;Wait if they arrested pom then doesn&#8217;t the FBI have all of our details we&#8217;ve registered with?&#8221; asked one worried BreachForums member.</p>\n<p>&#8220;But we all have good VPNs I guess, right&#8230;right guys?&#8221; another denizen offered.</p>\n<p>&#8220;Like pom would most likely do a plea bargain and cooperate with the feds as much as possible,&#8221; replied another.</p>\n<p>Fitzpatrick could not be immediately reached for comment. The FBI declined to comment for this story.</p>\n<p>There is only one page to the <a href=\"https://krebsonsecurity.com/wp-content/uploads/2023/03/pomcomplaint.pdf\" rel=\"noopener\" target=\"_blank\">criminal complaint against Fitzpatrick</a> (PDF), which charges him with one count of conspiracy to commit access device fraud. The affidavit on his arrest is available <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.nysd.595805/gov.uscourts.nysd.595805.1.0.pdf\" rel=\"noopener\" target=\"_blank\">here</a> (PDF).</p>\n<p><strong>Update:</strong> Corrected spelling of FBI agent&#8217;s last name.</p>"
+                }
+            ],
+            "wfw_commentrss": "https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/feed/",
+            "slash_comments": "44"
+        },
+        {
             "title": "Microsoft Patch Tuesday, March 2023 Edition",
             "title_detail": {
                 "type": "text/plain",
@@ -123,7 +223,7 @@
                 }
             ],
             "wfw_commentrss": "https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/feed/",
-            "slash_comments": "20"
+            "slash_comments": "28"
         },
         {
             "title": "Two U.S. Men Charged in 2022 Hacking of DEA Portal",
@@ -263,7 +363,7 @@
                 }
             ],
             "wfw_commentrss": "https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/feed/",
-            "slash_comments": "21"
+            "slash_comments": "23"
         },
         {
             "title": "Who\u2019s Behind the NetWire Remote Access Trojan?",
@@ -478,7 +578,7 @@
                 }
             ],
             "wfw_commentrss": "https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/feed/",
-            "slash_comments": "21"
+            "slash_comments": "23"
         },
         {
             "title": "Highlights from the New U.S. Cybersecurity Strategy",
@@ -1094,166 +1194,6 @@
             ],
             "wfw_commentrss": "https://krebsonsecurity.com/2023/02/new-protections-for-food-benefits-stolen-by-skimmers/feed/",
             "slash_comments": "32"
-        },
-        {
-            "title": "Microsoft Patch Tuesday, February 2023 Edition",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://krebsonsecurity.com/feed/",
-                "value": "Microsoft Patch Tuesday, February 2023 Edition"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/"
-                }
-            ],
-            "link": "https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/",
-            "comments": "https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/#comments",
-            "authors": [
-                {
-                    "name": "BrianKrebs"
-                }
-            ],
-            "author": "BrianKrebs",
-            "author_detail": {
-                "name": "BrianKrebs"
-            },
-            "published": "Tue, 14 Feb 2023 21:01:41 +0000",
-            "published_parsed": [
-                2023,
-                2,
-                14,
-                21,
-                1,
-                41,
-                1,
-                45,
-                0
-            ],
-            "tags": [
-                {
-                    "term": "Latest Warnings",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Security Tools",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Time to Patch",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21529",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21706",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21707",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21715",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21716",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-21823",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "CVE-2023-23376",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Dustin Childs",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Immersive Labs",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Internet Explorer 11",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Johannes Ullrich",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Kevin Breen",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Mandiant",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Microsoft Office",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Microsoft Patch Tuesday February 2023",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "sans internet storm center",
-                    "scheme": null,
-                    "label": null
-                },
-                {
-                    "term": "Trend Micro Zero Day Initiative",
-                    "scheme": null,
-                    "label": null
-                }
-            ],
-            "id": "https://krebsonsecurity.com/?p=62660",
-            "guidislink": false,
-            "summary": "Microsoft is sending the world a whole bunch of love today, in the form of patches to plug dozens of security holes in its Windows operating systems and other software. This year's special Valentine's Day Patch Tuesday includes fixes for a whopping three different \"zero-day\" vulnerabilities that are already being used in active attacks.",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://krebsonsecurity.com/feed/",
-                "value": "Microsoft is sending the world a whole bunch of love today, in the form of patches to plug dozens of security holes in its Windows operating systems and other software. This year's special Valentine's Day Patch Tuesday includes fixes for a whopping three different \"zero-day\" vulnerabilities that are already being used in active attacks."
-            },
-            "content": [
-                {
-                    "type": "text/html",
-                    "language": null,
-                    "base": "https://krebsonsecurity.com/feed/",
-                    "value": "<p><strong>Microsoft</strong> is sending the world a whole bunch of love today, in the form of patches to plug dozens of security holes in its <strong>Windows</strong> operating systems and other software. This year&#8217;s special Valentine&#8217;s Day Patch Tuesday includes fixes for a whopping three different &#8220;zero-day&#8221; vulnerabilities that are already being used in active attacks.</p>\n<p><img alt=\"\" class=\"aligncenter wp-image-56287\" height=\"528\" src=\"https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png\" width=\"750\" /></p>\n<p>Microsoft&#8217;s security advisories are somewhat sparse with details about the zero-day bugs. Redmond flags <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23376\" rel=\"noopener\" target=\"_blank\">CVE-2023-23376</a> as an &#8220;Important&#8221; elevation of privilege vulnerability in the <strong>Windows Common Log File System Driver</strong>, which is present in Windows 10 and 11 systems, as well as many server versions of Windows.</p>\n<p>&#8220;Sadly, there\u2019s just a little solid information about this privilege escalation,&#8221; said <strong>Dustin Childs</strong>, head of threat awareness at Trend Micro&#8217;s <strong>Zero Day Initiative</strong>. \u201cMicrosoft does note that the vulnerability would allow an attacker to exploit code as SYSTEM, which would allow them to completely take over a target. This is likely being chained with a remote code execution bug to spread malware or ransomware. Considering this was discovered by Microsoft\u2019s Threat Intelligence Center, it could mean it was used by advanced threat actors. Either way, make sure you test and roll these fixes quickly.\u201d</p>\n<p>The zero-day <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21715\" rel=\"noopener\" target=\"_blank\">CVE-2023-21715</a> is a weakness in <strong>Microsoft Office</strong> that Redmond describes as a &#8220;security feature bypass vulnerability.&#8221;</p>\n<p>&#8220;Microsoft lists this as under active exploit, but they offer no info on how widespread these exploits may be,&#8221; Childs said. \u201cBased on the write-up, it sounds more like a privilege escalation than a security feature bypass, but regardless, active attacks in a common enterprise application shouldn\u2019t be ignored. It\u2019s always alarming when a security feature is not just bypassed but exploited. Let\u2019s hope the fix comprehensively addresses the problem.\u201d</p>\n<p>The third zero-day flaw already seeing exploitation is <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21823\" rel=\"noopener\" target=\"_blank\">CVE-2023-21823</a>, which is another elevation of privilege weakness &#8212; this one in the <strong>Microsoft Windows Graphic</strong> component. Researchers at cybersecurity forensics firm <strong>Mandiant</strong> were credited with reporting the bug.</p>\n<p><strong>Kevin Breen</strong>, director of cyber threat research at <strong>Immersive Labs</strong>, pointed out that the security bulletin for CVE-2023-21823 specifically calls out <strong>OneNote</strong> as being a vulnerable component for the vulnerability.</p>\n<p>&#8220;In recent weeks, we have seen an increase in the use of OneNote files as part of <a href=\"https://www.bleepingcomputer.com/news/security/hackers-now-use-microsoft-onenote-attachments-to-spread-malware/\" rel=\"noopener\" target=\"_blank\">targeted malware campaigns</a>,&#8221; Breen said. &#8220;Patches for this are delivered via the app stores and not through the typical formats, so it&#8217;s important to double check your organization&#8217;s policies.&#8221;<span id=\"more-62660\"></span></p>\n<p>Microsoft fixed another Office vulnerability in <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21716\" rel=\"noopener\" target=\"_blank\">CVE-2023-21716</a>, which is a <strong>Microsoft Word</strong> bug that can lead to remote code execution &#8212; even if a booby-trapped Word document is merely viewed in the preview pane of <strong>Microsoft Outlook</strong>. This security hole has a CVSS (severity) score of 9.8 out of a possible 10.</p>\n<p>Microsoft also has more valentines for organizations that rely on <strong>Microsoft Exchange Server</strong> to handle email. Redmond patched three Exchange Server flaws (<a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21706\" rel=\"noopener\" target=\"_blank\">CVE-2023-21706</a>, <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21707\" rel=\"noopener\" target=\"_blank\">CVE-2023-21707</a>, and <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21529\" rel=\"noopener\" target=\"_blank\">CVE-2023-21529</a>), all of which Microsoft says are remote code execution flaws that are likely to be exploited.</p>\n<p>Microsoft said authentication is required to exploit these bugs, but then again threat groups that attack Exchange vulnerabilities also tend to phish targets for their Exchange credentials.</p>\n<p>Microsoft isn&#8217;t alone in dropping fixes for scary, ill-described zero-day flaws. Apple on Feb. 13 released an update for iOS that <a href=\"https://arstechnica.com/gadgets/2023/02/actively-exploited-webkit-vulnerability-fixed-in-ios-16-3-1-macos-13-2-1-updates/\" rel=\"noopener\" target=\"_blank\">resolves a zero-day vulnerability in Webkit</a>, Apple&#8217;s open source browser engine. <strong>Johannes Ullrich</strong> at the <strong>SANS Internet Storm Center</strong> notes that in addition to the WebKit problem, Apple fixed a privilege escalation issue. Both flaws are fixed in iOS 16.3.1.</p>\n<p>&#8220;This privilege escalation issue could be used to escape the browser sandbox and gain full system access after executing code via the WebKit vulnerability,&#8221; Ullrich warned.</p>\n<p>On a lighter note (hopefully), Microsoft drove the final nail in the coffin for <strong>Internet Explorer 11 (IE11)</strong>. According to Redmond, the out-of-support IE11 desktop application was permanently disabled on certain versions of Windows 10 on February 14, 2023 through a <strong>Microsoft Edge</strong> update.</p>\n<p>&#8220;All remaining consumer and commercial devices that were not already redirected from IE11 to Microsoft Edge were redirected with the Microsoft Edge update. Users will be unable to reverse the change,&#8221; Microsoft <a href=\"https://techcommunity.microsoft.com/t5/windows-it-pro-blog/internet-explorer-11-desktop-app-retirement-faq/ba-p/2366549\" rel=\"noopener\" target=\"_blank\">explained</a>. &#8220;Additionally, redirection from IE11 to Microsoft Edge will be included as part of all future Microsoft Edge updates. IE11 visual references, such as the IE11 icons on the Start Menu and taskbar, will be removed by the June 2023 Windows security update (\u201cB\u201d release) scheduled for June 13, 2023.&#8221;</p>\n<p>For a more granular rundown on the updates released today, see\u00a0<a href=\"https://isc.sans.edu/diary/Microsoft%20February%202023%20Patch%20Tuesday/29548\" rel=\"noopener\">the SANS Internet Storm Center roundup</a>. If today&#8217;s updates cause any stability or usability issues in Windows, AskWoody.com will likely have the lowdown on that.</p>\n<p>Please consider backing up your data and/or imaging your system before applying any updates. And feel free to sound off in the comments if you experience any problems as a result of these patches.</p>"
-                }
-            ],
-            "wfw_commentrss": "https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/feed/",
-            "slash_comments": "15"
         }
     ]
 }

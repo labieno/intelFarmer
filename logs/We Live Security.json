@@ -2898,6 +2898,113 @@
             },
             "wfw_commentrss": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/feed/",
             "slash_comments": "0"
+        },
+        {
+            "title": "Banking turmoil opens opportunities for fraud \u2013 Week in security with Tony Anscombe",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Banking turmoil opens opportunities for fraud \u2013 Week in security with Tony Anscombe"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/",
+            "comments": "https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/#respond",
+            "published": "Fri, 17 Mar 2023 15:30:05 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                15,
+                30,
+                5,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Editor"
+                }
+            ],
+            "author": "Editor",
+            "author_detail": {
+                "name": "Editor"
+            },
+            "id": "https://backend.welivesecurity.com/?post_type=post_video&p=171085",
+            "guidislink": false,
+            "summary": "<p>Scammers are looking to cash in on the chaos that has set in following the startling meltdowns of Silicon Valley Bank and Signature Bank and the crisis at Credit Suisse</p>\n<p>The post <a href=\"https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/\" rel=\"nofollow\">Banking turmoil opens opportunities for fraud \u2013 Week in security with Tony Anscombe</a> appeared first on <a href=\"http://feeds.feedburner.com/\" rel=\"nofollow\">WeLiveSecurity</a></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "<p>Scammers are looking to cash in on the chaos that has set in following the startling meltdowns of Silicon Valley Bank and Signature Bank and the crisis at Credit Suisse</p>\n<p>The post <a href=\"https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/\" rel=\"nofollow\">Banking turmoil opens opportunities for fraud \u2013 Week in security with Tony Anscombe</a> appeared first on <a href=\"http://feeds.feedburner.com/\" rel=\"nofollow\">WeLiveSecurity</a></p>"
+            },
+            "wfw_commentrss": "https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "SVB\u2019s collapse is a scammer\u2019s dream: Don\u2019t get caught out",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "SVB\u2019s collapse is a scammer\u2019s dream: Don\u2019t get caught out"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/",
+            "comments": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/#respond",
+            "published": "Fri, 17 Mar 2023 11:12:34 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                11,
+                12,
+                34,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Phil Muncaster"
+                }
+            ],
+            "author": "Phil Muncaster",
+            "author_detail": {
+                "name": "Phil Muncaster"
+            },
+            "tags": [
+                {
+                    "term": "Scams",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://backend.welivesecurity.com/?p=171067",
+            "guidislink": false,
+            "summary": "<p>How cybercriminals can exploit Silicon Valley Bank's downfall for their own ends \u2013 and at your expense</p>\n<p>The post <a href=\"https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/\" rel=\"nofollow\">SVB&#8217;s collapse is a scammer\u2019s dream: Don\u2019t get caught out</a> appeared first on <a href=\"http://feeds.feedburner.com/\" rel=\"nofollow\">WeLiveSecurity</a></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "<p>How cybercriminals can exploit Silicon Valley Bank's downfall for their own ends \u2013 and at your expense</p>\n<p>The post <a href=\"https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/\" rel=\"nofollow\">SVB&#8217;s collapse is a scammer\u2019s dream: Don\u2019t get caught out</a> appeared first on <a href=\"http://feeds.feedburner.com/\" rel=\"nofollow\">WeLiveSecurity</a></p>"
+            },
+            "wfw_commentrss": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/feed/",
+            "slash_comments": "0"
         }
     ]
 }

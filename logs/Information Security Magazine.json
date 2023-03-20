@@ -531,6 +531,234 @@
             ],
             "id": "https://www.infosecurity-magazine.com/news/russian-military-preparing/",
             "guidislink": false
+        },
+        {
+            "title": "UK Ransomware Incident Volumes Surge 17% in 2022",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "UK Ransomware Incident Volumes Surge 17% in 2022"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/uk-ransomware-incident-surge-17/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/uk-ransomware-incident-surge-17/",
+            "summary": "Jumpsec report identified Karakurt, Lockbit and Vice Society among groups responsible",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Jumpsec report identified Karakurt, Lockbit and Vice Society among groups responsible"
+            },
+            "published": "Mon, 20 Mar 2023 10:40:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                10,
+                40,
+                0,
+                0,
+                79,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/uk-ransomware-incident-surge-17/",
+            "guidislink": false
+        },
+        {
+            "title": "\"Hinata\" Botnet Could Launch Massive DDoS Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "\"Hinata\" Botnet Could Launch Massive DDoS Attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/hinata-botnet-could-launch-ddos/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/hinata-botnet-could-launch-ddos/",
+            "summary": "Akamai warns of new Mirai-like botnet written in Go",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Akamai warns of new Mirai-like botnet written in Go"
+            },
+            "published": "Mon, 20 Mar 2023 10:00:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                10,
+                0,
+                0,
+                0,
+                79,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/hinata-botnet-could-launch-ddos/",
+            "guidislink": false
+        },
+        {
+            "title": "Scam Robocalls Forecast to Cost $58bn This Year",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Scam Robocalls Forecast to Cost $58bn This Year"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/scam-robocalls-forecast-cost-58bn/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/scam-robocalls-forecast-cost-58bn/",
+            "summary": "Juniper Research says most of the pain will be felt in the US",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Juniper Research says most of the pain will be felt in the US"
+            },
+            "published": "Mon, 20 Mar 2023 09:30:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                9,
+                30,
+                0,
+                0,
+                79,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/scam-robocalls-forecast-cost-58bn/",
+            "guidislink": false
+        },
+        {
+            "title": "Telegram, WhatsApp Trojanized to Target Cryptocurrency Wallets",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Telegram, WhatsApp Trojanized to Target Cryptocurrency Wallets"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/telegram-whatsapp-trojanized/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/telegram-whatsapp-trojanized/",
+            "summary": "Most of these apps rely on clipper malware to steal the contents of the Android clipboard",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Most of these apps rely on clipper malware to steal the contents of the Android clipboard"
+            },
+            "published": "Fri, 17 Mar 2023 17:30:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                17,
+                30,
+                0,
+                4,
+                76,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/telegram-whatsapp-trojanized/",
+            "guidislink": false
+        },
+        {
+            "title": "Google Exposes 18 Zero-Day Flaws in Samsung Exynos Chips",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Google Exposes 18 Zero-Day Flaws in Samsung Exynos Chips"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/google-finds-18-zero-days-samsung/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/google-finds-18-zero-days-samsung/",
+            "summary": "Four of these vulnerabilities enabled potential attackers to perform remote code execution",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Four of these vulnerabilities enabled potential attackers to perform remote code execution"
+            },
+            "published": "Fri, 17 Mar 2023 17:00:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                17,
+                0,
+                0,
+                4,
+                76,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/google-finds-18-zero-days-samsung/",
+            "guidislink": false
+        },
+        {
+            "title": "Pro-Russian Winter Vivern APT Targets Governments and Telecom Firm",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Pro-Russian Winter Vivern APT Targets Governments and Telecom Firm"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/russia-winter-vivern-apt-targets/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/russia-winter-vivern-apt-targets/",
+            "summary": "SentinelOne shared details about the new campaign in an advisory published on Thursday",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "SentinelOne shared details about the new campaign in an advisory published on Thursday"
+            },
+            "published": "Fri, 17 Mar 2023 16:30:00 GMT",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                16,
+                30,
+                0,
+                4,
+                76,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/russia-winter-vivern-apt-targets/",
+            "guidislink": false
         }
     ]
 }

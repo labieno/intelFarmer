@@ -5536,6 +5536,280 @@
             "author_detail": {
                 "name": "Jai Vijayan, Contributing Writer, Dark Reading"
             }
+        },
+        {
+            "title": "How CISOs Can Work With the CFO to Get the Best Security Budget",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "How CISOs Can Work With the CFO to Get the Best Security Budget"
+            },
+            "summary": "CISOs can and should push back when they're presented with budget costs that affect the business. Here's how.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "CISOs can and should push back when they're presented with budget costs that affect the business. Here's how."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget"
+                },
+                {
+                    "type": "image/*",
+                    "length": "0",
+                    "href": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8aff4d66b75263f1/6412b10a65ed314f39e4a86a/EvanIllustration-square.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget",
+            "id": "https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 22:49:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                22,
+                49,
+                0,
+                4,
+                76,
+                0
+            ],
+            "media_content": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb781de4d49359347/6414edec71e8c4296be880f7/negotiating-Roman_Shyshak-alamy.jpg",
+                    "type": "image/*"
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Evan Schuman, Contributing Writer, Dark Reading"
+                }
+            ],
+            "author": "Evan Schuman, Contributing Writer, Dark Reading",
+            "author_detail": {
+                "name": "Evan Schuman, Contributing Writer, Dark Reading"
+            }
+        },
+        {
+            "title": "Microsoft Azure Warns on Killnet's Growing DDoS Onslaught Against Healthcare",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "Microsoft Azure Warns on Killnet's Growing DDoS Onslaught Against Healthcare"
+            },
+            "summary": "DDoS cyberattack campaigns from the pro-Russian group have spiked significantly.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "DDoS cyberattack campaigns from the pro-Russian group have spiked significantly."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare"
+                },
+                {
+                    "type": "image/*",
+                    "length": "0",
+                    "href": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare",
+            "id": "https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 20:15:57 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                20,
+                15,
+                57,
+                4,
+                76,
+                0
+            ],
+            "media_content": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd2a92a75575864cb/6324ae2a7b677842d8282eec/DDoS_Kirill_Ivanov_alamy.jpg",
+                    "type": "image/*"
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Dark Reading Staff, Dark Reading"
+                }
+            ],
+            "author": "Dark Reading Staff, Dark Reading",
+            "author_detail": {
+                "name": "Dark Reading Staff, Dark Reading"
+            }
+        },
+        {
+            "title": "Prancer Announces Integration With ChatGPT for Enhanced Security Assessments",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "Prancer Announces Integration With ChatGPT for Enhanced Security Assessments"
+            },
+            "summary": "",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": ""
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments"
+                }
+            ],
+            "link": "https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments",
+            "id": "https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 20:02:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                20,
+                2,
+                0,
+                4,
+                76,
+                0
+            ]
+        },
+        {
+            "title": "Microsoft Outlook Vulnerability Could Be 2023's 'It' Bug",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "Microsoft Outlook Vulnerability Could Be 2023's 'It' Bug"
+            },
+            "summary": "Snowballing PoC exploits for CVE-2023-23397 and a massive attack surface means almost business user could be a victim.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "Snowballing PoC exploits for CVE-2023-23397 and a massive attack surface means almost business user could be a victim."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug"
+                },
+                {
+                    "type": "image/*",
+                    "length": "0",
+                    "href": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug",
+            "id": "https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 18:23:11 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                18,
+                23,
+                11,
+                4,
+                76,
+                0
+            ],
+            "media_content": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4fdfa380d8796235/6414b3d864d6120f0ea8641e/outlook-imageBROKER-Alamy.jpg",
+                    "type": "image/*"
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Nathan Eddy, Contributing Writer, Dark Reading"
+                }
+            ],
+            "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+            "author_detail": {
+                "name": "Nathan Eddy, Contributing Writer, Dark Reading"
+            }
+        },
+        {
+            "title": "Technology Firms Delivering Much-Sought Encryption-in-Use",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "Technology Firms Delivering Much-Sought Encryption-in-Use"
+            },
+            "summary": "If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.darkreading.com/rss.xml",
+                "value": "If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use"
+                },
+                {
+                    "type": "image/*",
+                    "length": "0",
+                    "href": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use",
+            "id": "https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 17:07:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                17,
+                7,
+                0,
+                4,
+                76,
+                0
+            ],
+            "media_content": [
+                {
+                    "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt20085e665d2876a7/64149d10fb4f3a0fbf365119/Quantum_encryption_sakkmesterke_Alamy.jpg",
+                    "type": "image/*"
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Robert Lemos, Contributing Writer, Dark Reading"
+                }
+            ],
+            "author": "Robert Lemos, Contributing Writer, Dark Reading",
+            "author_detail": {
+                "name": "Robert Lemos, Contributing Writer, Dark Reading"
+            }
         }
     ]
 }

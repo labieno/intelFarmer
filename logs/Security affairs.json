@@ -1573,6 +1573,1010 @@
                 }
             ],
             "post-id": "143618"
+        },
+        {
+            "title": "Play ransomware gang hit Dutch shipping firm Royal Dirkzwager",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Play ransomware gang hit Dutch shipping firm Royal Dirkzwager"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Mon, 20 Mar 2023 06:19:33 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                6,
+                19,
+                33,
+                0,
+                79,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Royal Dirkzwager",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143714",
+            "guidislink": false,
+            "summary": "<p>Dutch maritime logistics company Royal Dirkzwager suffered a ransomware attack, the company was hit by the Play ransomware gang. The Play ransomware group hit the Dutch maritime logistics company Royal Dirkzwager. Royal Dirkzwager is specialized in optimizing shipping processes and managing maritime and logistic information flows. The ransomware group added the company to its Tor [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html\" rel=\"nofollow\">Play ransomware gang hit Dutch shipping firm Royal Dirkzwager</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Dutch maritime logistics company Royal Dirkzwager suffered a ransomware attack, the company was hit by the Play ransomware gang. The Play ransomware group hit the Dutch maritime logistics company Royal Dirkzwager. Royal Dirkzwager is specialized in optimizing shipping processes and managing maritime and logistic information flows. The ransomware group added the company to its Tor [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html\" rel=\"nofollow\">Play ransomware gang hit Dutch shipping firm Royal Dirkzwager</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Dutch maritime logistics company Royal Dirkzwager suffered a ransomware attack, the company was hit by the Play ransomware gang.</h2>\n\n\n\n<p>The Play ransomware group hit the Dutch maritime logistics company <a href=\"https://dirkzwager.com/\">Royal Dirkzwager</a>. </p>\n\n\n\n<p>Royal Dirkzwager is specialized in optimizing shipping processes and managing maritime and logistic information flows. </p>\n\n\n\n<p>The ransomware group added the company to its Tor data leak site and announced the theft of stolen private and personal confidential data, employee IDs, passports, contracts and etc. </p>\n\n\n\n<p>The gang initially leaked a 5 GB archive as proof of the hack and threatens to release the full dump if the company will not pay the ransom.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-37.png?ssl=1\"><img alt=\"Royal Dirkzwager Play ransomware\" class=\"wp-image-143716\" height=\"365\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-37.png?resize=1024%2C365&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<p>Company CEO Joan Blaas said that the ransomware attack did not impact the operations of the company. He confirmed that threat actors have stolen sensitive data from its infrastructure.</p>\n\n\n\n<p><em>\u201cIt has had a huge impact on our employees. Over the last year, because of the company\u2019s bankruptcy, we had to let go of people and not everyone could stay. We had to move offices and now this. It&#8217;s been a very difficult time,\u201d Company CEO Joan Blaas <a href=\"https://therecord.media/royal-dirkzwager-ransomware-attack-dutch-shipping\"><strong>told The Record</strong></a>.</em></p>\n\n\n\n<p>The company notified the Dutch Data Protection Authority and confirmed it is in negotiations with the ransomware group.</p>\n\n\n\n<p>The Play ransomware group has been active since July 2022,\u00a0the list of victims includes the <a href=\"https://securityaffairs.com/143037/cyber-crime/play-ransomware-leaks-city-of-oakland.html\">City of Oakland</a> and the Cloud services provider <a href=\"https://securityaffairs.com/140410/data-breach/rackspace-data-breach-play-ransomware.html\">Rackspace</a>.</p>\n\n\n\n<p></p>\n\n\n\n<p>The shipping industry is a privileged target of cybercrime organizations. In January, about 1,000 vessels <a href=\"https://securityaffairs.com/140941/cyber-crime/ransomware-attack-maritime-firm-dnv.html\">have been impacted</a> by a ransomware attack against\u00a0<a href=\"https://www.dnv.com/news/cyber-attack-on-shipmanager-a-dnv-software-237552\">DNV</a>, one of the major maritime software suppliers.\u00a0</p>\n\n\n\n<p>DNV GL provides solutions and services throughout the life cycle of any vessel, from design and engineering to risk assessment and ship management. The Norwegian company\u00a0<a href=\"https://en.wikipedia.org/wiki/DNV\"><strong>provides</strong></a>\u00a0services for 13,175 vessels and mobile offshore units (MOUs) amounting to 265.4 million\u00a0<a href=\"https://en.wikipedia.org/wiki/Gross_tonnage\">gross tonnes</a>, which represents a global market share of 21%.</p>\n\n\n\n<p>In February 2022, a <a href=\"https://securityaffairs.com/127493/hacking/oiltanking-gmbh-cyber-attack.html\">cyber attack hit Oiltanking GmbH</a>, a German petrol distributor that supplies Shell gas stations in the country, severely impacting its operations. According to the media, the attack also impacted the oil supplier Mabanaft GmbH. The two companies belong to the Marquard &amp; Bahls group.</p>\n\n\n\n<p>In November 2021, researchers from threat intelligence firm Intel 471 <a href=\"https://securityaffairs.com/124141/deep-web/cybercrime-initial-access-shipping-orgs.html\"><strong>published</strong></a> an\u00a0<a href=\"https://intel471.com/blog\" rel=\"noreferrer noopener\" target=\"_blank\">analysis</a>\u00a0of cybercrime underground trends online, warning that initial access brokers\u00a0were offering credentials or other forms of access to shipping and logistics organizations.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Royal Dirkzwager)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html\" rel=\"nofollow\">Play ransomware gang hit Dutch shipping firm Royal Dirkzwager</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143714"
+        },
+        {
+            "title": "Security Affairs newsletter Round 411 by Pierluigi Paganini",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Security Affairs newsletter Round 411 by Pierluigi Paganini"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 19 Mar 2023 21:45:51 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                19,
+                21,
+                45,
+                51,
+                6,
+                78,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143707",
+            "guidislink": false,
+            "summary": "<p>A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box. If you want to also receive for free the newsletter with the\u00a0international press subscribe\u00a0here. Kaspersky released a new decryptor for Conti-based ransomware US govt agencies released a joint alert [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html\" rel=\"nofollow\">Security Affairs newsletter Round 411 by Pierluigi Paganini</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box. If you want to also receive for free the newsletter with the\u00a0international press subscribe\u00a0here. Kaspersky released a new decryptor for Conti-based ransomware US govt agencies released a joint alert [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html\" rel=\"nofollow\">Security Affairs newsletter Round 411 by Pierluigi Paganini</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.</h2>\n\n\n\n<p><strong>If you want to also receive for free the newsletter with the\u00a0<a href=\"https://securityaffairs.co/wordpress/112244/breaking-news/security-affairs-newsletter-is-back.html\">international press subscribe\u00a0here</a>.</strong></p>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><a href=\"https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html\">Kaspersky released a new decryptor for Conti-based ransomware</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html\">US govt agencies released a joint alert on the Lockbit 3.0 ransomware</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html\">Feds arrested Pompompurin, the alleged owner of BreachForums</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html\">Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html\">HinataBot, a new Go-Based DDoS botnet in the threat landscape</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html\">Top 5 Insider Threats to Look Out For in 2023</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html\">China-linked APT likely linked to Fortinet zero-day attacks</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html\">Baseband RCE flaws in Samsung\u2019s Exynos chipsets expose devices to remote hack</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html\">Microsoft sheds light on a year of Russian hybrid warfare in Ukraine</a><a href=\"https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html\"><br />Polish intelligence dismantled a network of Russian spies</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html\">Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html\">CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html\">Russia-linked APT29 abuses EU information exchange systems in recent attacks</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html\">YoroTrooper APT group targets&nbsp;CIS countries and embassies</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html\">CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html\">Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html\">Key aerospace player Safran Group leaks sensitive data</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143495/cyber-crime/lockbit-ransomware-gang-spacex-files.html\">LockBit Ransomware gang claims to have stolen SpaceX confidential data from Maximum Industries</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html\">Microsoft Patch Tuesday fix Outlook zero-day actively exploited</a><a href=\"https://securityaffairs.com/143479/security/adobe-cold-fusion-exploited-bug.html\"><br />Adobe fixed ColdFusion flaw listed as under active exploit</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143466/cyber-crime/dev-1101-phishing-kit.html\">DEV-1101 AiTM phishing kit is fueling large-scale phishing campaigns</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143458/hacking/attacks-fortinet-fortios.html\">Advanced actor targets Fortinet FortiOS in attacks on govt entities</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143452/malware/dissecting-makop-ransomware.html\">Dissecting the malicious arsenal of the Makop ransomware gang</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143435/malware/golang-based-botnet-gobruteforcer.html\">Golang-Based Botnet GoBruteforcer targets web servers</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143429/security/cisa-plex-media-server-bug-known-exploited-vulnerabilities-catalog.html\">CISA adds Plex Media Server bug, exploited in LastPass attack, to Known Exploited Vulnerabilities Catalog</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143415/apt/dark-pink-apt-south-asia.html\">Dark Pink APT targets Govt entities in South Asia</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143394/security/company-data-chatgpt-risks.html\">The risk of pasting confidential company data into ChatGPT</a></td></tr><tr><td><a href=\"https://securityaffairs.com/143380/hacking/acronis-downplays-security-incident.html\">Acronis states that only one customer\u2019s account has been compromised. Much ado about nothing</a><a href=\"https://securityaffairs.com/143366/security/cisco-cve-2023-20049-dos.html\"><br />Cisco fixed CVE-2023-20049 DoS flaw affecting enterprise routers</a></td></tr></tbody></table><figcaption class=\"wp-element-caption\"></figcaption></figure>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, newsletter)</strong></p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html\" rel=\"nofollow\">Security Affairs newsletter Round 411 by Pierluigi Paganini</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143707"
+        },
+        {
+            "title": "Lowe\u2019s Market chain leaves client data up for grabs",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Lowe\u2019s Market chain leaves client data up for grabs"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 19 Mar 2023 17:54:00 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                19,
+                17,
+                54,
+                0,
+                6,
+                78,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Lowe\u2019s Market",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143701",
+            "guidislink": false,
+            "summary": "<p>A misconfiguration on a website owned by the US-based Lowe\u2019s Market grocery store chain could have allowed threat actors to gain control of its systems. On February 7, the Cybernews research team discovered a misconfiguration on the Lowe&#8217;s Market website. The supermarket chain\u2019s website was leaking a treasure trove of private credentials, which left the [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html\" rel=\"nofollow\">&lt;strong&gt;Lowe\u2019s Market chain leaves client data up for grabs&lt;/strong&gt;</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>A misconfiguration on a website owned by the US-based Lowe\u2019s Market grocery store chain could have allowed threat actors to gain control of its systems. On February 7, the Cybernews research team discovered a misconfiguration on the Lowe&#8217;s Market website. The supermarket chain\u2019s website was leaking a treasure trove of private credentials, which left the [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html\" rel=\"nofollow\">&lt;strong&gt;Lowe\u2019s Market chain leaves client data up for grabs&lt;/strong&gt;</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>A misconfiguration on a website owned by the US-based Lowe\u2019s Market grocery store chain could have allowed threat actors to gain control of its systems.</h2>\n\n\n\n<p>On February 7, the Cybernews research team discovered a misconfiguration on the Lowe&#8217;s Market website. The supermarket chain\u2019s website was leaking a treasure trove of private credentials, which left the company vulnerable to potential attacks by cybercriminals.</p>\n\n\n\n<p>Together, the compromised credentials could enable an unscrupulous hacker to gain control of most of the online store&#8217;s functionality, see sensitive customer information, and abuse access to paid services, all while putting Lowe&#8217;s Market customers at risk.</p>\n\n\n\n<p>With almost 150 locations, the Lowe&#8217;s chain primarily operates stores in Texas, New Mexico, Colorado, Arizona, and Kansas.</p>\n\n\n\n<p>At the time of writing, the company has already fixed the issue. Cybernews reached out to Lowe&#8217;s Market regarding the details of the misconfiguration and the possible duration of data exposure. However, the company has yet to provide a response to the inquiry.</p>\n\n\n\n<p><strong>Access to databases</strong></p>\n\n\n\n<p>Researchers found a publicly accessible environment file (.env) hosted on the Lowe\u2019s Market website. Public access to the file posed a risk to the security of the company\u2019s systems, as it was leaking sensitive data and numerous credentials.</p>\n\n\n\n<p>An examination of the environment file suggests that the developers were not following the best practices, while poor security configurations might have led to more secrets, an industry term for vital data that should be kept private, being exposed.</p>\n\n\n\n<p>The leaked secrets could have allowed threat actors to access databases as the hosts, usernames, and ports of main, tracking, legacy, recipe, and redis.io databases were exposed.</p>\n\n\n\n<p>Database hosts and credentials are considered sensitive information, as they are used to access respective databases and their contents. In the case of Lowe\u2019s Market, most database hosts are internet-connected, making it particularly easy for threat actors to access them.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/Lowes-Market-data-leak.png?ssl=1\"><img alt=\"Lowe\u2019s Market data leak\" class=\"wp-image-143704\" height=\"1024\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/Lowes-Market-data-leak.png?resize=775%2C1024&#038;ssl=1\" width=\"775\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure></div>\n\n\n<p>Due to legal reasons, it is impossible to check the contents of the databases, but the titles suggest that some of them contained information about products, such as recipes, while others could have contained customer usage data.</p>\n\n\n\n<p>At least one of the databases likely contained user information, as the company has limited support for online grocery purchases. One of the titles in the legacy database contained the word \u201cbilling,\u201d leading researchers to assume that it may have contained private user data.</p>\n\n\n\n<p>The environment file also revealed the access key to Amazon Web Services (AWS) S3 server and bucket name. This information could have been used to log in and access the bucket and its contents and modify or delete existing data.</p>\n\n\n\n<p>While the AWS S3 bucket could have stored sensitive information, based on its name, researchers assume it stored only website-related assets.</p>\n\n\n\n<p>\u201cThe bucket most likely only stored images used by the site and similar, non-sensitive assets,\u201d said Cybernews researcher Aras Nazarovas.</p>\n\n\n\n<p>\u201cIt is possible that it contained sensitive information as well, as we saw some cases like that, but there is no way to know in this particular case.\u201d</p>\n\n\n\n<p><strong>A treasure trove of keys uncovered</strong></p>\n\n\n\n<p>The .env file contained numerous application programming interface (API) keys dedicated to a specific website\u2019s functionality. Malicious actors could have used the leaked API keys and credentials to steal user information, change product pricing, and hijack most of the store&#8217;s functionality.</p>\n\n\n\n<p>One of these leaked keys, GrocerKey API, allowed access to partial credit card information, addresses, and top-spending users, as well as the ability to send unsolicited orders, issue refunds, launch ad campaigns, reset passwords, and check in-store and in-app balances.</p>\n\n\n\n<p>The REST API key that enables querying user information was also leaked, and this could have allowed a threat actor to use it along with GrocerKey API to make unauthorized online purchases.</p>\n\n\n\n<p>Some other leaked keys could have enabled threat actors to use the company\u2019s official communication channels to send malicious messages across various platforms.</p>\n\n\n\n<figure class=\"wp-block-image\"><img alt=\"Leaked API keys | Source: Cybernews\" src=\"https://i0.wp.com/media.cybernews.com/2023/03/env4.png?ssl=1\" /><figcaption class=\"wp-element-caption\">Screenshot of leaked API keys and email credentials | Source: Cybernews</figcaption></figure>\n\n\n\n<p>For instance, cybercriminals could have used the leaked Campaign Monitor, Pushwoosh, Loyalty Lane, and Postmark API keys to send emails, application notifications, and SMS messages to Lowe&#8217;s Market users. In addition, the threat actor could have used leaked Inmar API keys and credentials to produce custom coupons with significant discounts.</p>\n\n\n\n<p>Finally, the exposed Geocoder API key could have allowed a threat actor to gain access to the company\u2019s Google Maps API. A malicious actor could thus exploit the key to use this access for personal gain, resulting in increased usage and, subsequently, higher bills that the company would be responsible for paying.</p>\n\n\n\n<p>This is because each request sent through the Geocoder API to Google Maps would be charged to the company as the legal owner of that account.</p>\n\n\n\n<p>\u201cNo sensitive information can be obtained, the only possible misuse would be to send requests through the API, or flooding the API with requests to a point where the account would be rate-limited, affecting the website&#8217;s ability to display maps,\u201d said Nazarovas.</p>\n\n\n\n<p><strong>Takeover of Facebook app</strong></p>\n\n\n\n<p>Along with the API keys, the environment file also exposed Facebook OAuth credentials and Github OAuth tokens.</p>\n\n\n\n<p>Using the leaked Facebook app ID and secret key, the attacker could have requested sensitive user data from Facebook or taken over Lowe&#8217;s Market\u2019s Facebook application, with serious consequences for user privacy and security.</p>\n\n\n\n<p>Leaking such sensitive information as the GitHub OAuth token could have been dangerous as it can provide unauthorized access to a user&#8217;s Github account and the repositories it contains.</p>\n\n\n\n<p>According to CyberNews more grocery stores might be affected, if you want to learn more give a loot at the original post at:</p>\n\n\n\n<p><strong><a href=\"https://cybernews.com/security/lowes-market-data-leak/\">https://cybernews.com/security/lowes-market-data-leak/</a></strong></p>\n\n\n\n<p><strong>About the author: <a href=\"https://cybernews.com/author/paulinaokunyte/\">Paulina Okunyt\u0117</a>, Journalist at CyberNews</strong></p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, <strong>Lowe\u2019s Market</strong>)</strong></p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html\" rel=\"nofollow\">&lt;strong&gt;Lowe\u2019s Market chain leaves client data up for grabs&lt;/strong&gt;</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143701"
+        },
+        {
+            "title": "NBA is warning fans of a data breach after a third-party newsletter service hack",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "NBA is warning fans of a data breach after a third-party newsletter service hack"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143693/data-breach/nba-data-breach.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143693/data-breach/nba-data-breach.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 19 Mar 2023 13:18:44 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                19,
+                13,
+                18,
+                44,
+                6,
+                78,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "NBA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143693",
+            "guidislink": false,
+            "summary": "<p>The NBA (National Basketball Association) disclosed a data breach after a third-party firm providing a newsletter service was breached. The NBA (National Basketball Association) is notifying followers of a data breach after a third-party company providing a newsletter service was breached. The National Basketball Association (NBA) is a professional basketball league in Northern America composed [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143693/data-breach/nba-data-breach.html\" rel=\"nofollow\">NBA is warning fans of a data breach after a third-party newsletter service hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>The NBA (National Basketball Association) disclosed a data breach after a third-party firm providing a newsletter service was breached. The NBA (National Basketball Association) is notifying followers of a data breach after a third-party company providing a newsletter service was breached. The National Basketball Association (NBA) is a professional basketball league in Northern America composed [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143693/data-breach/nba-data-breach.html\" rel=\"nofollow\">NBA is warning fans of a data breach after a third-party newsletter service hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>The NBA (National Basketball Association) disclosed a data breach after a third-party firm providing a newsletter service was breached.</h2>\n\n\n\n<p>The NBA (National Basketball Association) is notifying followers of a data breach after a third-party company providing a newsletter service was breached. </p>\n\n\n\n<p>The <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association\">National Basketball Association (NBA)</a> is a professional basketball league in Northern America composed of 30 teams (29 in the United States and 1 in Canada). It is one of the major professional sports leagues in the United States and Canada and is considered the premier men&#8217;s professional basketball league in the world.</p>\n\n\n\n<p>NBA launched an investigation into the security breach with the support of external cybersecurity experts to determine the extent of the incident.</p>\n\n\n\n<p>The NBA pointed out that its systems were not impacted, according to the data breach notification sent to the fans, the incident affected an unknown number of individuals. </p>\n\n\n\n<p>BleepingComputer, which first reported the news, confirmed that some fans&#8217; personal information was stolen.</p>\n\n\n\n<p>According to the association, an unauthorized third party accessed and created copies of the names and email addresses of some of its fans. The data breach did not compromise usernames, passwords, and other information.</p>\n\n\n\n<p><em>&#8220;We recently became aware that an unauthorized third party gained access to, and obtained a copy of, your name and email address, which was held by a third-party service provider that helps us communicate via email with fans who have shared this information with the NBA,&#8221; reads the data breach notification, <a href=\"https://www.bleepingcomputer.com/news/security/nba-alerts-fans-of-a-data-breach-exposing-personal-information/\"><strong>as reported by BleepingComputer</strong></a>.</em></p>\n\n\n\n<p><em>&#8220;There is no indication that our systems, your username, password, or any other information you have shared with us have been impacted.&#8221;</em></p>\n\n\n\n<p>Even if credentials were not exposed as a result of this incident, fans must be vigilant for phishing attacks and other fraudulent activities that could target them by abusing the exposed information.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, NBA)</strong></p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://securityaffairs.com/143693/data-breach/nba-data-breach.html\" rel=\"nofollow\">NBA is warning fans of a data breach after a third-party newsletter service hack</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143693"
+        },
+        {
+            "title": "Kaspersky released a new decryptor for Conti-based ransomware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Kaspersky released a new decryptor for Conti-based ransomware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sat, 18 Mar 2023 21:52:13 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                21,
+                52,
+                13,
+                5,
+                77,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Conti decryptor",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Kaspersky",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143687",
+            "guidislink": false,
+            "summary": "<p>Kaspersky released a new version of the decryptor for the Conti ransomware that is based on the previously leaked source code of the malware. Kaspersky has published a new version of a decryption tool for the Conti ransomware based on previously leaked source code for the Conti ransomware. In March 2022, a Ukrainian security researcher [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html\" rel=\"nofollow\">Kaspersky released a new decryptor for Conti-based ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Kaspersky released a new version of the decryptor for the Conti ransomware that is based on the previously leaked source code of the malware. Kaspersky has published a new version of a decryption tool for the Conti ransomware based on previously leaked source code for the Conti ransomware. In March 2022, a Ukrainian security researcher [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html\" rel=\"nofollow\">Kaspersky released a new decryptor for Conti-based ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Kaspersky released a new version of the decryptor for the Conti ransomware that is based on the previously leaked source code of the malware.</h2>\n\n\n\n<p>Kaspersky has published a new version of a decryption tool for the Conti ransomware based on previously leaked <a href=\"https://securityaffairs.com/129296/cyber-crime/hacker-leaked-conti-ransomware-source-code.html\">source code</a> for the Conti ransomware.</p>\n\n\n\n<p>In March 2022, a Ukrainian security researcher has <a href=\"https://securityaffairs.com/129296/cyber-crime/hacker-leaked-conti-ransomware-source-code.html\">leaked the source code</a> from the Conti ransomware operation to protest the gang\u2019s position on the conflict.</p>\n\n\n\n<p>After the leak of the source code, an unknown ransomware group started distributing a modified version of the Conti ransomware in attacks aimed at companies and state institutions.</p>\n\n\n\n<p>In late February 2023, Kaspersky researchers uncovered a new portion of leaked data published on forums and noticed the presence of 258 private keys. The leak also included source code and some pre-compiled decryptors, which allowed the researchers to release new version of the public decryptor.</p>\n\n\n\n<p><em>&#8220;The malware variant whose keys were leaked, had been discovered by Kaspersky specialists in December 2022. This strain was used in multiple attacks against companies and state institutions.&#8221; <a href=\"https://www.kaspersky.com/about/press-releases/2023_kaspersky-updates-tool-for-decrypting-conti-based-ransomware\"><strong>states Kaspersky</strong></a>.</em></p>\n\n\n\n<p><em>&#8220;The leaked private keys are located in 257 folders (only one of these folders contains two keys). Some of them contain previously generated decryptors and several ordinary files: documents, photos, etc. Presumably the latter are test files \u2013 a couple of files that the victim sends to the attackers to make sure that the files can be decrypted.&#8221;</em></p>\n\n\n\n<p>The researchers added all 258 keys to the latest build of Kaspersky\u2019s utility <a href=\"https://securityaffairs.com/102384/cyber-crime/shade-ransomware-shut-down.html\">RakhniDecryptor</a> 1.40.0.00. Users can download the decryptor from the Kaspersky\u2019s \u201c<a href=\"https://noransom.kaspersky.com/\"><strong>No Ransom</strong></a>\u201d site. </p>\n\n\n\n<p><em>&nbsp;\u201cFor many consecutive years, ransomware has remained a major tool used by cybercrooks. However, because we have studied the TTPs of various ransomware gangs and found out that many of them operate in similar ways, preventing attacks becomes easier. The decryption tool against a new Conti-based modification is already available on our \u201cNo Ransom\u201d webpage.&nbsp;</em><em>However, we would like to emphasize that the best strategy is to strengthen defenses and stop the attackers at early stages of their intrusion, preventing ransomware deployment and minimizing the consequences of the attack</em><em>,\u201d</em>&nbsp;said Fedor Sinitsyn, lead malware analyst at Kaspersky.</p>\n\n\n\n<p>Below is the list of recommendations provided by the experts to protect organizations from ransomware attacks:</p>\n\n\n\n<ul>\n<li>Do not expose remote desktop services (such as RDP) to public networks unless absolutely necessary and always use strong passwords for them.</li>\n\n\n\n<li>Promptly install available patches for commercial VPN solutions providing access for remote employees and acting as gateways in your network.</li>\n\n\n\n<li>Focus your defense strategy on detecting lateral movements and data exfiltration to the Internet. Pay special attention to the outgoing traffic to detect cybercriminals&#8217; connections.</li>\n\n\n\n<li>Back up data regularly. Make sure you can quickly access it in an emergency when needed.&nbsp;</li>\n\n\n\n<li>Use solutions like&nbsp;<a href=\"https://www.kaspersky.com/enterprise-security/endpoint-detection-response-edr\">Kaspersky Endpoint Detection and Response Expert</a>&nbsp;and&nbsp;<a href=\"https://www.kaspersky.com/enterprise-security/managed-detection-and-response\">Kaspersky Managed Detection and Response</a>&nbsp;service which help to identify and stop the attack on early stages, before attackers reach their final goals.</li>\n\n\n\n<li>Use the latest\u00a0<a href=\"https://www.kaspersky.com/enterprise-security/threat-intelligence\">Threat Intelligence</a>\u00a0information to stay aware of actual TTPs used by threat actors. The Kaspersky Threat Intelligence Portal is a single point of access for Kaspersky\u2019s TI, providing cyberattack data and insights gathered by our team for 25 years. To help businesses enable effective defenses in these turbulent times, Kaspersky has announced access to independent, continuously updated and globally sourced information on ongoing cyberattacks and threats, at no charge. Request access to this offer\u00a0<a href=\"https://go.kaspersky.com/uchub#form\">here</a>.</li>\n</ul>\n\n\n\n<p>The Conti group has been active since 2019, the FBI estimated that between 2020 and 2022 the gang breached hundreds of organizations.\u00a0The FBI <a href=\"https://securityaffairs.com/131399/cyber-crime/conti-ransomware-overthrow-costa-rica.html\"><strong>estimated</strong></a> that as of January 2022, the gang obtained $150,000,000 in ransom payments from over 1,000 victims.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Conti)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html\" rel=\"nofollow\">Kaspersky released a new decryptor for Conti-based ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143687"
+        },
+        {
+            "title": "US govt agencies released a joint alert on the Lockbit 3.0 ransomware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "US govt agencies released a joint alert on the Lockbit 3.0 ransomware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sat, 18 Mar 2023 16:31:18 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                16,
+                31,
+                18,
+                5,
+                77,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "FBI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Lockbit 3.0",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143668",
+            "guidislink": false,
+            "summary": "<p>The US government released a joint advisory that provides technical details about the operation of the Lockbit 3.0 ransomware gang. The U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing &#38; Analysis Center (MS-ISAC) released a joint advisory that provides indicators of compromise (IOCs) and tactics, [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html\" rel=\"nofollow\">US govt agencies released a joint alert on the Lockbit 3.0 ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>The US government released a joint advisory that provides technical details about the operation of the Lockbit 3.0 ransomware gang. The U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing &#38; Analysis Center (MS-ISAC) released a joint advisory that provides indicators of compromise (IOCs) and tactics, [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html\" rel=\"nofollow\">US govt agencies released a joint alert on the Lockbit 3.0 ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>The US government released a joint advisory that provides technical details about the operation of the Lockbit 3.0 ransomware gang. </h2>\n\n\n\n<p>The U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) released a joint advisory that provides indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) associated with the notorious\u00a0<a href=\"https://securityaffairs.com/132701/breaking-news/lockbit-3-0.html\">LockBit 3.0</a> ransomware.</p>\n\n\n\n<p><em>&#8220;The Federal Bureau of Investigation (FBI), CISA, and the Multi-State Information Sharing and Analysis Center (MS-ISAC) has released a joint cybersecurity advisory (CSA),\u00a0<a href=\"https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a\">#StopRansomware: LockBit 3.0</a>. This joint advisory details known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) that FBI investigations correlated<strong>\u00a0</strong>with LockBit 3.0 ransomware as recently as March 2023.&#8221; reads the advisory published by US agencies. &#8220;LockBit 3.0 functions as an affiliate-based ransomware variant and is a continuation of LockBit 2.0 and LockBit.&#8221;</em></p>\n\n\n\n<p>The Lockbit gang has been active since at least 2019 and today it is one of the most active ransomware groups offering a Ransomware-as-a-Service (RaaS) model.</p>\n\n\n\n<p>The LockBit 3.0 ransomware (aka <a href=\"https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html\">LockBit Black</a>) was <a href=\"https://securityaffairs.com/132701/breaking-news/lockbit-3-0.html\">launched</a> in June 2022 and is a continuation of previous versions of the ransomware, <a href=\"https://securityaffairs.com/120664/cyber-crime/lockbit-2-0-ransomware-group-policies.html\">LockBit 2.0</a> (released in mid-2021), and <a href=\"https://securityaffairs.com/134707/cyber-crime/lockbit-hacked-entrust.html\">LockBit</a>. </p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-36.png?ssl=1\"><img alt=\"Lockbit3.0\" class=\"wp-image-143674\" height=\"324\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-36.png?resize=671%2C324&#038;ssl=1\" width=\"671\" /></a></figure></div>\n\n\n<p>The LockBit 3.0 ransomware is a modular malware that is more evasive than its previous versions, its <a href=\"https://securityaffairs.com/133697/malware/lockbit-3-0-blackmatter-ransomware.html\">shared similarities</a> with <a href=\"https://securityaffairs.com/123549/cyber-crime/blackmatter-ransomware-joint-advisory.html\">Blackmatter</a> and <a href=\"https://securityaffairs.com/141409/data-breach/blackcat-ransomware-solar-industries-india.html\">Blackcat</a> ransomware.</p>\n\n\n\n<p><em>&#8220;LockBit 3.0 is configured upon compilation with many different options that determine the behavior of the ransomware. Upon the actual execution of the ransomware within a victim environment, various arguments can be supplied to further modify the behavior of the ransomware. For example, LockBit 3.0 accepts additional arguments for specific operations in lateral movement and rebooting into Safe Mode (see LockBit Command Line parameters under Indicators of Compromise).&#8221; <a href=\"https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a\">reads the joint alert</a>.\u00a0</em></p>\n\n\n\n<p><em>&#8220;If a LockBit affiliate does not have access to passwordless LockBit 3.0 ransomware, then a password argument is mandatory during the execution of the ransomware.&#8221;</em></p>\n\n\n\n<p>By protecting the code with encryption, the latest LockBit version can avoid the detection of signature-based anti-malware solutions.</p>\n\n\n\n<p>The ransomware doesn&#8217;t infect machines whose language settings are included in an exclusion list, which includes Romanian (Moldova), Arabic (Syria), and Tatar (Russia).</p>\n\n\n\n<p>Initial attack vectors used by affiliates deploying LockBit 3.0 ransomware include remote desktop protocol (RDP) exploitation, drive-by compromise, phishing campaigns, abuse of valid accounts, and exploitation of public-facing applications.</p>\n\n\n\n<p>Upon execution in the target network, the ransomware attempts to escalate privileges if they are not sufficient, terminate processes and services, delete logs, files in the recycle bin folder, and shadow copies residing on disk.</p>\n\n\n\n<p>LockBit 3.0 attempts to perform lateral movement by using a preconfigured list of credentials hardcoded at compilation time or a compromised local account with elevated privileges.</p>\n\n\n\n<p>Operators can also compile LockBit 3.0 for spreading via Group Policy Objects and PsExec using the Server Message Block (SMB) protocol. </p>\n\n\n\n<ul>\n<li>The RaaS&#8217;s affiliates use the following tools to exfiltrate data before encrypting it:</li>\n\n\n\n<li>Stealbit, a custom exfiltration tool used previously with LockBit 2.0; </li>\n\n\n\n<li>publicly available file-sharing services, such as MEGA.</li>\n</ul>\n\n\n\n<p>The affiliates have been observed using various freeware and open-source tools furing their attacks.</p>\n\n\n\n<p><em>&#8220;These tools are used for a range of activities such as network reconnaissance, remote access and tunneling, credential dumping, and file exfiltration. Use of PowerShell and Batch scripts<br />are observed across most intrusions, which focus on system discovery, reconnaissance, password/credential hunting, and privilege escalation. Artifacts of professional penetration-testing tools such as Metasploit and Cobalt Strike have also been observed.&#8221; continues the report.</em></p>\n\n\n\n<p>The alert states that LockBit 3.0 is capable of bypassing User Account Control (UAC) to execute code with elevated privileges via elevated Component Object Model (COM) Interface. It also supports a Safe Mode feature to bypass endpoint antivirus and detection.</p>\n\n\n\n<p>The alert also provides mitigations and security controls to prevent and reduce the impact of the threat.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, RaaS)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html\" rel=\"nofollow\">US govt agencies released a joint alert on the Lockbit 3.0 ransomware</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143668"
+        },
+        {
+            "title": "Feds arrested Pompompurin, the alleged owner of BreachForums",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Feds arrested Pompompurin, the alleged owner of BreachForums"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sat, 18 Mar 2023 11:10:44 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                11,
+                10,
+                44,
+                5,
+                77,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Laws and regulations",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "BreachForums",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pompompurin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143656",
+            "guidislink": false,
+            "summary": "<p>U.S. law enforcement arrested this week a US citizen suspected to be Pompompurin, the notorious owner of the BreachForums cybercrime forum. U.S. law enforcement arrested this week a US man that goes online with the moniker &#8220;Pompompurin,&#8221; the US citizen is accused to be the owner of the popular\u00a0hacking forum BreachForums.\u00a0 The news of the [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html\" rel=\"nofollow\">Feds arrested Pompompurin, the alleged owner of BreachForums</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>U.S. law enforcement arrested this week a US citizen suspected to be Pompompurin, the notorious owner of the BreachForums cybercrime forum. U.S. law enforcement arrested this week a US man that goes online with the moniker &#8220;Pompompurin,&#8221; the US citizen is accused to be the owner of the popular\u00a0hacking forum BreachForums.\u00a0 The news of the [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html\" rel=\"nofollow\">Feds arrested Pompompurin, the alleged owner of BreachForums</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>U.S. law enforcement arrested this week a US citizen suspected to be Pompompurin, the notorious owner of the BreachForums cybercrime forum.</h2>\n\n\n\n<p>U.S. law enforcement arrested this week a US man that goes online with the moniker &#8220;Pompompurin,&#8221; the US citizen is accused to be the owner of the popular\u00a0hacking forum BreachForums.\u00a0</p>\n\n\n\n<p>The news of the arrest <a href=\"https://news.bloomberglaw.com/privacy-and-data-security/dark-web-breachforums-operator-charged-with-computer-crime\">was first reported</a> by Bloomberg, which reported that federal agents arrested Conor Brian Fitzpatrick from Peekskill, New York. </p>\n\n\n\n<p>The man was arrested by the feds at his home around 4:30 p.m. Wednesday.</p>\n\n\n\n<p><em>&#8220;Federal agents have arrested a Peekskill, New York, man they say ran the notorious dark web data-breach site \u201cBreachForums\u201d under the name \u201cPompompurin.\u201d&#8221; reads the <a href=\"https://news.bloomberglaw.com/privacy-and-data-security/dark-web-breachforums-operator-charged-with-computer-crime\">post</a> published by Bloomberg. &#8220;Conor Brian Fitzpatrick was arrested by a team of investigators at his home around 4:30 p.m. Wednesday, an FBI agent said in a sworn\u00a0statement\u00a0filed in court the next day. Fitzpatrick is charged with a single count of conspiracy to commit access device fraud.&#8221;</em></p>\n\n\n\n<p>In an <a href=\"https://www.courtlistener.com/docket/67027377/united-states-v-fitzpatrick/\">affidavit</a> filed with the District Court for the Southern District of New York, FBI Special Agent\u00a0<strong>John Langmire</strong>\u00a0said that at around 4:30 p.m. on March 15, 2023, he led a team of that made a probable cause arrest of Conor Brian Fitzpatrick\u00a0in Peekskill, NY.</p>\n\n\n\n<p><em>\u201cWhen I arrested the defendant on March 15, 2023, he stated to me in substance and in part that: a) his name was Conor Brian Fitzpatrick; b) he used the alias \u2018pompompurin/\u2019 and c) he was the owner and administrator of \u2018BreachForums\u2019 the data breach website referenced in the Complaint,\u201d <a href=\"https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/\"><strong>Langmire wrote</strong></a>.</em></p>\n\n\n\n<p><a href=\"https://westchester.news12.com/fbi-homeland-security-local-police-seen-investigating-peekskill-home\">According to the Westchester News12 website</a>, the agents spent hours\u00a0inside\u00a0and outside of the suspect&#8217;s home, they were seen removing several bags of evidence from the house.</p>\n\n\n\n<p>The man has been charged with soliciting individuals with the purpose of selling unauthorized access devices.</p>\n\n\n\n<p>Fitzpatrick was released on a $300,000 bond signed by his parents, he is scheduled to appear before the District Court for the Eastern District of Virginia on March 24, 2023.</p>\n\n\n\n<p>The defendant must: submit to supervision by and report for supervision to the PRETRIAL SERVICES As Directed; he was ordered to surrender any passport.</p>\n\n\n\n<p>The man has been restricted from contacting his co-conspirators, getting medical or psychiatric treatment, and using unlawfully narcotic drugs or other controlled substances unless prescribed by a licensed medical practitioner.</p>\n\n\n\n<p>The BreachForums hacking forum was launched in 2022 after the law enforcement authorities <a href=\"https://securityaffairs.com/130131/deep-web/authorities-shut-down-raidforums.html\">seized</a> RaidForums as a result of Operation TOURNIQUET.</p>\n\n\n\n<p>pompompurin <a href=\"https://flashpoint.io/blog/breach-forums-raid-forums-successor/\">always confirmed</a> that he was  &#8216;not affiliated with RaidForums in any capacity,&#8217;</p>\n\n\n\n<p>The law enforcement authorities have yet to shut down the website, another admin of the forum that goes online with the alias &#8220;Baphomet&#8221; announced that he is taking the control of the platform.</p>\n\n\n\n<p>Baphomet added that he believes that the feds haven&#8217;t had access to the infrastructure.</p>\n\n\n\n<p><em>&#8220;I also since that point have been constantly monitoring everything and going through every log to see any access or modifications to Breached infra. So far nothing like that has been seen.&#8221; said Baphomet. &#8220;My only response to LE, or any media outlet is that I have no concerns for myself at the moment. OPSEC has been my focus from day one, and thankfully I don\u2019t think any mountain lions will be attacking me in my little fishing boat.&#8221;</em></p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-35.png?ssl=1\"><img alt=\"BreachForums\" class=\"wp-image-143663\" height=\"401\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-35.png?resize=1024%2C401&#038;ssl=1\" width=\"1024\" /></a></figure></div>\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, BreachForums)</strong></p>\n<p>The post <a href=\"https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html\" rel=\"nofollow\">Feds arrested Pompompurin, the alleged owner of BreachForums</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143656"
+        },
+        {
+            "title": "Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 17 Mar 2023 21:42:41 +0000",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                21,
+                42,
+                41,
+                4,
+                76,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "clop ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "GoAnywhere",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hitachi Energy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=143640",
+            "guidislink": false,
+            "summary": "<p>Hitachi Energy disclosed a data breach, the Clop ransomware gang stole the company data by exploiting the recent GoAnywhere zero-day flaw. Hitachi Energy disclosed a data breach, the company was hacked by the Clop ransomware gang that stole its data by exploiting the recently disclosed zero-day vulnerability in the GoAnywhere MFT (Managed File Transfer). The [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html\" rel=\"nofollow\">Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "<p>Hitachi Energy disclosed a data breach, the Clop ransomware gang stole the company data by exploiting the recent GoAnywhere zero-day flaw. Hitachi Energy disclosed a data breach, the company was hacked by the Clop ransomware gang that stole its data by exploiting the recently disclosed zero-day vulnerability in the GoAnywhere MFT (Managed File Transfer). The [&#8230;]</p>\n<p>The post <a href=\"https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html\" rel=\"nofollow\">Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<h2>Hitachi Energy disclosed a data breach, the Clop ransomware gang stole the company data by exploiting the recent GoAnywhere zero-day flaw.</h2>\n\n\n\n<p>Hitachi Energy disclosed a data breach, the company was hacked by the Clop ransomware gang that stole its data by exploiting the recently disclosed zero-day vulnerability in the <a href=\"https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html\">GoAnywhere MFT</a> (Managed File Transfer).</p>\n\n\n\n<p>The company was the victim of a large-scale campaign targeting GoAnywhere MFT devices worldwide by exploiting the zero-day vulnerability.</p>\n\n\n\n<p><em>&#8220;We recently learned that a third-party software provider called FORTRA GoAnywhere MFT (Managed File Transfer) was the victim of an attack by the CLOP ransomware group that could have resulted in an unauthorized access to employee data in some countries.&#8221; reads the <a href=\"https://www.hitachienergy.com/news/features/2023/03/third-party-cybersecurity-incident\"><strong>statement</strong></a> pblished by the company.</em></p>\n\n\n\n<p><em>&#8220;Upon learning of this event, we took immediate action and initiated our own investigation, disconnected the third-party system, and engaged forensic IT experts to help us analyze the nature and scope of the attack. Employees who may be affected have been informed and we are providing support. We have also notified applicable data privacy, security and law enforcement authorities and we continue to cooperate with the relevant stakeholders.&#8221;</em></p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-34.png?ssl=1\"><img alt=\"Hitachi Energy Clop ransomware\" class=\"wp-image-143648\" height=\"474\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/03/image-34.png?resize=1024%2C474&#038;ssl=1\" width=\"1024\" /></a><figcaption class=\"wp-element-caption\"></figcaption></figure>\n\n\n\n<p>Hitachi Energy immediately launched an investigation into the incident and disconnected the compromised system. The company reported the data breach to law enforcement agencies and data protection watchdog. </p>\n\n\n\n<p>The company pointed out that its network operations or the security of its customer data have not been compromised.</p>\n\n\n\n<p>In early February, the popular investigator Brian Krebs&nbsp;<a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>first revealed</strong></a>&nbsp;details about the zero-day on Mastodon and pointed out that Fortra has yet to share a public advisory.</p>\n\n\n\n<p>According to the private advisory published by Fortra, the zero-day is a remote code injection issue that impacts GoAnywhere MFT. The vulnerability can only be exploited by attackers with access to the administrative console of the application.</p>\n\n\n\n<p>Installs with administrative consoles and management interfaces that are not exposed on the internet are safe, however, security researcher Kevin Beaumont&nbsp;<a href=\"https://beta.shodan.io/search?query=http.favicon.hash%3A1484947000\"><strong>discovered about 1000 Internet-facing consoles</strong></a>.</p>\n\n\n\n<p>Fortra recommends GoAnywhere MFT customers review all administrative users and monitor for unrecognized usernames, especially those created by \u201csystem.\u201d</p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<p>In February, the Clop ransomware group\u00a0<a href=\"https://securityaffairs.com/142130/cyber-crime/clop-ransomware-goanywhere-mft.html\"><strong>claimed</strong></a>\u00a0to have stolen sensitive data from over 130 organizations by exploiting a zero-day vulnerability (<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2023-0669\" rel=\"noreferrer noopener\" target=\"_blank\">CVE-2023-0669</a>) in Fortra\u2019s\u00a0<a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>GoAnywhere MFT</strong></a>\u00a0secure file transfer tool,\u00a0<a href=\"https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-it-breached-130-orgs-using-goanywhere-zero-day/\"><strong>BleepingComputer reported</strong></a>.</p>\n\n\n\n<p>Other organizations breached by exploiting the flaw in Fortra\u2019s\u00a0<a href=\"https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html\"><strong>GoAnywhere MFT</strong></a>\u00a0secure file transfer are the\u00a0<a href=\"https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html\">Hatch Bank</a>, the\u00a0<a href=\"https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html\">Community Health Systems</a>, and the data security firm <a href=\"https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html\">Rubrik</a>. At this time, the Clops ransomware group only added the bank and the data security firm to the list of victims.</p>\n\n\n\n<p>Follow me on Twitter: <a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a> and <a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a> and <a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong> <strong>hacking, Hitachi Energy)</strong></p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html\" rel=\"nofollow\">Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation</a> appeared first on <a href=\"https://securityaffairs.com\" rel=\"nofollow\">Security Affairs</a>.</p>"
+                }
+            ],
+            "post-id": "143640"
         }
     ]
 }

@@ -2969,6 +2969,336 @@
                 "name": "The Hacker News",
                 "email": "info@thehackernews.com"
             }
+        },
+        {
+            "title": "Emotet Rises Again: Evades Macro Security via OneNote Attachments",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Emotet Rises Again: Evades Macro Security via OneNote Attachments"
+            },
+            "summary": "The notorious Emotet malware, in its\u00a0return after a short hiatus, is now being distributed via\u00a0Microsoft OneNote email attachments\u00a0in an attempt to bypass macro-based security restrictions and compromise systems.\nEmotet, linked to a threat actor tracked as Gold Crestwood, Mummy Spider, or TA542, continues to be a potent and resilient threat despite attempts by law enforcement to take it down.\nA",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The notorious Emotet malware, in its\u00a0return after a short hiatus, is now being distributed via\u00a0Microsoft OneNote email attachments\u00a0in an attempt to bypass macro-based security restrictions and compromise systems.\nEmotet, linked to a threat actor tracked as Gold Crestwood, Mummy Spider, or TA542, continues to be a potent and resilient threat despite attempts by law enforcement to take it down.\nA"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtIyXQ0OSVDy8K3bJIQLidFb62Elg-imTXGPzQkNTTZKGkv7G3DD0HOlPaskyZ8Az-fbS6N3nCkJ0mWNz97-6k8bQzU6oD3UQIubvDSPhVUsHUfMTI1ssZ94U9VAqz45vvWyOiiLuqwPXg8o1ZVUdlZx3E2Yy-TukPhXlWmmDbmWNplDQ9SD65-Lg/s1600/emotet.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html",
+            "id": "https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html",
+            "guidislink": false,
+            "published": "Mon, 20 Mar 2023 11:21:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                20,
+                5,
+                51,
+                0,
+                0,
+                79,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack"
+            },
+            "summary": "The zero-day exploitation of a now-patched medium-severity security flaw in the Fortinet\u00a0FortiOS\u00a0operating system has been linked to a suspected Chinese hacking group.\nThreat intelligence firm Mandiant, which made the attribution, said the activity cluster is part of a broader campaign designed to deploy backdoors onto Fortinet and VMware solutions and maintain persistent access to victim",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The zero-day exploitation of a now-patched medium-severity security flaw in the Fortinet\u00a0FortiOS\u00a0operating system has been linked to a suspected Chinese hacking group.\nThreat intelligence firm Mandiant, which made the attribution, said the activity cluster is part of a broader campaign designed to deploy backdoors onto Fortinet and VMware solutions and maintain persistent access to victim"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnQQcBbVy5khTuZxoX3pwD1LLpjYuPZ_NnOLdkdJ_-fkmTz9fRsK3xBPMs_u4jV5QFS7yXAXR9ov9uJNXrum4cwznfXtW6yEY5WK7cFGwIwkyJ-uWAF0BrWTdYamZ8e-8A84nXdzlPTl643IaouR_0JN0e0ARGav96WY6CWxjKFBWZDn0vyI3-hfI/s1600/fortimanager.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html",
+            "id": "https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html",
+            "guidislink": false,
+            "published": "Sat, 18 Mar 2023 17:00:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                11,
+                30,
+                0,
+                5,
+                77,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York"
+            },
+            "summary": "U.S. law enforcement authorities have arrested a New York man in connection with running the infamous BreachForums hacking forum under the online alias \"Pompompurin.\"\nThe development, first reported by\u00a0Bloomberg Law, comes after News 12 Westchester, earlier this week, said that federal investigators \"spent hours inside and outside of a home in Peekskill.\"\n\"At one point, investigators were seen",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "U.S. law enforcement authorities have arrested a New York man in connection with running the infamous BreachForums hacking forum under the online alias \"Pompompurin.\"\nThe development, first reported by\u00a0Bloomberg Law, comes after News 12 Westchester, earlier this week, said that federal investigators \"spent hours inside and outside of a home in Peekskill.\"\n\"At one point, investigators were seen"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpR7gfJM4e4dOKvgPL9fwnFlCF0PPPZXaetmPalyNN2X0Sj1FR31OHl0YM8zCtKiNpR3ttG1iKVKGJRUfXg7ZYkPfrb9SfnG3CgcaNq1BbURibIT01Bw4P7YOi5ukWF0HV6Dx8po0NwbVjkyXLXDiKKk39_YJlOOvaa-BvM5RRfN6KVUEeh8wJDXJQ/s1600/breached.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html",
+            "id": "https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html",
+            "guidislink": false,
+            "published": "Sat, 18 Mar 2023 11:29:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                5,
+                59,
+                0,
+                5,
+                77,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "LockBit 3.0 Ransomware: Inside the Cyberthreat That's Costing Millions",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "LockBit 3.0 Ransomware: Inside the Cyberthreat That's Costing Millions"
+            },
+            "summary": "U.S. government agencies have released a joint cybersecurity advisory detailing the indicators of compromise (IoCs) and tactics, techniques, and procedures (TTPs) associated with the notorious\u00a0LockBit 3.0 ransomware.\n\"The LockBit 3.0 ransomware operations function as a Ransomware-as-a-Service (RaaS) model and is a continuation of previous versions of the ransomware, LockBit 2.0, and LockBit,\"",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "U.S. government agencies have released a joint cybersecurity advisory detailing the indicators of compromise (IoCs) and tactics, techniques, and procedures (TTPs) associated with the notorious\u00a0LockBit 3.0 ransomware.\n\"The LockBit 3.0 ransomware operations function as a Ransomware-as-a-Service (RaaS) model and is a continuation of previous versions of the ransomware, LockBit 2.0, and LockBit,\""
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq79HBBA8LS8E2xr4gPiDnGScNC4jYO-4A8gPKFqegEOWp_bsuoDvbWN2s0UKQiqwmEzw1hlGrvLcO82M4GuBfsiXYaVatejI5H45L1Nfzze6fbQAES1cPA2B4Tngk76-gmvC7gynFpA8eZdr0Z5HE7ZJlGPph8PdwvQwQcOq4YnGYcY_SYUktLrUN/s1600/lockbit-ransomware.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html",
+            "id": "https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html",
+            "guidislink": false,
+            "published": "Sat, 18 Mar 2023 10:47:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                18,
+                5,
+                17,
+                0,
+                5,
+                77,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps"
+            },
+            "summary": "An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps.\n\"FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device,\" cybersecurity firm Check Point said.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps.\n\"FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device,\" cybersecurity firm Check Point said."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqxD45ThYLurjNO8lhCeLYCPQI5VEwc9SN4lJ56zkUPhdgc3iEr5kGF_SAm0Ocm3XGv1GbkZaFLE7ttlzLjLFlDSOeX2vtk0d-ukiOZdC_yjBXF_e2L-GWv472BUuPAkpKF1BQD6btJk4Kf3fCMh-IPGM2iAtU-lWvABzksnu-VTKKaZxia2eXL1GH/s1600/call.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html",
+            "id": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html",
+            "guidislink": false,
+            "published": "Fri, 17 Mar 2023 23:45:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                17,
+                18,
+                15,
+                0,
+                4,
+                76,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "GoBruteforcer: New Golang-Based Malware Breaches Web Servers via Brute-Force Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "GoBruteforcer: New Golang-Based Malware Breaches Web Servers via Brute-Force Attacks"
+            },
+            "summary": "A new Golang-based malware dubbed\u00a0GoBruteforcer\u00a0has been found targeting web servers running phpMyAdmin, MySQL, FTP, and Postgres to corral the devices into a botnet.\n\"GoBruteforcer chose a Classless Inter-Domain Routing (CIDR) block for scanning the network during the attack, and it targeted all IP addresses within that CIDR range,\" Palo Alto Networks Unit 42 researchers\u00a0said.\n\"The threat actor",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A new Golang-based malware dubbed\u00a0GoBruteforcer\u00a0has been found targeting web servers running phpMyAdmin, MySQL, FTP, and Postgres to corral the devices into a botnet.\n\"GoBruteforcer chose a Classless Inter-Domain Routing (CIDR) block for scanning the network during the attack, and it targeted all IP addresses within that CIDR range,\" Palo Alto Networks Unit 42 researchers\u00a0said.\n\"The threat actor"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcdtZxzlcWUrr4R25OUIb3V1EB3PPEggQsAgD8zSUBM3cI6LbO7bZDErKNtSm0db64ElrtZ1oZ3KgrY9NN4iY2WAWcFV6o4EWa9fJE_GbjYtRZbZhOEkY89yGfjmpNGtOoTBBHjPjYmj68-AwZyazPX-VjKHdrIjzDThKUWFf3JVn_Tmx8WXLdypR/s1600/server.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html",
+            "id": "https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html",
+            "guidislink": false,
+            "published": "Tue, 14 Mar 2023 17:32:00 +0530",
+            "published_parsed": [
+                2023,
+                3,
+                14,
+                12,
+                2,
+                0,
+                1,
+                73,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
         }
     ]
 }

@@ -309,6 +309,161 @@
             ],
             "country": "US",
             "contenttype": "News"
+        },
+        {
+            "title": "Build resilience in a world of weaponized trust",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.proofpoint.com/us/rss.xml",
+                "value": "Build resilience in a world of weaponized trust"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.proofpoint.com/us/newsroom/news/build-resilience-world-weaponized-trust"
+                }
+            ],
+            "link": "https://www.proofpoint.com/us/newsroom/news/build-resilience-world-weaponized-trust",
+            "published": "16 Mar 2023 14:22:32",
+            "published_parsed": [
+                2023,
+                3,
+                16,
+                14,
+                22,
+                32,
+                3,
+                75,
+                0
+            ],
+            "country": "US",
+            "contenttype": "News"
+        },
+        {
+            "title": "Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.proofpoint.com/us/rss.xml",
+                "value": "Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.proofpoint.com/us/newsroom/news/analysts-spot-wave-svb-related-cyber-fraud-striking-business-sector"
+                }
+            ],
+            "link": "https://www.proofpoint.com/us/newsroom/news/analysts-spot-wave-svb-related-cyber-fraud-striking-business-sector",
+            "published": "15 Mar 2023 14:23:33",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                14,
+                23,
+                33,
+                2,
+                74,
+                0
+            ],
+            "country": "US",
+            "contenttype": "News"
+        },
+        {
+            "title": "Silicon Valley Bank collapse poses challenge for cybersecurity defenders, firms",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.proofpoint.com/us/rss.xml",
+                "value": "Silicon Valley Bank collapse poses challenge for cybersecurity defenders, firms"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.proofpoint.com/us/newsroom/news/silicon-valley-bank-collapse-poses-challenge-cybersecurity-defenders-firms"
+                }
+            ],
+            "link": "https://www.proofpoint.com/us/newsroom/news/silicon-valley-bank-collapse-poses-challenge-cybersecurity-defenders-firms",
+            "published": "15 Mar 2023 14:21:03",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                14,
+                21,
+                3,
+                2,
+                74,
+                0
+            ],
+            "country": "US",
+            "contenttype": "News"
+        },
+        {
+            "title": "Russia Calling? Scammers Target High-level Western Officials",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.proofpoint.com/us/rss.xml",
+                "value": "Russia Calling? Scammers Target High-level Western Officials"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.proofpoint.com/us/newsroom/news/russia-calling-scammers-target-high-level-western-officials"
+                }
+            ],
+            "link": "https://www.proofpoint.com/us/newsroom/news/russia-calling-scammers-target-high-level-western-officials",
+            "published": "15 Mar 2023 14:17:16",
+            "published_parsed": [
+                2023,
+                3,
+                15,
+                14,
+                17,
+                16,
+                2,
+                74,
+                0
+            ],
+            "country": "US",
+            "contenttype": "News"
+        },
+        {
+            "title": "Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.proofpoint.com/us/rss.xml",
+                "value": "Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.proofpoint.com/us/newsroom/news/why-healthcare-boards-lag-other-industries-preparing-cyberattacks"
+                }
+            ],
+            "link": "https://www.proofpoint.com/us/newsroom/news/why-healthcare-boards-lag-other-industries-preparing-cyberattacks",
+            "published": "14 Mar 2023 14:24:34",
+            "published_parsed": [
+                2023,
+                3,
+                14,
+                14,
+                24,
+                34,
+                1,
+                73,
+                0
+            ],
+            "country": "US",
+            "contenttype": "News"
         }
     ]
 }
