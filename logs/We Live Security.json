@@ -3005,6 +3005,348 @@
             },
             "wfw_commentrss": "https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/feed/",
             "slash_comments": "0"
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q4-2024-q1-2025/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q4-2024-q1-2025/",
+            "id": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q4-2024-q1-2025/",
+            "guidislink": false,
+            "title": "The who, where, and how of APT attacks in Q4 2024\u2013Q1 2025",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "The who, where, and how of APT attacks in Q4 2024\u2013Q1 2025"
+            },
+            "summary": "ESET Chief Security Evangelist Tony Anscombe highlights key findings from the latest issue of the ESET APT Activity Report",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "ESET Chief Security Evangelist Tony Anscombe highlights key findings from the latest issue of the ESET APT Activity Report"
+            },
+            "published": "Mon, 19 May 2025 17:17:43 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                17,
+                17,
+                43,
+                0,
+                139,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2024-q1-2025/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2024-q1-2025/",
+            "id": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2024-q1-2025/",
+            "guidislink": false,
+            "title": "ESET APT Activity Report Q4 2024\u2013Q1 2025",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "ESET APT Activity Report Q4 2024\u2013Q1 2025"
+            },
+            "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2024 and Q1 2025",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2024 and Q1 2025"
+            },
+            "published": "Mon, 19 May 2025 08:55:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                8,
+                55,
+                0,
+                0,
+                139,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/videos/sednit-xss-govt-entities-defense-companies/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/videos/sednit-xss-govt-entities-defense-companies/",
+            "id": "https://www.welivesecurity.com/en/videos/sednit-xss-govt-entities-defense-companies/",
+            "guidislink": false,
+            "title": "Sednit abuses XSS flaws to hit gov't entities, defense companies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Sednit abuses XSS flaws to hit gov't entities, defense companies"
+            },
+            "summary": "Operation RoundPress targets webmail software to steal secrets from email accounts belonging mainly to governmental organizations in Ukraine and defense contractors in the EU",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Operation RoundPress targets webmail software to steal secrets from email accounts belonging mainly to governmental organizations in Ukraine and defense contractors in the EU"
+            },
+            "published": "Thu, 15 May 2025 13:15:04 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                13,
+                15,
+                4,
+                3,
+                135,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/eset-research/operation-roundpress/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/eset-research/operation-roundpress/",
+            "id": "https://www.welivesecurity.com/en/eset-research/operation-roundpress/",
+            "guidislink": false,
+            "title": "Operation RoundPress",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Operation RoundPress"
+            },
+            "summary": "ESET researchers uncover a Russia-aligned espionage operation targeting webmail servers via XSS vulnerabilities",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "ESET researchers uncover a Russia-aligned espionage operation targeting webmail servers via XSS vulnerabilities"
+            },
+            "published": "Thu, 15 May 2025 07:22:04 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                7,
+                22,
+                4,
+                3,
+                135,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/videos/online-disinformation-unlocked-403-cybersecurity-podcast-s2e2/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/videos/online-disinformation-unlocked-403-cybersecurity-podcast-s2e2/",
+            "id": "https://www.welivesecurity.com/en/videos/online-disinformation-unlocked-403-cybersecurity-podcast-s2e2/",
+            "guidislink": false,
+            "title": "How can we counter online disinformation? | Unlocked 403 cybersecurity podcast (S2E2)",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "How can we counter online disinformation? | Unlocked 403 cybersecurity podcast (S2E2)"
+            },
+            "summary": "Ever wondered why a lie can spread faster than the truth? Tune in for an insightful look at disinformation and how we can fight one of the most pressing challenges facing our digital world.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Ever wondered why a lie can spread faster than the truth? Tune in for an insightful look at disinformation and how we can fight one of the most pressing challenges facing our digital world."
+            },
+            "published": "Mon, 12 May 2025 09:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                12,
+                9,
+                0,
+                0,
+                0,
+                132,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/scams/spotting-phish-many-faces/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/scams/spotting-phish-many-faces/",
+            "id": "https://www.welivesecurity.com/en/scams/spotting-phish-many-faces/",
+            "guidislink": false,
+            "title": "Catching a phish with many faces",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Catching a phish with many faces"
+            },
+            "summary": "Here\u2019s a brief dive into the murky waters of shape-shifting attacks that leverage dedicated phishing kits to auto-generate customized login pages on the fly",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Here\u2019s a brief dive into the murky waters of shape-shifting attacks that leverage dedicated phishing kits to auto-generate customized login pages on the fly"
+            },
+            "published": "Fri, 09 May 2025 09:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                9,
+                9,
+                0,
+                0,
+                4,
+                129,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/scams/phone-scams-demanding-money-missed-jury-duty/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/scams/phone-scams-demanding-money-missed-jury-duty/",
+            "id": "https://www.welivesecurity.com/en/scams/phone-scams-demanding-money-missed-jury-duty/",
+            "guidislink": false,
+            "title": "Beware of phone scams demanding money for \u2018missed jury duty\u2019",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Beware of phone scams demanding money for \u2018missed jury duty\u2019"
+            },
+            "summary": "When we get the call, it\u2019s our legal responsibility to attend jury service. But sometimes that call won\u2019t come from the courts \u2013 it will be a scammer.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "When we get the call, it\u2019s our legal responsibility to attend jury service. But sometimes that call won\u2019t come from the courts \u2013 it will be a scammer."
+            },
+            "published": "Wed, 07 May 2025 09:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                7,
+                9,
+                0,
+                0,
+                2,
+                127,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/",
+            "id": "https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/",
+            "guidislink": false,
+            "title": "Toll road scams are in overdrive: Here\u2019s how to protect yourself",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Toll road scams are in overdrive: Here\u2019s how to protect yourself"
+            },
+            "summary": "Have you received a text message about an unpaid road toll? Make sure you\u2019re not the next victim of a smishing scam.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "Have you received a text message about an unpaid road toll? Make sure you\u2019re not the next victim of a smishing scam."
+            },
+            "published": "Tue, 06 May 2025 09:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                6,
+                9,
+                0,
+                0,
+                1,
+                126,
+                0
+            ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/"
+                }
+            ],
+            "link": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/",
+            "id": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/",
+            "guidislink": false,
+            "title": "RSAC 2025 wrap-up \u2013 Week in security with Tony Anscombe",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "RSAC 2025 wrap-up \u2013 Week in security with Tony Anscombe"
+            },
+            "summary": "From the power of collaborative defense to identity security and AI, catch up on the event's key themes and discussions",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/eset/blog",
+                "value": "From the power of collaborative defense to identity security and AI, catch up on the event's key themes and discussions"
+            },
+            "published": "Fri, 02 May 2025 14:16:05 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                2,
+                14,
+                16,
+                5,
+                4,
+                122,
+                0
+            ]
         }
     ]
 }

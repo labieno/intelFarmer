@@ -5389,6 +5389,2756 @@
                 "name": "The Hacker News",
                 "email": "info@thehackernews.com"
             }
+        },
+        {
+            "title": "PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms"
+            },
+            "summary": "Russian organizations have become the target of a phishing campaign that distributes malware called PureRAT, according to new findings from Kaspersky.\n\"The campaign aimed at Russian business began back in March 2023, but in the first third of 2025 the number of attacks quadrupled compared to the same period in 2024,\" the cybersecurity vendor said.\nThe attack chains, which have not been",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Russian organizations have become the target of a phishing campaign that distributes malware called PureRAT, according to new findings from Kaspersky.\n\"The campaign aimed at Russian business began back in March 2023, but in the first third of 2025 the number of attacks quadrupled compared to the same period in 2024,\" the cybersecurity vendor said.\nThe attack chains, which have not been"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlT861CEuDL251pD5JBHg7_WFJ6_xoUwg7Vmy8duI3yyJq7YCVQEB7thiCELPXODcD6In8VAmsCJk131JUZZfWvTTHDDZKIYna1OH_a0gGAihayAqHdtx5bknIMqceJ9T-HaYfGKjdkx6n_Kau5nS_YKEV4MUl4UbjejEQhN0MdD51_RAT4Gl-DL2W03Za/s1600/dll.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html",
+            "id": "https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 18:40:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                13,
+                10,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims"
+            },
+            "summary": "Counterfeit Facebook pages and sponsored ads on the social media platform are being employed to direct users to fake websites masquerading as Kling AI with the goal of tricking victims into downloading malware.\nKling AI is an artificial intelligence (AI)-powered platform to synthesize images and videos from text and image prompts. Launched in June 2024, it's developed by Kuaishou Technology,",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Counterfeit Facebook pages and sponsored ads on the social media platform are being employed to direct users to fake websites masquerading as Kling AI with the goal of tricking victims into downloading malware.\nKling AI is an artificial intelligence (AI)-powered platform to synthesize images and videos from text and image prompts. Launched in June 2024, it's developed by Kuaishou Technology,"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf_ZI14PWKR_PHw2bTM0-gxgijN8hlBb6nUR_haHXGBUFHM54jAUDuz1Ff8RpBfUYD0ASTLRA9XCtuAZs2q_IyWUXECZP9uUq9NtQOpWY5kfsIiFWNdV762FdXec0ahvMzTLjUKZK52usx_oyuAThz_fgwWqRDSFXaEtGgIBUV8IIL5IvAEtl7qcxsYTRR/s1600/ai.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html",
+            "id": "https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 17:45:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                12,
+                15,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Securing CI/CD workflows with Wazuh",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Securing CI/CD workflows with Wazuh"
+            },
+            "summary": "Continuous Integration and Continuous Delivery/Deployment (CI/CD) refers to practices that automate how code is developed and released to different environments. CI/CD pipelines are fundamental in modern software development, ensuring code is consistently tested, built, and deployed quickly and efficiently.\nWhile CI/CD automation accelerates software delivery, it can also introduce security",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Continuous Integration and Continuous Delivery/Deployment (CI/CD) refers to practices that automate how code is developed and released to different environments. CI/CD pipelines are fundamental in modern software development, ensuring code is consistently tested, built, and deployed quickly and efficiently.\nWhile CI/CD automation accelerates software delivery, it can also introduce security"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTyLYxOlFGQY4rTkqbR4-VxbzNlpL360KsunAMcvZhy8zEgj_-F_Kltuy0BxKSr_6sMM6QX0TaRAZtsJ5gVU6oAo4vOqtq7ckv-u1e4yrilQ4uinkBLpoqapI4JAe-X9tYY-0wPOpeD-ZkJecooeghBW18vY_vgYgSB04WH2VjRXncnZMEJTCol8al9mQ/s1600/Wazuh.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html",
+            "id": "https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 16:55:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                11,
+                25,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "How to Detect Phishing Attacks Faster: Tycoon2FA Example",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "How to Detect Phishing Attacks Faster: Tycoon2FA Example"
+            },
+            "summary": "It takes just one email to compromise an entire system. A single well-crafted message can bypass filters, trick employees, and give attackers the access they need. Left undetected, these threats can lead to credential theft, unauthorized access, and even full-scale breaches. As phishing techniques become more evasive, they can no longer be reliably caught by automated solutions alone.\nLet\u2019s take",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "It takes just one email to compromise an entire system. A single well-crafted message can bypass filters, trick employees, and give attackers the access they need. Left undetected, these threats can lead to credential theft, unauthorized access, and even full-scale breaches. As phishing techniques become more evasive, they can no longer be reliably caught by automated solutions alone.\nLet\u2019s take"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9QhGjunx2U8UfV55YL2zTngEgkf4b5m54rzh3psCU7q0etXtZShWAQwpfnHeigqSzuobHRr9vBtOfv6GUcYyAfTOTso0T3bPWRgr7pmRLL-A5uExgyu5BW8AuHwJkvRg2mHWTM4GWjz3woH7FE2yMmDUwNMOTO4Uhq0dRiuXAtYhDq_eNe5QXbNIA0w8/s1600/anyrun.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html",
+            "id": "https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 16:00:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                10,
+                30,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps"
+            },
+            "summary": "Cybersecurity researchers have discovered a new campaign that employs malicious JavaScript injections to redirect site visitors on mobile devices to a Chinese adult-content Progressive Web App (PWA) scam.\n\"While the payload itself is nothing new (yet another adult gambling scam), the delivery method stands out,\" c/side researcher Himanshu Anand said in a Tuesday analysis.\n\"The malicious landing",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have discovered a new campaign that employs malicious JavaScript injections to redirect site visitors on mobile devices to a Chinese adult-content Progressive Web App (PWA) scam.\n\"While the payload itself is nothing new (yet another adult gambling scam), the delivery method stands out,\" c/side researcher Himanshu Anand said in a Tuesday analysis.\n\"The malicious landing"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhydi4fQLPSBhlVYVzutq0_FgZWIesILSmMyeE7x5Q0XPXMANqsyjuLYFISEr6NeszIBN44TUw19bho4j8xx6Tzxz2bUa-1JtGN7kH1sKM9NWVApgrlWxR-GHhwBO5PhyphenhyphenmRmB83_lKt-e5V2VTANLDmCd8awr_tv1Q8-FRXHEIx7pWV2KiS2bMCyrbCyUbS/s1600/js-malware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html",
+            "id": "https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 14:31:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                9,
+                1,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager"
+            },
+            "summary": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an option to fix it automatically,\" Google's Ashima Arora, Chirag Desai, and Eiji Kitamura said. \"On",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an option to fix it automatically,\" Google's Ashima Arora, Chirag Desai, and Eiji Kitamura said. \"On"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifLMUdmPeilN25wmi9Q3ZlHfJfLZ1oE07Re2k_RBYQq35ZW7xJVyIGoM5xIR-KX76qQng3wBcfcQ81Cq0JZvjV9mgm5vxwRijGQjLHI-Wf8lN1dEP0yIcPBS8ZxjXawg1ACZFOPUMYva9hyphenhyphenNtaCEqN0VtduA5l1CBqu_DiCsgt6Bk0naRluTdQZ7_UWnyp/s1600/chrome.gif",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html",
+            "id": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html",
+            "guidislink": false,
+            "published": "Wed, 21 May 2025 12:41:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                21,
+                7,
+                11,
+                0,
+                2,
+                141,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery"
+            },
+            "summary": "A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.\nThe hijacked domains are then used to host URLs that direct users to scams and malware via traffic distribution systems (TDSes), according to",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.\nThe hijacked domains are then used to host URLs that direct users to scams and malware via traffic distribution systems (TDSes), according to"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyk6P-djEjGb8cbs7pi3QNbC3ZJ1Y3HDVuOcMjzYWbOJOGeID6p_gvH2AE4347i84HNZvPZzu-nWbAwKuMccQMTm_cvflVgNmuhKmUPzpR13EpeebV53nTWypARFOzOk06uDoGmPIRSRJL7B_lM5RwvyvsewjY2fx1pIt-RdXm98vC9v8DoVM-f5TkFUP/s1600/info.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html",
+            "id": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 21:23:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                15,
+                53,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads"
+            },
+            "summary": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites that masquerade as legitimate services, productivity tools, ad and media creation or analysis",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites that masquerade as legitimate services, productivity tools, ad and media creation or analysis"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-Oa58jl3Hg4GUlsgHZkt5tqF9PiDnEig_pnfkc_yRkawR4ksZLkQazxJJ4aZbarymldktl-cR3DaclZpwCGdsz4ca0269Jbrx4tbLJ9rIkxlcKNbH1HWg6Clx3phGstaZdMmtIOlEiFwixXu1RJ4hdtAygJimqJwfJBGe-17yShFpcHEWnMMB98rXROE/s1600/chrome-malware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
+            "id": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 20:31:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                15,
+                1,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation"
+            },
+            "summary": "Cybersecurity researchers have discovered risky default identity and access management (IAM) roles impacting Amazon Web Services that could open the door for attackers to escalate privileges, manipulate other AWS services, and, in some cases, even fully compromise AWS accounts.\n\"These roles, often created automatically or recommended during setup, grant overly broad permissions, such as full S3",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have discovered risky default identity and access management (IAM) roles impacting Amazon Web Services that could open the door for attackers to escalate privileges, manipulate other AWS services, and, in some cases, even fully compromise AWS accounts.\n\"These roles, often created automatically or recommended during setup, grant overly broad permissions, such as full S3"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7v22_9iMvgSahNjh716S-kSbaNbjoi3Mh1cH_CpteNtgIZ1qRyxuuX0q7xKYtpJXG6DMJlWKWfYDy696UznUJF6hUih4JDR15LHzUfH3Wt-nFSrd8Sk1m9N7Tez6ULEtTxVymjEzPevdBsGBrs1ir4OYoY7wyG9Dcnc3M42DxUO2YsjZ1d-AsVgjwwNa/s1600/amazon.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html",
+            "id": "https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 18:12:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                12,
+                42,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "The Crowded Battle: Key Insights from the 2025 State of Pentesting Report",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The Crowded Battle: Key Insights from the 2025 State of Pentesting Report"
+            },
+            "summary": "In the newly released 2025 State of Pentesting Report, Pentera surveyed 500 CISOs from global enterprises (200 from within the USA) to understand the strategies, tactics, and tools they use to cope with the thousands of security alerts, the persisting breaches and the growing cyber risks they have to handle. The findings reveal a complex picture of progress, challenges, and a shifting mindset",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "In the newly released 2025 State of Pentesting Report, Pentera surveyed 500 CISOs from global enterprises (200 from within the USA) to understand the strategies, tactics, and tools they use to cope with the thousands of security alerts, the persisting breaches and the growing cyber risks they have to handle. The findings reveal a complex picture of progress, challenges, and a shifting mindset"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS7yCp76rsR0Hhm8Cua42KyKWKyH31pAikeFZ6_Mmzz1j4NhY2idq-KjKs9Fg4kqjgbpzcbkfMeo-L63dY26IB8JYocHag2voOClrnIzpHgxEMvUMQ67PI5Y6gjpq1OIr2TMlVoGF07ZKaIeyMkdOAjwIhb0h4RglKnDXaJkSz8HT5nAhczF9WQ7CiTjE/s1600/PENTERA.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html",
+            "id": "https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 16:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                11,
+                0,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware"
+            },
+            "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries received the malicious content,\" Acronis researchers Santiago Pontiroli, Jozsef Gegeny, and Prakas",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries received the malicious content,\" Acronis researchers Santiago Pontiroli, Jozsef Gegeny, and Prakas"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6d1Ta82xBvexs6YgMM0BzcQS1ZohcRy5lcYEj3PdNVEQgS3aQa7nwtnPQBjFegJlglUYFuZ15-taL6YRD-zIFQCFBqBUkYPTcBKC2UPE97Ev-mO2IgApC9M_d6fNWA9QNJlEQDUdUjMqf2rLYW0yfdO_oXz4tqACqdSXHRQ5ONT8aaBsDKlJZlTTyHbS/s1600/cyberattack.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
+            "id": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 16:27:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                10,
+                57,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization"
+            },
+            "summary": "Threat hunters have exposed the tactics of a China-aligned threat actor called UnsolicitedBooker that targeted an unnamed international organization in Saudi Arabia with a previously undocumented backdoor dubbed MarsSnake.\nESET, which first discovered the hacking group's intrusions targeting the entity in March 2023 and again a year later, said the activity leverages spear-phishing emails using",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Threat hunters have exposed the tactics of a China-aligned threat actor called UnsolicitedBooker that targeted an unnamed international organization in Saudi Arabia with a previously undocumented backdoor dubbed MarsSnake.\nESET, which first discovered the hacking group's intrusions targeting the entity in March 2023 and again a year later, said the activity leverages spear-phishing emails using"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTmVz3QQfwm5V1QzET708wlI8-t3Q74n0IZ4wuQ-ONpI9edBIuFi_J1cZ7OjcsukCHnIZgp8ZE3JS_x5E_0dk3Ff_nuctIpD-Wxb6EaVNadWVmXGLfsi3v1ziUlYAb2Pt2oHK3FmxQkBDWdlr18s6zpG2UhUAPM0ymljjtZnfnqtc2QBfe-qOyp1ZIpGlM/s1600/chinese-hackers.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html",
+            "id": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 15:02:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                9,
+                32,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse"
+            },
+            "summary": "Cybersecurity researchers are calling attention to a new Linux cryptojacking campaign that's targeting publicly accessible Redis servers.\nThe malicious activity has been codenamed RedisRaider by Datadog Security Labs.\n\"RedisRaider aggressively scans randomized portions of the IPv4 space and uses legitimate Redis configuration commands to execute malicious cron jobs on vulnerable systems,\"",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers are calling attention to a new Linux cryptojacking campaign that's targeting publicly accessible Redis servers.\nThe malicious activity has been codenamed RedisRaider by Datadog Security Labs.\n\"RedisRaider aggressively scans randomized portions of the IPv4 space and uses legitimate Redis configuration commands to execute malicious cron jobs on vulnerable systems,\""
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyrrjRLyS__q1T8oDRP47Ju4U2o72Lwh2MFGZq6PtZGiPVMs4_oML7zQhFl-CbQ1qHxwaP6ouYISZsNhNa6p0SI3Oxpe4_DgJyxH8ZSODwCFem6nKaPs9JpNj2wuTd30NNyuLuYLvhedyHfW_uGBXzCZP4zlwYS_KLK8WLlxILnCv4AuRaLtmuy0CssviL/s1600/linux-crypto-malware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html",
+            "id": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 13:55:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                8,
+                25,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts"
+            },
+            "summary": "Cybersecurity researchers have uncovered malicious packages uploaded to the Python Package Index (PyPI) repository that act as checker tools to validate stolen email addresses against TikTok and Instagram APIs.\nAll three packages are no longer available on PyPI. The names of the Python packages are below -\n\nchecker-SaGaF (2,605 downloads)\nsteinlurks (1,049 downloads)\nsinnercore (3,300 downloads)",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have uncovered malicious packages uploaded to the Python Package Index (PyPI) repository that act as checker tools to validate stolen email addresses against TikTok and Instagram APIs.\nAll three packages are no longer available on PyPI. The names of the Python packages are below -\n\nchecker-SaGaF (2,605 downloads)\nsteinlurks (1,049 downloads)\nsinnercore (3,300 downloads)"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeGT9NM2N2b7RxoLu0DB42MKBGsc3FdtUvK3sQxF9UFDkVDic1Ua5BXCBegTUrZWvk8UfLgMkEtjMeXrB_elX1cqdPYBi8gQqRChkta5lM-HGX0Jp295K9m74SOx94cy_x3NKK7zLRgny3QJyYtRIVBmgA6v5CHDWzbW_jH9F4KKzOLgw-nc2-OYJor1Xm/s1600/pypi.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html",
+            "id": "https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html",
+            "guidislink": false,
+            "published": "Tue, 20 May 2025 11:19:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                20,
+                5,
+                49,
+                0,
+                1,
+                140,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer"
+            },
+            "summary": "The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility.\n\"Robware.net and RVTools.com are currently offline. We are working expeditiously to restore service and appreciate your patience,\" the company said in a statement posted on its website.\n\"Robware.net and RVTools.com are the only authorized and supported websites for",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility.\n\"Robware.net and RVTools.com are currently offline. We are working expeditiously to restore service and appreciate your patience,\" the company said in a statement posted on its website.\n\"Robware.net and RVTools.com are the only authorized and supported websites for"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqwSRRvndYEfYUh806L-fRrWP18sXtzw10WRKFvK_ZTyLCiM7pj8L5fAv-i8HrImfoGVl1z4vi1I6rDoJkiawJ_MZudJfjENhv7TbxjBMvknHhafsUzg1MVbxuO51im4BkIIGA0ETFxhyphenhyphenwzr7oK2wgBnD9P3SN_f_eRsRfzTWrBOZSoIlGB4-YPGjq36Xc/s1600/malware-software.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html",
+            "id": "https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html",
+            "guidislink": false,
+            "published": "Mon, 19 May 2025 21:18:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                15,
+                48,
+                0,
+                0,
+                139,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access"
+            },
+            "summary": "Several ransomware actors are using a malware called Skitnet as part of their post-exploitation efforts to steal sensitive data and establish remote control over compromised hosts.\n\"Skitnet has been sold on underground forums like RAMP since April 2024,\" Swiss cybersecurity company PRODAFT told The Hacker News. \"However, since early 2025, we have observed multiple ransomware operators using it",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Several ransomware actors are using a malware called Skitnet as part of their post-exploitation efforts to steal sensitive data and establish remote control over compromised hosts.\n\"Skitnet has been sold on underground forums like RAMP since April 2024,\" Swiss cybersecurity company PRODAFT told The Hacker News. \"However, since early 2025, we have observed multiple ransomware operators using it"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr_GLw2-nzf4KvasK-MmAwPwy1JWOaryLs6ANTGsHDQbKmy8jA_bRWzmh2xO2cQLgVV57mFbWSD9pOp9XfjvuEcugFX57JF0Ude0www-GOEJ10JmohBe8PEV3G_4mnzSAqgQjnyx6WDt_FTF_f4GjqMfLQ7Is-xw3CsRN1ZpTcBQgBX66yLspOqdYDnC6w/s1600/ransomware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html",
+            "id": "https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html",
+            "guidislink": false,
+            "published": "Mon, 19 May 2025 20:08:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                14,
+                38,
+                0,
+                0,
+                139,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Why CTEM is the Winning Bet for CISOs in 2025",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Why CTEM is the Winning Bet for CISOs in 2025"
+            },
+            "summary": "Continuous Threat Exposure Management (CTEM) has moved from concept to cornerstone, solidifying its role as a strategic enabler for CISOs. No longer a theoretical framework, CTEM now anchors today\u2019s cybersecurity programs by continuously aligning security efforts with real-world risk.\nAt the heart of CTEM is the integration of Adversarial Exposure Validation (AEV), an advanced, offensive",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Continuous Threat Exposure Management (CTEM) has moved from concept to cornerstone, solidifying its role as a strategic enabler for CISOs. No longer a theoretical framework, CTEM now anchors today\u2019s cybersecurity programs by continuously aligning security efforts with real-world risk.\nAt the heart of CTEM is the integration of Adversarial Exposure Validation (AEV), an advanced, offensive"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYSWVcCi69TR0tmyTAOwVkkXqNSDUKet5A96bJ93j9UqUU2ivHJdh8qe0vkMx9dlxL7Ku0h2Mg0goMsicrrwMSEI1tkcttZrU97ZY2RPjKHoKKpm_tPSLIdlqsqGXzEWrRZlcbX_o5PGJc5RTeD_d99rZZ2q95WmB6HeSfpu-7F_YaeQ5jTcIisuXKeMg/s1600/breachlock.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html",
+            "id": "https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html",
+            "guidislink": false,
+            "published": "Mon, 19 May 2025 16:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                11,
+                0,
+                0,
+                0,
+                139,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards"
+            },
+            "summary": "Mozilla has released security updates to address two critical security flaws in its Firefox browser that could be potentially exploited to access sensitive data or achieve code execution.\nThe vulnerabilities, both of which were exploited as a zero-day at Pwn2Own Berlin, are listed below -\n\nCVE-2025-4918 - An out-of-bounds access vulnerability when resolving Promise objects that could allow an",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Mozilla has released security updates to address two critical security flaws in its Firefox browser that could be potentially exploited to access sensitive data or achieve code execution.\nThe vulnerabilities, both of which were exploited as a zero-day at Pwn2Own Berlin, are listed below -\n\nCVE-2025-4918 - An out-of-bounds access vulnerability when resolving Promise objects that could allow an"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIcxpAWOa6Hr8B2dRjoacBO5J2kmFI5MSZnAegbkVXakygRaT7seCDpCIE3AGkeLFrSNQuEx3DDDCQ961olReVHLX78m6tVdEGBFx4vOJXLfYbLAbDhKybuyakpH6f3GmZ3pXGo2zciVnl1AYqEiPx04m33YTaSIL8w9ycL4UJQivJm3gl5O1cMyopPsOY/s1600/forefox.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html",
+            "id": "https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html",
+            "guidislink": false,
+            "published": "Mon, 19 May 2025 16:07:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                10,
+                37,
+                0,
+                0,
+                139,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "\u26a1 Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More"
+            },
+            "summary": "Cybersecurity leaders aren\u2019t just dealing with attacks\u2014they\u2019re also protecting trust, keeping systems running, and maintaining their organization\u2019s reputation. This week\u2019s developments highlight a bigger issue: as we rely more on digital tools, hidden weaknesses can quietly grow.&nbsp;\nJust fixing problems isn\u2019t enough anymore\u2014resilience needs to be built into everything from the ground up.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity leaders aren\u2019t just dealing with attacks\u2014they\u2019re also protecting trust, keeping systems running, and maintaining their organization\u2019s reputation. This week\u2019s developments highlight a bigger issue: as we rely more on digital tools, hidden weaknesses can quietly grow.&nbsp;\nJust fixing problems isn\u2019t enough anymore\u2014resilience needs to be built into everything from the ground up."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiErReNQg1mnRB5r-sQq6T6WHDBatqSjCqDe2d35jrHZ4aHU_7ouB1IUa_hoI_OR-diYhxk8i5BA_ZAk57XVsow5nMsayd-InYE57bYUAU0R3tQI8nXFvKWX3PYWHmgxX9qznk9XUMNc574H4_DwFjvmFjFwabMT-ge4l_BSwONtGpWoiAWjIwO6445BXca/s1600/recap.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html",
+            "id": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html",
+            "guidislink": false,
+            "published": "Mon, 19 May 2025 15:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                19,
+                10,
+                0,
+                0,
+                0,
+                139,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications"
+            },
+            "summary": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities within hours. Yet most organizations take days to respond to critical cloud alerts. That delay isn\u2019t",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities within hours. Yet most organizations take days to respond to critical cloud alerts. That delay isn\u2019t"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbNLee9VlpBpNmlxQSBF7IHwrQajzAJWYjhcHTIVVqzroGXrpk_x9Sbbua1Xi-QtO9jbcX1canKTWWzfaOshSarJol1Ude7LNQMeV5B2x71gaXxWg_cjEJ3bPuuoyyyMLgWB9hCtZ1PV5j3QOGByinGCAETqul2WWz-mVYiuERYWPVu7ob8lSckM-ocw/s1600/soc.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html",
+            "id": "https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html",
+            "guidislink": false,
+            "published": "Sat, 17 May 2025 09:37:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                17,
+                4,
+                7,
+                0,
+                5,
+                137,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors"
+            },
+            "summary": "Cybersecurity researchers are calling attention to a new botnet malware called HTTPBot that has been used to primarily single out the gaming industry, as well as technology companies and educational institutions in China.\n\"Over the past few months, it has expanded aggressively, continuously leveraging infected devices to launch external attacks,\" NSFOCUS said in a report published this week. \"By",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers are calling attention to a new botnet malware called HTTPBot that has been used to primarily single out the gaming industry, as well as technology companies and educational institutions in China.\n\"Over the past few months, it has expanded aggressively, continuously leveraging infected devices to launch external attacks,\" NSFOCUS said in a report published this week. \"By"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ZuMt2KPpcbyNQYKoEGWSfnho5XCjBP6WvQGULfrPq7ubmBLJo-jVUvEg9YZGxKBp2usM4v3O0LBBS0dNiXf26ioMDk5_DvluI8suFm1cTiNrbUO38pfd137klW3sanUZoUhINOVn5n0bTj_8IvDb7-NzRxJcUE5KckvPHlI9eCV_H1iJsBsfGK8dtRNV/s1600/gamer-ddos.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html",
+            "id": "https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html",
+            "guidislink": false,
+            "published": "Fri, 16 May 2025 17:07:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                16,
+                11,
+                37,
+                0,
+                4,
+                136,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Top 10 Best Practices for Effective Data Protection",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Top 10 Best Practices for Effective Data Protection"
+            },
+            "summary": "Data is the lifeblood of productivity, and protecting sensitive data is more critical than ever. With cyber threats evolving rapidly and data privacy regulations tightening, organizations must stay vigilant and proactive to safeguard their most valuable assets. But how do you build an effective data protection framework?\nIn this article, we'll explore data protection best practices from meeting",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Data is the lifeblood of productivity, and protecting sensitive data is more critical than ever. With cyber threats evolving rapidly and data privacy regulations tightening, organizations must stay vigilant and proactive to safeguard their most valuable assets. But how do you build an effective data protection framework?\nIn this article, we'll explore data protection best practices from meeting"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXBERUARZsyqHy9k4D120KVyIgTqJpnz4zVqiw02H_mnaRvh19eRLX3jnZRqgPktoPMboUz0L3IKMlLHw4tApgNX2Rm0Tadvgz7klLHA9Kia4s7Bs9Hwf1zrhoRbstmtAPVLFn8qBmszAqlNqRv3HGsBJcURvnRMPd-ffbKh8txNQzTkyp80LUHwSB_HY/s1600/data-protection.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html",
+            "id": "https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html",
+            "guidislink": false,
+            "published": "Fri, 16 May 2025 16:00:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                16,
+                10,
+                30,
+                0,
+                4,
+                136,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks"
+            },
+            "summary": "Researchers at ETH Z\u00fcrich have discovered yet another security flaw that they say impacts all modern Intel CPUs and causes them to leak sensitive data from memory, showing that the vulnerability known as Spectre continues to haunt computer systems after more than seven years.\nThe vulnerability, referred to as Branch Privilege Injection (BPI), \"can be exploited to misuse the prediction",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Researchers at ETH Z\u00fcrich have discovered yet another security flaw that they say impacts all modern Intel CPUs and causes them to leak sensitive data from memory, showing that the vulnerability known as Spectre continues to haunt computer systems after more than seven years.\nThe vulnerability, referred to as Branch Privilege Injection (BPI), \"can be exploited to misuse the prediction"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJjFjgXex6OX1wNYzguXLDZs08NQDyo3lfUSVpjP0s0WTcdx3ovAJF99pILyXK_kt-22cXMmceyQBnTAnGK3O6Bx3GLJ5q6dGgC2yaUDbj3ka85xaColkeJulKHiIncSYQcb-psjs18PxWWLYxPFO9j3BLVMiAdEgfOWpEIUmr6-iUqmDj31BLP05lSTmV/s1600/intel-cpu-hacking.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html",
+            "id": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html",
+            "guidislink": false,
+            "published": "Fri, 16 May 2025 14:38:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                16,
+                9,
+                8,
+                0,
+                4,
+                136,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks"
+            },
+            "summary": "Cybersecurity researchers have shed light on a new malware campaign that makes use of a PowerShell-based shellcode loader to deploy a remote access trojan called Remcos RAT.\n\"Threat actors delivered malicious LNK files embedded within ZIP archives, often disguised as Office documents,\" Qualys security researcher Akshay Thorve said in a technical report. \"The attack chain leverages mshta.exe for",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have shed light on a new malware campaign that makes use of a PowerShell-based shellcode loader to deploy a remote access trojan called Remcos RAT.\n\"Threat actors delivered malicious LNK files embedded within ZIP archives, often disguised as Office documents,\" Qualys security researcher Akshay Thorve said in a technical report. \"The attack chain leverages mshta.exe for"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGHsDLl3RTam2U9Thl2vwK-XIlhOsWQbikgokcEv7oQ5KNW0egmmqcP99OWGemGvztR0a7FTQ6s1SXRS8KE4GL8okOarjSi5RC_agvctpRAddEzNwGcghUhyphenhyphen5GNj1b6x4lMuVi1KQU4i2FNcnVXWEN95iBSRoDwdIgi38AU-1w6aw8dlP5K2W0JNlb7bB/s1600/powershell.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html",
+            "id": "https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html",
+            "guidislink": false,
+            "published": "Fri, 16 May 2025 13:26:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                16,
+                7,
+                56,
+                0,
+                4,
+                136,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit"
+            },
+            "summary": "Austrian privacy non-profit noyb (none of your business) has sent Meta's Irish headquarters a cease-and-desist letter, threatening the company with a class action lawsuit if it proceeds with its plans to train users' data for training its artificial intelligence (AI) models without an explicit opt-in.\nThe move comes weeks after the social media behemoth announced its plans to train its AI models",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Austrian privacy non-profit noyb (none of your business) has sent Meta's Irish headquarters a cease-and-desist letter, threatening the company with a class action lawsuit if it proceeds with its plans to train users' data for training its artificial intelligence (AI) models without an explicit opt-in.\nThe move comes weeks after the social media behemoth announced its plans to train its AI models"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNDV7RaVWy7oIolFm4g_uLVp282bNtK1a2q0K3pBerDV-6vvGffgbodDS7o_ZH_Tw7T-LyX5YbhW2RMyG1y640NM7AOhqLXgY9fStAkBanZxS1j1_uaPLm4BJ3um69JfCU4eOx6U7WvUWYCbtBCt2DfOPOZBzNAkp4QFdobvjaZ_N-bSWfdH3R0JU02QpV/s1600/meta-ai.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html",
+            "id": "https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 22:15:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                16,
+                45,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails"
+            },
+            "summary": "Cryptocurrency exchange Coinbase has disclosed that unknown cyber actors broke into its systems and stole account data for a small subset of its customers.\n\"Criminals targeted our customer support agents overseas,\" the company said in a statement. \"They used cash offers to convince a small group of insiders to copy data in our customer support tools for less than 1% of Coinbase monthly",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cryptocurrency exchange Coinbase has disclosed that unknown cyber actors broke into its systems and stole account data for a small subset of its customers.\n\"Criminals targeted our customer support agents overseas,\" the company said in a statement. \"They used cash offers to convince a small group of insiders to copy data in our customer support tools for less than 1% of Coinbase monthly"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Ek9oIDyD8BvaB7yevUZ2uDOx1AVDt8p9si2bnY-AQ4ZgGezyCKSSeGyS68cjDzQYwb-rSWrJicc2ISGgboBCwMUJsjEOwIQMHm7XHXYJPuMJidcHo-6qDVmAD-ari5HrlDPa4N202h7ooor3IGq_sUoWMRrjBtHM3l4h1cOs07uxKBljQjmE5IwSXE-Z/s1600/coinbase.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html",
+            "id": "https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 19:58:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                14,
+                28,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Pen Testing for Compliance Only? It's Time to Change Your Approach",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Pen Testing for Compliance Only? It's Time to Change Your Approach"
+            },
+            "summary": "Imagine this: Your organization completed its annual penetration test in January, earning high marks for security compliance. In February, your development team deployed a routine software update. By April, attackers had already exploited a vulnerability introduced in that February update, gaining access to customer data weeks before being finally detected.\nThis situation isn't theoretical: it",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Imagine this: Your organization completed its annual penetration test in January, earning high marks for security compliance. In February, your development team deployed a routine software update. By April, attackers had already exploited a vulnerability introduced in that February update, gaining access to customer data weeks before being finally detected.\nThis situation isn't theoretical: it"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgShDzP0DuAIRfk4mYhsH6zkqxshnG7nIT1kOyjvTLl0kii3nRAvOUJe6nI76ck3nObDPvSmBbRUn4tDMfGSGqiolTcHbbRiZs6GVPVtagTbKnhwaZ1h2MmvMoy3Kc5YoUNW1LKBGxdaLiqu7PnJdcQkVN-4WBTm13CaF9DmMwYWMw8kGHcNRFkWSCbT-g/s1600/PENTEST.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html",
+            "id": "https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 16:55:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                11,
+                25,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy"
+            },
+            "summary": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy enforcement in a component called Loader.\n\"Insufficient policy enforcement in Loader in Google",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy enforcement in a component called Loader.\n\"Insufficient policy enforcement in Loader in Google"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw1xC9EO5yYpl-F2qtW0nNZRVQcddB9hrVa4G5vtW1VGE7-btdYljqxc2LmnD7C1KQCXZJcnFXEgSr5-pM8_MDspU1FizVFvULtAiXmygkRShNXvaUkn0wLocqzlBJGI0m1kg7ZNkA28tqPn1VqTEUHpoMyHwlWkZCQfSk8wy60DGsV5U-5MQfewfRA_Q/s1600/chrome-update.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html",
+            "id": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 16:13:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                10,
+                43,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "5 BCDR Essentials for Effective Ransomware Defense",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "5 BCDR Essentials for Effective Ransomware Defense"
+            },
+            "summary": "Ransomware has evolved into a deceptive, highly coordinated and dangerously sophisticated threat capable of crippling organizations of any size. Cybercriminals now exploit even legitimate IT tools to infiltrate networks and launch ransomware attacks. In a chilling example, Microsoft recently disclosed how threat actors misused its Quick Assist remote assistance tool to deploy the destructive",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Ransomware has evolved into a deceptive, highly coordinated and dangerously sophisticated threat capable of crippling organizations of any size. Cybercriminals now exploit even legitimate IT tools to infiltrate networks and launch ransomware attacks. In a chilling example, Microsoft recently disclosed how threat actors misused its Quick Assist remote assistance tool to deploy the destructive"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvgLhz1clQCN0A5rHBzPP4cItJfKOvhHh9PkBoWrsvu8ly4NXXMLdsCz89__dcZkjU6SyMy0LYlwpJa6HMuHvfN4nKt4ov4S1HdSImSGx8we8CS197ZPLSzD20JlJH9jXS6iM78rrd2ShyRBJ1KEQXXhAFsc9K3Dyn9q3wt8NFgeLZBZgTEpqx2b920c/s1600/DAT-main.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html",
+            "id": "https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 16:00:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                10,
+                30,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers"
+            },
+            "summary": "A Russia-linked threat actor has been attributed to a cyber espionage operation targeting webmail servers such as Roundcube, Horde, MDaemon, and Zimbra via cross-site scripting (XSS) vulnerabilities, including a then-zero-day in MDaemon, according to new findings from ESET.\nThe activity, which commenced in 2023, has been codenamed Operation RoundPress by the Slovak cybersecurity company. It has",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A Russia-linked threat actor has been attributed to a cyber espionage operation targeting webmail servers such as Roundcube, Horde, MDaemon, and Zimbra via cross-site scripting (XSS) vulnerabilities, including a then-zero-day in MDaemon, according to new findings from ESET.\nThe activity, which commenced in 2023, has been codenamed Operation RoundPress by the Slovak cybersecurity company. It has"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsySH5l53MhGg2r5G801B9rQmrFzYSkGXOsby0KXk1GWBYzWNAahBAFiYlIxAhAyDpaXb5s9psHTvd4FXGrzFTb_28by0no1Q7Hg1swbteDtd2xv2BpwTAWC9heurwiYTVWsSDkk5-R0jpqOoxIhgeVh7iWvjLM77o4ys3fLmll13z9J0ptTV8J1UTLlo/s1600/email.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html",
+            "id": "https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 15:35:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                10,
+                5,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper"
+            },
+            "summary": "Cybersecurity researchers have discovered a malicious package named \"os-info-checker-es6\" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.\n\"This campaign employs clever Unicode-based steganography to hide its initial malicious code and utilizes a Google Calendar event short link as a dynamic dropper for its final",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have discovered a malicious package named \"os-info-checker-es6\" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.\n\"This campaign employs clever Unicode-based steganography to hide its initial malicious code and utilizes a Google Calendar event short link as a dynamic dropper for its final"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUJ4RXtmMbXxq4NaRwal0kbQQuRdctdPUXIv70obQhzGhc7LObtaSHs8zgjG28BvtSX0Q7-16sSYPYdnsc1_kkblxArzlSW9KptLEI1Zf8l5Fr-mg6SiuFED-DoYnGeChMSj4795bZITfavy830RdQ4V8FYLOljgsRwIQZWJn05c6NWLWLOfcbYpxqVXY/s1600/npm-malware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html",
+            "id": "https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html",
+            "guidislink": false,
+            "published": "Thu, 15 May 2025 15:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                15,
+                10,
+                0,
+                0,
+                3,
+                135,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit"
+            },
+            "summary": "Samsung has released software updates to address a critical security flaw in MagicINFO 9 Server that has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-4632 (CVSS score: 9.8), has been described as a path traversal flaw.\n\"Improper limitation of a pathname to a restricted directory vulnerability in Samsung MagicINFO 9 Server version before 21.1052 allows attackers to",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Samsung has released software updates to address a critical security flaw in MagicINFO 9 Server that has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-4632 (CVSS score: 9.8), has been described as a path traversal flaw.\n\"Improper limitation of a pathname to a restricted directory vulnerability in Samsung MagicINFO 9 Server version before 21.1052 allows attackers to"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Y473_f8HQTyAdKAUz_UnUOsL-Z925rXBPVq5oWm6zKljOP2dPhWSIal4kPTtZr3hXyLGS9_MKSVQIZlDg35iKCDoI_wH4zFBq2twZENAghHtiRuUh-0g9y3EYC8oxBiDRSibXQWtut9IKsrRtM7R8sobRyDVzr7AsutGBHpCmsSe8K4p3gF7FJFqtI_B/s1600/malwaree.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html",
+            "id": "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 23:27:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                17,
+                57,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan"
+            },
+            "summary": "At least two different cybercrime groups BianLian and RansomExx are said to have exploited a recently disclosed security flaw in SAP NetWeaver tracked as CVE-2025-31324, indicating that multiple threat actors are taking advantage of the bug.\nCybersecurity firm ReliaQuest, in a new update published today, said it uncovered evidence suggesting involvement from the BianLian data extortion crew and",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "At least two different cybercrime groups BianLian and RansomExx are said to have exploited a recently disclosed security flaw in SAP NetWeaver tracked as CVE-2025-31324, indicating that multiple threat actors are taking advantage of the bug.\nCybersecurity firm ReliaQuest, in a new update published today, said it uncovered evidence suggesting involvement from the BianLian data extortion crew and"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtuv63maGLpa00xoRc7k7gF7y0LQ8HUBfl-oxWJMEkfKTl_vqlFQVi_CxabyIlOW2ME6jrIjcUBJ8k5kHfI5Px6tIoCJt9JPxkZtBikAaDxpBSAMImLhYKrXeeRMZjCLl-0sIAcGZbDjZnmKf8bwRElasV_BggPEq3Z3qGYmbeBT89bKgl9qxFNc-b_-6n/s1600/torjan.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html",
+            "id": "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 23:20:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                17,
+                50,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering"
+            },
+            "summary": "A Chinese-language, Telegram-based marketplace called Xinbi Guarantee has facilitated no less than $8.4 billion in transactions since 2022, making it the second major black market to be exposed after HuiOne Guarantee.\nAccording to a report published by blockchain analytics firm Elliptic, merchants on the marketplace have been found to peddle technology, personal data, and money laundering",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A Chinese-language, Telegram-based marketplace called Xinbi Guarantee has facilitated no less than $8.4 billion in transactions since 2022, making it the second major black market to be exposed after HuiOne Guarantee.\nAccording to a report published by blockchain analytics firm Elliptic, merchants on the marketplace have been found to peddle technology, personal data, and money laundering"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglKvohWA-Sqx83A957Rs4C-yK9emWUusoax8krxmcHLLruUbget11dSLmul1nMO94YF7kb-2vaz3Hu9j_pVx1VqK_VzBwObEsJlQ_PkFcFV1k4lH3XbXToxA7Nhndl_zxe8Ld_nIcHh3zfC2mPIJY2tTxVUjZD1kFQ4SStf6ILnOoyJMRP_9A5fZFYDL0l/s1600/crypto.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html",
+            "id": "https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 20:57:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                15,
+                27,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users"
+            },
+            "summary": "A new global phishing threat called \"Meta Mirage\" has been uncovered, targeting businesses using Meta's Business Suite. This campaign specifically aims at hijacking high-value accounts, including those managing advertising and official brand pages.\nCybersecurity researchers at CTM360 revealed that attackers behind Meta Mirage impersonate official Meta communications, tricking users into handing",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A new global phishing threat called \"Meta Mirage\" has been uncovered, targeting businesses using Meta's Business Suite. This campaign specifically aims at hijacking high-value accounts, including those managing advertising and official brand pages.\nCybersecurity researchers at CTM360 revealed that attackers behind Meta Mirage impersonate official Meta communications, tricking users into handing"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeRd0gR4rvv0p_cbP1wEMUwmQ8IuU5Uxdr3qO_XDmansaKPoefv8TlvSYTfCuosj_lgaocHj1zOEEEqSqukPjhcPHIASQM4Mum0nk9TLym-Gg3FYM0vGMEVZF_MzMObSaR2PLT4qXatsczork4QZNFf1GryLsrfaF6OrIEA7NXbn8M8fpcPCntcfp0FDg3/s1600/meta-ctm360.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html",
+            "id": "https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 19:35:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                14,
+                5,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns"
+            },
+            "summary": "A cyber espionage group known as Earth Ammit has been linked to two related but distinct campaigns from 2023 to 2024 targeting various entities in Taiwan and South Korea, including military, satellite, heavy industry, media, technology, software services, and healthcare sectors.\nCybersecurity firm Trend Micro said the first wave, codenamed VENOM, mainly targeted software service providers, while",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A cyber espionage group known as Earth Ammit has been linked to two related but distinct campaigns from 2023 to 2024 targeting various entities in Taiwan and South Korea, including military, satellite, heavy industry, media, technology, software services, and healthcare sectors.\nCybersecurity firm Trend Micro said the first wave, codenamed VENOM, mainly targeted software service providers, while"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EzGb8OTYUtkgepMTSalKEgUEz3WkQv3-vmkOzIMOOP-n2KiXiFduPtl7oKzMTDuSsKllUuGy7GfJrjFwACinFaB4Panoj88T5vViGq7mEKD2L1uktsdOtQn1dW6oqcqptJz_gSpuDRUo9yW_ss1PbEbacfe6XnnXuw0kJiN8Lkm3Lq3HTA-Gkzb3A8C7/s1600/drone.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html",
+            "id": "https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 16:41:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                11,
+                11,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team"
+            },
+            "summary": "Organizations across industries are experiencing significant escalations in cyberattacks, particularly targeting critical infrastructure providers and cloud-based enterprises. Verizon\u2019s recently released 2025 Data Breach Investigations Report found an 18% YoY increase in confirmed breaches, with the exploitation of vulnerabilities as an initial access step growing by 34%.&nbsp;\nAs attacks rise",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Organizations across industries are experiencing significant escalations in cyberattacks, particularly targeting critical infrastructure providers and cloud-based enterprises. Verizon\u2019s recently released 2025 Data Breach Investigations Report found an 18% YoY increase in confirmed breaches, with the exploitation of vulnerabilities as an initial access step growing by 34%.&nbsp;\nAs attacks rise"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhdzmIb6g0y3FZeg4gSh5POThpuahyphenhyphen4nDMcmDhG-t0QcmbarRcT8Lrca5_RSSiqQyDEuq8S5Dh-jM_OWFAINpqcdUsf5TzQz9UoftYd4_YfOiUnhP4QCNTVgG_32QDsPdWSvK3PIoZMofyvnOH-I7KQYPBwTig4mbsMD5yu6tt7Ocq1wWOenzBw5GJxvD8/s1600/learn-hacking.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html",
+            "id": "https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 16:24:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                10,
+                54,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails"
+            },
+            "summary": "Cybersecurity researchers have discovered a new phishing campaign that's being used to distribute malware called Horabot targeting Windows users in Latin American countries like Mexico, Guatemala, Colombia, Peru, Chile, and Argentina.\nThe campaign is \"using crafted emails that impersonate invoices or financial documents to trick victims into opening malicious attachments and can steal email",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have discovered a new phishing campaign that's being used to distribute malware called Horabot targeting Windows users in Latin American countries like Mexico, Guatemala, Colombia, Peru, Chile, and Argentina.\nThe campaign is \"using crafted emails that impersonate invoices or financial documents to trick victims into opening malicious attachments and can steal email"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SzPScfH5aQVNeVYaqK2B2M-19lO1Rr9zK2zhn7DqPbnQ92GmIfBDRr37gq9jtVEFTiR45fWPcKQg-RYnIlodJnxDy2qR_ZBPmDDF_1n-BLzx_DRj48OcMxvWFHrAp0YGsrqyrV-om0jt0qdr9oEEX-G9Gj8eDPQRLI7yTvmrydugxOAl-qLUHssRZzXn/s1600/invoice.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html",
+            "id": "https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 16:10:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                10,
+                40,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server"
+            },
+            "summary": "Microsoft on Tuesday shipped fixes to address a total of 78 security flaws across its software lineup, including a set of five zero-days that have come under active exploitation in the wild.\nOf the 78 flaws resolved by the tech giant, 11 are rated Critical, 66 are rated Important, and one is rated Low in severity. Twenty-eight of these vulnerabilities lead to remote code execution, 21 of them",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Microsoft on Tuesday shipped fixes to address a total of 78 security flaws across its software lineup, including a set of five zero-days that have come under active exploitation in the wild.\nOf the 78 flaws resolved by the tech giant, 11 are rated Critical, 66 are rated Important, and one is rated Low in severity. Twenty-eight of these vulnerabilities lead to remote code execution, 21 of them"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuG1FlWcHuSdTpgw5oeAY68yYuCSI5FgWxSR-VYV839hL-CkrqO0kdndW2oc51bwS2Gf_6LinSe7POQrnfAw1X3xxqxQE5hzQdajYSMXi6ykh-GMiLsBq88Tp64XQ7cfBlaXxsl7rYv4DhSlnIC93ShugEQzg1RlVPGotGfd2o6RhMj49yMTVVmw2ZV5Q8/s1600/windows.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html",
+            "id": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 13:44:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                8,
+                14,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems"
+            },
+            "summary": "Fortinet has patched a critical security flaw that it said has been exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems.\nThe vulnerability, tracked as CVE-2025-32756, carries a CVSS score of 9.6 out of 10.0.\n\"A stack-based overflow vulnerability [CWE-121] in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera may allow a remote unauthenticated attacker to",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Fortinet has patched a critical security flaw that it said has been exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems.\nThe vulnerability, tracked as CVE-2025-32756, carries a CVSS score of 9.6 out of 10.0.\n\"A stack-based overflow vulnerability [CWE-121] in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera may allow a remote unauthenticated attacker to"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmsGe9KbSNZ93s1ZDvMjTI3uJ3JZNeAR_xRJ-TEH_eUyvlfZDpWwYqBbg2kGVv88-uuRTyuMxYhvUavmCGf5aqeT5XcPhYO5vRvJ0ZYMU4ZhmXgGK5WqAgAIzstSkPN7Bq1tmj9OhrX76yia3GxPKSZehcvfe09xPoLvUikoG9aCJ25VumkXqMP2JVGmzr/s1600/fortinet.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html",
+            "id": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 09:51:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                4,
+                21,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks"
+            },
+            "summary": "Ivanti has released security updates to address two security flaws in Endpoint Manager Mobile (EPMM) software that have been chained in attacks to gain remote code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-4427 (CVSS score: 5.3) - An authentication bypass in Ivanti Endpoint Manager Mobile allowing attackers to access protected resources without proper credentials",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Ivanti has released security updates to address two security flaws in Endpoint Manager Mobile (EPMM) software that have been chained in attacks to gain remote code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-4427 (CVSS score: 5.3) - An authentication bypass in Ivanti Endpoint Manager Mobile allowing attackers to access protected resources without proper credentials"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcX1Iz39whGvFcuDXAUAxvNBUcS1KuS4S4kDctXiBzwuENE-_93pBCSh8Yi4KyMZfsN0MVLFuD6gBEdR-X0e-a3ug2DZylwkzoJrXU5gBZDwycT7S2BnNYZ7nkHe-JE73plLP7bCVK7KA8uBunOgImCc85pOyQCnCrpvzlK1ToFSqfqzMzGDR6lDsdbnGs/s1600/ivanti.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html",
+            "id": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html",
+            "guidislink": false,
+            "published": "Wed, 14 May 2025 09:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                14,
+                4,
+                0,
+                0,
+                2,
+                134,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide"
+            },
+            "summary": "A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.\n\"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE),\" EclecticIQ researcher Arda B\u00fcy\u00fckkaya said in an analysis published today.\nTargets of the campaign",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.\n\"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE),\" EclecticIQ researcher Arda B\u00fcy\u00fckkaya said in an analysis published today.\nTargets of the campaign"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSEkrKUhagfatMO2rFk0BkOn3IuanFsxGaa-ad1U3Yuy52MUkaRuIxMsrBGdSdYsSi_QlCFHxONnvQzayrGoSMMHcGFuIrEoY5AoKL6et9XTy45geq2DjsUtMAx52PCIXe0eiwRcl43S_aTUrtlD0nVmzyvdnOmLjtvsHz7tG4fkeekxBTztbP3LnuZeuY/s1600/SAP-chinese-hackers.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html",
+            "id": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 20:43:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                15,
+                13,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads"
+            },
+            "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that purports to be an application related to the Solana blockchain, but contains malicious functionality to steal source code and developer secrets.\nThe package, named solana-token, is no longer available for download from PyPI, but not before it was downloaded 761 times. It was first",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that purports to be an application related to the Solana blockchain, but contains malicious functionality to steal source code and developer secrets.\nThe package, named solana-token, is no longer available for download from PyPI, but not before it was downloaded 761 times. It was first"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2azRPxhef9xvwAxh5fwqM9gLcDcz7-fvYnAUYVfWc8KvYiN7TrPaMCieMW82gAsFLQ63J8V9EnhbEAGogUTv6IVBgf5Csz5AWpv-Inh5EklGePPkSGX86LDt4cD3GVeDAq1V61Cjs8nI_t0huDtSoAPScEy42kS2TQ309bYts2dOpENZV2ZOSxBK29KGk/s1600/pip.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html",
+            "id": "https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 20:17:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                14,
+                47,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Deepfake Defense in the Age of AI",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Deepfake Defense in the Age of AI"
+            },
+            "summary": "The cybersecurity landscape has been dramatically reshaped by the advent of generative AI. Attackers now leverage large language models (LLMs) to impersonate trusted individuals and automate these social engineering tactics at scale.&nbsp;\nLet\u2019s review the status of these rising attacks, what\u2019s fueling them, and how to actually prevent, not detect, them.&nbsp;\nThe Most Powerful Person on the",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The cybersecurity landscape has been dramatically reshaped by the advent of generative AI. Attackers now leverage large language models (LLMs) to impersonate trusted individuals and automate these social engineering tactics at scale.&nbsp;\nLet\u2019s review the status of these rising attacks, what\u2019s fueling them, and how to actually prevent, not detect, them.&nbsp;\nThe Most Powerful Person on the"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8oLli1T1VczcsVUrj2XvkoGPPiPTxLAo3ZR4P2dYOIgG479ihVOyiYBOJ3yueuijIMQV9jA1dCNrmnF-rZQf-u26nBASpuifzgeQGr46eMGUp97HRNUHLn0tkICgrcfJdaSj550dcumLP5xfTooDNYaywCXLe0DjdsTN2fvW9vGnj1ldWglhUXTSOx-M/s1600/deepfake.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html",
+            "id": "https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 16:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                11,
+                0,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress"
+            },
+            "summary": "The North Korea-linked threat actor known as Konni APT has been attributed to a phishing campaign targeting government entities in Ukraine, indicating the threat actor's targeting beyond Russia.\nEnterprise security firm Proofpoint said the end goal of the campaign is to collect intelligence on the \"trajectory of the Russian invasion.\"\n\"The group's interest in Ukraine follows historical targeting",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The North Korea-linked threat actor known as Konni APT has been attributed to a phishing campaign targeting government entities in Ukraine, indicating the threat actor's targeting beyond Russia.\nEnterprise security firm Proofpoint said the end goal of the campaign is to collect intelligence on the \"trajectory of the Russian invasion.\"\n\"The group's interest in Ukraine follows historical targeting"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCPd9q6qLwMe5UCr1457zH66kmsZ2bsi4VWfaoX6dsQkPxsF3C3c7XxmldM2aePUOxYiZ1cXldPACDO2hU9LIPcH81K52rI_msvbjkouRgztzek4_5NBCOJ_NX7qrSMKE22LD2tU9Pm5bpcwW9iehDXL9UpgUUd6S5or3g_-XE0HKZPv7BpU-hcx8uNBd/s1600/map.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html",
+            "id": "https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 16:27:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                10,
+                57,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "Moldovan Police Arrest Suspect in \u20ac4.5M Ransomware Attack on Dutch Research Agency",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Moldovan Police Arrest Suspect in \u20ac4.5M Ransomware Attack on Dutch Research Agency"
+            },
+            "summary": "Moldovan law enforcement authorities have arrested a 45-year-old foreign man suspected of involvement in a series of ransomware attacks targeting Dutch companies in 2021.\n\"He is wanted internationally for committing several cybercrimes (ransomware attacks, blackmail, and money laundering) against companies based in the Netherlands,\" officials said in a statement Monday.\nIn conjunction with the",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Moldovan law enforcement authorities have arrested a 45-year-old foreign man suspected of involvement in a series of ransomware attacks targeting Dutch companies in 2021.\n\"He is wanted internationally for committing several cybercrimes (ransomware attacks, blackmail, and money laundering) against companies based in the Netherlands,\" officials said in a statement Monday.\nIn conjunction with the"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik1fgTx_HyseLqB9OE8HWyASnch91wHnw8zh_mHnNGsO4ysR-ghAHXgXhZjlLEdpJpzO_VwVIK6FgjjgoGBjf33cna3laddh0wykyg_CqZX8Rf9oi35-a9vx4BQUvxipuKKdQckfK0ckNox5cuEPHH1FKgh3Wp7luBHpAQfc3vHw1yCQkRRl8_qmzL9h_d/s1600/policee.png",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html",
+            "id": "https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 12:03:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                6,
+                33,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "T\u00fcrkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "T\u00fcrkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers"
+            },
+            "summary": "A T\u00fcrkiye-affiliated threat actor exploited a zero-day security flaw in an Indian enterprise communication platform called Output Messenger as part of a cyber espionage attack campaign since April 2024.\n\"These exploits have resulted in a collection of related user data from targets in Iraq,\" the Microsoft Threat Intelligence team said. \"The targets of the attack are associated with the Kurdish",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "A T\u00fcrkiye-affiliated threat actor exploited a zero-day security flaw in an Indian enterprise communication platform called Output Messenger as part of a cyber espionage attack campaign since April 2024.\n\"These exploits have resulted in a collection of related user data from targets in Iraq,\" the Microsoft Threat Intelligence team said. \"The targets of the attack are associated with the Kurdish"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq1I35vYKSVUkTvOLDER1uwoBEYurDN8vikxSM6YUvn-ZLbeLzHbAhzqLs9Cy2mQ1K1t2265RQECxq43qqQ9nVj6sal9f4RHDSFRDYeir8kSc3egsx6DmMkAgXnC_eCqRA43xX0f0ads32WHsTrWQvMfemL4nDUr7EZ6-J8m_aqJYAaH4HQzqe0tF7WfZI/s1600/malware.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html",
+            "id": "https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html",
+            "guidislink": false,
+            "published": "Tue, 13 May 2025 10:38:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                5,
+                8,
+                0,
+                1,
+                133,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files"
+            },
+            "summary": "ASUS has released updates to address two security flaws impacting ASUS DriverHub that, if successfully exploited, could enable an attacker to leverage the software in order to achieve remote code execution.\nDriverHub is a tool that's designed to automatically detect the motherboard model of a computer and display necessary driver updates for subsequent installation by communicating with a",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "ASUS has released updates to address two security flaws impacting ASUS DriverHub that, if successfully exploited, could enable an attacker to leverage the software in order to achieve remote code execution.\nDriverHub is a tool that's designed to automatically detect the motherboard model of a computer and display necessary driver updates for subsequent installation by communicating with a"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMHSERvz_B4vcYvDtFx9vunRDey58NlkfXaLkCzMqXhuMFflyGL1qlvbHXspuSkWbizefW_yCsuZcvZvBPCsyNt1_6TnvQNFoubIqaqXa7nZsIeViniO2b-xiz_ryD3r6IaPgo9W27J9uW5OmJKuKc9U_2wAHvVaRSfrKZOuFrypEwQdJDS2jlCm0nzfCQ/s1600/asus.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html",
+            "id": "https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html",
+            "guidislink": false,
+            "published": "Mon, 12 May 2025 19:33:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                12,
+                14,
+                3,
+                0,
+                0,
+                132,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "\u26a1 Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "\u26a1 Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams"
+            },
+            "summary": "What do a source code editor, a smart billboard, and a web server have in common? They\u2019ve all become launchpads for attacks\u2014because cybercriminals are rethinking what counts as \u201cinfrastructure.\u201d Instead of chasing high-value targets directly, threat actors are now quietly taking over the overlooked: outdated software, unpatched IoT devices, and open-source packages. It's not just clever\u2014it\u2019s",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "What do a source code editor, a smart billboard, and a web server have in common? They\u2019ve all become launchpads for attacks\u2014because cybercriminals are rethinking what counts as \u201cinfrastructure.\u201d Instead of chasing high-value targets directly, threat actors are now quietly taking over the overlooked: outdated software, unpatched IoT devices, and open-source packages. It's not just clever\u2014it\u2019s"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvb-SgeL5VnNh5vhhmwMdCOe2BX8YlhJZ8Ddl6sP5XiiYds39TaNeIUOOgT45DZW8Zkz4cXssWqUTsD93oWLUbvN6UrxU0jEgsstYVZDs12iKZdKtJXvhJTyTJABKsMfwDrtbkdAcEe6fifRE8YzIKjuZLJcgdbXEiCSJ18w6DVktGUcKOEqJwDsup2Vu/s1600/recap.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html",
+            "id": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html",
+            "guidislink": false,
+            "published": "Mon, 12 May 2025 17:40:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                12,
+                12,
+                10,
+                0,
+                0,
+                132,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
+        },
+        {
+            "title": "The Persistence Problem: Why Exposed Credentials Remain Unfixed\u2014and How to Change That",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "The Persistence Problem: Why Exposed Credentials Remain Unfixed\u2014and How to Change That"
+            },
+            "summary": "Detecting leaked credentials is only half the battle. The real challenge\u2014and often the neglected half of the equation\u2014is what happens after detection. New research from GitGuardian's State of Secrets Sprawl 2025 report reveals a disturbing trend: the vast majority of exposed company secrets discovered in public repositories remain valid for years after detection, creating an expanding attack",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.feedburner.com/TheHackersNews?format=xml",
+                "value": "Detecting leaked credentials is only half the battle. The real challenge\u2014and often the neglected half of the equation\u2014is what happens after detection. New research from GitGuardian's State of Secrets Sprawl 2025 report reveals a disturbing trend: the vast majority of exposed company secrets discovered in public repositories remain valid for years after detection, creating an expanding attack"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html"
+                },
+                {
+                    "length": "12216320",
+                    "type": "image/jpeg",
+                    "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9VI9Cr_K8Ck1jAajs9WGGeADzq8_3zFJOPKWQwF1xmmdikm4d8ND8VXVPMWFE59WW2kDzG7J_fvy7QnTDcIKtiWC5LxgBKyct-N4gxNbcnE0KDMIfXiyF-DR8SrMfTI5s73In8LfSI0C_6z62FcV-AMZ7mLpdBhJsIU7CcxN75_tCqwp22z0D1ruk51Y/s1600/git.jpg",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html",
+            "id": "https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html",
+            "guidislink": false,
+            "published": "Mon, 12 May 2025 16:30:00 +0530",
+            "published_parsed": [
+                2025,
+                5,
+                12,
+                11,
+                0,
+                0,
+                0,
+                132,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "The Hacker News",
+                    "email": "info@thehackernews.com"
+                }
+            ],
+            "author": "info@thehackernews.com (The Hacker News)",
+            "author_detail": {
+                "name": "The Hacker News",
+                "email": "info@thehackernews.com"
+            }
         }
     ]
 }

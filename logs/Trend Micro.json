@@ -8573,6 +8573,528 @@
                     "label": null
                 }
             ]
+        },
+        {
+            "title": "Using Agentic AI & Digital Twin for Cyber Resilience",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Using Agentic AI & Digital Twin for Cyber Resilience"
+            },
+            "summary": "Learn how Trend is combining agentic AI and digital twin to transform the way organizations protect themselves from cyber threats.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Learn how Trend is combining agentic AI and digital twin to transform the way organizations protect themselves from cyber threats."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/ai-digital-twin-cyber-resilience.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/ai-digital-twin-cyber-resilience:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/ai-digital-twin-cyber-resilience.html",
+            "published": "Sun, 18 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                18,
+                0,
+                0,
+                0,
+                6,
+                138,
+                0
+            ],
+            "trendmicro_authors": "",
+            "trendmicro_primarytag": "Artificial Intelligence (AI)",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Latest News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Artificial Intelligence (AI)",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Trend Secures AI Infrastructure with NVIDIA",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Trend Secures AI Infrastructure with NVIDIA"
+            },
+            "summary": "Together, we are focused on securing the full AI lifecycle\u2014from development and training to deployment and inference\u2014across cloud, data center, and AI factories.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Together, we are focused on securing the full AI lifecycle\u2014from development and training to deployment and inference\u2014across cloud, data center, and AI factories."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/trend-secures-ai-infrastructure-with-nvidia.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/secure-ai-infrastructure-1:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/trend-secures-ai-infrastructure-with-nvidia.html",
+            "published": "Sun, 18 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                18,
+                0,
+                0,
+                0,
+                6,
+                138,
+                0
+            ],
+            "trendmicro_authors": "",
+            "trendmicro_primarytag": "Artificial Intelligence (AI)",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Latest News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Artificial Intelligence (AI)",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Trend Micro Puts a Spotlight on AI at Pwn2Own Berlin",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Trend Micro Puts a Spotlight on AI at Pwn2Own Berlin"
+            },
+            "summary": "Get a sneak peak into how Trend Micro's Pwn2Own Berlin 2025 is breaking new ground, focusing on AI infrastructure and finding the bugs to proactively safeguard the future of computing.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Get a sneak peak into how Trend Micro's Pwn2Own Berlin 2025 is breaking new ground, focusing on AI infrastructure and finding the bugs to proactively safeguard the future of computing."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/pwn2own-berlin-2025.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/pwn2own-berlin-2025:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/pwn2own-berlin-2025.html",
+            "published": "Tue, 13 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                0,
+                0,
+                0,
+                1,
+                133,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Russ Meyers"
+                }
+            ],
+            "author": "Russ Meyers",
+            "author_detail": {
+                "name": "Russ Meyers"
+            },
+            "trendmicro_primarytag": "Artificial Intelligence (AI)",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Latest News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Exploits & Vulnerabilities",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Artificial Intelligence (AI)",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Earth Ammit Disrupts Drone Supply Chains Through Coordinated Multi-Wave Attacks in Taiwan",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Earth Ammit Disrupts Drone Supply Chains Through Coordinated Multi-Wave Attacks in Taiwan"
+            },
+            "summary": "Trend\u2122 Research discusses the evolving tradecraft of threat actor Earth Ammit, proven by the advanced toolset used in its TIDRONE and VENOM campaigns that targeted the drone supply chain.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Trend\u2122 Research discusses the evolving tradecraft of threat actor Earth Ammit, proven by the advanced toolset used in its TIDRONE and VENOM campaigns that targeted the drone supply chain."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/earth-ammit.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/EarthAmmit_thumbnail:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/earth-ammit.html",
+            "published": "Tue, 13 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                13,
+                0,
+                0,
+                0,
+                1,
+                133,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Pierre Lee"
+                },
+                {
+                    "name": "Vickie Su"
+                },
+                {
+                    "name": "Philip Chen"
+                }
+            ],
+            "author": "Philip Chen",
+            "author_detail": {
+                "name": "Pierre Lee"
+            },
+            "trendmicro_primarytag": "Cyber Threats",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Research",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Maritime Cybersecurity: Threats & Regulations Loom",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Maritime Cybersecurity: Threats & Regulations Loom"
+            },
+            "summary": "This review summarizes the key insights shared during the webinar held on April 9th, which featured maritime cybersecurity experts discussing the growing challenges facing ports, logistics operations, and global supply chains.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "This review summarizes the key insights shared during the webinar held on April 9th, which featured maritime cybersecurity experts discussing the growing challenges facing ports, logistics operations, and global supply chains."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/maritime-cybersecurity-threats-regulations.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/maritime-cybersecurity-threats-regulations:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/maritime-cybersecurity-threats-regulations.html",
+            "published": "Fri, 9 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                9,
+                0,
+                0,
+                0,
+                4,
+                129,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Zack Martin"
+                }
+            ],
+            "author": "Zack Martin",
+            "author_detail": {
+                "name": "Zack Martin"
+            },
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Expert Perspective",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Agenda Ransomware Group Adds SmokeLoader and NETXLOADER to Their Arsenal",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Agenda Ransomware Group Adds SmokeLoader and NETXLOADER to Their Arsenal"
+            },
+            "summary": "During our monitoring of Agenda ransomware activities, we uncovered campaigns that made use of the SmokeLoader malware and a new loader we've named NETXLOADER.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "During our monitoring of Agenda ransomware activities, we uncovered campaigns that made use of the SmokeLoader malware and a new loader we've named NETXLOADER."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/agenda-ransomware-group-adds-smokeloader-and-netxloader-to-their.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/netxloader-thumbnail:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/agenda-ransomware-group-adds-smokeloader-and-netxloader-to-their.html",
+            "published": "Wed, 7 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                7,
+                0,
+                0,
+                0,
+                2,
+                127,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Jacob Santos"
+                },
+                {
+                    "name": "Raymart Yambot"
+                },
+                {
+                    "name": "John Rainier Navato"
+                },
+                {
+                    "name": "Sarah Pearl Camiling"
+                },
+                {
+                    "name": "Neljorn Nathaniel Aguas"
+                }
+            ],
+            "author": "Neljorn Nathaniel Aguas",
+            "author_detail": {
+                "name": "Jacob Santos"
+            },
+            "trendmicro_primarytag": "Ransomware",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Endpoints",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Research",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Exploring PLeak: An Algorithmic Method for System Prompt Leakage",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Exploring PLeak: An Algorithmic Method for System Prompt Leakage"
+            },
+            "summary": "What is PLeak, and what are the risks associated with it? We explored this algorithmic technique and how it can be used to jailbreak LLMs, which could be leveraged by threat actors to manipulate systems and steal sensitive data.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "What is PLeak, and what are the risks associated with it? We explored this algorithmic technique and how it can be used to jailbreak LLMs, which could be leveraged by threat actors to manipulate systems and steal sensitive data."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/e/exploring-pleak.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/pleak-cover:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/e/exploring-pleak.html",
+            "published": "Thu, 1 May 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                5,
+                1,
+                0,
+                0,
+                0,
+                3,
+                121,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Karanjot Singh Saggu"
+                },
+                {
+                    "name": "Anurag Das"
+                }
+            ],
+            "author": "Anurag Das",
+            "author_detail": {
+                "name": "Karanjot Singh Saggu"
+            },
+            "trendmicro_primarytag": "Artificial Intelligence (AI)",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Research",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Artificial Intelligence (AI)",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
         }
     ]
 }

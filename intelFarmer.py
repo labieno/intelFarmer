@@ -2,19 +2,21 @@
 import argparse
 import os
 import re
-
+from src.apt_mitre import *
+from src.rss_feed import *
 
 def main():
     parser = argparse.ArgumentParser(#prog = 'intelFarmer',
                                     #usage = '%(prog)s [options] APT_group',
                                     description = 'Get threat intel from known feeds (and store it). Get threat intel info about APT groups from tweets (add API keys in intelAPTTwitter.py)',
-                                    epilog="intelFarmer 0.0 || More info at https://github.com/labieno/intelFarmer")
+                                    epilog="intelFarmer 0.1 || More info at https://github.com/labieno/intelFarmer")
 
-    parser.version = 'intelFarmer 0.0'
+    parser.version = 'intelFarmer 0.1'
     parser.add_argument('-v',
                         '--version',
                         action='version',
                         help='display current version')
+    
     # For exclusivity
     group = parser.add_mutually_exclusive_group(required=True)
 
@@ -38,7 +40,7 @@ def main():
                         action='store',
                         nargs=1)
 
-    group.add_argument('-c',
+    group.add_argument('-s',
                         metavar='source',
                         type=str,
                         help="Check a source - last week reports",
@@ -50,51 +52,63 @@ def main():
                         help="List all APT groups in database",
                         action='store_true',)
     
-    group.add_argument('-vx',
-                        help="Extract all VX-Undergroun APT reports",
-                        action='store_true')
-    
+    group.add_argument('-g',
+                        metavar=("APT_group"),
+                        type=str,
+                        help="Search for relevant information of a group stored in MITRE",
+                        action='store',
+                        nargs=1)
+
     group.add_argument('-group',
                         metavar="APT_group",
                         type=str,
                         help="Search reports of an APT group in recent publications (case sensitive)",
                         action='store',
                         nargs=1)
+    
+    group.add_argument('-vx',
+                        help="Extract all VX-Undergroun APT reports",
+                        action='store_true')
+    
 
-    group.add_argument('-g',
-                        metavar=("APT_group"),
-                        type=str,
-                        help="Tester",
-                        action='store',
-                        nargs=1)
+
+
 
     # Execute the parse_args() method to look up the arguments an process them
     args = parser.parse_args()
 
     # Execute tool
-    if args.i: # TO RESET DATABASE, ERASE .jsonssss
+    if args.i: # TO RESET DATABASE, ERASE .jsons in "logs" folder
         import src.rss_feed as rss_feed
-        rss_feed.update_database_json()
-    elif args.g:
-        import src.rss_feed as rss_feed
-        rss_feed.get_group_info(args.g[0])
-        #import src.intelAPTTwitter as intelAPTTwitter
-        #intelAPTTwitter.extract_twitter_TI(args.g[0],int(args.g[1]))
+        update_database_json()
     elif args.d:
         import src.rss_feed as rss_feed
-        rss_feed.get_last_n_days_feed(int(args.d[0]))
-    elif args.c:
+        get_last_n_days_feed(int(args.d[0]))
+    elif args.s:
         import src.rss_feed as rss_feed
-        rss_feed.check_source(args.c[0])
+        check_source(args.s[0])
+
+
     elif args.list:
         import src.rss_feed as rss_feed
-        rss_feed.retrieve_groups()
+        retrieve_groups()
+    elif args.g:
+        import src.rss_feed as rss_feed
+        get_group_info(args.g[0])
+        #import src.intelAPTTwitter as intelAPTTwitter
+        #intelAPTTwitter.extract_twitter_TI(args.g[0],int(args.g[1]))
     elif args.group:
         import src.rss_feed as rss_feed
-        rss_feed.extract_APT_reports(args.group[0])
+        extract_APT_reports(args.group[0])
     elif args.vx:
         import src.rss_feed as rss_feed
-        rss_feed.extract_vxUndergroundReports()
+        extract_vxUndergroundReports()
+
+
+    
+
+
+
 
 
 if __name__ == "__main__":
