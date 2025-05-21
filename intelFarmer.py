@@ -19,17 +19,14 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
 
     # Arguments
+    """
     group.add_argument('-g',
                         metavar=("APT_group", "number_of_tweets"),
                         type=str,
                         help="Search for info of an APT group in recent tweets (case sensitive). DO NOT FORGET TO ADD API KEYS",
                         action='store',
-                        nargs=2)
-    
-    group.add_argument('-l',
-                        '--list',
-                        help="List all APT groups in database",
-                        action='store_true',)
+                        nargs=2)"
+    """
     
     group.add_argument('-i',
                         help='Search for new threat intel reports and update database (first run is very verbose)',
@@ -48,6 +45,29 @@ def main():
                         action='store',
                         nargs=1)
 
+    group.add_argument('-l',
+                        '--list',
+                        help="List all APT groups in database",
+                        action='store_true',)
+    
+    group.add_argument('-vx',
+                        help="Extract all VX-Undergroun APT reports",
+                        action='store_true')
+    
+    group.add_argument('-group',
+                        metavar="APT_group",
+                        type=str,
+                        help="Search reports of an APT group in recent publications (case sensitive)",
+                        action='store',
+                        nargs=1)
+
+    group.add_argument('-g',
+                        metavar=("APT_group"),
+                        type=str,
+                        help="Tester",
+                        action='store',
+                        nargs=1)
+
     # Execute the parse_args() method to look up the arguments an process them
     args = parser.parse_args()
 
@@ -55,18 +75,26 @@ def main():
     if args.i: # TO RESET DATABASE, ERASE .jsonssss
         import src.rss_feed as rss_feed
         rss_feed.update_database_json()
-    elif args.g != None:
-        import src.intelAPTTwitter as intelAPTTwitter
-        intelAPTTwitter.extract_twitter_TI(args.g[0],int(args.g[1]))
-    elif args.list:
-        import src.intelAPTTwitter as intelAPTTwitter
-        intelAPTTwitter.retrieve_groups()
+    elif args.g:
+        import src.rss_feed as rss_feed
+        rss_feed.get_group_info(args.g[0])
+        #import src.intelAPTTwitter as intelAPTTwitter
+        #intelAPTTwitter.extract_twitter_TI(args.g[0],int(args.g[1]))
     elif args.d:
         import src.rss_feed as rss_feed
         rss_feed.get_last_n_days_feed(int(args.d[0]))
     elif args.c:
         import src.rss_feed as rss_feed
         rss_feed.check_source(args.c[0])
+    elif args.list:
+        import src.rss_feed as rss_feed
+        rss_feed.retrieve_groups()
+    elif args.group:
+        import src.rss_feed as rss_feed
+        rss_feed.extract_APT_reports(args.group[0])
+    elif args.vx:
+        import src.rss_feed as rss_feed
+        rss_feed.extract_vxUndergroundReports()
 
 
 if __name__ == "__main__":

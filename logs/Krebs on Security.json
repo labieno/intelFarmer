@@ -1194,6 +1194,306 @@
             ],
             "wfw_commentrss": "https://krebsonsecurity.com/2023/02/new-protections-for-food-benefits-stolen-by-skimmers/feed/",
             "slash_comments": "32"
+        },
+        {
+            "title": "Feds Link $150M Cyberheist to 2022 LastPass Hacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "Feds Link $150M Cyberheist to 2022 LastPass Hacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/"
+                }
+            ],
+            "link": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/",
+            "comments": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/#comments",
+            "authors": [
+                {
+                    "name": "BrianKrebs"
+                }
+            ],
+            "author": "BrianKrebs",
+            "author_detail": {
+                "name": "BrianKrebs"
+            },
+            "published": "Sat, 08 Mar 2025 01:20:05 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                1,
+                20,
+                5,
+                5,
+                67,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "A Little Sunshine",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Breaches",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Chris Larsen",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "fbi",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Karim Toubba",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "lastpass breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Nick Bax",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ripple",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Taylor Monahan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "U.S. Secret Service",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ZachXBT",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://krebsonsecurity.com/?p=70634",
+            "guidislink": false,
+            "summary": "In September 2023, KrebsOnSecurity published findings from security researchers who concluded that a series of six-figure cyberheists across dozens of victims resulted from thieves cracking master passwords stolen from the password manager service LastPass in 2022. In a court filing this week, U.S. federal agents investigating a spectacular $150 million cryptocurrency heist said they had reached the same conclusion.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "In September 2023, KrebsOnSecurity published findings from security researchers who concluded that a series of six-figure cyberheists across dozens of victims resulted from thieves cracking master passwords stolen from the password manager service LastPass in 2022. In a court filing this week, U.S. federal agents investigating a spectacular $150 million cryptocurrency heist said they had reached the same conclusion."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://krebsonsecurity.com/feed/",
+                    "value": "<p>In September 2023, KrebsOnSecurity published findings from security researchers who concluded that a series of six-figure cyberheists across dozens of victims resulted from thieves cracking master passwords stolen from the password manager service <strong>LastPass</strong> in 2022. In a court filing this week, U.S. federal agents investigating a spectacular $150 million cryptocurrency heist said they had reached the same conclusion.</p>\n<p><img alt=\"\" class=\"aligncenter size-medium wp-image-31264\" height=\"132\" src=\"https://krebsonsecurity.com/wp-content/uploads/2015/06/lastpass-580x132.png\" width=\"580\" /></p>\n<p>On March 6, federal prosecutors in northern California said they seized approximately $24 million worth of cryptocurrencies that were clawed back following a $150 million cyberheist on Jan. 30, 2024. The complaint refers to the person robbed only as &#8220;Victim-1,&#8221; but according to blockchain security researcher <strong>ZachXBT</strong> the theft was perpetrated against <strong>Chris Larsen</strong>, the co-founder of the cryptocurrency platform <strong>Ripple</strong>.</p>\n<p>ZachXBT was the <a href=\"https://x.com/zachxbt/status/1752694489905528943\" rel=\"noopener\" target=\"_blank\">first to report on the heist</a>, of which approximately $24 million was frozen by the feds before it could be withdrawn. This week&#8217;s action by the government merely allows investigators to officially seize the frozen funds.</p>\n<p>But there is an important conclusion in this seizure document: It basically says the <strong>U.S. Secret Service</strong> and the <strong>FBI</strong> agree with the findings of <a href=\"https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/\" rel=\"noopener\" target=\"_blank\">the LastPass breach story published here in September 2023</a>. That piece quoted security researchers who said they were witnessing six-figure crypto heists several times each month that they believed all appeared to be the result of crooks cracking master passwords for the password vaults stolen from LastPass in 2022.</p>\n<p>&#8220;The Federal Bureau of Investigation has been investigating these data breaches, and law enforcement agents investigating the instant case have spoken with FBI agents about their investigation,&#8221; reads the seizure complaint, which was written by a U.S. Secret Service agent. &#8220;From those conversations, law enforcement agents in this case learned that the stolen data and passwords that were stored in several victims\u2019 online password manager accounts were used to illegally, and without authorization, access the victims\u2019 electronic accounts and steal information, cryptocurrency, and other data.&#8221;</p>\n<p>The document continues:</p>\n<p>&#8220;Based on this investigation, law enforcement had probable cause to believe the same attackers behind the above-described commercial online password manager attack used a stolen password held in Victim 1\u2019s online password manager account and, without authorization, accessed his cryptocurrency wallet/account.&#8221;</p>\n<p>Working with dozens of victims, security researchers <strong>Nick Bax</strong> and <strong>Taylor Monahan</strong> found that none of the six-figure cyberheist victims appeared to have suffered the sorts of attacks that typically preface a high-dollar crypto theft, such as the compromise of one\u2019s email and/or mobile phone accounts, or SIM-swapping attacks.</p>\n<p>They discovered the victims all had something else in common: Each had at one point stored their cryptocurrency seed phrase &#8212; the secret code that lets anyone gain access to your cryptocurrency holdings &#8212; in the &#8220;Secure Notes&#8221; area of their LastPass account prior to the 2022 breaches at the company.</p>\n<p>Bax and Monahan found another common theme with these robberies: They all followed a similar pattern of cashing out, rapidly moving stolen funds to a dizzying number of drop accounts scattered across various cryptocurrency exchanges.</p>\n<p>According to the government, a similar level of complexity was present in the $150 million heist against the Ripple co-founder last year.</p>\n<p>&#8220;The scale of a theft and rapid dissipation of funds would have required the efforts of multiple malicious actors, and was consistent with the online password manager breaches and attack on other victims whose cryptocurrency was stolen,&#8221; the government wrote. &#8220;For these reasons, law enforcement agents believe the cryptocurrency stolen from Victim 1 was committed by the same attackers who conducted the attack on the online password manager, and cryptocurrency thefts from other similarly situated victims.&#8221;</p>\n<p>Reached for comment, LastPass said it has seen no definitive proof &#8212; from federal investigators or others &#8212; that the cyberheists in question were linked to the LastPass breaches.</p>\n<p>&#8220;Since we initially disclosed this incident back in 2022, LastPass has worked in close cooperation with multiple representatives from law enforcement,&#8221; LastPass said in a written statement. &#8220;To date, our law enforcement partners have not made us aware of any conclusive evidence that connects any crypto thefts to our incident. In the meantime, we have been investing heavily in enhancing our security measures and will continue to do so.&#8221;<span id=\"more-70634\"></span></p>\n<p>On August 25, 2022,\u00a0<strong>LastPass CEO Karim Toubba</strong> told users the company had detected unusual activity in its software development environment, and that the intruders stole some source code and proprietary LastPass technical information. On Sept. 15, 2022, LastPass said an investigation into the August breach determined the attacker did not access any customer data or password vaults.</p>\n<p>But on Nov. 30, 2022, LastPass notified customers about another, far more serious security incident that the company said leveraged data stolen in the August breach. LastPass disclosed that criminal hackers had compromised encrypted copies of some password vaults, as well as other personal information.</p>\n<p>Experts say the breach would have given thieves &#8220;offline&#8221; access to encrypted password vaults, theoretically allowing them all the time in the world to try to crack some of the weaker master passwords using powerful systems that can attempt millions of password guesses per second.</p>\n<p>Researchers found that many of the cyberheist victims had chosen master passwords with relatively low complexity, and were among LastPass&#8217;s oldest customers. That&#8217;s because legacy LastPass users were more likely to have master passwords that were protected with far fewer &#8220;iterations,&#8221; which refers to the number of times your password is run through the company&#8217;s encryption routines. In general, the more iterations, the longer it takes an offline attacker to crack your master password.</p>\n<p>Over the years, LastPass forced new users to pick longer and more complex master passwords, and they increased the number of iterations on multiple occasions by several orders of magnitude. But researchers found strong indications that LastPass never succeeded in upgrading many of its older customers to the newer password requirements and protections.</p>\n<p>Asked about LastPass&#8217;s continuing denials, Bax said that after the initial warning in our 2023 story, he naively hoped people would migrate their funds to new cryptocurrency wallets.</p>\n<p>&#8220;While some did, the continued thefts underscore how much more needs to be done,&#8221; Bax told KrebsOnSecurity. &#8220;It&#8217;s validating to see the Secret Service and FBI corroborate our findings, but I\u2019d much rather see fewer of these hacks in the first place. ZachXBT and <a href=\"https://x.com/_SEAL_Org/status/1868805837311074576\" rel=\"noopener\" target=\"_blank\">SEAL 911\u00a0reported yet another wave of thefts</a> as recently as December, showing the threat is still very real.&#8221;</p>\n<p>Monahan said\u00a0LastPass still hasn\u2019t alerted their customers that their secrets\u2014especially those stored in \u201cSecure Notes\u201d\u2014may be at risk.</p>\n<p>&#8220;Its been two and a half years since LastPass was first breached [and] hundreds of millions of dollars has been stolen from individuals and companies around the globe,&#8221; Monahan said. &#8220;They could have encouraged users to rotate their credentials. They could\u2019ve prevented millions and millions of dollars from being stolen by these threat actors. But\u00a0 instead they chose to deny that their customers were are risk and blame the victims instead.&#8221;</p>"
+                }
+            ],
+            "wfw_commentrss": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/feed/",
+            "slash_comments": "43"
+        },
+        {
+            "title": "Who is the DOGE and X Technician Branden Spikes?",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "Who is the DOGE and X Technician Branden Spikes?"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://krebsonsecurity.com/2025/03/who-is-the-doge-and-x-technician-branden-spikes/"
+                }
+            ],
+            "link": "https://krebsonsecurity.com/2025/03/who-is-the-doge-and-x-technician-branden-spikes/",
+            "comments": "https://krebsonsecurity.com/2025/03/who-is-the-doge-and-x-technician-branden-spikes/#comments",
+            "authors": [
+                {
+                    "name": "BrianKrebs"
+                }
+            ],
+            "author": "BrianKrebs",
+            "author_detail": {
+                "name": "BrianKrebs"
+            },
+            "published": "Fri, 07 Mar 2025 00:54:40 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                0,
+                54,
+                40,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "A Little Sunshine",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Branden Spikes",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "California Russian Association",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Congress of Russian Americans",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Constellation of Humanity",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyberinc",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Department of Government Efficiency",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Diana Fishman",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Donald J. Trump",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Elon Musk",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Inc.",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ivan Y. Podvalov",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Jacqueline Sweet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Maye Musk",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Natalia Haldeman",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Natalia Spikes",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Radaris",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Reeve Haldeman",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russian American Media",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russian Heritage Foundation",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Russian Orthodox Church Outside of Russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Scott Haldeman",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SpaceX",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Spikes Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "U.S. Digital Service",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://krebsonsecurity.com/?p=70579",
+            "guidislink": false,
+            "summary": "At 49, Branden Spikes isn't just one of the oldest technologists who has been involved in Elon Musk's Department of Government Efficiency (DOGE). As the current director of information technology at X/Twitter and an early hire at PayPal, Zip2, Tesla and SpaceX, Spikes is also among Musk's most loyal employees. Here's a closer look at this trusted Musk lieutenant, whose Russian ex-wife was once married to Elon's cousin.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://krebsonsecurity.com/feed/",
+                "value": "At 49, Branden Spikes isn't just one of the oldest technologists who has been involved in Elon Musk's Department of Government Efficiency (DOGE). As the current director of information technology at X/Twitter and an early hire at PayPal, Zip2, Tesla and SpaceX, Spikes is also among Musk's most loyal employees. Here's a closer look at this trusted Musk lieutenant, whose Russian ex-wife was once married to Elon's cousin."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://krebsonsecurity.com/feed/",
+                    "value": "<p>At 49, <strong>Branden Spikes</strong> isn&#8217;t just one of the oldest technologists who has been involved in Elon Musk&#8217;s <strong>Department of Government Efficiency</strong> (DOGE). As the current director of information technology at <strong>X/Twitter</strong> and an early hire at <strong>PayPal</strong>, <strong>Zip2</strong>,<strong> Tesla</strong> and <strong>SpaceX</strong>, Spikes is also among Musk&#8217;s most loyal employees. Here&#8217;s a closer look at this trusted Musk lieutenant, whose Russian ex-wife was once married to Elon&#8217;s cousin.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_70586\" style=\"width: 601px;\"><img alt=\"\" class=\"size-full wp-image-70586\" height=\"533\" src=\"https://krebsonsecurity.com/wp-content/uploads/2025/03/x-spikes.png\" width=\"591\" /><p class=\"wp-caption-text\" id=\"caption-attachment-70586\">The profile of Branden Spikes on X.</p></div>\n<p>When President Trump took office again in January, he put the world&#8217;s richest man &#8212; Elon Musk &#8212; in charge of the <strong>U.S. Digital Service</strong>, and renamed the organization as DOGE. The group is reportedly staffed by <a href=\"https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html\" rel=\"noopener\" target=\"_blank\">at least 50 technologists</a>, many of whom have ties to Musk&#8217;s companies.</p>\n<p>DOGE has been enabling the president&#8217;s ongoing mass layoffs and firings of federal workers, largely by seizing control over computer systems and government data for a multitude of federal agencies, including the Social Security Administration, the Department of Homeland Security, the Office of Personnel Management, and the Treasury Department.</p>\n<p>It is difficult to find another person connected to DOGE who has stronger ties to Musk than Branden Spikes. A native of California, Spikes initially teamed up with Musk in 1997 as a lead systems engineer for the software company Zip2, the first major venture for Musk. In 1999, Spikes was hired as director of IT at PayPal, and in 2002 he became just the fourth person hired at SpaceX.</p>\n<p>In 2012, Spikes launched <strong>Spikes Security</strong>, a software product that sought to create a compartmentalized or &#8220;sandboxed&#8221; web browser that could insulate the user from malware attacks. A review of spikes.com in the Wayback Machine shows that as far back as 1998, Musk could be seen joining Spikes for team matches in the online games Quake and Quake II. In 2016, Spikes Security was merged with another security suite called Aurionpro, with the combined company renamed Cyberinc.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_70608\" style=\"width: 758px;\"><img alt=\"\" class=\" wp-image-70608\" height=\"682\" src=\"https://krebsonsecurity.com/wp-content/uploads/2025/03/spikesquake.png\" width=\"748\" /><p class=\"wp-caption-text\" id=\"caption-attachment-70608\">A snapshot of spikes.com from 1998 shows Elon Musk&#8217;s profile in Spike&#8217;s clan for the games Quake and Quake II.</p></div>\n<p>Spikes&#8217;s <a href=\"https://www.linkedin.com/in/brandenspikes/\" rel=\"noopener\" target=\"_blank\">LinkedIn profile</a> says he was appointed head of IT at X in February 2025. And although his name shows up on none of the lists of DOGE employees circulated by various media outlets, multiple sources told KrebsOnSecurity that Spikes was working with DOGE and operates within Musk&#8217;s inner circle of trust.</p>\n<p>In a conversation with KrebsOnSecurity, Spikes said he is dedicated to his country and to saving it from what he sees as certain ruin.</p>\n<p>&#8220;Myself, I was raised by a southern conservative family in California and I strongly believe in America and her future,&#8221; Spikes said. &#8220;This is why I volunteered for two months in DC recently to help DOGE save us from certain bankruptcy.&#8221;</p>\n<p>Spikes told KrebsOnSecurity that he recently decided to head back home and focus on his job as director of IT at X.</p>\n<p>&#8220;I loved it, but ultimately I did not want to leave my hometown and family back in California,&#8221; Spikes said of his tenure at DOGE. &#8220;After a couple of months it became clear that to continue helping I would need to move to DC and commit a lot more time, so I politely bowed out.&#8221;</p>\n<p>Prior to founding Spikes Security, Branden Spikes was married to a native Russian woman named <strong>Natalia</strong> whom he&#8217;d met at a destination wedding in South America in 2003.</p>\n<p>Branden and Natalia&#8217;s names are both on the registration records for the domain name <strong>orangetearoom[.]com</strong>. This domain, which DomainTools.com says was originally registered by Branden in 2009, is the home of a tax-exempt charity in Los Angeles called the <a href=\"https://web.archive.org/web/20141221061648/http://www.russiancalifornia.org/\" rel=\"noopener\" target=\"_blank\"><strong>California Russian Association</strong></a>.</p>\n<p>Here is a photo from a 2011 event organized by the California Russian Association, showing Branden and Natalia at one of its &#8220;White Nights&#8221; charity fundraisers:</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_70585\" style=\"width: 759px;\"><img alt=\"\" class=\" wp-image-70585\" height=\"564\" src=\"https://krebsonsecurity.com/wp-content/uploads/2025/03/spikes-heritage.png\" width=\"749\" /><p class=\"wp-caption-text\" id=\"caption-attachment-70585\">Branden and Natalia Spikes, on left, in 2011. The man on the far right is Ivan Y. Podvalov, a board member of the Kremlin-aligned Congress of Russian Americans (CRA). The man in the center is Feodor Yakimoff, director of operations at the Transib Global Sourcing Group, and chairman of the Russian Imperial Charity Balls, which works in concert with the Russian Heritage Foundation.</p></div>\n<p>In 2011, the Spikes couple got divorced, and Natalia changed her last name to Haldeman. That is not her maiden name, which appears to be &#8220;Libina.&#8221; Rather, Natalia acquired the surname Haldeman in 1998, when she married Elon Musk&#8217;s cousin.</p>\n<p><strong>Reeve Haldeman</strong> is the son of <strong>Scott Haldeman</strong>, who is the brother of Elon Musk&#8217;s mother, <strong>Maye Musk</strong>. Divorce records show Reeve and Natalia <a href=\"https://unicourt.com/case/ca-ora2-haldeman-v-haldeman-609208\" rel=\"noopener\" target=\"_blank\">officially terminated</a> their marriage in 2007. Reeve Haldeman did not respond to a request for comment.<span id=\"more-70579\"></span></p>\n<p>A review of other domain names connected to Natalia Haldeman&#8217;s email address show she has registered more than a dozen domains over the years that are tied to the California Russian Association, and an apparently related entity called the <strong>Russian Heritage Foundation, Inc.</strong>:</p>\n<p>russianamericans.org<br />\nrussianamericanstoday.com<br />\nrussianamericanstoday.org<br />\nrussiancalifornia.org<br />\nrussianheritagefoundation.com<br />\nrussianheritagefoundation.org<br />\nrussianwhitenights.com<br />\nrussianwhitenights.org<br />\ntheforafoundation.org<br />\nthegoldentearoom.com<br />\ntherussianheritagefoundation.org<br />\ntsarinahome.com</p>\n<p>Ms. Haldeman did not respond to requests for comment. Her name and contact information appears in the registration records for these domains dating back to 2010, and <a href=\"https://projects.propublica.org/nonprofits/organizations/452775704 California Russian Foundation\" rel=\"noopener\" target=\"_blank\">a document</a> published by <em>ProPublica</em> show that by 2016 Natalia Haldeman was appointed CEO of the California Russian Foundation.</p>\n<p>The domain name that bears both Branden&#8217;s and Natalia&#8217;s names &#8212; orangetearoom.com &#8212; features photos of Ms. Haldeman at fundraising events for the Russian foundation through 2014. Additional photos of her and many of the same people can be seen through 2023 at another domain she registered in 2010 &#8212; <strong>russianheritagefoundation.com</strong>.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_70630\" style=\"width: 760px;\"><img alt=\"\" class=\" wp-image-70630\" height=\"429\" src=\"https://krebsonsecurity.com/wp-content/uploads/2025/03/haldeman-mayemusk-1.png\" width=\"750\" /><p class=\"wp-caption-text\" id=\"caption-attachment-70630\">A photo from Natalia Haldeman&#8217;s Facebook page shows her mother (left) pictured with Maye Musk, Elon Musk&#8217;s mother, in 2022.</p></div>\n<p>The photo of Branden and Natalia above is from one such event in 2011 (tied to russianwhitenights.org, another Haldeman domain). The person on the right in that image &#8212; <strong>Ivan Y. Podvalov</strong> &#8212; appears in many fundraising event photos published by the foundation over the past decade. Podvalov is a board member of the <strong>Congress of Russian Americans</strong> (CRA), a nonprofit group that is known for vehemently opposing U.S. financial and legal sanctions against Russia.</p>\n<p>Writing for <em>The Insider</em> in 2022, journalist <strong>Diana Fishman</strong> described how the CRA has engaged in outright political lobbying, noting that the organization in June 2014 sent a letter to President Obama and the secretary of the United Nations, calling for an end to the &#8220;large-scale US intervention in Ukraine and the campaign to isolate Russia.&#8221;</p>\n<p>&#8220;The US military contingents must be withdrawn immediately from the Eastern European region, and NATO&#8217;s enlargement efforts and provocative actions against Russia must cease,\u201d the message read.</p>\n<p>The Insider said the CRA director sent another two letters, this time to President Donald Trump, in 2017 and 2018.</p>\n<p>&#8220;One was a request not to sign a law expanding sanctions against Russia,&#8221; Fishman <a href=\"https://theins.ru/en/politics/256825\" rel=\"noopener\" target=\"_blank\">wrote</a>. &#8220;The other regretted the expulsion of 60 Russian diplomats from the United States and urged not to jump to conclusions on Moscow&#8217;s involvement in the poisoning of Sergei Skripal.&#8221;</p>\n<p>The nonprofit tracking website CauseIQ.com <a href=\"https://www.causeiq.com/organizations/russian-heritage-foundation,831537424/\" rel=\"noopener\" target=\"_blank\">reports</a> that The Russian Heritage Foundation, Inc. is now known as <strong>Constellation of Humanity</strong>.</p>\n<p>The Russian Heritage Foundation and the California Russian Association both promote the interests of <a href=\"https://cepa.org/article/an-unorthodox-russian-vision-of-heaven-and-hell/\" rel=\"noopener\" target=\"_blank\">the Russian Orthodox Church</a>. <a href=\"https://web.archive.org/web/20141119232054/http://www.russiancalifornia.org/russian-orthodox-church-orange-county/\" rel=\"noopener\" target=\"_blank\">This page</a> indexed by Archive.org from russiancalifornia.org shows The California Russian Foundation organized a community effort to establish an Orthodox church in Orange County, Calif.</p>\n<p>A press release from the <strong>Russian Orthodox Church Outside of Russia</strong> (ROCOR) shows that in 2021 the Russian Heritage Foundation <a href=\"https://www.rocorstudies.org/2021/03/09/russian-heritage-foundation-supports-our-work/\" rel=\"noopener\" target=\"_blank\">donated money</a> to organize a conference for the Russian Orthodox Church in Serbia.</p>\n<p>A review of the &#8220;<a href=\"https://orangetearoom.com/index.php/network/about-us\" rel=\"noopener\" target=\"_blank\">Partners</a>&#8221; listed on the Spikes&#8217; jointly registered domain &#8212; orangetearoom.com &#8212; shows the organization worked with a marketing company called <strong>Russian American Media</strong>. <a href=\"https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/\" rel=\"noopener\" target=\"_blank\">Reporting by KrebsOnSecurity last year</a> showed that Russian American Media also partners with the problematic people-search service <strong>Radaris</strong>, which was formed by two native Russian brothers in Massachusetts who have built a fleet of consumer data brokers and Russian affiliate programs.</p>\n<p>When asked about his ex-wife&#8217;s history, Spikes said she has a good heart and bears no ill-will toward anyone.</p>\n<p>&#8220;I attended several of Natalia&#8217;s social events over the years we were together and can assure you that she&#8217;s got the best intentions with those,&#8221; Spikes told KrebsOnSecurity. &#8220;There&#8217;s no funny business going on. It is just a way for those friendly immigrants to find resources amongst each other to help get settled in and chase the American dream. I mean, they&#8217;re not unlike the immigrants from other countries who come to America and try to find each other and help each other find others who speak the language and share in the building of their businesses here in America.&#8221;</p>\n<p>Spikes said his own family roots go back deeply into American history, sharing that his 6th great grandfather was Alexander Hamilton on his mom&#8217;s side, and Jessie James on his dad&#8217;s side.</p>\n<p>&#8220;My family roots are about as American as you can get,&#8221; he said. &#8220;I&#8217;ve also been entrusted with building and safeguarding Elon&#8217;s companies since 1999 and have a keen eye (as you do) for bad actors, so have enough perspective to tell you that Natalia has no bad blood and that she loves America.&#8221;</p>\n<p>Of course, this perspective comes from someone who has the utmost regard for the interests of the &#8220;special government employee&#8221; Mr. Musk, who has been bragging about tossing entire federal agencies into the &#8220;wood chipper,&#8221; and who recently <a href=\"https://apnews.com/article/musk-chainsaw-trump-doge-6568e9e0cfc42ad6cdcfd58a409eb312\" rel=\"noopener\" target=\"_blank\">wielded an actual chainsaw</a> on stage while referring to it as the &#8220;chainsaw for bureaucracy.&#8221;</p>\n<p>&#8220;Elon&#8217;s intentions are good and you can trust him,&#8221; Spikes assured.</p>\n<p>A special note of thanks for research assistance goes to <strong>Jacqueline Sweet</strong>, an independent investigative journalist whose work has been published in The Guardian, Rolling Stone, POLITICO and The Intercept.</p>"
+                }
+            ],
+            "wfw_commentrss": "https://krebsonsecurity.com/2025/03/who-is-the-doge-and-x-technician-branden-spikes/feed/",
+            "slash_comments": "50"
         }
     ]
 }

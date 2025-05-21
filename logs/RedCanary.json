@@ -743,6 +743,130 @@
                     "value": "<a href=\"https://redcanary.com/blog/microsoft-e5-security-features/\" rel=\"nofollow\" title=\"Improve your cyber threat coverage with Microsoft E5\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2023/03/MSFTE5_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
                 }
             ]
+        },
+        {
+            "title": "Red Canary named a Leader in MDR",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Red Canary named a Leader in MDR"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/product-updates/leader-in-mdr/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/product-updates/leader-in-mdr/",
+            "published": "Thu, 06 Mar 2025 20:49:45 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                20,
+                49,
+                45,
+                3,
+                65,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Kelly Horsford"
+                }
+            ],
+            "author": "Kelly Horsford",
+            "author_detail": {
+                "name": "Kelly Horsford"
+            },
+            "tags": [
+                {
+                    "term": "Product updates",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=39839",
+            "guidislink": false,
+            "summary": "We wrote the playbook on detection-as-code detection engineering. Forrester now recognizes us among top vendors in the MDR market.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "We wrote the playbook on detection-as-code detection engineering. Forrester now recognizes us among top vendors in the MDR market."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/product-updates/leader-in-mdr/\" rel=\"nofollow\" title=\"Red Canary named a Leader in MDR\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2025/03/ForresterWave_RedCanary_500x500-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
+        },
+        {
+            "title": "Dive into the Red Canary Security Data Lake",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Dive into the Red Canary Security Data Lake"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://redcanary.com/blog/product-updates/security-data-lake/"
+                }
+            ],
+            "link": "https://redcanary.com/blog/product-updates/security-data-lake/",
+            "published": "Mon, 03 Mar 2025 19:57:29 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                3,
+                19,
+                57,
+                29,
+                0,
+                62,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Dylan Solomon"
+                }
+            ],
+            "author": "Dylan Solomon",
+            "author_detail": {
+                "name": "Dylan Solomon"
+            },
+            "tags": [
+                {
+                    "term": "Product updates",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://redcanary.com/?p=39828",
+            "guidislink": false,
+            "summary": "Red Canary now offers cost-efficient data storage that improves your security posture. Learn more about our new Security Data Lake offering.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://redcanary.com/feed/",
+                "value": "Red Canary now offers cost-efficient data storage that improves your security posture. Learn more about our new Security Data Lake offering."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://redcanary.com/feed/",
+                    "value": "<a href=\"https://redcanary.com/blog/product-updates/security-data-lake/\" rel=\"nofollow\" title=\"Dive into the Red Canary Security Data Lake\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://redcanary.com/wp-content/uploads/2025/02/SecurityDataLake_500x500-1-300x300.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"300\" /></a>"
+                }
+            ]
         }
     ]
 }

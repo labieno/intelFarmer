@@ -11802,6 +11802,274 @@
                 "base": "https://www.runzero.com/blog/index.xml",
                 "value": "Rumble Network Discovery is now runZero!\nWe are ridiculously excited to announce the beta program for Rumble Network Discovery, a platform designed to make network asset discovery quick and painless. Rumble is cloud-based, but also includes a command-line scanner that runs on Windows, macOS, and multiple architectures of Linux, including servers, Raspberry Pis and almost everything in between. If you are responsible for managing or assessing networks, we hope that you will give it a try."
             }
+        },
+        {
+            "id": "https://www.runzero.com/blog/edimax-ip-cameras/",
+            "guidislink": true,
+            "link": "https://www.runzero.com/blog/edimax-ip-cameras/",
+            "title": "How to find Edimax IP cameras on your network",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "How to find Edimax IP cameras on your network"
+            },
+            "published": "2025-03-07T16:48:00-05:00",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                21,
+                48,
+                0,
+                4,
+                66,
+                0
+            ],
+            "updated": "2025-03-07T16:48:00-05:00",
+            "updated_parsed": [
+                2025,
+                3,
+                7,
+                21,
+                48,
+                0,
+                4,
+                66,
+                0
+            ],
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.runzero.com/blog/edimax-ip-cameras/"
+                }
+            ],
+            "summary": "On March 7th, 2025, CISA disclosed a vulnerability in all versions of the Edimax IC-7100 network camera.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "On March 7th, 2025, CISA disclosed a vulnerability in all versions of the Edimax IC-7100 network camera."
+            },
+            "authors": [
+                {
+                    "name": "Rob King"
+                }
+            ],
+            "author_detail": {
+                "name": "Rob King"
+            },
+            "author": "Rob King",
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://www.runzero.com/blog/index.xml",
+                    "value": "<h2>Latest Edimax Network cameras vulnerability:&nbsp;CVE-2025-1316</h2>\n<p>On <strong>March 7th, 2025</strong>, CISA&nbsp;<a href=\"https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-08\" target=\"_blank\">disclosed</a> a vulnerability in all versions of the Edimax IC-7100 network camera:<em><br /></em></p>\n<ul><li><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-22224\" target=\"_blank\"></a><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-1316\" target=\"_blank\">CVE-2025-1316</a> is rated <em><strong>critical</strong></em> with a CVSSv3 base score of <strong>9.3</strong>. Successful exploitation of this vulnerability would allow a remote attacker to execute arbitrary code.</li></ul>\n<h2>What is the impact?</h2>\n<p>Upon successful exploitation of this vulnerability, an attacker who could send unauthenticated requests to the camera&nbsp;could execute arbitrary code. All versions of the camera are affected.</p>\n<h2>Are updates or workarounds available?</h2>\n<p>There is currently no vendor-supplied update or patch for this vulnerability. Users are recommended to remove these cameras from their environment if possible, or isolate them using network access control mechanisms.<br /></p>\n<h2>How to find Edimax cameras with runZero</h2>\n<p>From the <a href=\"https://console.runzero.com/inventory/\" target=\"_blank\">Asset Inventory</a>, use the following query to locate these cameras:</p>\n<pre><code>hw:\"EDIMAX IC-71%Camera\"</code></pre>\n<p><br /></p>"
+                }
+            ]
+        },
+        {
+            "id": "https://www.runzero.com/blog/elastic-kibana/",
+            "guidislink": true,
+            "link": "https://www.runzero.com/blog/elastic-kibana/",
+            "title": "How to find Elastic Kibana on your network",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "How to find Elastic Kibana on your network"
+            },
+            "published": "2025-03-06T10:56:00-05:00",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                15,
+                56,
+                0,
+                3,
+                65,
+                0
+            ],
+            "updated": "2025-03-06T10:56:00-05:00",
+            "updated_parsed": [
+                2025,
+                3,
+                6,
+                15,
+                56,
+                0,
+                3,
+                65,
+                0
+            ],
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.runzero.com/blog/elastic-kibana/"
+                }
+            ],
+            "summary": "On March 5th, 2025, Elastic disclosed a vulnerability in multiple versions of Kibana. Here's how to find affected versions on your network.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "On March 5th, 2025, Elastic disclosed a vulnerability in multiple versions of Kibana. Here's how to find affected versions on your network."
+            },
+            "authors": [
+                {
+                    "name": "Tom Sellers"
+                }
+            ],
+            "author_detail": {
+                "name": "Tom Sellers"
+            },
+            "author": "Tom Sellers",
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://www.runzero.com/blog/index.xml",
+                    "value": "<h2>Latest Elastic Kibana vulnerabilities</h2>\n<p>On <strong>March 5th, 2025</strong>, Elastic&nbsp;<a href=\"https://discuss.elastic.co/t/kibana-8-17-3-security-update-esa-2025-06/375441\" target=\"_blank\">disclosed</a> a vulnerability in versions  8.15.0 to&nbsp;8.17.2&nbsp;of Kibana.<em><br /><br />Note:</em> Elastic indicates that the vulnerability is tracked as&nbsp;<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-2501\" target=\"_blank\">CVE-2025-25012</a> which is currently unlisted in the NIST NVD. NIST does seem to track this as&nbsp;<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-25015\" target=\"_blank\">CVE-2025-25015</a>&nbsp;so that is what we use below.</p>\n<ul><li><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-22224\" target=\"_blank\"></a><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-25015\" target=\"_blank\">CVE-2025-25015</a> is rated <em><strong>critical</strong></em> with a CVSSv3 base score of <strong>9.9</strong>.&nbsp;Successful exploitation of this vulnerability would allow a remote attacker to execute arbitrary code.</li></ul>\n<h2>What is the impact?</h2>\n<p>Upon successful exploitation of this vulnerability, an attacker who could upload a file and execute a crafted HTTP request could execute arbitrary code. The rights required depend upon the version.<br /></p>\n<ul><li>Kibana versions &gt;= 8.15.0 and &lt; 8.17.1, this is exploitable by users with the Viewer role</li><li>Kibana versions 8.17.1 and 8.17.2,&nbsp;this is only exploitable by users that have roles that contain all the following privileges: fleet-all, integrations-all, actions:execute-advanced-connectors</li></ul>\n<h2>Are updates or workarounds available?</h2>\n<p>Elastic recommends that customers upgrade to Kibana version 8.17.3. For users that cannot upgrade they recommend implementing the following setting in Kibana's configuration:<br /></p>\n<pre>xpack.integration_assistant.enabled: false</pre>\n<h2>How to find Elastic Kibana installations with runZero</h2>\n<p>Vulnerable versions of Elastic Kibana can be found in the <a href=\"https://console.runzero.com/inventory/software-groups\" target=\"_blank\">Software inventory</a>&nbsp;using the following query:<br />\n</p>\n<pre><code>product:kibana AND (version:&gt;8.14 AND version:&lt;8.17.3)</code></pre>\n<p>From the <a href=\"https://console.runzero.com/inventory/\" target=\"_blank\">Asset Inventory</a>, use the following query to locate assets running any version of&nbsp;Elastic Kibana:</p>\n<pre><code>product:kibana\n</code></pre>"
+                }
+            ]
+        },
+        {
+            "id": "https://www.runzero.com/blog/stormy-with-a-chance-of-runzero/",
+            "guidislink": true,
+            "link": "https://www.runzero.com/blog/stormy-with-a-chance-of-runzero/",
+            "title": "Stormy with a chance of runZero",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "Stormy with a chance of runZero"
+            },
+            "published": "2025-03-04T18:00:00-05:00",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                23,
+                0,
+                0,
+                1,
+                63,
+                0
+            ],
+            "updated": "2025-03-04T18:00:00-05:00",
+            "updated_parsed": [
+                2025,
+                3,
+                4,
+                23,
+                0,
+                0,
+                1,
+                63,
+                0
+            ],
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.runzero.com/blog/stormy-with-a-chance-of-runzero/"
+                }
+            ],
+            "summary": "runZero and GreyNoise, together at last on Storm Watch",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "runZero and GreyNoise, together at last on Storm Watch"
+            },
+            "authors": [
+                {
+                    "name": "todb"
+                }
+            ],
+            "author_detail": {
+                "name": "todb"
+            },
+            "author": "todb",
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://www.runzero.com/blog/index.xml",
+                    "value": "<p>Well, that was fun!</p>\n<p>It's the&nbsp;the dawn of a new era in mid-week, mid-morning infosec gossip and shop talk!&nbsp;Today, Tod Beardsley, runZero's newly-minted VP&nbsp;of Research (that's me!), joined the crew of <a href=\"https://dictionary.cambridge.org/dictionary/english/gobby\" target=\"_blank\">gobby</a> experts featured on&nbsp;GreyNoise Intelligence's Storm\u26a1\ufe0fWatch. We talked mostly about the Veracode, Dragos, and Huntress research reports, and you can catch the show notes over at the <a href=\"https://www.greynoise.io/storm-watch-episodes/cyber-apocalypse-2025-ransomware-rampage-ics-mayhem-vulnerability-avalanche-exposed\" target=\"_blank\">GreyNoise blog</a>.</p>\n<p>If you're unaware, Storm\u26a1\ufe0fWatch is a&nbsp;weekly webcast and podcast where experts from GreyNoise, Censys, VulnCheck, and runZero get together to discuss, break down, and make bad puns about&nbsp;cybersecurity, information security, vulnerabilities, exploits, online scams, and all the rest.</p>\n<p>Best of all, it's live streamed on <a href=\"https://youtu.be/-T7ru7DBXLc\" target=\"_blank\">YouTube</a>, <a href=\"https://www.linkedin.com/posts/greynoise_on-this-episode-of-stormwatch-the-crew-activity-7302681207173984257-BVin?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAAn7RAB44xlLRNsfdYsGsDX40Om9-sbjVk\" target=\"_blank\">LinkedIn</a>, and <a href=\"http://twitch.tv/greynoiseio\" target=\"_blank\">Twitch</a>, and the chat is&nbsp;open. I've been a fan of this show for well over a year, specifically because it's so interactive and fun,&nbsp;so I'm super stoked to be able to hang out with my internet pals and try, desperately, to find the silver linings in the week's&nbsp;cyber storm clouds.</p>\n<p><strong>Check it out live on Tuesdays at 10:30am Boston / 9:30am Austin / 8:30am Idaho Falls / 7:30am Santa Cruz</strong>&nbsp;on your favorite video streaming services, or shortly after on your podcast app of choice. (Sadly, you'll have&nbsp;to search for \"Storm Watch\" without the&nbsp;\u26a1\ufe0f emoji, but it should be the first hit.)</p>\n<p>And if you don't happen to catch Tod on the next episode, never fear, you'll have your chance on the next <a href=\"https://www.runzero.com/research/runzero-hour/\">runZero Hour</a>, our own monthly webcast, featuring the beloved Rob King. Oh yes. That's going to be a blast, so get your registration in pronto.&nbsp;:)</p>"
+                }
+            ]
+        },
+        {
+            "id": "https://www.runzero.com/blog/vmware-esxi/",
+            "guidislink": true,
+            "link": "https://www.runzero.com/blog/vmware-esxi/",
+            "title": "How to find VMware ESXi installations on your network",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "How to find VMware ESXi installations on your network"
+            },
+            "published": "2025-03-04T09:00:00-05:00",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                14,
+                0,
+                0,
+                1,
+                63,
+                0
+            ],
+            "updated": "2025-03-04T10:00:00-05:00",
+            "updated_parsed": [
+                2025,
+                3,
+                4,
+                15,
+                0,
+                0,
+                1,
+                63,
+                0
+            ],
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.runzero.com/blog/vmware-esxi/"
+                }
+            ],
+            "summary": "On March 5th, 2025, VMware disclosed several vulnerabilities in its ESXi, Workstation, and Fusion products.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.runzero.com/blog/index.xml",
+                "value": "On March 5th, 2025, VMware disclosed several vulnerabilities in its ESXi, Workstation, and Fusion products."
+            },
+            "authors": [
+                {
+                    "name": "Rob King"
+                }
+            ],
+            "author_detail": {
+                "name": "Rob King"
+            },
+            "author": "Rob King",
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://www.runzero.com/blog/index.xml",
+                    "value": "<h2>Latest VMware ESXi vulnerabilities</h2>\n<p>On <strong>March 4th, 2025</strong>, Broadcom&nbsp;<a href=\"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390\" target=\"_blank\">disclosed</a> several vulnerabilities in <strong>all versions</strong> of&nbsp;its VMware ESXi, Workstation, and Fusion products.&nbsp;They also indicated that these are known to be <a href=\"https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-advisories/vmsa-2025-0004#are-the-vulnerabilities-being-exploited-in-the-wild\" target=\"_blank\">exploited in the wild</a>. Public information indicates that these vulnerabilities are potentially being leveraged by ransomware groups.</p>\n<ul><li><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-22224\" target=\"_blank\">CVE-2025-22224</a> is rated <em><strong>critical</strong></em> with a CVSSv3 base score of <strong>9.3</strong>.&nbsp;Successful exploitation of this vulnerability would allow a local administrative user <em><strong>in a guest virtual machine</strong></em> to execute&nbsp;arbitrary code as the guest virtual machine's VMX process on a&nbsp;vulnerable host system<em><strong></strong></em>. Impacts VMware ESXi and Workstation.</li><li><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-22225\" target=\"_blank\">CVE-2025-22225</a>&nbsp;is rated <em><strong>important</strong></em> with a CVSSv3 base score of <strong>8.2</strong>. Successful exploitation of this vulnerability would allow a&nbsp;malicious actor with privileges within the VMX process to trigger an arbitrary kernel write leading to an escape of the sandbox. Impacts VMware ESXi.</li><li><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2025-22226\" target=\"_blank\">CVE-2025-22226</a>&nbsp;is rated <em><strong>important</strong></em>&nbsp;with a CVSSv3 base score of <strong>7.1</strong>. Successful exploitation of this vulnerability would allow a local administrative user <em><strong>in a guest virtual machine</strong></em> to leak memory from the VMX process&nbsp;on a vulnerable host system. Impacts VMware ESXi, Workstation, and Fusion.</li></ul>\n<h2>What is the impact?</h2>\n<p>Upon successful exploitation of these vulnerabilities, an attacker with administrative rights in a guest virtual machine would be able to perform a <a href=\"https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-advisories/vmsa-2025-0004#is-this-a-vm-escape\" target=\"_blank\">VM Escape</a> and execute code on the hypervisor host.</p>\n<h2>Are updates or workarounds available?</h2>\n<p>VMware has released&nbsp;updates for&nbsp;<strong>supported versions&nbsp;</strong>of the impact&nbsp;products to address these vulnerabilities. All users are urged to update as quickly as possible. Users of unsupported version should review the download portals for their product to see if Broadcom has made patches available. They have reportedly done so for VMware ESXi 6.5 and 6.7. That said,&nbsp;Broadcom strongly encourages all customers using vSphere 6.5 and 6.7 to update to vSphere 8.</p>\n<table>\n<tbody>\n\n<tr><td><p dir=\"ltr\">Product</p></td><td><p dir=\"ltr\">Version</p></td><td><p dir=\"ltr\">Fixed Version</p></td><td><p dir=\"ltr\">Workarounds</p></td></tr>\n\n<tr><td><p dir=\"ltr\">ESXi </p></td><td><p dir=\"ltr\">8.0</p></td><td><p dir=\"ltr\"><a href=\"https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-803-release-notes/index.html\" target=\"_blank\"></a><a href=\"https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3d-release-notes.html\">ESXi80U3d-24585383</a></p></td><td><p dir=\"ltr\">None</p></td></tr>\n<tr><td><p dir=\"ltr\">ESXi </p></td><td><p dir=\"ltr\">8.0</p></td><td><p dir=\"ltr\"><a href=\"https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-803-release-notes/index.html\" target=\"_blank\"></a><a href=\"https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3d-release-notes.html\"></a><a href=\"https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u2d-release-notes.html\">ESXi80U2d-24585300</a></p></td><td><p dir=\"ltr\">None</p></td></tr>\n<tr><td><p dir=\"ltr\">ESXi </p></td><td><p dir=\"ltr\">7.0</p></td><td><p dir=\"ltr\"><a href=\"https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3s-release-notes.html\">ESXi70U3s-24585291</a></p></td><td><p dir=\"ltr\">None</p></td></tr><tr><td>ESXi</td><td>6.7</td><td><a href=\"https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/esxi-update-and-patch-release-notes/vmware-esxi-67-patch-release-esxi670202503001.html\" target=\"_blank\">ESXi670-202503001</a></td><td>None</td></tr><tr><td><p dir=\"ltr\">Workstation</p></td><td><p dir=\"ltr\">17.x</p></td><td>17.6.3</td><td><p dir=\"ltr\">None</p></td></tr><tr><td><p dir=\"ltr\">Fusion</p></td><td><p dir=\"ltr\">13.x</p></td><td><p dir=\"ltr\">13.6.3</p></td><td><p dir=\"ltr\">None</p></td></tr>\n\n</tbody>\n</table>\n<h2>How to find VMware installations with runZero</h2>\n<p>From the <a href=\"https://console.runzero.com/inventory/\" target=\"_blank\">Asset Inventory</a>, use the following query to locate assets running vulnerable versions of VMware ESXi:</p>\n<pre><code>os:\"vmware esxi\" AND (os_version:&lt;6 OR (os_version:&gt;6 AND os_version:&lt;\"6.7.0 build-24514018\")   OR (os_version:&gt;7 AND os_version:&lt;\"7.0.3 build-24585291\") OR (os_version:&gt;8 AND os_version:&lt;\"8.0.2\") OR (os_version:&gt;\"8.0.2\" AND os_version:&lt;\"8.0.2 build-24585300\") OR (os_version:&gt;\"8.0.3\" AND os_version:&lt;\"8.0.3 build-24585383\"))\n</code></pre>\n<p>Additionally, using the <a href=\"https://help.runzero.com/docs/vmware/\" target=\"_blank\">runZero VMware integration</a>, use the following  <a href=\"https://console.runzero.com/inventory/\" target=\"_blank\">Asset Inventory</a>&nbsp;query to locate virtual machines running inside VMware, which could be potential sources of exploitation:</p>\n<pre><code>source:vmware\n</code></pre>\n<p><br />Vulnerable versions of Workstation and Fusion can be found in the <a href=\"https://console.runzero.com/inventory/software-groups\" target=\"_blank\">Software inventory</a>&nbsp;using the following query:<br /><br />\n</p>\n<pre><code>vendor:vmware AND ((product:Workstation AND version:&lt;17.6.3) OR (product:Fusion AND version:&lt;13.6.3))</code></pre>\n<p><br />All versions of Workstation and Fusion can be found in the <a href=\"https://console.runzero.com/inventory/software-groups\" target=\"_blank\">Software inventory</a>&nbsp;using the following query:<br /><br />\n</p>\n<pre><code>vendor:vmware AND (product:Workstation OR product:Fusion)</code></pre>\n<p></p>\n<hr />\n<h2>Multiple CVEs (June 2024)</h2>\n<p>Broadcom has <a href=\"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505\">disclosed</a> a vulnerability in their ESXi product&nbsp;that involves a domain group that could contain members that are granted full administrative access to the ESXi hypervisor host by default without proper validation.</p>\n<p><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-37085\">CVE-2024-37085</a> is rated <em><strong>medium</strong></em> with <strong>CVSS score of 6.8</strong> and allows an attacker with sufficient Active Directory (AD) permissions to bypass authentication.</p>\n<h2>What is the impact?</h2>\n<p>A malicious actor with sufficient Active Directory (AD) permissions can gain full access to an ESXi host that was previously configured to use AD for user management by re-creating the configured AD group ('ESXi Admins' by default) after it was deleted from AD.&nbsp;The three ways this can be exploited are:</p>\n<p><strong>1.</strong> Creating the AD group 'ESX Admins' to the domain and adding a user to it (known to be exploited in the wild)<br /><strong><br />2.</strong> Renaming another AD group in the domain to 'ESX Admins' and adding a new or existing user to it<br /><strong><br />3.</strong> Refreshing the privileges in the ESXi hypervisor when the 'ESX Admin' group is unassigned as the management group.</p>\n<h2>Are updates or workarounds available?</h2>\n<table>\n<tbody>\n<tr><td><p dir=\"ltr\">Product</p></td><td><p dir=\"ltr\">Version</p></td><td><p dir=\"ltr\">Fixed Version</p></td><td><p dir=\"ltr\">Workarounds</p></td></tr><tr><td><p dir=\"ltr\">ESXi </p></td><td><p dir=\"ltr\">8.0</p></td><td><p dir=\"ltr\"><a href=\"https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-803-release-notes/index.html\" target=\"_blank\">ESXi80U3-24022510</a></p></td><td><p dir=\"ltr\"><a href=\"https://knowledge.broadcom.com/external/article/369707/\" target=\"_blank\">KB369707</a></p></td></tr><tr><td><p dir=\"ltr\">ESXi </p></td><td><p dir=\"ltr\">7.0</p></td><td><p dir=\"ltr\">No Patch Planned</p></td><td><p dir=\"ltr\"><a href=\"https://knowledge.broadcom.com/external/article/369707/\" target=\"_blank\">KB369707</a></p></td></tr><tr><td><p dir=\"ltr\">VMware Cloud Foundation</p></td><td><p dir=\"ltr\">5.x</p></td><td><p dir=\"ltr\"><a href=\"https://docs.vmware.com/en/VMware-Cloud-Foundation/5.2/rn/vmware-cloud-foundation-52-release-notes/index.html\" target=\"_blank\">5.2</a></p></td><td><p dir=\"ltr\"><a href=\"https://knowledge.broadcom.com/external/article/369707/\" target=\"_blank\">KB369707</a></p></td></tr><tr><td><p dir=\"ltr\">VMware Cloud Foundation</p></td><td><p dir=\"ltr\">4.x</p></td><td><p dir=\"ltr\">No Patch Planned</p></td><td><p dir=\"ltr\"><a href=\"https://knowledge.broadcom.com/external/article/369707/\" target=\"_blank\">KB369707</a></p></td></tr>\n</tbody>\n</table>\n<h2>How to find potentially vulnerable systems runZero</h2>\n<p>From the <a href=\"https://console.runzero.com/inventory\" target=\"_blank\">Asset Inventory</a>, use the following query to locate systems running potentially vulnerable software:</p>\n<pre><code>os:ESXi</code></pre>\n<p>Additionally, using the <a href=\"https://help.runzero.com/docs/vmware/\" target=\"_blank\">runZero VMware integration</a>, use the following query to locate virtual machines running inside VMware, which could be potential sources of exploitation:</p>\n<pre><code>source:vmware</code></pre>\n<hr />\n<h2>Multiple CVEs (March 2024)</h2>\n<p>On <strong>March 5th, 2024</strong>, VMware <a href=\"https://www.vmware.com/security/advisories/VMSA-2024-0006.html\" target=\"_blank\">disclosed</a> several vulnerabilities in its ESXi, Workstation, and Fusion products.</p>\n<p>The vulnerabilities, reported as <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-22252\" target=\"_blank\">CVE-2024-22252</a>, <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-22253\" target=\"_blank\">CVE-2024-22253</a>, <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-22254\" target=\"_blank\">CVE-2024-22254</a>, and <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-22255\" target=\"_blank\">CVE-2024-22255</a> allow code running inside virtual machines to access the host system in unauthorized ways.</p>\n<p>The CVSS scores range from <strong>7.1 (<em>high</em>) to 9.3 (<em>critical</em>)</strong>; the vulnerabilities affecting ESXi are limited to <em>high</em> severity, but the vendor has indicated that taken together the vulnerabilities should be considered <em><strong>critical</strong></em>.</p>\n<h2>What is the impact?</h2>\n<p>Upon successful exploitation of these vulnerabilities, an attacker who can execute code inside a virtual machine can access the host system and perform actions ranging from arbitrary code execution to sensitive information disclosure.</p>\n<h2>Are updates or workarounds available?</h2>\n<p>VMware has <a href=\"https://my.vmware.com/group/vmware/patch\" target=\"_blank\">released</a> new versions of these products to address these vulnerabilities. All users are urged to update as quickly as possible.</p>\n<h2>How to find VMware installations with runZero</h2>\n<p>From the <a href=\"https://console.runzero.com/inventory/\" target=\"_blank\">Asset Inventory</a>, use the following query to locate assets running potentially vulnerable versions of VMware ESXi or running VMware products:</p>\n<pre><code>os:ESXi\n</code></pre>\n<p>Additionally, using the <a href=\"https://help.runzero.com/docs/vmware/\" target=\"_blank\">runZero VMware integration</a>, use the following query to locate virtual machines running inside VMware, which could be potential sources of exploitation:</p>\n<pre><code>source:vmware\n</code></pre>\n<p>Additional fingerprinting research is ongoing, and additional queries will be published as soon as possible.</p>\n<hr />\n<h2>CVE-2021-21974 (February 2023)</h2>\n<p>In February 2023, popular hypervisor ESXi made the news due to fresh targeting by a new strain of ransomware. Known as <a href=\"https://www.bleepingcomputer.com/news/security/vmware-warns-admins-to-patch-esxi-servers-disable-openslp-service/\" target=\"_blank\">ESXiArgs</a>, this ransomware leveraged a 2-year old heap overflow issue in the OpenSLP service that can be used to execute&nbsp;remote code on exploitable targets (<a href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-21974\" target=\"_blank\">CVE-2021-21974</a>). Many vulnerable public-facing ESXi servers had already been affected by this malware (at the time over 1,900 via Censys search results).<br /></p>\n<h3>What was the impact?</h3>\n<p>Targets of this new ransomware campaign were older ESXi servers running certain versions of 6.5, 6.7, or 7 releases and also had the OpenSLP service enabled (it has not been enabled by default in ESXi releases since 2021). Upon successful exploitation of CVE-2021-21974, the ESXiArgs ransomware encrypted a number of file types on the target system, including VM-related files with extensions .vmxf, .vmx, .vmdk, .vmsd, and .nvram. Ransom notes were saved as HTML files on compromised systems for admins and users to subsequently discover. While some of these ransom notes claim to have stolen data from vulnerable targets, <a href=\"https://thehackernews.com/2023/02/vmware-finds-no-evidence-of-0-day-flaw.html\" target=\"_blank\">no data exfiltration had been observed at the time</a>.</p>\n<p>VMware <a href=\"https://www.vmware.com/security/advisories/VMSA-2021-0002.html\" target=\"_blank\">made patches available</a> when the OpenSLP heap-overflow vulnerability was initially reported in 2021. The following ESXi releases had been patched against this attack vector and&nbsp;exploited by the ESXiArgs campaign:</p>\n<ul><li>ESXi version 7+ (ESXi70U1c-17325551 and later)</li><li>ESXi version 6.7+ (ESXi670-202102401-SG and later)</li><li>ESXi version 6.5+ (ESXi650-202102101-SG and later)</li></ul>\n<p>VMware also offered patched releases for Cloud Foundation (ESXi), which included an ESXi component:</p>\n<ul><li>Cloud Foundation (ESXi) version 4.2+</li><li>Patching instructions for Cloud Foundation (ESXi) version 3.x can be found <a href=\"https://kb.vmware.com/s/article/82705\" target=\"_blank\">here</a></li></ul>\n<p>Patching (and also ensuring that your ESXi servers were running a supported, not <a href=\"https://endoflife.date/esxi\" target=\"_blank\">end-of-life/end-of-support version</a>) was the best course of action. If patching was not a near-term option, VMware recommended mitigation via <a href=\"https://kb.vmware.com/s/article/76372\" target=\"_blank\">disabling the OpenSLP service</a>.<br /></p>"
+                }
+            ]
         }
     ]
 }

@@ -304,6 +304,80 @@
                 "base": "https://davinciforensics.co.za/cybersecurity/feed/",
                 "value": "<p>A data classification system is a method of organising and categorising information based on its sensitivity, value, and potential impact if disclosed or compromised.</p>\n<p>The post <a href=\"https://davinciforensics.co.za/cybersecurity/data-classification-for-npos/\" rel=\"nofollow\">Data Classification for NPO&#8217;s</a> appeared first on <a href=\"https://davinciforensics.co.za/cybersecurity\" rel=\"nofollow\">Da Vinci Forensics</a>.</p>"
             }
+        },
+        {
+            "title": "Victims of Cybercrime that create their own demise",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://davinciforensics.co.za/cybersecurity/feed/",
+                "value": "Victims of Cybercrime that create their own demise"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://davinciforensics.co.za/cybersecurity/victims-of-cybercrime-that-create-their-own-demise/"
+                }
+            ],
+            "link": "https://davinciforensics.co.za/cybersecurity/victims-of-cybercrime-that-create-their-own-demise/",
+            "authors": [
+                {
+                    "name": "cyberpro"
+                }
+            ],
+            "author": "cyberpro",
+            "author_detail": {
+                "name": "cyberpro"
+            },
+            "published": "Thu, 06 Mar 2025 17:02:14 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                17,
+                2,
+                14,
+                3,
+                65,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacked",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "romance scams",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "scams",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "victim",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://davinciforensics.co.za/cybersecurity/?p=14239",
+            "guidislink": false,
+            "summary": "<p>One of the most successful actions that cyber threat actors have historically taken is in the use of \u201cphishing\u201d while misrepresenting themselves and convincing people to give up their logins, passwords and/or control of their device. The problem with this is that the users volunteer their information and therefore the breach can\u2019t be prosecuted. Anydesk [&#8230;]</p>\n<p>The post <a href=\"https://davinciforensics.co.za/cybersecurity/victims-of-cybercrime-that-create-their-own-demise/\">Victims of Cybercrime that create their own demise</a> appeared first on <a href=\"https://davinciforensics.co.za/cybersecurity\">Da Vinci Cybersecurity: Leading Cyber Security Services in South Africa.</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://davinciforensics.co.za/cybersecurity/feed/",
+                "value": "<p>One of the most successful actions that cyber threat actors have historically taken is in the use of \u201cphishing\u201d while misrepresenting themselves and convincing people to give up their logins, passwords and/or control of their device. The problem with this is that the users volunteer their information and therefore the breach can\u2019t be prosecuted. Anydesk [&#8230;]</p>\n<p>The post <a href=\"https://davinciforensics.co.za/cybersecurity/victims-of-cybercrime-that-create-their-own-demise/\">Victims of Cybercrime that create their own demise</a> appeared first on <a href=\"https://davinciforensics.co.za/cybersecurity\">Da Vinci Cybersecurity: Leading Cyber Security Services in South Africa.</a>.</p>"
+            }
         }
     ]
 }

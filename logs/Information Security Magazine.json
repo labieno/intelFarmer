@@ -759,6 +759,462 @@
             ],
             "id": "https://www.infosecurity-magazine.com/news/russia-winter-vivern-apt-targets/",
             "guidislink": false
+        },
+        {
+            "title": "Texas Developer Convicted After Kill Switch Sabotage Plot",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Texas Developer Convicted After Kill Switch Sabotage Plot"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/texas-dev-convicted-kill-switch/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/texas-dev-convicted-kill-switch/",
+            "summary": "Software developer Davis Lu cost his employer hundreds of thousands after deploying malware that caused crashes and failed logins",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Software developer Davis Lu cost his employer hundreds of thousands after deploying malware that caused crashes and failed logins"
+            },
+            "published": "Mon, 10 Mar 2025 10:30:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                10,
+                30,
+                0,
+                0,
+                69,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/texas-dev-convicted-kill-switch/",
+            "guidislink": false
+        },
+        {
+            "title": "Number of Unauthorized Cobalt Strike Copies Plummets 80%",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Number of Unauthorized Cobalt Strike Copies Plummets 80%"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/number-unauthorized-cobalt-strike/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/number-unauthorized-cobalt-strike/",
+            "summary": "Fortra claims the number of unauthorized Cobalt Strike licenses in the wild fell 80% over two years",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Fortra claims the number of unauthorized Cobalt Strike licenses in the wild fell 80% over two years"
+            },
+            "published": "Mon, 10 Mar 2025 09:30:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                9,
+                30,
+                0,
+                0,
+                69,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/number-unauthorized-cobalt-strike/",
+            "guidislink": false
+        },
+        {
+            "title": "Ransomware Groups Favor Repeatable Access Over Mass Vulnerability Exploits",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Ransomware Groups Favor Repeatable Access Over Mass Vulnerability Exploits"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/ransomware-repeatable-access/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-repeatable-access/",
+            "summary": "Travelers found that ransomware groups are focusing on targeting weak credentials on VPN and gateway accounts for initial access, marking a shift from 2023",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Travelers found that ransomware groups are focusing on targeting weak credentials on VPN and gateway accounts for initial access, marking a shift from 2023"
+            },
+            "published": "Fri, 07 Mar 2025 14:30:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                14,
+                30,
+                0,
+                4,
+                66,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/ransomware-repeatable-access/",
+            "guidislink": false
+        },
+        {
+            "title": "Majority of Orgs Hit by AI Cyber-Attacks as Detection Lags",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Majority of Orgs Hit by AI Cyber-Attacks as Detection Lags"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/majority-of-orgs-hit-by-ai/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/majority-of-orgs-hit-by-ai/",
+            "summary": "AI-driven cyberattacks are rapidly escalating, with a vast majority of security professionals reporting encounters and anticipating a surge, while struggling with detection",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "AI-driven cyberattacks are rapidly escalating, with a vast majority of security professionals reporting encounters and anticipating a surge, while struggling with detection"
+            },
+            "published": "Fri, 07 Mar 2025 12:04:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                12,
+                4,
+                0,
+                4,
+                66,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/majority-of-orgs-hit-by-ai/",
+            "guidislink": false
+        },
+        {
+            "title": "Medusa Ransomware Claims 40+ Victims in 2025, Confirmed Healthcare Attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Medusa Ransomware Claims 40+ Victims in 2025, Confirmed Healthcare Attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/medusa-claims-victims-2025/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/medusa-claims-victims-2025/",
+            "summary": "Symantec found that Medusa has listed almost 400 victims on its data leaks site since early 2023, demanding ransom payments as high as $15m",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Symantec found that Medusa has listed almost 400 victims on its data leaks site since early 2023, demanding ransom payments as high as $15m"
+            },
+            "published": "Fri, 07 Mar 2025 09:15:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                9,
+                15,
+                0,
+                4,
+                66,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/medusa-claims-victims-2025/",
+            "guidislink": false
+        },
+        {
+            "title": "Vulnerability in Chaty Pro Plugin Exposes 18,000 WordPress Sites",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Vulnerability in Chaty Pro Plugin Exposes 18,000 WordPress Sites"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/flaw-chaty-pro-plugin-18k/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/flaw-chaty-pro-plugin-18k/",
+            "summary": "An arbitrary file upload vulnerability in the Chaty Pro plugin has been identified, affecting 18,000 WordPress sites",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "An arbitrary file upload vulnerability in the Chaty Pro plugin has been identified, affecting 18,000 WordPress sites"
+            },
+            "published": "Thu, 06 Mar 2025 17:15:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                17,
+                15,
+                0,
+                3,
+                65,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/flaw-chaty-pro-plugin-18k/",
+            "guidislink": false
+        },
+        {
+            "title": "Attackers Target Japanese Firms with Cobalt Strike",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Attackers Target Japanese Firms with Cobalt Strike"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/attackers-japan-cobalt-strike/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/attackers-japan-cobalt-strike/",
+            "summary": "Attackers are actively exploiting an RCE flaw in Windows PHP-CGI implementations to target Japanese firms, deploying Cobalt Strike for persistence",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Attackers are actively exploiting an RCE flaw in Windows PHP-CGI implementations to target Japanese firms, deploying Cobalt Strike for persistence"
+            },
+            "published": "Thu, 06 Mar 2025 16:30:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                16,
+                30,
+                0,
+                3,
+                65,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/attackers-japan-cobalt-strike/",
+            "guidislink": false
+        },
+        {
+            "title": "Cybersecurity Job Satisfaction Plummets, Women Hit Hardest",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Cybersecurity Job Satisfaction Plummets, Women Hit Hardest"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/cybersecurity-job-satisfaction/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-satisfaction/",
+            "summary": "Layoffs and cutbacks have been cited as major factors in a significant drop in job satisfaction among women working in cybersecurity, according to ISC2",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Layoffs and cutbacks have been cited as major factors in a significant drop in job satisfaction among women working in cybersecurity, according to ISC2"
+            },
+            "published": "Thu, 06 Mar 2025 12:00:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                12,
+                0,
+                0,
+                3,
+                65,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/cybersecurity-job-satisfaction/",
+            "guidislink": false
+        },
+        {
+            "title": "Six Critical Infrastructure Sectors Failing on NIS2 Compliance",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Six Critical Infrastructure Sectors Failing on NIS2 Compliance"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/critical-infrastructure-sectors/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/critical-infrastructure-sectors/",
+            "summary": "Enisa identifies six sectors that it says must improve on NIS2 compliance",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Enisa identifies six sectors that it says must improve on NIS2 compliance"
+            },
+            "published": "Thu, 06 Mar 2025 10:45:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                10,
+                45,
+                0,
+                3,
+                65,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/critical-infrastructure-sectors/",
+            "guidislink": false
+        },
+        {
+            "title": "US Charges Members of Chinese Hacker-for-Hire Group i-Soon",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "US Charges Members of Chinese Hacker-for-Hire Group i-Soon"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/us-charges-chinese-hackerforhire/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/us-charges-chinese-hackerforhire/",
+            "summary": "The DoJ has charged Chinese government and i-Soon employees for a series of for-profit data theft campaigns",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "The DoJ has charged Chinese government and i-Soon employees for a series of for-profit data theft campaigns"
+            },
+            "published": "Thu, 06 Mar 2025 10:15:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                10,
+                15,
+                0,
+                3,
+                65,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/us-charges-chinese-hackerforhire/",
+            "guidislink": false
+        },
+        {
+            "title": "Silk Typhoon Shifts Tactics to Exploit Common IT Solutions",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Silk Typhoon Shifts Tactics to Exploit Common IT Solutions"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/silk-typhoon-exploits-common/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/silk-typhoon-exploits-common/",
+            "summary": "Chinese espionage group Silk Typhoon is increasingly exploiting common IT solutions to infiltrate networks and exfiltrate data",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Chinese espionage group Silk Typhoon is increasingly exploiting common IT solutions to infiltrate networks and exfiltrate data"
+            },
+            "published": "Wed, 05 Mar 2025 16:30:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                16,
+                30,
+                0,
+                2,
+                64,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/silk-typhoon-exploits-common/",
+            "guidislink": false
+        },
+        {
+            "title": "Nonprofits Face Surge in Cyber-Attacks as Email Threats Rise 35%",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Nonprofits Face Surge in Cyber-Attacks as Email Threats Rise 35%"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.infosecurity-magazine.com/news/nonprofits-email-threats-rise-35/"
+                }
+            ],
+            "link": "https://www.infosecurity-magazine.com/news/nonprofits-email-threats-rise-35/",
+            "summary": "Nonprofits are facing a surge in cyber-attacks as email threats rise 35%, targeting donor data and transactions",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.infosecurity-magazine.com/rss/news/",
+                "value": "Nonprofits are facing a surge in cyber-attacks as email threats rise 35%, targeting donor data and transactions"
+            },
+            "published": "Wed, 05 Mar 2025 14:45:00 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                14,
+                45,
+                0,
+                2,
+                64,
+                0
+            ],
+            "id": "https://www.infosecurity-magazine.com/news/nonprofits-email-threats-rise-35/",
+            "guidislink": false
         }
     ]
 }

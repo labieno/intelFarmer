@@ -8392,6 +8392,187 @@
                     "label": null
                 }
             ]
+        },
+        {
+            "title": "From Event to Insight: Unpacking a B2B Business Email Compromise (BEC) Scenario",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "From Event to Insight: Unpacking a B2B Business Email Compromise (BEC) Scenario"
+            },
+            "summary": "Trend Micro\u2122 Managed XDR assisted in an investigation of a B2B BEC attack that unveiled an entangled mesh weaved by the threat actor with the help of a compromised server, ensnaring three business partners in a scheme that spanned for days. This article features investigation insights, a proposed incident timeline, and recommended security practices.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Trend Micro\u2122 Managed XDR assisted in an investigation of a B2B BEC attack that unveiled an entangled mesh weaved by the threat actor with the help of a compromised server, ensnaring three business partners in a scheme that spanned for days. This article features investigation insights, a proposed incident timeline, and recommended security practices."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/DMARC-thumbnail:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/c/from-event-to-insight.html",
+            "published": "Wed, 5 Mar 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                0,
+                0,
+                0,
+                2,
+                64,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Jay Yaneza"
+                },
+                {
+                    "name": "Chrystian Bisi"
+                },
+                {
+                    "name": "Hitomi Kimura"
+                }
+            ],
+            "author": "Hitomi Kimura",
+            "author_detail": {
+                "name": "Jay Yaneza"
+            },
+            "trendmicro_primarytag": "Cyber Threats",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Web",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Research",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Cyber Threats",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
+        },
+        {
+            "title": "Black Basta and Cactus Ransomware Groups Add BackConnect Malware to Their Arsenal",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "Black Basta and Cactus Ransomware Groups Add BackConnect Malware to Their Arsenal"
+            },
+            "summary": "In this blog entry, we discuss how the Black Basta and Cactus ransomware groups utilized the BackConnect malware to maintain persistent control and exfiltrate sensitive data from compromised machines.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "http://feeds.trendmicro.com/TrendMicroResearch",
+                "value": "In this blog entry, we discuss how the Black Basta and Cactus ransomware groups utilized the BackConnect malware to maintain persistent control and exfiltrate sensitive data from compromised machines."
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.trendmicro.com/en_us/research/25/b/black-basta-cactus-ransomware-backconnect.html"
+                },
+                {
+                    "length": "0",
+                    "type": "image/jpeg",
+                    "href": "https://trendmicro.scene7.com/is/image/trendmicro/QBackConnect-thumbnail:Large?qlt=80",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://www.trendmicro.com/en_us/research/25/b/black-basta-cactus-ransomware-backconnect.html",
+            "published": "Mon, 3 Mar 2025 00:00:00 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                3,
+                0,
+                0,
+                0,
+                0,
+                62,
+                0
+            ],
+            "trendmicro_author": "",
+            "trendmicro_authors": "",
+            "authors": [
+                {
+                    "name": "Catherine Loveria"
+                },
+                {
+                    "name": "Stephen Carbery"
+                },
+                {
+                    "name": "Jovit Samaniego"
+                },
+                {
+                    "name": "Adam O'Connor"
+                },
+                {
+                    "name": "Ian Kenefick"
+                },
+                {
+                    "name": "Gabriel Cardoso"
+                },
+                {
+                    "name": "Lucas Silva"
+                }
+            ],
+            "author": "Lucas Silva",
+            "author_detail": {
+                "name": "Catherine Loveria"
+            },
+            "trendmicro_primarytag": "Ransomware",
+            "tags": [
+                {
+                    "term": "Trend Micro Research : Latest News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Research",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trend Micro Research : Articles, News, Reports",
+                    "scheme": null,
+                    "label": null
+                }
+            ]
         }
     ]
 }

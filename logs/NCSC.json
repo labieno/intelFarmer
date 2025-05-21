@@ -2999,6 +2999,120 @@
                 131,
                 0
             ]
+        },
+        {
+            "title": "The near-term impact of AI on the cyber threat",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The near-term impact of AI on the cyber threat"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat",
+            "summary": "An NCSC assessment focusing on how AI will impact the efficacy of cyber operations and the implications for the cyber threat over the next two years.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "An NCSC assessment focusing on how AI will impact the efficacy of cyber operations and the implications for the cyber threat over the next two years."
+            },
+            "published": "Tue, 04 Mar 2025 13:45:01 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                13,
+                45,
+                1,
+                1,
+                63,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat",
+            "guidislink": false
+        },
+        {
+            "title": "Organisational use of Enterprise Connected Devices",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Organisational use of Enterprise Connected Devices"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices",
+            "summary": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Assessing the cyber security threat to UK organisations using Enterprise Connected Devices."
+            },
+            "published": "Tue, 04 Mar 2025 13:42:13 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                13,
+                42,
+                13,
+                1,
+                63,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/organisational-use-of-enterprise-connected-devices",
+            "guidislink": false
+        },
+        {
+            "title": "The cyber threat to Universities",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "The cyber threat to Universities"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities"
+                }
+            ],
+            "link": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities",
+            "summary": "Assessing the cyber security threat to UK Universities",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+                "value": "Assessing the cyber security threat to UK Universities"
+            },
+            "published": "Tue, 04 Mar 2025 13:39:58 GMT",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                13,
+                39,
+                58,
+                1,
+                63,
+                0
+            ],
+            "id": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities",
+            "guidislink": false
         }
     ]
 }

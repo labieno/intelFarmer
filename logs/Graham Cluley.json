@@ -1776,6 +1776,553 @@
             },
             "wfw_commentrss": "https://grahamcluley.com/smashing-security-podcast-313/feed/",
             "slash_comments": "0"
+        },
+        {
+            "title": "Smashing Security podcast #407: HP\u2019s hold music, and human trafficking",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Smashing Security podcast #407: HP\u2019s hold music, and human trafficking"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://grahamcluley.com/smashing-security-podcast-407/"
+                }
+            ],
+            "link": "https://grahamcluley.com/smashing-security-podcast-407/",
+            "comments": "https://grahamcluley.com/smashing-security-podcast-407/#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Thu, 06 Mar 2025 00:00:03 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                0,
+                0,
+                3,
+                3,
+                65,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Law & order",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Podcast",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "HP",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malvertising",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Myanmar",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "printer",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "romance baiting",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Scam",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "technical support scam",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346756",
+            "guidislink": false,
+            "summary": "Journey with us to Myanmar's shadowy scam factories, where trafficked workers are forced to run romance-baiting and fake tech support scams, and find out why a company's mandatory hold time for tech support could lead to innocent users having their computers compromised.\n\nAll this and more is discussed in the latest edition of the \"Smashing Security\" podcast by cybersecurity veterans Graham Cluley and Carole Theriault.\n\nPlus - don't miss our featured interview with Acronis CISO Gerald Beuchelt!",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Journey with us to Myanmar's shadowy scam factories, where trafficked workers are forced to run romance-baiting and fake tech support scams, and find out why a company's mandatory hold time for tech support could lead to innocent users having their computers compromised.\n\nAll this and more is discussed in the latest edition of the \"Smashing Security\" podcast by cybersecurity veterans Graham Cluley and Carole Theriault.\n\nPlus - don't miss our featured interview with Acronis CISO Gerald Beuchelt!"
+            },
+            "wfw_commentrss": "https://grahamcluley.com/smashing-security-podcast-407/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "Cactus ransomware: what you need to know",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Cactus ransomware: what you need to know"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.tripwire.com/state-of-security/cactus-ransomware-what-you-need-know"
+                }
+            ],
+            "link": "https://www.tripwire.com/state-of-security/cactus-ransomware-what-you-need-know",
+            "comments": "https://www.tripwire.com/state-of-security/cactus-ransomware-what-you-need-know#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Wed, 05 Mar 2025 16:40:24 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                16,
+                40,
+                24,
+                2,
+                64,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Data loss",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Guest blog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Black Basta",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346752",
+            "guidislink": false,
+            "summary": "Cactus is a ransomware-as-a-service (RaaS) group that encrypts victim's data and demands a ransom for a decryption key.\n\nRead more about it in my article on the Tripwire State of Security blog.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Cactus is a ransomware-as-a-service (RaaS) group that encrypts victim's data and demands a ransom for a decryption key.\n\nRead more about it in my article on the Tripwire State of Security blog."
+            },
+            "wfw_commentrss": "https://www.tripwire.com/state-of-security/cactus-ransomware-what-you-need-know/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "Fake police call cryptocurrency investors to steal their funds",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Fake police call cryptocurrency investors to steal their funds"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-police-call-cryptocurrency-investors-to-steal-their-funds"
+                }
+            ],
+            "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-police-call-cryptocurrency-investors-to-steal-their-funds",
+            "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-police-call-cryptocurrency-investors-to-steal-their-funds#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Wed, 05 Mar 2025 12:39:38 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                12,
+                39,
+                38,
+                2,
+                64,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Guest blog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Law & order",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Action Fraud",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cryptocurrency",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "police",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Scam",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346748",
+            "guidislink": false,
+            "summary": "Have you had a phone call from police about your cryptocurrency wallet?\n\nBe on your guard - you could be about to be scammed.\n\nRead more in my article on the Hot for Security blog.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Have you had a phone call from police about your cryptocurrency wallet?\n\nBe on your guard - you could be about to be scammed.\n\nRead more in my article on the Hot for Security blog."
+            },
+            "wfw_commentrss": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-police-call-cryptocurrency-investors-to-steal-their-funds/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "The AI Fix #40: ChatGPT saved my life, and making evil AIs by accident",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "The AI Fix #40: ChatGPT saved my life, and making evil AIs by accident"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://grahamcluley.com/the-ai-fix-40-chatgpt-saved-my-life-and-making-evil-ais-by-accident/"
+                }
+            ],
+            "link": "https://grahamcluley.com/the-ai-fix-40-chatgpt-saved-my-life-and-making-evil-ais-by-accident/",
+            "comments": "https://grahamcluley.com/the-ai-fix-40-chatgpt-saved-my-life-and-making-evil-ais-by-accident/#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Tue, 04 Mar 2025 15:55:47 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                15,
+                55,
+                47,
+                1,
+                63,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ChatGPT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "OpenAI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Podcast",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "artificial intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Grok",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "The AI Fix",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346736",
+            "guidislink": false,
+            "summary": "In episode 40 of the AI Fix, Graham meets a shape-shifting GOAT, a robot dog gets wet, Mark likes Claude 3.7 Sonnet, OpenAI releases its dullest model yet, Grok 3 needs to go home and have a lie down, and everyone loses their minds over two AI agents booking a hotel room using 90s-era modem dial-up sounds.\n\nGraham tells the incredible story of a woman whose life was saved after ChatGPT told her to go to the emergency room, stat! And Mark explains how just a little negativity made GPT-4o bad to the bone.\n\nAll this and much more is discussed in the latest edition of \"The AI Fix\" podcast by Graham Cluley and Mark Stockley.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "In episode 40 of the AI Fix, Graham meets a shape-shifting GOAT, a robot dog gets wet, Mark likes Claude 3.7 Sonnet, OpenAI releases its dullest model yet, Grok 3 needs to go home and have a lie down, and everyone loses their minds over two AI agents booking a hotel room using 90s-era modem dial-up sounds.\n\nGraham tells the incredible story of a woman whose life was saved after ChatGPT told her to go to the emergency room, stat! And Mark explains how just a little negativity made GPT-4o bad to the bone.\n\nAll this and much more is discussed in the latest edition of \"The AI Fix\" podcast by Graham Cluley and Mark Stockley."
+            },
+            "wfw_commentrss": "https://grahamcluley.com/the-ai-fix-40-chatgpt-saved-my-life-and-making-evil-ais-by-accident/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "CISA refutes claims it has been ordered to stop monitoring Russian cyber threats",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "CISA refutes claims it has been ordered to stop monitoring Russian cyber threats"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bitdefender.com/en-us/blog/hotforsecurity/cisa-refutes-ordered-stop-monitoring-russian-cyber-threats"
+                }
+            ],
+            "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/cisa-refutes-ordered-stop-monitoring-russian-cyber-threats",
+            "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/cisa-refutes-ordered-stop-monitoring-russian-cyber-threats#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Tue, 04 Mar 2025 12:46:31 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                12,
+                46,
+                31,
+                1,
+                63,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Guest blog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Law & order",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "United States",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346731",
+            "guidislink": false,
+            "summary": "It's been a confusing few days in the world of American cybersecurity...\n\nRead more in my article on the Hot for Security blog.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "It's been a confusing few days in the world of American cybersecurity...\n\nRead more in my article on the Hot for Security blog."
+            },
+            "wfw_commentrss": "https://www.bitdefender.com/en-us/blog/hotforsecurity/cisa-refutes-ordered-stop-monitoring-russian-cyber-threats/feed/",
+            "slash_comments": "0"
+        },
+        {
+            "title": "Stop targeting Russian hackers, Trump administration orders US Cyber Command",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "Stop targeting Russian hackers, Trump administration orders US Cyber Command"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bitdefender.com/en-us/blog/hotforsecurity/stop-targeting-russian-hackers-trump-administration-orders-us-cyber-command"
+                }
+            ],
+            "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/stop-targeting-russian-hackers-trump-administration-orders-us-cyber-command",
+            "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/stop-targeting-russian-hackers-trump-administration-orders-us-cyber-command#respond",
+            "authors": [
+                {
+                    "name": "Graham Cluley"
+                }
+            ],
+            "author": "Graham Cluley",
+            "author_detail": {
+                "name": "Graham Cluley"
+            },
+            "published": "Mon, 03 Mar 2025 13:26:44 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                3,
+                13,
+                26,
+                44,
+                0,
+                62,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Guest blog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Law & order",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Donald Trump",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ransomware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "russia",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ukraine",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "United States",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://grahamcluley.com/?p=16346726",
+            "guidislink": false,
+            "summary": "The Trump administration has told US cyber command and CISA to stop following or reporting on Russian cyber threats.\n\nYes, Russia! That country everyone used to agree was home to lots of ransomware gangs and hackers. Hmmm...\n\nRead more in my article on the Hot for Security blog.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://grahamcluley.com/feed/",
+                "value": "The Trump administration has told US cyber command and CISA to stop following or reporting on Russian cyber threats.\n\nYes, Russia! That country everyone used to agree was home to lots of ransomware gangs and hackers. Hmmm...\n\nRead more in my article on the Hot for Security blog."
+            },
+            "wfw_commentrss": "https://www.bitdefender.com/en-us/blog/hotforsecurity/stop-targeting-russian-hackers-trump-administration-orders-us-cyber-command/feed/",
+            "slash_comments": "0"
         }
     ]
 }

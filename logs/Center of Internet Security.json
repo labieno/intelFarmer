@@ -1799,6 +1799,42 @@
                 312,
                 0
             ]
+        },
+        {
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-have-been-discovered-in-vmware-esxi-workstation-and-fusion-which-could-allow-for-local-code-execution_2025-019"
+                }
+            ],
+            "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-have-been-discovered-in-vmware-esxi-workstation-and-fusion-which-could-allow-for-local-code-execution_2025-019",
+            "title": "Multiple vulnerabilities have been discovered in VMware ESXi, Workstation, and Fusion which could allow for local code execution.",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.cisecurity.org/feed/advisories",
+                "value": "Multiple vulnerabilities have been discovered in VMware ESXi, Workstation, and Fusion which could allow for local code execution."
+            },
+            "summary": "<p><span style=\"color: black;\">Multiple vulnerabilities have been discovered in VMware ESXi, Workstation, and Fusion could allow for local code execution. VMware ESXi, Workstation, and Fusion are all\u00a0virtualization products that allow users to run virtual machines (VMs) on their computers. Successful exploitation of these vulnerability could allow for local code execution in the context of the administrator account. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.\u00a0</span></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.cisecurity.org/feed/advisories",
+                "value": "<p><span style=\"color: black;\">Multiple vulnerabilities have been discovered in VMware ESXi, Workstation, and Fusion could allow for local code execution. VMware ESXi, Workstation, and Fusion are all\u00a0virtualization products that allow users to run virtual machines (VMs) on their computers. Successful exploitation of these vulnerability could allow for local code execution in the context of the administrator account. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.\u00a0</span></p>"
+            },
+            "published": "Tue, 04 Mar 2025 22:03:26 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                3,
+                3,
+                26,
+                2,
+                64,
+                0
+            ]
         }
     ]
 }

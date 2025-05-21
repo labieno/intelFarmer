@@ -1124,6 +1124,615 @@
                 }
             ],
             "thr_total": "48"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "Thousands of WordPress Websites Infected with Malware",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "Thousands of WordPress Websites Infected with Malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/thousands-of-wordpress-websites-infected-with-malware.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/thousands-of-wordpress-websites-infected-with-malware.html#comments",
+                    "count": "0",
+                    "thr:count": "0"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/thousands-of-wordpress-websites-infected-with-malware.html/feed/atom/",
+                    "count": "0",
+                    "thr:count": "0"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/thousands-of-wordpress-websites-infected-with-malware.html",
+            "id": "https://www.schneier.com/?p=69986",
+            "guidislink": false,
+            "updated": "2025-03-10T03:16:56Z",
+            "updated_parsed": [
+                2025,
+                3,
+                10,
+                3,
+                16,
+                56,
+                0,
+                69,
+                0
+            ],
+            "published": "2025-03-10T11:01:17Z",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                11,
+                1,
+                17,
+                0,
+                69,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "backdoors",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "web",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>The malware includes <a href=\"https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack\">four separate backdoors</a>:</p>\n<blockquote><p>Creating four backdoors facilitates the attackers having multiple points of re-entry should one be detected and removed. A unique case we haven&#8217;t seen before. Which introduces another type of attack made possibly by abusing websites that don&#8217;t monitor 3rd party dependencies in the browser of their users.</p></blockquote>\n<p>The <a href=\"https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html?m=1\">four backdoors</a>:</p>\n<blockquote><p>The functions of the four backdoors are explained below:</p>\n<ul>\n<li>Backdoor 1, which uploads and installs a fake plugin named &#8220;Ultra SEO Processor,&#8221; which is then used to execute attacker-issued commands\n...</li></ul></blockquote>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>The malware includes <a href=\"https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack\">four separate backdoors</a>:</p>\n<blockquote><p>Creating four backdoors facilitates the attackers having multiple points of re-entry should one be detected and removed. A unique case we haven&#8217;t seen before. Which introduces another type of attack made possibly by abusing websites that don&#8217;t monitor 3rd party dependencies in the browser of their users.</p></blockquote>\n<p>The <a href=\"https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html?m=1\">four backdoors</a>:</p>\n<blockquote><p>The functions of the four backdoors are explained below:</p>\n<ul>\n<li>Backdoor 1, which uploads and installs a fake plugin named &#8220;Ultra SEO Processor,&#8221; which is then used to execute attacker-issued commands\n...</li></ul></blockquote>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/thousands-of-wordpress-websites-infected-with-malware.html",
+                    "value": "<p>The malware includes <a href=\"https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack\">four separate backdoors</a>:</p>\n<blockquote><p>Creating four backdoors facilitates the attackers having multiple points of re-entry should one be detected and removed. A unique case we haven&#8217;t seen before. Which introduces another type of attack made possibly by abusing websites that don&#8217;t monitor 3rd party dependencies in the browser of their users.</p></blockquote>\n<p>The <a href=\"https://thehackernews.com/2025/03/over-1000-wordpress-sites-infected-with.html?m=1\">four backdoors</a>:</p>\n<blockquote><p>The functions of the four backdoors are explained below:</p>\n<ul>\n<li>Backdoor 1, which uploads and installs a fake plugin named &#8220;Ultra SEO Processor,&#8221; which is then used to execute attacker-issued commands\n<li>Backdoor 2, which injects malicious JavaScript into wp-config.php\n<li>Backdoor 3, which adds an attacker-controlled SSH key to the ~/.ssh/authorized_keys file so as to allow persistent remote access to the machine\n<li>Backdoor 4, which is designed to execute remote commands and fetches another payload from <a href=\"https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html\">gsocket[.]io</a> to likely open a reverse shell.</ul>\n</blockquote>"
+                }
+            ],
+            "thr_total": "0"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "Friday Squid Blogging: Squid Loyalty Cards",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "Friday Squid Blogging: Squid Loyalty Cards"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-loyalty-cards.html"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-loyalty-cards.html",
+            "id": "https://www.schneier.com/?p=69980",
+            "guidislink": false,
+            "updated": "2025-03-05T16:46:05Z",
+            "updated_parsed": [
+                2025,
+                3,
+                5,
+                16,
+                46,
+                5,
+                2,
+                64,
+                0
+            ],
+            "published": "2025-03-07T22:04:41Z",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                22,
+                4,
+                41,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "Ireland",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "squid",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>Squid is a <a href=\"https://www.siliconrepublic.com/start-ups/loyalty-card-platform-squid-crowdfunding-campaign\">loyalty card platform</a> in Ireland.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>Squid is a <a href=\"https://www.siliconrepublic.com/start-ups/loyalty-card-platform-squid-crowdfunding-campaign\">loyalty card platform</a> in Ireland.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-loyalty-cards.html",
+                    "value": "<p>Squid is a <a href=\"https://www.siliconrepublic.com/start-ups/loyalty-card-platform-squid-crowdfunding-campaign\">loyalty card platform</a> in Ireland.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>"
+                }
+            ]
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "Rayhunter: Device to Detect Cellular Surveillance",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "Rayhunter: Device to Detect Cellular Surveillance"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html#comments",
+                    "count": "13",
+                    "thr:count": "13"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html/feed/atom/",
+                    "count": "13",
+                    "thr:count": "13"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html",
+            "id": "https://www.schneier.com/?p=69983",
+            "guidislink": false,
+            "updated": "2025-03-07T17:03:17Z",
+            "updated_parsed": [
+                2025,
+                3,
+                7,
+                17,
+                3,
+                17,
+                4,
+                66,
+                0
+            ],
+            "published": "2025-03-07T17:03:17Z",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                17,
+                3,
+                17,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "cell phones",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "EFF",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "privacy",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "surveillance",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>The EFF has <a href=\"https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying\">created</a> an open-source hardware tool to detect IMSI catchers: fake cell phone towers that are used for mass surveillance of an area.</p>\n<p>It runs on a $20 mobile hotspot.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>The EFF has <a href=\"https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying\">created</a> an open-source hardware tool to detect IMSI catchers: fake cell phone towers that are used for mass surveillance of an area.</p>\n<p>It runs on a $20 mobile hotspot.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html",
+                    "value": "<p>The EFF has <a href=\"https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying\">created</a> an open-source hardware tool to detect IMSI catchers: fake cell phone towers that are used for mass surveillance of an area.</p>\n<p>It runs on a $20 mobile hotspot.</p>"
+                }
+            ],
+            "thr_total": "13"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "The Combined Cipher Machine",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "The Combined Cipher Machine"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html#comments",
+                    "count": "5",
+                    "thr:count": "5"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html/feed/atom/",
+                    "count": "5",
+                    "thr:count": "5"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html",
+            "id": "https://www.schneier.com/?p=69978",
+            "guidislink": false,
+            "updated": "2025-03-05T16:43:32Z",
+            "updated_parsed": [
+                2025,
+                3,
+                5,
+                16,
+                43,
+                32,
+                2,
+                64,
+                0
+            ],
+            "published": "2025-03-06T12:01:32Z",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                12,
+                1,
+                32,
+                3,
+                65,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "cryptography",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "history of cryptography",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "military",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>Interesting <a href=\"https://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html\">article</a>&#8212;with photos!&#8212;of the US/UK &#8220;Combined Cipher Machine&#8221; from WWII.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>Interesting <a href=\"https://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html\">article</a>&#8212;with photos!&#8212;of the US/UK &#8220;Combined Cipher Machine&#8221; from WWII.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html",
+                    "value": "<p>Interesting <a href=\"https://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html\">article</a>&#8212;with photos!&#8212;of the US/UK &#8220;Combined Cipher Machine&#8221; from WWII.</p>"
+                }
+            ],
+            "thr_total": "5"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "CISA Identifies Five New Vulnerabilities Currently Being Exploited",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "CISA Identifies Five New Vulnerabilities Currently Being Exploited"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html#comments",
+                    "count": "6",
+                    "thr:count": "6"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html/feed/atom/",
+                    "count": "6",
+                    "thr:count": "6"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html",
+            "id": "https://www.schneier.com/?p=69975",
+            "guidislink": false,
+            "updated": "2025-03-04T17:02:25Z",
+            "updated_parsed": [
+                2025,
+                3,
+                4,
+                17,
+                2,
+                25,
+                1,
+                63,
+                0
+            ],
+            "published": "2025-03-05T12:00:31Z",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                12,
+                0,
+                31,
+                2,
+                64,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "privilege escalation",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "vulnerabilities",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>Of the <a href=\"https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog\">five</a>, one is a Windows vulnerability, another is a Cisco vulnerability. We don&#8217;t have any details about who is exploiting them, or how.</p>\n<p>News <a href=\"https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/\">article</a>. Slashdot <a href=\"https://it.slashdot.org/story/25/03/04/0315205/cisa-tags-windows-cisco-vulnerabilities-as-actively-exploited\">thread</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>Of the <a href=\"https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog\">five</a>, one is a Windows vulnerability, another is a Cisco vulnerability. We don&#8217;t have any details about who is exploiting them, or how.</p>\n<p>News <a href=\"https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/\">article</a>. Slashdot <a href=\"https://it.slashdot.org/story/25/03/04/0315205/cisa-tags-windows-cisco-vulnerabilities-as-actively-exploited\">thread</a>.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html",
+                    "value": "<p>Of the <a href=\"https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog\">five</a>, one is a Windows vulnerability, another is a Cisco vulnerability. We don&#8217;t have any details about who is exploiting them, or how.</p>\n<p>News <a href=\"https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/\">article</a>. Slashdot <a href=\"https://it.slashdot.org/story/25/03/04/0315205/cisa-tags-windows-cisco-vulnerabilities-as-actively-exploited\">thread</a>.</p>"
+                }
+            ],
+            "thr_total": "6"
+        },
+        {
+            "authors": [
+                {
+                    "name": "Bruce Schneier"
+                }
+            ],
+            "author_detail": {
+                "name": "Bruce Schneier"
+            },
+            "author": "Bruce Schneier",
+            "title": "Trojaned AI Tool Leads to Disney Hack",
+            "title_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "Trojaned AI Tool Leads to Disney Hack"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html"
+                },
+                {
+                    "rel": "replies",
+                    "type": "text/html",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html#comments",
+                    "count": "14",
+                    "thr:count": "14"
+                },
+                {
+                    "rel": "replies",
+                    "type": "application/atom+xml",
+                    "href": "https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html/feed/atom/",
+                    "count": "14",
+                    "thr:count": "14"
+                }
+            ],
+            "link": "https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html",
+            "id": "https://www.schneier.com/?p=69973",
+            "guidislink": false,
+            "updated": "2025-03-04T04:23:26Z",
+            "updated_parsed": [
+                2025,
+                3,
+                4,
+                4,
+                23,
+                26,
+                1,
+                63,
+                0
+            ],
+            "published": "2025-03-04T12:08:31Z",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                12,
+                8,
+                31,
+                1,
+                63,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Uncategorized",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "AI",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "credentials",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "cybersecurity",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                },
+                {
+                    "term": "hacking",
+                    "scheme": "https://www.schneier.com/",
+                    "label": null
+                }
+            ],
+            "summary": "<p>This is a <a href=\"https://www.wsj.com/tech/cybersecurity/disney-employee-ai-tool-hacker-cyberattack-3700c931?st=wdhzKF&#038;reflink=desktopwebshare_permalink\">sad story</a> of someone who downloaded a Trojaned AI tool that resulted in hackers taking over his computer and, ultimately, costing him his job.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": "en-US",
+                "base": "https://www.schneier.com/feed/atom/",
+                "value": "<p>This is a <a href=\"https://www.wsj.com/tech/cybersecurity/disney-employee-ai-tool-hacker-cyberattack-3700c931?st=wdhzKF&#038;reflink=desktopwebshare_permalink\">sad story</a> of someone who downloaded a Trojaned AI tool that resulted in hackers taking over his computer and, ultimately, costing him his job.</p>"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": "en-US",
+                    "base": "https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html",
+                    "value": "<p>This is a <a href=\"https://www.wsj.com/tech/cybersecurity/disney-employee-ai-tool-hacker-cyberattack-3700c931?st=wdhzKF&#038;reflink=desktopwebshare_permalink\">sad story</a> of someone who downloaded a Trojaned AI tool that resulted in hackers taking over his computer and, ultimately, costing him his job.</p>"
+                }
+            ],
+            "thr_total": "14"
         }
     ]
 }

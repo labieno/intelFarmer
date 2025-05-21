@@ -539,6 +539,80 @@
                 "base": "https://www.binarydefense.com/feed/",
                 "value": "<p>Emotet\u2019s latest evolution is bypassing old detection techniques. &#160; In Mid-April, the Emotet botnet significantly increased its volume of malicious emails. Binary Defense Threat Hunters have observed Emotet payloads slipping through email filters and executing on workstations in US-based companies\u2019 networks. The threat group behind Emotet changed delivery tactics for the malware, as well as [&#8230;]</p>\n<p>The post <a href=\"https://www.binarydefense.com/4-tactics-to-detect-contain-emotets-latest-evolution/\" rel=\"nofollow\">4 Tactics to Detect &#038; Contain Emotet\u2019s Latest Evolution\u00a0</a> appeared first on <a href=\"https://www.binarydefense.com\" rel=\"nofollow\">Binary Defense</a>.</p>"
             }
+        },
+        {
+            "title": "Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft 365 Credentials",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.binarydefense.com/feed/",
+                "value": "Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft 365 Credentials"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials/"
+                }
+            ],
+            "link": "https://www.binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials/",
+            "authors": [
+                {}
+            ],
+            "author": "",
+            "published": "Tue, 04 Mar 2025 15:22:39 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                4,
+                15,
+                22,
+                39,
+                1,
+                63,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Blog",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Threat Research",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ARC Labs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Managed Detection and Response",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "MDR",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Phishing Response",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.binarydefense.com/?p=10082700",
+            "guidislink": false,
+            "summary": "<p>Written by\u00a0ARC Labs\u00a0contributors,\u00a0John Dwyer and Eric Gonzalez ARC Labs recently discovered a JavaScript-based credential harvesting campaign leveraging fake voicemail notifications as a lure to capture Microsoft 365 credentials. ARC Labs has observed that JavaScript-based credential harvesting campaigns have seen a significant uptick, becoming a prevalent threat in the cybersecurity landscape. Attackers increasingly utilize obfuscation and [&#8230;]</p>\n<p>The post <a href=\"https://www.binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials/\">Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft 365 Credentials</a> appeared first on <a href=\"https://www.binarydefense.com\">Binary Defense</a>.</p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.binarydefense.com/feed/",
+                "value": "<p>Written by\u00a0ARC Labs\u00a0contributors,\u00a0John Dwyer and Eric Gonzalez ARC Labs recently discovered a JavaScript-based credential harvesting campaign leveraging fake voicemail notifications as a lure to capture Microsoft 365 credentials. ARC Labs has observed that JavaScript-based credential harvesting campaigns have seen a significant uptick, becoming a prevalent threat in the cybersecurity landscape. Attackers increasingly utilize obfuscation and [&#8230;]</p>\n<p>The post <a href=\"https://www.binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials/\">Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft 365 Credentials</a> appeared first on <a href=\"https://www.binarydefense.com\">Binary Defense</a>.</p>"
+            }
         }
     ]
 }

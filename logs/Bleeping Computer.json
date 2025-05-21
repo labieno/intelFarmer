@@ -1207,6 +1207,674 @@
                 "base": "https://www.bleepingcomputer.com/feed/",
                 "value": "Microsoft is working on a non-custodial built-in Ethereum crypto wallet for Microsoft Edge to allow users to send and receive cryptocurrency and NFTs. [...]"
             }
+        },
+        {
+            "title": "US cities warn of wave of unpaid parking phishing texts",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "US cities warn of wave of unpaid parking phishing texts"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/",
+            "published": "Sun, 09 Mar 2025 11:20:31 -0400",
+            "published_parsed": [
+                2025,
+                3,
+                9,
+                15,
+                20,
+                31,
+                6,
+                68,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Lawrence Abrams"
+                }
+            ],
+            "author": "Lawrence Abrams",
+            "author_detail": {
+                "name": "Lawrence Abrams"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/",
+            "guidislink": false,
+            "summary": "US cities are warning of an ongoing mobile phishing campaign\u00a0pretending to be texts from the city's parking violation departments about unpaid parking invoices, that if unpaid, will incur an additional $35 fine per day. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "US cities are warning of an ongoing mobile phishing campaign\u00a0pretending to be texts from the city's parking violation departments about unpaid parking invoices, that if unpaid, will incur an additional $35 fine per day. [...]"
+            }
+        },
+        {
+            "title": "New Chirp tool uses audio tones to transfer data between devices",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "New Chirp tool uses audio tones to transfer data between devices"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/",
+            "published": "Sun, 09 Mar 2025 10:14:24 -0400",
+            "published_parsed": [
+                2025,
+                3,
+                9,
+                14,
+                14,
+                24,
+                6,
+                68,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Software",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/",
+            "guidislink": false,
+            "summary": "A new open-source tool named 'Chirp' transmits data, such as text messages,\u00a0between computers (and smartphones) through different audio tones. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A new open-source tool named 'Chirp' transmits data, such as text messages,\u00a0between computers (and smartphones) through different audio tones. [...]"
+            }
+        },
+        {
+            "title": "Developer guilty of using kill switch to sabotage employer's systems",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Developer guilty of using kill switch to sabotage employer's systems"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/developer-guilty-of-using-kill-switch-to-sabotage-employers-systems/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/developer-guilty-of-using-kill-switch-to-sabotage-employers-systems/",
+            "published": "Sat, 08 Mar 2025 12:43:15 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                17,
+                43,
+                15,
+                5,
+                67,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Lawrence Abrams"
+                }
+            ],
+            "author": "Lawrence Abrams",
+            "author_detail": {
+                "name": "Lawrence Abrams"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/developer-guilty-of-using-kill-switch-to-sabotage-employers-systems/",
+            "guidislink": false,
+            "summary": "A software developer\u00a0has been found guilty of sabotaging his ex-employer's systems by running custom malware and installing a \"kill switch\" after being demoted at the company. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A software developer\u00a0has been found guilty of sabotaging his ex-employer's systems by running custom malware and installing a \"kill switch\" after being demoted at the company. [...]"
+            }
+        },
+        {
+            "title": "Undocumented commands found in Bluetooth chip used by a billion devices",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Undocumented commands found in Bluetooth chip used by a billion devices"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/",
+            "published": "Sat, 08 Mar 2025 11:12:23 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                16,
+                12,
+                23,
+                5,
+                67,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hardware",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/",
+            "guidislink": false,
+            "summary": "The ubiquitous ESP32 microchip made by Chinese manufacturer Espressif and used by over 1 billion units as of 2023 contains undocumented commands that could be leveraged for attacks. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The ubiquitous ESP32 microchip made by Chinese manufacturer Espressif and used by over 1 billion units as of 2023 contains undocumented commands that could be leveraged for attacks. [...]"
+            }
+        },
+        {
+            "title": "YouTubers extorted via copyright strikes to spread malware",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "YouTubers extorted via copyright strikes to spread malware"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/",
+            "published": "Sat, 08 Mar 2025 10:11:21 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                15,
+                11,
+                21,
+                5,
+                67,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/",
+            "guidislink": false,
+            "summary": "Cybercriminals are sending bogus copyright claims to YouTubers to coerce them into promoting malware and cryptocurrency miners on their videos. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Cybercriminals are sending bogus copyright claims to YouTubers to coerce them into promoting malware and cryptocurrency miners on their videos. [...]"
+            }
+        },
+        {
+            "title": "US seizes $23 million in crypto linked to LastPass breaches",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "US seizes $23 million in crypto linked to LastPass breaches"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/",
+            "published": "Fri, 07 Mar 2025 14:13:07 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                19,
+                13,
+                7,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CryptoCurrency",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/",
+            "guidislink": false,
+            "summary": "U.S. authorities have seized over $23 million in cryptocurrency linked to the theft of $150 million from a Ripple crypto wallet in January 2024. Investigators believe hackers who breached LastPass in 2022 were behind the attack. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "U.S. authorities have seized over $23 million in cryptocurrency linked to the theft of $150 million from a Ripple crypto wallet in January 2024. Investigators believe hackers who breached LastPass in 2022 were behind the attack. [...]"
+            }
+        },
+        {
+            "title": "Unpatched Edimax IP camera flaw actively exploited in botnet attacks",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Unpatched Edimax IP camera flaw actively exploited in botnet attacks"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/",
+            "published": "Fri, 07 Mar 2025 13:36:48 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                18,
+                36,
+                48,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/",
+            "guidislink": false,
+            "summary": "A critical command injection vulnerability impacting the Edimax IC-7100 IP camera is currently being exploited by botnet malware to compromise devices. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A critical command injection vulnerability impacting the Edimax IC-7100 IP camera is currently being exploited by botnet malware to compromise devices. [...]"
+            }
+        },
+        {
+            "title": "Employee charged with stealing unreleased movies, sharing them online",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Employee charged with stealing unreleased movies, sharing them online"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/",
+            "published": "Fri, 07 Mar 2025 12:20:01 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                17,
+                20,
+                1,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/",
+            "guidislink": false,
+            "summary": "A Memphis man was arrested and charged with stealing DVDs and Blu-ray discs of unreleased movies and sharing ripped digital copies online before their release. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "A Memphis man was arrested and charged with stealing DVDs and Blu-ray discs of unreleased movies and sharing ripped digital copies online before their release. [...]"
+            }
+        },
+        {
+            "title": "US charges Garantex admins with money laundering, sanctions violations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "US charges Garantex admins with money laundering, sanctions violations"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/",
+            "published": "Fri, 07 Mar 2025 10:40:24 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                15,
+                40,
+                24,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/",
+            "guidislink": false,
+            "summary": "The administrators of the Russian Garantex crypto-exchange have been charged in the United States with facilitating money laundering for criminal organizations and violating sanctions. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "The administrators of the Russian Garantex crypto-exchange have been charged in the United States with facilitating money laundering for criminal organizations and violating sanctions. [...]"
+            }
+        },
+        {
+            "title": "Data breach at Japanese telecom giant NTT hits 18,000 companies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Data breach at Japanese telecom giant NTT hits 18,000 companies"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/",
+            "published": "Fri, 07 Mar 2025 08:48:21 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                13,
+                48,
+                21,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Bill Toulas"
+                }
+            ],
+            "author": "Bill Toulas",
+            "author_detail": {
+                "name": "Bill Toulas"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/",
+            "guidislink": false,
+            "summary": "Japanese telecommunication services provider NTT Communications Corporation (NTT) is warning almost 18,000 corporate customers that their information was compromised during a cybersecurity incident. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Japanese telecommunication services provider NTT Communications Corporation (NTT) is warning almost 18,000 corporate customers that their information was compromised during a cybersecurity incident. [...]"
+            }
+        },
+        {
+            "title": "Microsoft: North Korean hackers join Qilin ransomware gang",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft: North Korean hackers join Qilin ransomware gang"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/",
+            "published": "Fri, 07 Mar 2025 07:10:18 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                12,
+                10,
+                18,
+                4,
+                66,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/",
+            "guidislink": false,
+            "summary": "Microsoft says a\u00a0North Korean hacking group tracked as Moonstone Sleet has\u00a0deployed Qilin\u00a0ransomware payloads in a limited number of attacks. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft says a\u00a0North Korean hacking group tracked as Moonstone Sleet has\u00a0deployed Qilin\u00a0ransomware payloads in a limited number of attacks. [...]"
+            }
+        },
+        {
+            "title": "Microsoft says malvertising campaign impacted 1 million PCs",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "Microsoft says malvertising campaign impacted 1 million PCs"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/"
+                }
+            ],
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/",
+            "published": "Thu, 06 Mar 2025 15:53:36 -0500",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                20,
+                53,
+                36,
+                3,
+                65,
+                0
+            ],
+            "authors": [
+                {
+                    "name": "Sergiu Gatlan"
+                }
+            ],
+            "author": "Sergiu Gatlan",
+            "author_detail": {
+                "name": "Sergiu Gatlan"
+            },
+            "tags": [
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/",
+            "guidislink": false,
+            "summary": "\u200bMicrosoft has taken down an undisclosed number of GitHub repositories used in a massive malvertising campaign that impacted almost one million devices worldwide. [...]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://www.bleepingcomputer.com/feed/",
+                "value": "\u200bMicrosoft has taken down an undisclosed number of GitHub repositories used in a massive malvertising campaign that impacted almost one million devices worldwide. [...]"
+            }
         }
     ]
 }

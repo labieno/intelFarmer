@@ -2577,6 +2577,1206 @@
                 }
             ],
             "post-id": "143640"
+        },
+        {
+            "title": "Large-scale cryptocurrency miner campaign targets Russian users with SilentCryptoMiner",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Large-scale cryptocurrency miner campaign targets Russian users with SilentCryptoMiner"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175169/breaking-news/miner-campaign-targeting-russian-users-with-silentcryptominer.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175169/breaking-news/miner-campaign-targeting-russian-users-with-silentcryptominer.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Mon, 10 Mar 2025 10:08:36 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                10,
+                8,
+                36,
+                0,
+                69,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cryptocurrecy",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SilentCryptoMiner",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175169",
+            "guidislink": false,
+            "summary": "Experts warn of a large-scale cryptocurrency miner campaign targeting Russian users with SilentCryptoMiner. Kaspersky researchers discovered a mass malware campaign spreading SilentCryptoMiner by disguising it as a tool to bypass internet restrictions. While investigating the increased use of Windows Packet Divert (WPD) tools by crooks to distribute malware under this pretense, the researchers spotted the [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Experts warn of a large-scale cryptocurrency miner campaign targeting Russian users with SilentCryptoMiner. Kaspersky researchers discovered a mass malware campaign spreading SilentCryptoMiner by disguising it as a tool to bypass internet restrictions. While investigating the increased use of Windows Packet Divert (WPD) tools by crooks to distribute malware under this pretense, the researchers spotted the [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">Experts warn of a large-scale cryptocurrency miner campaign targeting Russian users with SilentCryptoMiner.</h2>\n\n\n\n<p>Kaspersky researchers discovered a mass malware campaign spreading SilentCryptoMiner by disguising it as a tool to bypass internet restrictions. While investigating the increased use of Windows Packet Divert (<a href=\"https://github.com/basil00/WinDivert\" rel=\"noreferrer noopener\" target=\"_blank\">WPD</a>) tools by crooks to distribute malware under this pretense, the researchers spotted the campaign.</p>\n\n\n\n<p>Threat actors distribute malware in archives with fake installation instructions, urging users to disable security tools to allow their execution. Using this social engineering trick, threats like stealers, RATs, Trojans, and crypto miners can persist undetected. Common malware families include <a href=\"https://securityaffairs.com/112147/cyber-crime/njrat-rat-pastebin-c2.html\">NJRat</a>, XWorm, <a href=\"https://securityaffairs.com/157496/hacking/phemedrone-info-stealer-campaign-exploit-cve-2023-36025.html\">Phemedrone</a>, and <a href=\"https://securityaffairs.com/131122/cyber-crime/dcrat-cheap-rat.html\">DCRat</a>.</p>\n\n\n\n<p>The malware campaign is infecting users with a miner disguised as a DPI bypass tool. The attackers modified a popular tool that is available on GitHub. Kaspersky already identified over 2,000 victims in Russia, but the true number may be higher. A YouTuber with 60,000 subscribers unknowingly helped spread the malware, linking to a malicious archive in videos that amassed 400,000 views before the link was removed.</p>\n\n\n\n<p>Attackers used the malicious site gitrok[.]com to distribute an infected archive, which had over 40,000 downloads. They also manipulated YouTubers by falsely claiming copyright strikes, threatening channel shutdowns unless they posted videos with malicious links. A Telegram channel and a popular YouTube account with 340,000 subscribers also spread the malware. By December 2024, reports emerged of further miner-infected versions spreading via Telegram and YouTube.</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-16.png?ssl=1\"><img alt=\"\" class=\"wp-image-175174\" height=\"438\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-16.png?resize=1024%2C438&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<p>The discovered infected archives contained an additional executable, with a modified start script tricking victims into disabling antivirus protections. The first-stage malware is a Python-based loader that was packed with PyInstaller and sometimes obfuscated using PyArmor. It fetched a second-stage payload from hardcoded domains, executing it as <em>t.py</em> in a temporary folder. The payload was only accessible from Russian IPs, suggesting a targeted attack on Russian users.</p>\n\n\n\n<p><em>&#8220;The downloaded\u00a0di.exe\u00a0is a\u00a0<a href=\"https://securelist.com/miner-campaign-misuses-open-source-siem-agent/114022/\" rel=\"noreferrer noopener\" target=\"_blank\">SilentCryptoMiner</a>\u00a0sample based on the open-source miner XMRig. This is a covert miner able to mine multiple cryptocurrencies (ETH, ETC, XMR, RTM and others) using various algorithms. For stealth, SilentCryptoMiner employs\u00a0<a href=\"https://attack.mitre.org/techniques/T1055/012/\" rel=\"noreferrer noopener\" target=\"_blank\">process hollowing</a>\u00a0to inject the miner code into a system process (in this case,\u00a0dwm.exe).&#8221; reads the <a href=\"https://securelist.com/silentcryptominer-spreads-through-blackmail-on-youtube/115788/\">report</a> published by Kaspersky. &#8220;The malware is able to stop mining while the processes specified in the configuration are active. It can be controlled remotely via a web panel.&#8221;</em></p>\n\n\n\n<p><em>&#8220;The miner can prevent the execution in a virtualized environment and verify its file size (680-800 MB) to ensure it was executed by the intended loader. Its configuration is Base64-encoded and encrypted with AES-CBC. The miner halts when specific monitoring tools run and fetches updates every 100 minutes. It uses Pastebin to store its configuration, with multiple accounts distributing the malicious files.&#8221; concludes the report. &#8220;The topic of restriction bypass tools is being actively exploited to distribute malware. The above campaign limited itself to distributing a miner, but threat actors could start to use this vector for more complex attacks, including data theft and downloading other malware. This underscores once again that, while such tools may look enticing, they pose a serious threat to user data security.&#8221;</em></p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0SilentCryptoMiner)</strong></p>"
+                }
+            ],
+            "post-id": "175169"
+        },
+        {
+            "title": "Feds seized $23 million in crypto stolen using keys from LastPass breaches",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Feds seized $23 million in crypto stolen using keys from LastPass breaches"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175156/cyber-crime/feds-seized-23-million-in-crypto-stolen-using-keys-from-lastpass-breaches.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175156/cyber-crime/feds-seized-23-million-in-crypto-stolen-using-keys-from-lastpass-breaches.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Mon, 10 Mar 2025 08:10:22 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                8,
+                10,
+                22,
+                0,
+                69,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "LastPass",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175156",
+            "guidislink": false,
+            "summary": "U.S. authorities seized $23M in crypto linked to a $150M Ripple wallet theft, experts believe the incident is linked to the 2022 LastPass breach. U.S. authorities seized $23M in crypto tied to a $150M Ripple hack, suspected to have been carried out by hackers from the 2022 LastPass breach. Security researcher ZachXBT identified the victim [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "U.S. authorities seized $23M in crypto linked to a $150M Ripple wallet theft, experts believe the incident is linked to the 2022 LastPass breach. U.S. authorities seized $23M in crypto tied to a $150M Ripple hack, suspected to have been carried out by hackers from the 2022 LastPass breach. Security researcher ZachXBT identified the victim [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">U.S. authorities seized $23M in crypto linked to a $150M Ripple wallet theft, experts believe the incident is linked to the 2022 LastPass breach.</h2>\n\n\n\n<p>U.S. authorities seized $23M in crypto tied to a $150M Ripple hack, suspected to have been carried out by hackers from the 2022 <a href=\"https://securityaffairs.com/134858/data-breach/lastpass-data-breach.html\">LastPass breach</a>.</p>\n\n\n\n<p>Security researcher ZachXBT identified the victim as Ripple co-founder Chris Larsen. Authorities seized $24M in frozen assets before they could be withdrawn. This aligns with prior findings that cybercriminals cracked master passwords from LastPass to carry out major heists. The government\u2019s latest action officially secures the recovered funds.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">It appears <a href=\"https://twitter.com/Ripple?ref_src=twsrc%5Etfw\">@Ripple</a> was hacked for ~213M XRP ($112.5M)<br /><br />Source address<br />rJNLz3A1qPKfWCtJLPhmMZAfBkutC2Qojm<br /><br />So far the stolen funds have been laundered through MEXC, Gate, Binance, Kraken, OKX, HTX, HitBTC, etc <a href=\"https://t.co/HKGYsLQeMv\">pic.twitter.com/HKGYsLQeMv</a></p>&mdash; ZachXBT (@zachxbt) <a href=\"https://twitter.com/zachxbt/status/1752694489905528943?ref_src=twsrc%5Etfw\">January 31, 2024</a></blockquote>\n</div></figure>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">The Ripple attribution for the rJNLz3A account was tagged in XRPScan and Bithomp (XRP block explorers) as the entity Ripple. <br /><br />Funny how the community note leaves out that Chris Larsen is the Ripple co-founder and executive chairman. <a href=\"https://t.co/rLnVxwKfPK\">pic.twitter.com/rLnVxwKfPK</a></p>&mdash; ZachXBT (@zachxbt) <a href=\"https://twitter.com/zachxbt/status/1752853358602494181?ref_src=twsrc%5Etfw\">February 1, 2024</a></blockquote>\n</div></figure>\n\n\n\n<p>Law enforcement traced $23,604,815.09 of stolen crypto between June 2024 and February 2025 to multiple exchanges, including OKX, Kraken, WhiteBIT, AscendEX, FixedFloat, SwapSpace, and CoinRabbit.</p>\n\n\n\n<p>According to the complaint for forfeiture unsealed by the U.S. DoJ, threat actors may have used private keys extracted by cracking the victim&#8217;s password vault stolen from the 2022 security breach suffered by an online password manager.</p>\n\n\n\n<p><em>&#8220;In December 2022, the above-described commercial online password manager suffered two major data breaches \u2014 one in August 2022 and one in November 2022 \u2014 in which the attackers stole encrypted passwords and the online password manager vault data. December 2022, the above-described commercial online password manager suffered two major data breaches \u2014 one in August 2022 and one in November 2022 \u2014 in which the attackers stole encrypted passwords and the online password manager vault data.&#8221; reads the complaint. &#8220;The Federal Bureau of Investigation (\u201cFBI\u201d) has been investigating these data breaches, and law enforcement agents investigating the instant case have spoken with FBI agents about their investigation. From those conversations, law enforcement agents in this case learned that the stolen data and passwords that were stored in several victims\u2019 online password manager accounts were used to illegally, and without authorization, access the victims\u201d electronic accounts and steal information, cryptocurrency, and other data&#8221;</em></p>\n\n\n\n<p>Investigators didn&#8217;t name the password manager but noted it suffered major breaches in August and November 2022, which match with the incident suffered by LastPass.</p>\n\n\n\n<p>Investigators found no evidence of device hacking, supporting the hypothesis that attackers decrypted stolen password manager data to access the victim&#8217;s crypto wallet. The scale and speed of the theft indicate a coordinated effort, consistent with previous breaches of online password managers and crypto thefts. Authorities believe the same hackers behind those attacks were responsible for this incident.</p>\n\n\n\n<p></p>\n\n\n\n<p>&#8220;Working with dozens of victims, security researchers\u00a0<strong>Nick Bax</strong>\u00a0and\u00a0<strong>Taylor Monahan</strong>\u00a0found that none of the six-figure cyberheist victims appeared to have suffered the sorts of attacks that typically preface a high-dollar crypto theft, such as the compromise of one\u2019s email and/or mobile phone accounts, or SIM-swapping attacks.&#8221; <a href=\"https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/\">reported</a> KrebsOnSecurity. </p>\n\n\n\n<p>&#8220;They discovered the victims all had something else in common: Each had at one point stored their cryptocurrency seed phrase \u2014 the secret code that lets anyone gain access to your cryptocurrency holdings \u2014 in the \u201cSecure Notes\u201d area of their LastPass account prior to the 2022 breaches at the company. Bax and Monahan found another common theme with these robberies: They all followed a similar pattern of cashing out, rapidly moving stolen funds to a dizzying number of drop accounts scattered across various cryptocurrency exchanges.&#8221;</p>\n\n\n\n<p>However. LastPass&#8217;s statement highlights that they are not aware of any conclusive evidence that connects any crypto thefts to our incident.</p>\n\n\n\n<p>&#8220;Since we initially disclosed this incident back in 2022, LastPass has worked in close cooperation with multiple representatives from law enforcement. To date, our law enforcement partners have not made us aware of any conclusive evidence that connects any crypto thefts to our incident.&#8221; reads the statement. &#8220;In the meantime, we have been investing heavily in enhancing our security measures and will continue to do so.&#8221;</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\">Be honest\u2026 Has your team forgotten LastPass was breached in 2022 which has lead to 9 figures in cryptocurrency thefts?<br /><br />Let\u2019s not forget your team has long covered up the extent of the attack and gaslit many confirmed victims. <br /><br />Now yesterday in a forfeiture complaint even law\u2026 <a href=\"https://t.co/GFFqZSq3kL\">pic.twitter.com/GFFqZSq3kL</a></p>&mdash; ZachXBT (@zachxbt) <a href=\"https://twitter.com/zachxbt/status/1898032294507528615?ref_src=twsrc%5Etfw\">March 7, 2025</a></blockquote>\n</div></figure>\n\n\n\n<p>Monahan criticized LastPass for not warning users that stored secrets, especially in &#8220;Secure Notes,&#8221; may be at risk, blaming their inaction for massive financial losses.</p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0newsletter)</strong></p>\n\n\n\n<p></p>"
+                }
+            ],
+            "post-id": "175156"
+        },
+        {
+            "title": "Undocumented hidden feature found in Espressif ESP32 microchip",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Undocumented hidden feature found in Espressif ESP32 microchip"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175102/hacking/undocumented-hidden-feature-espressif-esp32-microchip.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175102/hacking/undocumented-hidden-feature-espressif-esp32-microchip.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 09 Mar 2025 14:55:03 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                9,
+                14,
+                55,
+                3,
+                6,
+                68,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "ESP32",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Espressif",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175102",
+            "guidislink": false,
+            "summary": "Experts discovered an undocumented hidden feature in the ESP32 microchip manufactured by Espressif, which is used in over 1 billion devices. At the RootedCON, researchers at Tarlogic Innovation presented their findings on undocumented commands in the ESP32 microchip designed by the Chinese manufacturer Espressif. The hidden functionality could act as a backdoor, enabling impersonation attacks [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Experts discovered an undocumented hidden feature in the ESP32 microchip manufactured by Espressif, which is used in over 1 billion devices. At the RootedCON, researchers at Tarlogic Innovation presented their findings on undocumented commands in the ESP32 microchip designed by the Chinese manufacturer Espressif. The hidden functionality could act as a backdoor, enabling impersonation attacks [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">Experts discovered an undocumented hidden feature in the ESP32 microchip manufactured by Espressif, which is used in over 1 billion devices.</h2>\n\n\n\n<p>At the <a href=\"https://reg.rootedcon.com/cfp/schedule/talk/5\">RootedCON</a>, researchers at Tarlogic Innovation presented their findings on undocumented commands in the ESP32 microchip designed by the Chinese manufacturer Espressif.</p>\n\n\n\n<p>The hidden functionality could act as a backdoor, enabling impersonation attacks and persistent infections on devices like smartphones, smart locks, and medical equipment. Tarlogic also developed a tool for auditing Bluetooth device security across all operating systems.</p>\n\n\n\n<p>The experts warn that a hidden feature poses a security risk for millions of IoT devices. </p>\n\n\n\n<p><em>&#8220;Tarlogic Security\u00a0has detected a hidden functionality that can be used as a backdoor in the ESP32, a microcontroller that enables WiFi and Bluetooth connection and is present in\u00a0millions of mass-market IoT devices.&#8221; reads the <a href=\"https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/\">report</a> published by the researchers &#8220;Exploitation of this hidden functionality would allow hostile actors to conduct impersonation attacks and\u00a0permanently infect sensitive devices such as mobile phones, computers, smart locks or medical equipment by\u00a0bypassing code audit controls.&#8221;</em></p>\n\n\n\n<p>Tarlogic researchers used the <a href=\"https://www.tarlogic.com/bsam/\" rel=\"noreferrer noopener\" target=\"_blank\"><strong>BSAM methodology</strong></a>, introduced last year, to systematically audit Bluetooth device security.</p>\n\n\n\n<p><em>&#8220;In the course of the investigation, a\u00a0<strong>hidden feature was discovered in the ESP32 chip</strong>, used in millions of IoT devices and which can be purchased on the world\u2019s most famous e-commerce sites for \u20ac2. It is this low cost that explains why it is present in the vast majority of Bluetooth IoT devices for domestic use.&#8221; continues the researchers. &#8220;In 2023, the manufacturer Espressif reported in a statement that one billion units of this chip had been sold worldwide to date.&#8221;</em></p>\n\n\n\n<p>Tarlogic\u2019s Innovation Department created BluetoothUSB, a free driver that allows researchers to conduct comprehensive Bluetooth security audits across all devices, regardless of OS or programming language. This tool eliminates the need for diverse hardware, making security testing more accessible. The researchers pointed out that BluetoothUSB aims to democratize security analysis for millions of IoT devices, helping manufacturers develop tools to test and protect Bluetooth-enabled gadgets.</p>\n\n\n\n<p>The researchers discovered multiple hidden commands using the tool they created.</p>\n\n\n\n<p>Through reverse engineering, Targolic researchers discovered hidden commeds (code 0x3F) in the ESP32 Bluetooth firmware. Inspecting the code, Targolic noticed that the last entry in the table references the code 0x3F that is reserved for proprietary commands. The code contains 29 undocumented HCI commands by ESP.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-15.png?ssl=1\"><img alt=\"\" class=\"wp-image-175150\" height=\"507\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-15.png?resize=1024%2C507&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-14.png?ssl=1\"><img alt=\"\" class=\"wp-image-175147\" height=\"511\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-14.png?resize=1024%2C511&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<p>The researchers demonstrated how a threat actor could fully control ESP32 chips, gain persistence through RAM and Flash modification, and potentially spread to other devices using advanced Bluetooth attacks.</p>\n\n\n\n<p><em>&#8220;We would like to clarify that it is more appropriate to refer to the presence of proprietary HCI commands\u2014which allow operations such as reading and modifying memory in the ESP32 controller\u2014as a \u201c<strong>hidden feature</strong>\u201d rather than a \u201c<strong>backdoor</strong>.\u201d concludes the report. &#8220;The use of these commands could facilitate supply chain attacks, the concealment of backdoors in the chipset, or the execution of more sophisticated attacks. Over the coming weeks, we will publish further technical details on this matter.&#8221;</em></p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0ESP32 microchip manufactured by Espressif)</strong></p>"
+                }
+            ],
+            "post-id": "175102"
+        },
+        {
+            "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 36",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 36"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175124/malware/security-affairs-malware-newsletter-round-36.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175124/malware/security-affairs-malware-newsletter-round-36.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 09 Mar 2025 11:35:29 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                9,
+                11,
+                35,
+                29,
+                6,
+                68,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175124",
+            "guidislink": false,
+            "summary": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Cellebrite zero-day exploit used to target phone of Serbian student activist&#160;&#160; One in Four Cyberattacks in 2024 Traced to Infostealers, Huntress Reports&#160;&#160; Uncovering .NET Malware Obfuscated by Encryption and Virtualization&#160;&#160; Black Basta and Cactus Ransomware Groups [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape. Cellebrite zero-day exploit used to target phone of Serbian student activist&#160;&#160; One in Four Cyberattacks in 2024 Traced to Infostealers, Huntress Reports&#160;&#160; Uncovering .NET Malware Obfuscated by Encryption and Virtualization&#160;&#160; Black Basta and Cactus Ransomware Groups [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape.</h2>\n\n\n\n<p><a href=\"https://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/\">Cellebrite zero-day exploit used to target phone of Serbian student activist</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.infostealers.com/article/one-in-four-cyberattacks-in-2024-traced-to-infostealers-huntress-reports/\">One in Four Cyberattacks in 2024 Traced to Infostealers, Huntress Reports</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://unit42.paloaltonetworks.com/malware-obfuscation-techniques/\">Uncovering .NET Malware Obfuscated by Encryption and Virtualization</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.trendmicro.com/en_us/research/25/b/black-basta-cactus-ransomware-backconnect.html\">Black Basta and Cactus Ransomware Groups Add BackConnect Malware to Their Arsenal</a></p>\n\n\n\n<p><a href=\"https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/\">Satori Threat Intelligence Disruption: BADBOX 2.0 Targets Consumer Devices with Multiple Fraud Schemes</a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.group-ib.com/blog/fingerprint-heists/\">Fingerprint Heists: How your browser fingerprint can be stolen and used by fraudsters</a></p>\n\n\n\n<p><a href=\"https://thehackernews.com/2025/03/medusa-ransomware-hits-40-victims-in.html\">Medusa Ransomware Hits 40+ Victims in 2025, Demands $100K\u2013$15M Ransom</a></p>\n\n\n\n<p><a href=\"https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack\">Thousands of websites hit by four backdoors in 3rd party JavaScript attack</a>&nbsp; &nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.splunk.com/en_us/blog/security/infostealer-campaign-against-isps.html\">Infostealer Campaign against ISPs</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.proofpoint.com/us/blog/threat-insight/call-it-what-you-want-threat-actor-delivers-highly-targeted-multistage-polyglot\">Call It What You Want: Threat Actor Delivers Highly Targeted Multistage Polyglot Malware</a></p>\n\n\n\n<p><a href=\"https://www.greynoise.io/blog/new-ddos-botnet-discovered\">New DDoS Botnet Discovered: Over 30,000 Hacked Devices, Majority of Observed Activity Traced to Iran</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/the-evolution-of-dark-caracal-tools-analysis-of-a-campaign-featuring-poco-rat\">The evolution of Dark Caracal tools: analysis of a campaign featuring Poco RAT</a></p>\n\n\n\n<p><a href=\"https://blog.talosintelligence.com/lotus-blossom-espionage-group/\">Lotus Blossom espionage group targets multiple industries with different versions of Sagerunex and hacking tools</a>&nbsp;</p>\n\n\n\n<p><a href=\"https://arxiv.org/abs/2503.04302\">Malware Detection at the Edge with Lightweight LLMs: A Performance Evaluation</a></p>\n\n\n\n<p><a href=\"https://arxiv.org/abs/2503.02144\">Malware Classification from Memory Dumps Using Machine Learning, Transformers, and Large Language Models</a></p>\n\n\n\n<p><a href=\"https://www.mdpi.com/2079-9292/14/6/1077\">Self-MCKD: Enhancing the Effectiveness and Efficiency of Knowledge Transfer in Malware Classification</a></p>\n\n\n\n<p><a href=\"https://www.mdpi.com/2076-3417/15/5/2802\">Is Malware Detection Needed for Android TV?</a></p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\">Mastodon</a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0<a href=\"https://securityaffairs.com/174816/malware/security-affairs-malware-newsletter-round-35.html\">malware</a>)</strong></p>"
+                }
+            ],
+            "post-id": "175124"
+        },
+        {
+            "title": "Security Affairs newsletter Round 514 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Security Affairs newsletter Round 514 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175115/security/security-affairs-newsletter-round-514-by-pierluigi-paganini-international-edition.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175115/security/security-affairs-newsletter-round-514-by-pierluigi-paganini-international-edition.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sun, 09 Mar 2025 00:52:57 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                9,
+                0,
+                52,
+                57,
+                6,
+                68,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175115",
+            "guidislink": false,
+            "summary": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Akira ransomware gang used an unsecured webcam to bypass EDR Japanese telecom giant NTT suffered a data breach [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Akira ransomware gang used an unsecured webcam to bypass EDR Japanese telecom giant NTT suffered a data breach [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box.</h2>\n\n\n\n<p>Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.</p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td><a href=\"https://securityaffairs.com/175103/cyber-crime/akira-ransomware-gang-used-unsecured-webcam-bypass-edr.html\">Akira ransomware gang used an unsecured webcam to bypass EDR</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175090/data-breach/japanese-telecom-giant-ntt-data-breach.html\">Japanese telecom giant NTT suffered a data breach that impacted 18,000 companies</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175060/hacking/mirai-based-botnets-exploit-cve-2025-1316-zero-day-in-edimax-ip-cameras.html\">Mirai-based botnets exploit CVE-2025-1316 zero-day in Edimax IP cameras</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175061/security/differential-privacy-in-protecting-sensitive-information-in-the-era-of-artificial-intelligence.html\">The Role of Differential Privacy in Protecting Sensitive Information in the Era of Artificial Intelligence</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175049/cyber-crime/international-law-enforcement-operation-seized-the-domain-of-the-russian-crypto-exchange-garantex.html\">International law enforcement operation seized the domain of the Russian crypto exchange Garantex</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175013/malware/medusa-ransomware-targeted-over-40-organizations-in-2025.html\">Medusa Ransomware targeted over 40 organizations in 2025</a></td></tr><tr><td><a href=\"https://securityaffairs.com/175025/cyber-crime/qilin-ransomware-ministry-of-foreign-affairs-of-ukraine.html\">Qilin Ransomware gang claims the hack of the Ministry of Foreign Affairs of Ukraine</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174999/security/elastic-kibana-critical-flaw.html\">Elastic patches critical Kibana flaw allowing code execution</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174986/cyber-warfare-2/u-s-department-of-justice-doj-charges-12-chinese-nationals.html\">The U.S. DoJ charges 12 Chinese nationals for state-linked cyber operations</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174976/apt/lotus-blossom-apt-sagerunex-backdoor.html\">Chinese Lotus Blossom APT targets multiple sectors with Sagerunex backdoor</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174962/apt/china-linked-apt-silk-typhoon-targets-it-supply-chain.html\">China-linked APT Silk Typhoon targets IT Supply Chain</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174953/data-breach/ransomware-group-hunters-international-claims-to-have-hacked-tata-technologies.html\">Hunters International gang claims the theft of 1.4 TB of data allegedly stolen from Tata Technologies</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174941/malware/new-eleven11bot-botnet-infected-86k-iot-devices.html\">New Eleven11bot botnet infected +86K IoT devices</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174930/security/polish-space-agency-polsa-disconnected-its-network-following-a-cyberattack.html\">Polish Space Agency POLSA disconnected its network following a cyberattack</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174923/security/u-s-cisa-adds-linux-kernel-and-vmware-esxi-and-workstation-flaws-to-its-known-exploited-vulnerabilities-catalog.html\">U.S. CISA adds Linux kernel and VMware ESXi and Workstation&nbsp;flaws to its Known Exploited Vulnerabilities catalog</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174911/security/vmware-fixed-three-actively-exploited-zero-days-in-esx-products.html\">VMware fixed three actively exploited zero-days in ESX products</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174898/security/digital-nomads-and-risk-associated-with-the-threat-of-infiltred-employees.html\">Digital nomads and risk associated with the threat of infiltred employees</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174887/hacking/google-fixed-android-actively-exploited-flaws.html\">Google fixed two actively exploited Android flaws</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174873/cyber-crime/massive-attack-deploy-info-stealers-crypto-miners.html\">Mass exploitation campaign hit 4,000+ ISP networks to deploy info stealers and crypto miners</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174862/intelligence/cisa-maintains-stance-on-russian-cyber-threats-despite-policy-shift.html\">CISA maintains stance on Russian cyber threats despite policy shift</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174853/security/u-s-cisa-adds-multiple-cisco-small-business-rv-series-routers-hitachi-vantara-pentaho-ba-server-microsoft-windows-win32k-and-progress-whatsup-gold-flaws-to-its-known-exploited-vulnerabilities.html\">U.S. CISA adds Multiple Cisco Small Business RV Series Routers, Hitachi Vantara Pentaho BA Server, Microsoft Windows Win32k, and Progress WhatsUp Gold&nbsp;flaws to its Known Exploited Vulnerabilities catalog</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174845/cyber-crime/u-s-authorities-recovered-31-million-uranium-finance.html\">U.S. Authorities recovered $31 Million Related to 2021 Uranium Finance cyber heist</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174822/breaking-news/serbian-student-activists-phone-hacked-using-cellebrite-zero-day-exploit.html\">Serbian student activist\u2019s phone hacked using Cellebrite zero-day exploit</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174831/data-breach/qilin-ransomware-group-claims-responsibility-lee-enterprises-attack.html\">Qilin ransomware gang claimed responsibility for the Lee Enterprises attack</a></td></tr><tr><td><a href=\"https://securityaffairs.com/174798/social-networks/meta-fired-20-employees-for-leaking-information.html\">Meta fired 20 employees for leaking information, more firings expected</a></td></tr></tbody></table></figure>\n\n\n\n<p><a><strong>International Press \u2013 Newsletter</strong></a></p>\n\n\n\n<p><strong>Cybercrime<a></a></strong></p>\n\n\n\n<p><a href=\"https://www.trmlabs.com/post/u-s-authorities-seize-31-million-in-uranium-finance-exploits-investigation\">U.S. Authorities Seize $31 Million Related to Uranium Finance Hack</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.investopedia.com/financial-edge/0112/3-ways-cyber-crime-impacts-business.aspx\">10 Ways Cybercrime Impacts Business</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.splunk.com/en_us/blog/security/infostealer-campaign-against-isps.html\">Infostealer Campaign against ISPs</a></p>\n\n\n\n<p><a href=\"https://www.justice.gov/usao-ma/pr/nigerian-man-extradited-united-states-face-computer-intrusion-and-theft-charges\">Nigerian Man Extradited to the United States to Face Computer Intrusion and Theft Charges</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2025/03/06/russian-crypto-exchange-garantex-seized-by-law-enforcement-operation/\">Russian crypto exchange Garantex seized by law enforcement operation</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.justice.gov/opa/pr/employee-multinational-dvd-company-charged-stealing-selling-pre-release-commercial-dvds\">Employee at Multinational DVD Company Charged with Stealing, Selling Pre-Release Commercial DVDs for Blockbuster Films</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/\">Data breach at Japanese telecom giant NTT hits 18,000 companies</a></p>\n\n\n\n<p><a href=\"https://www.greynoise.io/blog/new-ddos-botnet-discovered\">New DDoS Botnet Discovered: Over 30,000 Hacked Devices, Majority of Observed Activity Traced to Iran</a></p>\n\n\n\n<p><strong>Malware</strong></p>\n\n\n\n<p><a href=\"https://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/\">Cellebrite zero-day exploit used to target phone of Serbian student activist</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://unit42.paloaltonetworks.com/malware-obfuscation-techniques/\">Uncovering .NET Malware Obfuscated by Encryption and Virtualization</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.trendmicro.com/en_us/research/25/b/black-basta-cactus-ransomware-backconnect.html\">Black Basta and Cactus Ransomware Groups Add BackConnect Malware to Their Arsenal</a></p>\n\n\n\n<p><a href=\"https://www.group-ib.com/blog/fingerprint-heists/\">Fingerprint Heists: How your browser fingerprint can be stolen and used by fraudsters</a></p>\n\n\n\n<p><a href=\"https://thehackernews.com/2025/03/medusa-ransomware-hits-40-victims-in.html\">Medusa Ransomware Hits 40+ Victims in 2025, Demands $100K\u2013$15M Ransom</a></p>\n\n\n\n<p><strong>Hacking</strong></p>\n\n\n\n<p><a href=\"https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2\">Havoc: SharePoint with Microsoft Graph API turns into FUD C2</a>&nbsp;</p>\n\n\n\n<p><a href=\"https://www.linkedin.com/pulse/jailbreaking-jailbreak-luca-sambucci-fffdf/\">Jailbreaking to Jailbreak</a>&nbsp;&nbsp; <a href=\"https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html\"></a></p>\n\n\n\n<p><a href=\"https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html\">VMware Security Flaws Exploited in the Wild\u2014Broadcom Releases Urgent Patches</a></p>\n\n\n\n<p><a href=\"https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack\">Thousands of websites hit by four backdoors in 3rd party JavaScript attack</a></p>\n\n\n\n<p><a href=\"https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam\">Camera off: Akira deploys ransomware via webcam</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.msn.com/en-us/news/us/flights-to-dc-airport-receive-false-collision-alerts-while-landing/ar-AA1AaDvM\">Flights to D.C. airport received false collision alerts while landing</a></p>\n\n\n\n<p><a href=\"https://www.infostealers.com/article/ais-role-in-turning-massive-data-leaks-into-hacker-paydays-a-look-at-the-orange-breach/\">AI\u2019s Role in Turning Massive Data Leaks into Hacker Paydays: A Look at the Orange Breach</a>&nbsp; &nbsp;&nbsp;</p>\n\n\n\n<p><strong>Intelligence and Information Warfare</strong></p>\n\n\n\n<p><a href=\"https://www.securityweek.com/cisa-no-change-on-defending-against-russian-cyber-threats/\">CISA: No Change on Defending Against Russian Cyber Threats</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.proofpoint.com/us/blog/threat-insight/call-it-what-you-want-threat-actor-delivers-highly-targeted-multistage-polyglot\">Call It What You Want: Threat Actor Delivers Highly Targeted Multistage Polyglot Malware</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.theregister.com/2025/03/03/polish_space_agency_confirms_cyberattack/\">Polish space agency confirms cyberattack</a></p>\n\n\n\n<p><a href=\"https://www.microsoft.com/en-us/security/blog/2025/03/05/silk-typhoon-targeting-it-supply-chain/\">Silk Typhoon targeting IT supply chain</a></p>\n\n\n\n<p><a href=\"https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/the-evolution-of-dark-caracal-tools-analysis-of-a-campaign-featuring-poco-rat\">The evolution of Dark Caracal tools: analysis of a campaign featuring Poco RAT</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://blog.talosintelligence.com/lotus-blossom-espionage-group/\">Lotus Blossom espionage group targets multiple industries with different versions of Sagerunex and hacking tools</a>&nbsp;</p>\n\n\n\n<p><a href=\"https://www.justice.gov/usao-sdny/pr/10-chinese-nationals-charged-large-scale-hacking-us-and-international-victims-behalf\">10 Chinese Nationals Charged With Large-Scale Hacking Of U.S. And International Victims On Behalf Of The Chinese Government</a>&nbsp; &nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.rollingstone.com/politics/politics-features/doge-staffer-corcos-wife-ties-russian-oligarch-1235291673/\">New DOGE Staffer Has Ties to a Sanctioned Russian Oligarch</a>&nbsp;&nbsp; &nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2025/03/05/cia-director-says-us-has-paused-sharing-intelligence-with-ukraine/\">CIA director says US has paused sharing intelligence with Ukraine</a>&nbsp;&nbsp;</p>\n\n\n\n<p><strong>Cybersecurity</strong></p>\n\n\n\n<p><a href=\"https://techcrunch.com/2025/02/28/the-biggest-data-breaches-of-2025-so-far/\">The biggest data breaches of 2025 \u2014 so far</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/02/investigations-announced-into-how-social-media-and-video-sharing-platforms-use-uk-children-s-personal-information/\">Investigations announced into how social media and video sharing platforms use UK children\u2019s personal information</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://aibaranov.github.io/kaspersky/\">\u201cBad Romance\u201d: How Kaspersky Lab Failed to Conquer the Western Cybersecurity Market</a></p>\n\n\n\n<p><a href=\"https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/\">Google Patches Pair of Exploited Vulnerabilities in Android</a>&nbsp;&nbsp; <a href=\"https://www.securityweek.com/organizations-still-not-patching-ot-due-to-disruption-concerns-survey/\"></a></p>\n\n\n\n<p><a href=\"https://www.securityweek.com/organizations-still-not-patching-ot-due-to-disruption-concerns-survey/\">Organizations Still Not Patching OT Due to Disruption Concerns: Survey</a></p>\n\n\n\n<p><a href=\"https://security.googleblog.com/2025/03/new-ai-powered-scam-detection-features.html\">New AI-Powered Scam Detection Features to Help Protect You on Android</a></p>\n\n\n\n<p><a href=\"https://krebsonsecurity.com/2025/03/who-is-the-doge-and-x-technician-branden-spikes/\">Who is the DOGE and X Technician Branden Spikes?</a>&nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://cosmosmagazine.com/technology/computing/quantum-computer-encryption-security/\">Quantum computers threaten to break online security in minutes, expert warns</a>&nbsp; &nbsp;&nbsp;</p>\n\n\n\n<p><a href=\"https://www.enisa.europa.eu/publications/enisa-nis360-2024\">ENISA NIS360 2024</a>&nbsp;</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2025/03/05/catalan-court-says-nso-group-executives-can-be-charged-in-spyware-investigation/\">Catalan court says NSO Group executives can be charged in spyware investigation</a>&nbsp;&nbsp;</p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0newsletter)</strong></p>\n\n\n\n<p></p>"
+                }
+            ],
+            "post-id": "175115"
+        },
+        {
+            "title": "Akira ransomware gang used an unsecured webcam to bypass EDR",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Akira ransomware gang used an unsecured webcam to bypass EDR"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175103/cyber-crime/akira-ransomware-gang-used-unsecured-webcam-bypass-edr.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175103/cyber-crime/akira-ransomware-gang-used-unsecured-webcam-bypass-edr.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sat, 08 Mar 2025 21:42:20 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                21,
+                42,
+                20,
+                5,
+                67,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cybercrime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "EDR",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175103",
+            "guidislink": false,
+            "summary": "The Akira ransomware gang exploited an unsecured webcam to bypass EDR and launch encryption attacks on a victim&#8217;s network. Cybersecurity researchers at S-RM team discovered a novel attack technique used by the Akira ransomware gang. The ransomware group used an unsecured webcam to encrypt systems within a\u00a0target&#8217;s network, bypassing Endpoint Detection and Response (EDR). The [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "The Akira ransomware gang exploited an unsecured webcam to bypass EDR and launch encryption attacks on a victim&#8217;s network. Cybersecurity researchers at S-RM team discovered a novel attack technique used by the Akira ransomware gang. The ransomware group used an unsecured webcam to encrypt systems within a\u00a0target&#8217;s network, bypassing Endpoint Detection and Response (EDR). The [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">The Akira ransomware gang exploited an unsecured webcam to bypass EDR and launch encryption attacks on a victim&#8217;s network.</h2>\n\n\n\n<p>Cybersecurity researchers at S-RM team discovered a novel attack technique used by the Akira ransomware gang. The ransomware group used an unsecured webcam to encrypt systems within a\u00a0target&#8217;s network, bypassing Endpoint Detection and Response (EDR).</p>\n\n\n\n<p>The researchers observed that the <a href=\"https://securityaffairs.com/150157/cyber-crime/cisco-asa-ransomware-attacks.html\">Akira ransomware</a> was initially blocked by the EDR installed on the victim&#8217;s systems, which identified and quarantined the ransomware binary, preventing its deployment across the victim&#8217;s network.</p>\n\n\n\n<p>The Akira ransomware group gained access to the network via a remote access tool, using AnyDesk for persistence and exfiltrating data. The attacker then moved via RDP to a server and attempted to deploy ransomware as a password-protected zip file, but the victim\u2019s EDR tool blocked it. Realizing EDR was active, they pivoted by scanning the network for vulnerable devices. They found unsecured IoT devices, including webcams and a fingerprint scanner, using them to bypass security defenses and successfully deploy the ransomware.</p>\n\n\n\n<p>The attacker exploited a webcam affected by critical vulnerabilities, including remote shell access and no EDR protection. The IoT device was running a lightweight Linux OS, that was the perfect target for Akira\u2019s Linux ransomware variant. The lack of monitoring allowed the attacker to deploy ransomware, unnoticed by the victim\u2019s security team, who failed to detect suspicious SMB traffic. Akira successfully encrypted files across the network.</p>\n\n\n\n<p><em>&#8220;After identifying the webcam as a suitable target, the threat actor began deploying their Linux-based ransomware with little delay. As the device was not being monitored, the victim organisation&#8217;s security team were unaware of the increase in malicious Server Message Block (SMB) traffic from the webcam to the impacted server, which otherwise may have alerted them.<a href=\"https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam#_ftn1\">[1]</a>\u00a0Akira was subsequently able to encrypt files across the victim\u2019s network.&#8221; reads the <a href=\"https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam\"><strong>report</strong></a> published by the S-RM team.</em></p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-12.png?ssl=1\"><img alt=\"akira ransomware edr bypass\" class=\"wp-image-175107\" height=\"605\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-12.png?resize=1024%2C605&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<p>The Akira ransomware attack reveals the risks of overlooked IoT devices, evolving cyber threats, and EDR limitations. Weak links like unpatched IoT devices can be exploited, as seen with Akira\u2019s shift from Rust to C++ for broader attacks. Despite EDR\u2019s importance, gaps in coverage or misconfigurations allow attackers to bypass defenses, emphasizing the need for comprehensive security strategies.</p>\n\n\n\n<p>&#8220;Preventing and remediating novel attacks like this one can be challenging. At a minimum, organisations should monitor network traffic from their IoT devices and detect anomalies.&#8221; concludes the report. &#8220;They should also consider adopting the following security practices:</p>\n\n\n\n<p><strong>Turn devices off:\u00a0</strong>Keep IoT devices switched off when they are not in use.&#8221;</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Network restriction or segmentation:\u00a0</strong>Place IoT devices on a segmented network that cannot be accessed from servers or user workstations or restrict the devices\u2019 communication with specific ports and IP addresses.</li>\n\n\n\n<li><strong>Internal network audit:\u00a0</strong>Regularly audit devices connected to the internal network, which may help to identify security weaknesses or rogue devices implemented by a threat actor.</li>\n\n\n\n<li><strong>Patch and device management:\u00a0</strong>Keep devices, including IoT devices, regularly patched with the most recent update. Ensure default passwords of IoT devices are changed to unique and complex ones.&#8221;</li>\n</ul>\n\n\n\n<p>The\u00a0<a href=\"https://securityaffairs.com/148007/cyber-crime/akira-ransomware-decryptor.html\">Akira ransomware</a>\u00a0has been active since March 2023, the threat actors behind the malware claim to have already hacked multiple organizations in multiple industries, including education, finance, and real estate. Like other ransomware gangs, the group has\u00a0developed a Linux encryptor\u00a0to target VMware ESXi servers.</p>\n\n\n\n<p>Follow me on Twitter:\u00a0<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>\u00a0and\u00a0<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>\u00a0and\u00a0<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0Akira ransomware)</strong></p>"
+                }
+            ],
+            "post-id": "175103"
+        },
+        {
+            "title": "Japanese telecom giant NTT suffered a data breach that impacted 18,000 companies",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Japanese telecom giant NTT suffered a data breach that impacted 18,000 companies"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175090/data-breach/japanese-telecom-giant-ntt-data-breach.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175090/data-breach/japanese-telecom-giant-ntt-data-breach.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Sat, 08 Mar 2025 17:11:00 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                8,
+                17,
+                11,
+                0,
+                5,
+                67,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Data Breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "data breach",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "NTT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175090",
+            "guidislink": false,
+            "summary": "A data breach suffered by the Japanese telecom giant NTT exposed information of nearly 18,000 corporate customers. Japanese telecom giant NTT suffered a data breach that exposed information of nearly 18,000 corporate customers. On February 5th, the security team detected suspicious activity in its &#8216;Order Information Distribution System,&#8217; and immediately restricted access to device A. [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "A data breach suffered by the Japanese telecom giant NTT exposed information of nearly 18,000 corporate customers. Japanese telecom giant NTT suffered a data breach that exposed information of nearly 18,000 corporate customers. On February 5th, the security team detected suspicious activity in its &#8216;Order Information Distribution System,&#8217; and immediately restricted access to device A. [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">A data breach suffered by the Japanese telecom giant NTT exposed information of nearly 18,000 corporate customers.</h2>\n\n\n\n<p>Japanese telecom giant NTT suffered a data breach that exposed information of nearly 18,000 corporate customers.</p>\n\n\n\n<p>On February 5th, the security team detected suspicious activity in its &#8216;Order Information Distribution System,&#8217; and immediately restricted access to device A.</p>\n\n\n\n<p><em>&#8220;NTT Communications Corporation (NTT Com) discovered that its facilities had been illegally accessed on February 5, and confirmed on February 6 that some information may have been leaked (hereinafter referred to as the &#8220;Incident&#8221;).&#8221; reads the <a href=\"https://www.ntt.com/about-us/press-releases/news/article/2025/0305_2.html\">data breach notification</a> published by the company. &#8220;As a result of our internal investigation, we have discovered that some of the information about services for corporate customers stored in our internal system, the Order Information Distribution System *1 , may have been leaked to the outside. Please note that information about services for individual customers was not included.&#8221;</em></p>\n\n\n\n<p>The company detected suspicious activity on February 5th, then it restricted access to its systems and launched an investigation that led to the discovery of a data leakage. Further investigation revealed unauthorized access on February 15th, leading to the blocking of another device.</p>\n\n\n\n<p>The investigation revealed that the incident exposed the data of 17,891 companies. The company announced that it will notify affected customers.</p>\n\n\n\n<p>Potentially exposed information includes contract number, customer name (contract name), name of customer contact, telephone number, email address, address, information related to service use.</p>\n\n\n\n<p>The incident did not expose contracts for corporate smartphones and mobile phones provided directly by NTT Docomo.</p>\n\n\n\n<p>The company announced it will enhance security measures, improve service quality, and promptly disclose updates while maintaining customer confidentiality.</p>\n\n\n\n<p>In May 2020, NTT Communications (NTT Com) <a href=\"https://securityaffairs.com/104010/breaking-news/ntt-com-security-breach.html\">disclosed</a> a data breach that impacted hundreds of customers. </p>\n\n\n\n<p>The company launched an investigation after discovering unauthorized access to some systems on May 7, 2020, and then this week, it confirmed that threat actors may have been stolen.</p>\n\n\n\n<p><em>\u201cNTT Communications (hereafter NTT Com) detected an unauthorized access to our equipment that has been made by an attacker on May 7, and the possibility that some information may have leaked to the outside was confirmed on May 11.\u201d\u00a0<a href=\"https://www.ntt.com/about-us/press-releases/news/article/2020/0528.html\">reads</a>\u00a0the data breach notification.</em></p>\n\n\n\n<p>Experts at NTT Com initially noticed suspicious activity on an Active Directory server, then they discovered that threat actors have breached an operational server and an information management server that stored customer information. The internal investigation revealed that attackers initially targeted a server in Singapore, then used it for lateral movements and reached the infrastructure in Japan.</p>\n\n\n\n<p>In response to the incident, the company shut down impacted servers to prevent the malware from spreading and communicating with external servers.</p>\n\n\n\n<p>According to NTT, the security breach could impact 621 companies whose information was stored on the information management server.</p>\n\n\n\n<p>The company announced that it has taken additional measures to prevent similar attacks in the future.</p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi\u00a0Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0data breach)</strong></p>\n\n\n\n<p></p>\n\n\n\n<p></p>"
+                }
+            ],
+            "post-id": "175090"
+        },
+        {
+            "title": "Mirai-based botnets exploit CVE-2025-1316 zero-day in Edimax IP cameras",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Mirai-based botnets exploit CVE-2025-1316 zero-day in Edimax IP cameras"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175060/hacking/mirai-based-botnets-exploit-cve-2025-1316-zero-day-in-edimax-ip-cameras.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175060/hacking/mirai-based-botnets-exploit-cve-2025-1316-zero-day-in-edimax-ip-cameras.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 07 Mar 2025 19:18:53 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                19,
+                18,
+                53,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "botnet",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "CISA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Edimax IC-7100 IP",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mirai",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175060",
+            "guidislink": false,
+            "summary": "Mirai-based botnets are exploiting a zero-day flaw, tracked as CVE-2025-1316, in Edimax IP cameras, to achieve remote command execution. US CISA warns that multiple botnets are exploiting a recently disclosed vulnerability, tracked as CVE-2025-1316 (CVSS score of 9.8), in Edimax IC-7100 IP cameras. The issue is an Improper Neutralization of Special Elements used in an [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Mirai-based botnets are exploiting a zero-day flaw, tracked as CVE-2025-1316, in Edimax IP cameras, to achieve remote command execution. US CISA warns that multiple botnets are exploiting a recently disclosed vulnerability, tracked as CVE-2025-1316 (CVSS score of 9.8), in Edimax IC-7100 IP cameras. The issue is an Improper Neutralization of Special Elements used in an [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">Mirai-based botnets are exploiting a zero-day flaw, tracked as CVE-2025-1316, in Edimax IP cameras, to achieve remote command execution.</h2>\n\n\n\n<p>US CISA warns that multiple botnets are exploiting a recently disclosed vulnerability, tracked as <a href=\"https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-08\" rel=\"noreferrer noopener\" target=\"_blank\">CVE-2025-1316</a> (CVSS score of 9.8), in Edimax IC-7100 IP cameras.</p>\n\n\n\n<p>The issue is an <a href=\"https://cwe.mitre.org/data/definitions/78.html\" rel=\"noreferrer noopener\" target=\"_blank\">Improper Neutralization of Special Elements used in an OS Command (&#8216;OS Command Injection&#8217;</a>.</p>\n\n\n\n<p>Edimax IC-7100 fails to properly sanitize requests, an attacker can create specially crafted requests to achieve remote code execution on the device. Report suspected malicious activity to CISA for tracking and correlation with other incidents.</p>\n\n\n\n<p><em>&#8220;Successful exploitation of this vulnerability could allow an attacker to send specially crafted requests to achieve remote code execution on the device.&#8221; reads the <a href=\"https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-08\">advisory</a> published by CISA.</em> <em>&#8220;Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.&#8221;</em></p>\n\n\n\n<p>The flaw impacts all C-7100 IP Camera versions and has yet to address the vulnerability because these cameras are end-of-life products.</p>\n\n\n\n<p>The advisory doesn&#8217;t confirm exploitation of the flaw in the wild, however, the USE agency urges organizations to report suspected malicious activity for tracking and correlation.</p>\n\n\n\n<p>Akamai researchers discovered the vulnerability, and the cyber security firm confirmed ([<a href=\"https://www.securityweek.com/edimax-camera-zero-day-disclosed-by-cisa-exploited-by-botnets/\">1</a>],[<a href=\"https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/\">2</a>]) that the flaw is actively exploited in the wild. </p>\n\n\n\n<p>The experts observed multiple <a href=\"https://securityaffairs.com/50929/malware/linux-mirai-elf.html\">Mirai</a>-based botnets that are currently exploiting multiple flaws, including  Edimax IC-7100 IP cameras.</p>\n\n\n\n<p>Threat actors exploit remote command execution to run a shell script that downloads a Mirai malware payload from a remote server.</p>\n\n\n\n<p>The vendor, notified in Oct 2024, has been unresponsive to CISA and Akamai. Akamai warns that the vulnerability may affect supported ones.</p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0US CISA)</strong></p>\n\n\n\n<p></p>"
+                }
+            ],
+            "post-id": "175060"
+        },
+        {
+            "title": "The Role of Differential Privacy in Protecting Sensitive Information in the Era of Artificial Intelligence",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "The Role of Differential Privacy in Protecting Sensitive Information in the Era of Artificial Intelligence"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175061/security/differential-privacy-in-protecting-sensitive-information-in-the-era-of-artificial-intelligence.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175061/security/differential-privacy-in-protecting-sensitive-information-in-the-era-of-artificial-intelligence.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 07 Mar 2025 15:00:38 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                15,
+                0,
+                38,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Artificial Intelligence",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Privacy Act",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175061",
+            "guidislink": false,
+            "summary": "Differential privacy (DP) protects data by adding noise to queries, preventing re-identification while maintaining utility, addressing Artificial Intelligence -era privacy challenges. In the era of Artificial Intelligence, confidentiality and security are becoming significant challenges. Traditional anonymization techniques, such as pseudonymization and k-anonymity, have proven inadequate against sophisticated re-identification attacks. A robust privacy-preserving mechanism called differential [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "Differential privacy (DP) protects data by adding noise to queries, preventing re-identification while maintaining utility, addressing Artificial Intelligence -era privacy challenges. In the era of Artificial Intelligence, confidentiality and security are becoming significant challenges. Traditional anonymization techniques, such as pseudonymization and k-anonymity, have proven inadequate against sophisticated re-identification attacks. A robust privacy-preserving mechanism called differential [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">Differential privacy (DP) protects data by adding noise to queries, preventing re-identification while maintaining utility, addressing Artificial Intelligence -era privacy challenges.</h2>\n\n\n\n<p>In the era of Artificial Intelligence, confidentiality and security are becoming significant challenges. Traditional anonymization techniques, such as pseudonymization and k-anonymity, have proven inadequate against sophisticated re-identification attacks. A robust privacy-preserving mechanism called differential privacy (DP) introduces mathematically guaranteed noise to dataset queries while maintaining statistical utility. This article uses differential privacy in healthcare, finance, and government data analytics to explore the mathematical foundation, implementation strategies, and real-world applications of differential privacy. A comparative analysis with other privacy techniques demonstrates differential privacy&#8217;s superior protection. Rising privacy concerns with Artificial Intelligence have paved the way for secure, ethical, and efficient data analysis. Using AI, organizations increasingly rely on data analytics to extract context from vast amounts of information. Concerns over privacy breaches require robust mechanisms to safeguard sensitive user data. Traditional methods of anonymizing data, such as masking and pseudonymization, have been proven inadequate in preventing re-identification attacks. Data privacy has been enhanced by differential privacy (DP), which preserves analytical utility while protecting data privacy. Differential privacy ensures that statistical queries performed on a dataset do not compromise individual privacy, even when an adversary possesses auxiliary knowledge.</p>\n\n\n\n<p>A cornerstone in privacy-preserving data analytics introduced the concept of differential privacy, its mathematical basis, and how adding noise ensures privacy. <a href=\"https://link.springer.com/referenceworkentry/10.1007/978-1-4419-5906-5_752\">Cynthia Dwork (2006)</a> introduced the fundamental idea, established its mathematical basis, and illustrated how privacy guarantees can be attained by adding numerical work. <a href=\"https://link.springer.com/referenceworkentry/10.1007/978-1-4419-5906-5_752\">Cynthia Dwork (2006)</a> introduced the concept of differential privacy, establishing its mathematical foundation and demonstrating how adding noise can achieve privacy guarantees. Their research remains a cornerstone in the field of privacy-preserving data analytics. Their work continues to be a cornerstone in privacy-preserving data analytics.</p>\n\n\n\n<p>More recent research has focused on applying differential privacy in various domains. According to <a href=\"https://dl.acm.org/doi/10.1145/2660267.2660348\">Erlingsson (2014),</a> Google&#8217;s RAPPOR system collects user data while maintaining anonymity. Similarly, <a href=\"https://ecommons.cornell.edu/items/34684ca6-7ae0-4875-bdac-bcf03674158c\">Abowd(2018)</a> examined its integration with a census data collection framework, ensuring confidentiality. Despite its advantages, challenges like keeping data utility and optimizing privacy budgets persist.</p>\n\n\n\n<p><strong>Key Concepts of Differential Privacy</strong></p>\n\n\n\n<p><strong><em>Definition and Mathematical Foundation</em></strong></p>\n\n\n\n<p>Differential privacy is mathematically defined using the (\u03b5, \u03b4)-differential privacy model, where \u03b5 (epsilon) controls privacy loss and \u03b4 (delta) represents the probability of breaking privacy. A mechanism M satisfies \u03b5-differential privacy if:</p>\n\n\n\n<p>\ud835\udc43[\ud835\udc40(\ud835\udc37) \u2208 S] \u2264 \ud835\udc52<sup>\u2208</sup> \u2219 \ud835\udc43[\ud835\udc40(\ud835\udc37<sup>\u2032</sup>) \u2208 S</p>\n\n\n\n<p>For any two datasets, D and D differ by a single record. As a result, an individual&#8217;s data does not significantly affect query results.</p>\n\n\n\n<p><strong><em>Noise Addition Mechanisms</em></strong></p>\n\n\n\n<p>Several techniques implement differential privacy by adding calibrated noise:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Laplace Mechanism: Uses Laplace distribution noise for numerical queries.</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Gaussian Mechanism: Enhances privacy using Gaussian noise in specified settings</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Exponential Mechanism: It selects optimal outputs with differential privacy guarantees for non-numeric data.</li>\n</ul>\n\n\n\n<p><strong>Application of Differential Privacy in AI</strong></p>\n\n\n\n<p><strong><em>Differential Privacy in Healthcare AI</em></strong></p>\n\n\n\n<p>Healthcare institutions process sensitive patient data, making electronic health records (EHRs) private to enable statistical research while safeguarding patient confidentiality. Studies have shown that using the Laplace mechanism in medical datasets can prevent data leakage without significantly distorting analysis results.</p>\n\n\n\n<p><em><strong>Differential privacy in Finance AI</strong></em></p>\n\n\n\n<p>Financial institutions use AI-driven data for fraud detection, segmentation, and risk assessment. Differential privacy can protect individual records from unauthorized access. For instance, banks that implement differential privacy in customer transaction datasets ensure that no single transaction can be traced back to an individual, thereby reducing risks associated with financial breaches.</p>\n\n\n\n<p><strong>Comparison of Differential Privacy with Other Privacy Techniques</strong></p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td><strong>Privacy Method</strong></td><td><strong>Definition</strong></td><td><strong>Strengths</strong></td><td><strong>Weaknesses</strong></td></tr><tr><td><strong>Pseudonymization</strong></td><td>Replacing identifiers with fake values</td><td>Simple, widely used</td><td>Vulnerable to re-identification</td></tr><tr><td><strong>k-Anonymity</strong></td><td>Generalizing data to hide individuals</td><td>Effective for structured datasets</td><td>Fails under linkage attacks</td></tr><tr><td><strong>Differential Privacy</strong></td><td>Adding statistical noise to queries</td><td>Strong privacy guarantees</td><td>High noise levels reduce utility</td></tr></tbody></table></figure>\n\n\n\n<p>According to the table above, differential privacy offers better privacy guarantees than pseudonymization and k-anonymity.</p>\n\n\n\n<p><strong>Challenges and Future Directions</strong></p>\n\n\n\n<p>Despite differential privacy&#8217;s power to protect sensitive data, it faces several challenges that make it difficult for it to be widely adopted. One of the primary difficulties is determining an optimal privacy budget (\u03b5). The \u03b5 value controls the trade-off between privacy and data utility, but selecting an appropriate value remains complex. Noise addition also diminishes data utility. Because of differential privacy, individual data points cannot be precisely identified.</p>\n\n\n\n<p>Research and potential improvements are emerging. Future advancements in privacy-preserving machine learning and adaptive differential privacy models are expected further to enhance the security and effectiveness of big data analytics. Differential privacy is rapidly advancing, with differentially private federated learning already implemented by Google and Apple.</p>\n\n\n\n<p><strong>Conclusion</strong></p>\n\n\n\n<p>Individual records are indistinguishable, and controlled noise is used to prevent privacy breaches. Data protection in healthcare, finance, and government requires differential privacy rather than pseudonymization.</p>\n\n\n\n<p>Data privacy-utility trade-offs, determining an optimal privacy budget, and developing noise mechanisms remain key challenges. Research on adaptive noise mechanisms and federated learning makes differential privacy more efficient and practical. As AI privacy concerns grow, differential privacy will be crucial to ensuring secure and ethical data analytics. Research and technological advancements will help refine differential privacy techniques to use AI to balance data security and analytical effectiveness.</p>\n\n\n\n<p><strong>About the author: Arfi Siddik Mollashaik, Solution Architect at Securiti.ai, USA</strong></p>\n\n\n\n<p>Arfi Siddik Mollashaik is a Solution Architect at Securiti.ai, USA, a leading enterprise data security, privacy, and compliance firm. The firm specializes in implementing data classification, discovery, privacy, and data subject rights and protection software for organizations worldwide. Having worked with many Fortune 500 companies, he has vast experience enhancing the data protection and privacy programs of healthcare, banking, and financial companies. He can be reached at <a href=\"mailto:siddik.mtech@gmail.com\">siddik.mtech@gmail.com</a>.</p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>privacy,\u00a0<a href=\"https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html\">artificial intelligence</a>)</strong></p>"
+                }
+            ],
+            "post-id": "175061"
+        },
+        {
+            "title": "International law enforcement operation seized the domain of the Russian crypto exchange Garantex",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "International law enforcement operation seized the domain of the Russian crypto exchange Garantex"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securityaffairs.com/175049/cyber-crime/international-law-enforcement-operation-seized-the-domain-of-the-russian-crypto-exchange-garantex.html"
+                }
+            ],
+            "link": "https://securityaffairs.com/175049/cyber-crime/international-law-enforcement-operation-seized-the-domain-of-the-russian-crypto-exchange-garantex.html",
+            "authors": [
+                {
+                    "name": "Pierluigi Paganini"
+                }
+            ],
+            "author": "Pierluigi Paganini",
+            "author_detail": {
+                "name": "Pierluigi Paganini"
+            },
+            "published": "Fri, 07 Mar 2025 10:18:04 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                7,
+                10,
+                18,
+                4,
+                4,
+                66,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Breaking News",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyber Crime",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Laws and regulations",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Garantex",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Hacking",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "hacking news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "information security news",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "IT Information Security",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Pierluigi Paganini",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security Affairs",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Security News",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://securityaffairs.com/?p=175049",
+            "guidislink": false,
+            "summary": "The U.S. Secret Service and global law enforcement seized the domain of sanctioned Russian crypto exchange Garantex. An international law enforcement operation led by U.S. Secret Service seized the website (&#8220;garantex[.]org&#8221;) of the sanctioned Russian crypto exchange Garantex. In April 2022, the US Treasury Department sanctioned the virtual currency exchange. Garantex\u00a0has been active since 2019, [&#8230;]",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securityaffairs.com/feed",
+                "value": "The U.S. Secret Service and global law enforcement seized the domain of sanctioned Russian crypto exchange Garantex. An international law enforcement operation led by U.S. Secret Service seized the website (&#8220;garantex[.]org&#8221;) of the sanctioned Russian crypto exchange Garantex. In April 2022, the US Treasury Department sanctioned the virtual currency exchange. Garantex\u00a0has been active since 2019, [&#8230;]"
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securityaffairs.com/feed",
+                    "value": "<div class=\"sharethis-inline-share-buttons\" style=\"margin-top: 0px; margin-bottom: 0px;\"></div>\n<h2 class=\"wp-block-heading\">The U.S. Secret Service and global law enforcement seized the domain of sanctioned Russian crypto exchange Garantex.</h2>\n\n\n\n<p>An international law enforcement operation led by U.S. Secret Service seized the website (&#8220;garantex[.]org&#8221;) of the sanctioned Russian crypto exchange <a href=\"https://securityaffairs.com/129880/cyber-crime/us-treasury-sanctioned-hydra-market.html\">Garantex</a>.</p>\n\n\n\n<p>In April 2022, the US Treasury Department sanctioned the virtual currency exchange. Garantex<strong>\u00a0</strong>has been active since 2019, the service allowed customers to buy and sell virtual currencies using fiat currencies. Most of Garantex\u2019s operations are carried out in Moscow, including at Federation Tower, and St. Petersburg, Russia, where other sanctioned virtual currency exchanges have also operated.</p>\n\n\n\n<p>The analysis of the transactions conducted through Garantex revealed that over $100 million in transactions were associated with illicit activities, including darknet markets. Nearly $6 million are associated with operations of the RaaS gang Conti and approximately $2.6 million from <a href=\"https://securityaffairs.com/129866/cyber-crime/german-police-shut-down-hydra-market.html\">Hydra Market</a>.</p>\n\n\n\n<p>At the time, Garantex was the third virtual currency exchange to be blocklisted by the U.S. after\u00a0SUEX\u00a0and\u00a0CHATEX.</p>\n\n\n\n<p><em>&#8220;The domain for Garantex has been seized by the United States Secret Service pursuant to a seizure warrant obtained by the United States Attorney&#8217;s Office for the Eastern District of Virginia under the authority of 18 U.S.C. \u00a7\u00a7 981 and 982,&#8221; reads a banner published on the seized website by the authorities.</em></p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-10.png?ssl=1\"><img alt=\"\" class=\"wp-image-175052\" height=\"529\" src=\"https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/03/image-10.png?resize=1024%2C529&#038;ssl=1\" width=\"1024\" /></a></figure>\n\n\n\n<p>The operation involved the U.S. DOJ, FBI, Europol, and law enforcement from Germany, the Netherlands, Finland, and Estonia.</p>\n\n\n\n<p>Below is the <a href=\"https://t.me/Garantex_Announcements/342\">message</a> published by the Russian exchange on Telegram:</p>\n\n\n\n<p>&#8220;<strong>Dear users!</strong></p>\n\n\n\n<p><strong><em>We have bad news.<br />Tether has declared war on the Russian crypto market and has blocked our wallets containing over 2.5 billion rubles.</em></strong></p>\n\n\n\n<p><em><strong>We are temporarily suspending all services, including cryptocurrency withdrawals, while our team works to resolve this issue.<br />We are fighting and will not give up!</strong></em></p>\n\n\n\n<p><em>Please note that all USDT held in Russian wallets is now at risk.<br />As always, we are the first, but not the last.</em></p>\n\n\n\n<p><strong>The Garantex Team</strong>&#8220;</p>\n\n\n\n<p>In February, the EU announced <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500389\">sanctions</a> on Garantex for ties to sanctioned Russian banks (Sberbank, T-Bank, and Alfa-Bank), leading Tether to block its wallets.</p>\n\n\n\n<p><em>&#8220;For the first time, the Council also decided to sanction, a crypto-currency exchange based in Russia,\u00a0<strong>Garantex</strong>,\u00a0which is closely associated with EU-sanctioned Russian banks.&#8221; read the <a href=\"https://www.consilium.europa.eu/en/press/press-releases/2025/02/24/16th-package-of-sanctions-on-russia-s-war-of-aggression-against-ukraine-eu-lists-additional-48-individuals-and-35-entities/\">press release</a> published by the Council of the EU.<br /></em></p>\n\n\n\n<p>Follow me on Twitter:&nbsp;<a href=\"https://twitter.com/securityaffairs\"><strong>@securityaffairs</strong></a>&nbsp;and&nbsp;<a href=\"https://www.facebook.com/sec.affairs\"><strong>Facebook</strong></a>&nbsp;and&nbsp;<a href=\"https://infosec.exchange/@securityaffairs\"><strong>Mastodon</strong></a></p>\n\n\n\n<p><a href=\"http://www.linkedin.com/pub/pierluigi-paganini/b/742/559\"><strong>Pierluigi&nbsp;Paganini</strong></a></p>\n\n\n\n<p><strong>(</strong><a href=\"http://securityaffairs.co/wordpress/\"><strong>SecurityAffairs</strong></a><strong>\u00a0\u2013</strong>\u00a0<strong>hacking,\u00a0cryptocurrenycy)</strong></p>"
+                }
+            ],
+            "post-id": "175049"
         }
     ]
 }

